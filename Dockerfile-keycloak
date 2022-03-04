@@ -1,0 +1,34 @@
+#/*******************************************************************************
+#* Licensed Materials - Property of HCL 
+#* (c) Copyright HCL Technologies Ltd. 2021. All Rights Reserved. 
+#
+#* Note to U.S. Government Users Restricted Rights:
+#* Use, duplication or disclosure restricted by GSA ADP Schedule
+#**************************************************************/
+
+FROM jboss/keycloak:16.1.1
+
+USER 0
+
+RUN microdnf update -y && microdnf install -y glibc-langpack-en gzip hostname java-11-openjdk-headless openssl tar which && microdnf clean all
+
+USER jboss:users
+
+ARG REGISTRY
+ENV REGISTRY ${REGISTRY}
+
+RUN sed -i -e 's/<web-context>auth<\/web-context>/<web-context>keycloak\/auth<\/web-context>/' $JBOSS_HOME/standalone/configuration/standalone.xml
+RUN sed -i -e 's/<web-context>auth<\/web-context>/<web-context>keycloak\/auth<\/web-context>/' $JBOSS_HOME/standalone/configuration/standalone-ha.xml
+
+ADD ./keycloak/aida-realm.json /tmp/aida-realm.json
+ENV KEYCLOAK_IMPORT=/tmp/aida-realm.json
+
+ADD --chown=jboss ./login-theme /opt/jboss/keycloak/themes
+RUN if grep -q "ibm" <<< "$REGISTRY" ; then rm -rf /opt/jboss/keycloak/themes/custom/* && cp -r /opt/jboss/keycloak/themes/IBM/* /opt/jboss/keycloak/themes/custom; fi
+
+RUN rm -rf /opt/jboss/keycloak/themes/IBM
+
+RUN /opt/jboss/keycloak/bin/add-user-keycloak.sh --user aidauser --password user --realm aida --roles aida-user
+RUN /opt/jboss/keycloak/bin/add-user-keycloak.sh --user aidaadmin --password admin --realm aida --roles aida-admin
+
+RUN /opt/jboss/keycloak/bin/add-user-keycloak.sh -u admin -p admin

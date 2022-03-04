@@ -1,0 +1,210 @@
+version: '2.3'
+
+services:
+
+    config:
+        image: cp.icr.io/cp/aida-config:10.1.0.00
+        container_name: aida-config
+        env_file: common.env
+        networks:
+            - aida-net
+        tty: true
+        profiles:
+            - config
+        volumes:
+            - $PWD:/docker-deployment
+
+    keycloak:
+        restart: unless-stopped
+        build:
+            context: .
+            dockerfile: "Dockerfile-keycloak" 
+            args:
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}    
+        container_name: aida-keycloak
+        environment:
+            - KEYCLOAK_USER=admin
+            - PROXY_ADDRESS_FORWARDING=true
+        env_file: common.env
+        networks:
+            - aida-net
+        expose:
+            - "8080"
+        volumes:
+            - aida-keycloak-data:/tmp:Z
+        
+    
+    nginx:
+        build:
+            context: .
+            dockerfile: "Dockerfile-nginx"
+            args:
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
+        container_name: aida-nginx
+        env_file: common.env
+        networks:
+            - aida-net
+        ports:
+            - "9432:9432"
+        links:
+            - ui
+            - ad
+            - email
+            - orchestrator
+            - predictor
+            - redis
+            - keycloak
+        depends_on: 
+            - ui
+            - keycloak
+        restart: unless-stopped
+
+
+    ui:
+        build:
+            context: .
+            dockerfile: "Dockerfile-ui"
+            args:
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
+        container_name: aida-ui
+        env_file: common.env
+        networks:
+            - aida-net
+        expose:
+            - "9000"
+        links:
+            - es
+            - redis
+        depends_on:
+            - es
+            - redis
+        restart: unless-stopped
+        
+
+    ad:
+        build:
+            context: .
+            dockerfile: "Dockerfile-ad"
+            args:
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
+        container_name: aida-ad
+        env_file: common.env
+        networks:
+            - aida-net
+        expose:
+            - "5000"
+        links:
+            - es
+            - redis
+        depends_on: 
+            - es 
+            - redis
+        restart: unless-stopped
+
+    email:
+        build:
+            context: .
+            dockerfile: "Dockerfile-email"
+            args:
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
+        container_name: aida-email
+        env_file: common.env
+        networks:
+            - aida-net
+        expose:
+            - "5000"
+        links:
+            - redis
+        depends_on:
+            - redis
+        restart: unless-stopped
+
+    orchestrator:
+        build:
+            context: .
+            dockerfile: "Dockerfile-orchestrator"
+            args:
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
+        container_name: aida-orchestrator
+        env_file: common.env
+        networks:
+            - aida-net
+        links:
+            - es
+            - redis
+            - predictor
+            - ad
+        depends_on: 
+            - es
+            - redis
+            - predictor
+            - ad
+        restart: unless-stopped
+
+    predictor:
+        build:
+            context: .
+            dockerfile: "Dockerfile-predictor"
+            args:
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
+        container_name: aida-predictor
+        env_file: common.env
+        networks:
+            - aida-net
+        expose:
+            - "5000"
+        links:
+            - es
+            - redis
+        depends_on: 
+            - es
+            - redis
+        restart: unless-stopped
+
+
+    redis:
+        build:
+            context: .
+            dockerfile: "Dockerfile-redis"
+            args:
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
+        container_name: aida-redis
+        env_file: common.env
+        networks:
+            - aida-net
+        expose:
+            - "6379"
+        restart: unless-stopped
+
+    es:
+        build:
+            context: .
+            dockerfile: "Dockerfile-es"
+            args:
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
+        container_name: aida-es
+        env_file: common.env
+        networks:
+            - aida-net
+        expose:
+            - "9200"
+        volumes:
+            - aida-es-data:/usr/share/elasticsearch/data/:Z
+        restart: unless-stopped
+
+# Local volumes cannot be used for deployment in clusters
+volumes:
+    aida-es-data:
+    aida-keycloak-data:
+
+networks:
+    aida-net:

@@ -1,0 +1,17 @@
+#/*******************************************************************************
+#* Licensed Materials - Property of HCL 
+#* (c) Copyright HCL Technologies Ltd. 2021. All Rights Reserved. 
+#
+#* Note to U.S. Government Users Restricted Rights:
+#* Use, duplication or disclosure restricted by GSA ADP Schedule
+#**************************************************************/
+ARG REGISTRY
+ARG VERSION
+FROM ${REGISTRY}/aida-predictor:${VERSION}
+
+EXPOSE 5000
+
+COPY ./redis/redis.key .
+COPY ./redis/ca.pem .
+
+CMD  python -m server.py

@@ -1,0 +1,25 @@
+.centered-card {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.aida-header {
+    color: var(--blue-70);
+    text-align: left !important;
+    font-weight: bold;
+    line-height: unset;
+    margin: unset;
+}
+.aida-title {
+    font-size: 2rem !important;
+    margin-bottom: 1.5rem !important;
+}
+.aida-subtitle {
+    font-size: 1.5rem;
+}
+.aida-button-centered {
+    display: block !important;
+    margin: auto;
+}

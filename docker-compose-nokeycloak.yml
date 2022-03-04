@@ -1,0 +1,239 @@
+version: '3.0'
+
+services:
+
+    config:
+        image: cp.icr.io/cp/aida-config:10.1.0.00
+        logging:
+          options:
+            max-size: "100m"
+            max-file: "3"
+        container_name: aida-config
+        env_file: common.env
+        networks:
+            - aida-net
+        tty: true
+        profiles:
+            - config
+        volumes:
+            - $PWD:/docker-deployment
+    
+    nginx:
+        build:
+            context: .
+            dockerfile: "Dockerfile-nginx"
+            args:
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
+        container_name: aida-nginx
+        logging:
+          options:
+            max-size: "100m"
+            max-file: "3"
+        env_file: common.env
+        networks:
+            - aida-net
+        ports:
+            - "9432:9432"
+        links:
+            - ui
+            - exporter
+            - ad
+            - email
+            - orchestrator
+            - predictor
+            - redis
+        depends_on: 
+            - ui
+        restart: unless-stopped
+
+
+    ui:
+        build:
+            context: .
+            dockerfile: "Dockerfile-ui"
+            args:
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
+        container_name: aida-ui
+        logging:
+          options:
+            max-size: "100m"
+            max-file: "3"
+        env_file: common.env
+        networks:
+            - aida-net
+        expose:
+            - "9000"
+        links:
+            - es
+            - redis
+        depends_on:
+            - es
+            - redis
+        restart: unless-stopped
+        
+
+    exporter:
+        build:
+            context: .
+            dockerfile: "Dockerfile-exporter"
+            args:
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
+        container_name: aida-exporter
+        logging:
+          options:
+            max-size: "100m"
+            max-file: "3"
+        env_file: common.env
+        networks:
+            - aida-net
+        links:
+            - es
+        depends_on: 
+            - es
+        restart: unless-stopped
+
+    ad:
+        build:
+            context: .
+            dockerfile: "Dockerfile-ad"
+            args:
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
+        container_name: aida-ad
+        logging:
+          options:
+            max-size: "100m"
+            max-file: "3"
+        env_file: common.env
+        networks:
+            - aida-net
+        expose:
+            - "5000"
+        links:
+            - es
+            - redis
+        depends_on: 
+            - es 
+            - redis
+        restart: unless-stopped
+
+    email:
+        build:
+            context: .
+            dockerfile: "Dockerfile-email"
+            args:
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
+        container_name: aida-email
+        logging:
+          options:
+            max-size: "100m"
+            max-file: "3"
+        env_file: common.env
+        networks:
+            - aida-net
+        expose:
+            - "5000"
+        links:
+            - redis
+        depends_on:
+            - redis
+        restart: unless-stopped
+
+    orchestrator:
+        build:
+            context: .
+            dockerfile: "Dockerfile-orchestrator"
+            args:
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
+        container_name: aida-orchestrator
+        logging:
+          options:
+            max-size: "100m"
+            max-file: "3"
+        env_file: common.env
+        networks:
+            - aida-net
+        links:
+            - es
+            - redis
+            - predictor
+            - ad
+        depends_on: 
+            - es
+            - redis
+            - predictor
+            - ad
+        restart: unless-stopped
+
+    predictor:
+        build:
+            context: .
+            dockerfile: "Dockerfile-predictor"
+            args:
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
+        container_name: aida-predictor
+        logging:
+          options:
+            max-size: "100m"
+            max-file: "3"
+        env_file: common.env
+        networks:
+            - aida-net
+        expose:
+            - "5000"
+        links:
+            - es
+            - redis
+        depends_on: 
+            - es
+            - redis
+        restart: unless-stopped
+
+
+    redis:
+        build:
+            context: .
+            dockerfile: "Dockerfile-redis"
+            args:
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
+        container_name: aida-redis
+        logging:
+          options:
+            max-size: "100m"
+            max-file: "3"
+        env_file: common.env
+        networks:
+            - aida-net
+        expose:
+            - "6379"
+        restart: unless-stopped
+
+    es:
+        image: ibmcom/elasticsearch-s390x:7.12.1
+        container_name: aida-es
+        logging:
+          options:
+            max-size: "100m"
+            max-file: "3"
+        env_file: common.env
+        networks:
+            - aida-net
+        expose:
+            - "9200"
+        volumes:
+            - aida-es-data:/usr/share/elasticsearch/data/:Z
+        restart: unless-stopped
+
+# Local volumes cannot be used for deployment in clusters
+volumes:
+    aida-es-data:
+
+networks:
+    aida-net:
