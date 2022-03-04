@@ -121,7 +121,7 @@ first_start() {
 }
 
 start_config() {
-    if ! docker image inspect "cp.icr.io/cp/aida-config:10.1.0.00" >&/dev/null; then
+    if ! docker image inspect "cp.icr.io/cp/ibm-workload-automation-aida-config:10.1.0.00" >&/dev/null; then
         echo "Loading configuration container image..."
         docker load -i ../aida-images.tgz
     fi

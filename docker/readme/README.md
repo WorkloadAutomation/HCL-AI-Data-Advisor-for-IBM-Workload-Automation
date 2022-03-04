@@ -79,14 +79,14 @@ Linux intel based 64-bit, and Linux on Z.
     ```
 The images are as follows:
  
- - ``cp.icr.io/cp/aida-ad:10.1.0.00`` 
- - ``cp.icr.io/cp/aida-exporter:10.1.0.00``
- - ``cp.icr.io/cp/aida-email:10.1.0.00``
- - ``cp.icr.io/cp/aida-nginx:10.1.0.00``
- - ``cp.icr.io/cp/aida-orchestrator:10.1.0.00``
- - ``cp.icr.io/cp/aida-predictor:10.1.0.00``
- - ``cp.icr.io/cp/aida-redis:10.1.0.00``
- - ``cp.icr.io/cp/aida-ui:10.1.0.00``
+ - ``cp.icr.io/cp/ibm-workload-automation-aida-ad:10.1.0.00`` 
+ - ``cp.icr.io/cp/ibm-workload-automation-aida-exporter:10.1.0.00``
+ - ``cp.icr.io/cp/ibm-workload-automation-aida-email:10.1.0.00``
+ - ``cp.icr.io/cp/ibm-workload-automation-aida-nginx:10.1.0.00``
+ - ``cp.icr.io/cp/ibm-workload-automation-aida-orchestrator:10.1.0.00``
+ - ``cp.icr.io/cp/ibm-workload-automation-aida-predictor:10.1.0.00``
+ - ``cp.icr.io/cp/ibm-workload-automation-aida-redis:10.1.0.00``
+ - ``cp.icr.io/cp/ibm-workload-automation-aida-ui:10.1.0.00``
  
 
  
