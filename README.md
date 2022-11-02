@@ -41,7 +41,7 @@ For more information about AIDA, see AIDA User's Guide in the [IBM Workload Auto
     - Mozilla Firefox 61.0.1 or higher 
     - Microsoft Edge 79 or higher
 
- -  External container image for Elasticsearch (OpenSearch 2.3.0).
+ -  External container image for OpenSearch 2.3.0 (an Elasticsearch based technology).
 
  -  External container image for Keycloak (JBoss Keycloak V17.0.0). Optional, if you want to access AIDA UI from outside the Dynamic Workload Console.
  
@@ -275,9 +275,9 @@ For the command usage, run
 This section lists the configuration variables in the common.env file.
 
 ### Common
-``LICENSE=notaccepted`` - before starting AIDA deployment, change into **accept** to accept the product license.
+``LICENSE=notaccepted`` - before starting AIDA deployment, change into **accept** to accept the product license
 
-``LOG_LEVEL=INFO`` - logging level. Possible values are: DEBUG, INFO, ERROR, WARNING, CRITICAL.
+``LOG_LEVEL=INFO`` - logging level. Possible values are: DEBUG, INFO, ERROR, WARNING, CRITICAL
 
 ``ESCONFIG=["https://admin:admin@aida-es:9200"]`` - comma separated list of elasticsearch hosts
 
@@ -287,10 +287,21 @@ This section lists the configuration variables in the common.env file.
 
 ``REDIS_PSWD=foobared`` - aida-redis password
 
+``DEFAULT_SHARD_COUNT=1`` - Number of opensearch shards  
+
+``DEFAULT_REPLICA_COUNT=0`` - Number of opensearch replicas
+
+``WEB_CONCURRENCY=6`` - Number of workers of the web server. The more they are, the more there is parallelism (and the more RAM is consumed). Suggested value: 2 x + 1
+
 ``OPENSSL_PASSWORD=`` - mandatory - this password will be used to generate an encryption key to hide the Workload Automation server credentials. (According to ISO, passwords must be encrypted inside the database).
  
 ### aida-ad
 ``AIDA_UI_URL: "https://aida-ip:9432/"`` - aida UI url 
+
+``PAST_MILLIS=86400000`` - the number of milliseconds that AIDA waits before analyzing predictions to detect alerts
+
+``TOLERANCE_MILLIS=240000`` - the maximum number of milliseconds between a real data point and a predicted data point in oder to consider them close and, therefore, usable by the alert detection algorithm
+
 
 ### aida-mail
 ``SMTP_SERVER="smtp.mail.com"`` - smtp server
@@ -302,6 +313,7 @@ This section lists the configuration variables in the common.env file.
 ``SENDER_MAILPWD=pwd`` - alert sender email password
 
 ``RECIPIENT_MAILIDS=test1@mail.com,test2@mail.com`` - list of recipient emails
+
 
 ### aida-redis
 
@@ -320,7 +332,10 @@ The above certificates will only be used for AIDA's containers internal communic
 
 ``ALERT_URL=http://aida-ad:5000`` - aida-ad connection url
 
-``PROPHET_ORCHESTRATOR={"schedule":1440"}`` - interval in minutes between two successive KPI predictions. Default value is 1440.
+``PROPHET_ORCHESTRATOR={"schedule":1440"}`` - interval in minutes between two subsequent training(s). Default value is 1440.
+
+``DAYS_OF_PREDICTION=1`` - How many days to predict in the future
+
 
 ### aida-nginx
 ``CLIENT_SECRET=CLIENT_SECRET_CONFIG``
@@ -340,20 +355,14 @@ The above certificates will only be used for AIDA's containers internal communic
 
 ``KPI_CONFIG_URL=http://WA_URL/kpi_retriever`` - connection url to kpi configuration file
 
+``MAXIMUM_DAYS_OF_OLDER_PREDICTIONS=14`` - number of days of predictions to keep in the past
+
+``MAXIMUM_DAYS_OF_OLDER_DATA=400`` - the number of days of metrics data to keep in the past
+
 ### aida-ui
 ``DEBUG=ERROR:*,INFO:*,-TRACE:*`` - logging level
 
-
-### aida-es
-``NODE_NAME=<NODE-NAME>`` - default value is node-1. 
-
-``NODE_MASTER=true/false`` - based on the node type being launched. Always set to true for single node.
-
-``DISCOVERY_TYPE=single-node``  -  not required for multiple-node cluster. 
-
-``DISCOVERY_SEED_HOSTS=<MASTER-HOST1,MASTER-HOST2>`` - comma separated Host/IP of master eligible node(s). Required only for multiple nodes clusters.
- 
-``CLUSTER_INITIAL_MASTER_NODES=<MASTER-NODE1-NAME,MASTER-NODE2-NAME>`` - comma separated master node name(s). Required only for multiple nodes clusters.  
+  
 
 ## Troubleshooting
 
