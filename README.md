@@ -126,7 +126,7 @@ Also, AIDA uses:
 
  - **Keycloak** - To manage security and user access. Keycloak is optional: if used, it enables the creation of AIDA administrators who can access AIDA UI from outside the Dynamic Workload Console. Otherwise,  AIDA can only be accessed from the alert widget in the Workload Dashboard of the Dynamic Workload Console. 
 
- - **Elasticsearch** - To store and analyze data
+ - **OpenSearch (an Elasticsearch based technology)** - To store and analyze data.
 
  
 ## AIDA installation 
