@@ -302,6 +302,8 @@ This section lists the configuration variables in the common.env file.
 
 ``TOLERANCE_MILLIS=240000`` - the maximum number of milliseconds between a real data point and a predicted data point in oder to consider them close and, therefore, usable by the alert detection algorithm
 
+``MINIMUM_SEVERITY_FOR_MAIL=high`` - minimum level of severity above which an alert will be sent by email. Can be high, medium or low
+
 
 ### aida-mail
 ``SMTP_SERVER="smtp.mail.com"`` - smtp server
@@ -358,6 +360,8 @@ The above certificates will only be used for AIDA's containers internal communic
 ``MAXIMUM_DAYS_OF_OLDER_PREDICTIONS=14`` - number of days of predictions to keep in the past
 
 ``MAXIMUM_DAYS_OF_OLDER_DATA=400`` - the number of days of metrics data to keep in the past
+
+``RESOLVE_ALERTS_AFTER_DAYS=1`` - number of days after which alerts will automatically go in "resolved" status
 
 ### aida-ui
 ``DEBUG=ERROR:*,INFO:*,-TRACE:*`` - logging level
