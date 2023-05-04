@@ -26,7 +26,7 @@ For more information about AIDA, see AIDA User's Guide in the [IBM Workload Auto
 
 ## Prerequisites
 
- -  IBM Workload Automation V10.1 exposed metrics.
+ -  IBM Workload Automation V10.1 or above exposed metrics.
     - For information about IBM Workload Automation exposed metrics, see "Exposing metrics to monitor your workload" in the [IBM Workload Automation documentation](https://www.ibm.com/docs/en/workload-automation/10.1.0) User's Guide.  
     - For information about IBM Workload Automation for Z exposed metrics, see "Exposing metrics to monitor your workload" in the [IBM Z Workload Scheduler documentation](https://www.ibm.com/docs/en/workload-automation/10.1.0) Managing the Workload manual.    
 
@@ -66,7 +66,7 @@ Linux intel based 64-bit, and Linux on Z.
 
 
 ## Accessing the container images
- You can access AIDA docker file and container images from the Entitled Registry:
+ You can access AIDA docker file and container images from the Entitled Registry (online installation):
 
  -  Contact your IBM sales representative for the login details required to access the Entitled Registry.
     
@@ -78,21 +78,22 @@ Linux intel based 64-bit, and Linux on Z.
     ```
 The images are as follows:
  
- - ``cp.icr.io/cp/aida-ad:10.1.0.2`` 
- - ``cp.icr.io/cp/aida-exporter:10.1.0.2``
- - ``cp.icr.io/cp/aida-email:10.1.0.2``
- - ``cp.icr.io/cp/aida-nginx:10.1.0.2``
- - ``cp.icr.io/cp/aida-orchestrator:10.1.0.2``
- - ``cp.icr.io/cp/aida-predictor:10.1.0.2``
- - ``cp.icr.io/cp/aida-redis:10.1.0.2``
- - ``cp.icr.io/cp/aida-ui:10.1.0.2``
+ - ``cp.icr.io/cp/aida-ad:10.1.0.3`` 
+ - ``cp.icr.io/cp/aida-exporter:10.1.0.3``
+ - ``cp.icr.io/cp/aida-email:10.1.0.3``
+ - ``cp.icr.io/cp/aida-nginx:10.1.0.3``
+ - ``cp.icr.io/cp/aida-orchestrator:10.1.0.3``
+ - ``cp.icr.io/cp/aida-predictor:10.1.0.3``
+ - ``cp.icr.io/cp/aida-redis:10.1.0.3``
+ - ``cp.icr.io/cp/aida-config:10.1.0.3``
+ - ``cp.icr.io/cp/aida-ui:10.1.0.3``
  
 
  
   
-### From IBM Fix Central
+#### From IBM Fix Central (offline installation)
 
-If you are accessing the images from IBM Fix Central source repository, run the following steps:
+Only if you are accessing the images from IBM Fix Central source repository (offline installation), run the following steps:
 1. Untar the package locally.
 2. From the [docker_deployment_dir] load all the docker images into your environment by running the following commands:
  
@@ -119,6 +120,7 @@ AIDA package includes the following containers:
 - **aida-orchestrator** - Orchestrator service
 - **aida-predictor** - Predictor service
 - **aida-redis** - Internal event manager
+- **aida-config** - AIDA configuration
 - **aida-ui** - AIDA UI
   
 
