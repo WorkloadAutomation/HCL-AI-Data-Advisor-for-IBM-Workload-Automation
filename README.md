@@ -15,7 +15,7 @@
   -  [Updating AIDA installation](#updating-aida-installation)
   -  [Uninstalling AIDA](#uninstalling-aida)
   -  [AIDA.sh script](#aida.sh-script)
-  -  [Configuration variables](#configuration-variables)
+  -  [Configuration parameters](#configuration-parameters)
   -  [Troubleshooting](#troubleshooting)
 
 ## Introduction
@@ -273,101 +273,92 @@ For the command usage, run
 
 
  
-## Configuration variables
-This section lists the configuration variables in the common.env file.
+## Configuration parameters
 
-### Common
-``LICENSE=notaccepted`` - before starting AIDA deployment, change into **accept** to accept the product license
+ - ### Common parameters
+ The following table lists the common configurable parameters in the common.env file and their default values:
 
-``LOG_LEVEL=INFO`` - logging level. Possible values are: DEBUG, INFO, ERROR, WARNING, CRITICAL
+| **Parameter** | **Description** | **Mandatory** | **Example** | **Default** |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
+|LICENSE |Before starting AIDA deployment, change into **accept** to accept the product license. | yes |notaccepted   | notaccepted |
+|ESCONFIG|Comma separated list of elasticsearch hosts.| no | ["https://admin:admin@aida-es:9200"] | ["https://admin:admin@aida-es:9200"]
+|LOG_LEVEL |Log level in AIDA. It can be DEBUG, INFO, ERROR, WARNING, CRITICAL | yes |"INFO"  |"INFO"  |
+|REDIS_HOST|aida-redis host name | yes |"aida-redis"  |"aida-redis" |
+|REDIS_PSWD|aida-redis password  | yes |"foobared"  |"foobared" |
+|REDIS_PORT|aida-redis port | yes |6379  |6379 |
+|DEFAULT_SHARD_COUNT | The default number of OpenSearch shards |yes | 1 |1  |	
+|DEFAULT_REPLICA_COUNT | The default number of OpenSearch replicas |yes | 0 |0  |
+|WEB_CONCURRENCY | Number of workers of the web server. The more they are, the more there is parallelism (and the more RAM is consumed). Suggested value: [(2 x <number_of_cores>) + 1] |yes |  |  |
+|OPENSSL_PASSWORD | This password will be used to generate an encryption key to hide the Workload Automation server credentials. (According to ISO, passwords must be encrypted inside the database) |yes |  | |
 
-``ESCONFIG=["https://admin:admin@aida-es:9200"]`` - comma separated list of elasticsearch hosts
-
-``REDIS_HOST=aida-redis`` - aida-redis hostname
-
-``REDIS_PORT=6379`` - aida-redis port
-
-``REDIS_PSWD=foobared`` - aida-redis password
-
-``DEFAULT_SHARD_COUNT=1`` - Number of opensearch shards  
-
-``DEFAULT_REPLICA_COUNT=0`` - Number of opensearch replicas
-
-``WEB_CONCURRENCY=6`` - Number of workers of the web server. The more they are, the more there is parallelism (and the more RAM is consumed). Suggested value: 2 x <number_of_cores> + 1
-
-``OPENSSL_PASSWORD=`` - mandatory - this password will be used to generate an encryption key to hide the Workload Automation server credentials. (According to ISO, passwords must be encrypted inside the database).
+- ### AIDA parameters
+The following tables list the configurable parameters of each service in the common.env file and their default values:
  
-### aida-ad
-``AIDA_UI_URL: "https://aida-ip:9432/"`` - aida UI url 
+ ### [aida-ad parameters](#aida-ad-parameters)
+ 	
+| **Parameter** | **Description** | **Mandatory** | **Example** | **Default** |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
+|AIDA_UI_URL|AIDA UI url  |yes  | "https://aida-ui:9432/" |  "https://aida-ui:9432/" |
+|PAST_MILLIS |The number of milliseconds that AIDA waits before analyzing predictions to detect alerts  | yes  | 86400000 |86400000 |
+|TOLERANCE_MILLIS |The maximum number of milliseconds between a real data point and a predicted data point in order to consider them close and, therefore, usable by the alert detection algorithm   | yes  | 240000 |240000 |
+|MINIMUM_SEVERITY_FOR_MAIL |The minimum level of severity above which an alert will be sent by email. Can be high, medium or low| yes  | high |high |
+	
+ ### [aida-email parameters](#aida-email-parameters)
+ 	
+| **Parameter** | **Description** | **Mandatory** | **Example** | **Default** |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
+|SMTP_SERVER|The smtp server   | yes | "smtp-mail.outlook.com" | "smtp.server.com"  |
+|SMTP_PORT|The port of the smtp server  | yes | 587 | 587  |
+|SENDER_MAILID| The email account of the alert sender   | yes |`"john@outlook.com"`  |  `"smtp@server.com"` |
+|SENDER_MAILPWD|The email password of the alert sender   | yes |  |   |
+|RECIPIENT_MAILIDS|The list of recipient emails   | yes |`"jack@gmail.com,jessie@live.com"`  | `"mail1@mail.com,mail2@mail.com"` |
 
-``PAST_MILLIS=86400000`` - the number of milliseconds that AIDA waits before analyzing predictions to detect alerts
-
-``TOLERANCE_MILLIS=240000`` - the maximum number of milliseconds between a real data point and a predicted data point in oder to consider them close and, therefore, usable by the alert detection algorithm
-
-``MINIMUM_SEVERITY_FOR_MAIL=high`` - minimum level of severity above which an alert will be sent by email. Can be high, medium or low
-
-
-### aida-mail
-``SMTP_SERVER="smtp.mail.com"`` - smtp server
-
-``SMTP_PORT=587`` - smtp port
-
-``SENDER_MAILID="sender@mail.com"`` - alert sender email account
-
-``SENDER_MAILPWD=pwd`` - alert sender email password
-
-``RECIPIENT_MAILIDS=test1@mail.com,test2@mail.com`` - list of recipient emails
-
-
-### aida-redis
-
-Optionally, before AIDA installation, you can replace the following default certificates for redis connection with custom certificates (file names must be the same): 
-
-``[docker_deployment_dir]/aida-redis/redis.key`` - certificate key
-
-``[docker_deployment_dir]/aida-redis/redis.crt`` - certificate 
-
-``[docker_deployment_dir]/aida-redis/ca.pem`` - certificate authority
-
+### [aida-redis parameters](#aida-redis-parameters)
+ Optionally, before AIDA installation, you can replace the following default certificates for redis connection with custom certificates (file names must be the same):	
+| **Parameter** | **Description** | **Mandatory** | **Example** | **Default** |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
+|[docker_deployment_dir]/aida-redis/redis.key|certificate key  | | |  |
+|[docker_deployment_dir]/aida-redis/redis.crt | certificate |  |  |  |
+|[docker_deployment_dir]/aida-redis/ca.pem | certificate authority |  ||  |
 The above certificates will only be used for AIDA's containers internal communication.
 
-### aida-orchestrator
-``PROPHET_URL=http://aida-predictor:5000`` -  aida-predictor connection url
+### [aida-orchestrator parameters](#aida-orchestrator-parameters)
+ 	
+| **Parameter** | **Description** | **Mandatory** | **Example** | **Default** |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
+|PROPHET_URL|aida-predictor connection url |yes  |"http://aida-predictor:5000" |  "http://aida-predictor:5000"|
+|ALERT_URL | aida-ad connection url | yes |"http://aida-ad:5000" | "http://aida-ad:5000" |
+|PROPHET_ORCHESTRATOR | interval in minutes between two subsequent training(s) |yes  |{"schedule":1440} | {"schedule":1440} |
+|DAYS_OF_PREDICTION |How many days to predict in the future| yes  |1  |1 |
 
-``ALERT_URL=http://aida-ad:5000`` - aida-ad connection url
+### [aida-nginx parameters](#aida-nginx-parameters)
+ 	
+| **Parameter** | **Description** | **Mandatory** | **Example** | **Default** |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
+|CLIENT_SECRET|The name of the WA console secret to store customized SSL certificates  |yes  |waconsole-cert-secret  | |
+|KEYCLOAK_URL  |aida-keycloak connection url  |yes|  "http://aida-keycloak:8080" |"http://aida-keycloak:8080"|
+|DWC_PUBLIC_KEY  |By default this variable is set to the DWC public key of the Liberty SSL certificates. If you are using custom certificates for the DWC, replace the default value accordingly.  |yes|   ||
 
-``PROPHET_ORCHESTRATOR={"schedule":1440"}`` - interval in minutes between two subsequent training(s). Default value is 1440.
+ ### [aida-exporter parameters](#aida-exporter-parameters)
+ 	
+| **Parameter** | **Description** | **Mandatory** | **Example** | **Default** |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
+|WA_OMETRICS|Connection url to WA exposed metrics  |yes  |https://WA_URL/metrics | |
+|WA_METADATA|Connection url to WA metadata  |yes  |https://WA_URL/twsd/engine/historical_metric/metadata | |
+|WA_RECORDS|Connection url to WA records  |yes  |https://WA_URL/twsd/engine/historical_metric/record | |
+|ALERT_CONFIG_URL|Connection url to alert configuration file  |yes  |https://WA_URL/twsd/engine/definition/alert | |
+|KPI_CONFIG_URL|Connection url to kpi configuration file  |yes  |https://WA_URL/twsd/engine/definition/kpi | |
+|MAXIMUM_DAYS_OF_OLDER_PREDICTIONS |How many days of predictions to keep in the past | yes  |14 |14 |
+|MAXIMUM_DAYS_OF_OLDER_DATA|How many days of metrics data to keep in the past | yes  |400 |400|
+|RESOLVE_ALERTS_AFTER_DAYS|Number of days after which alerts will automatically go in "resolved" status | yes  |1 |1|
 
-``DAYS_OF_PREDICTION=1`` - How many days to predict in the future
 
 
-### aida-nginx
-``CLIENT_SECRET=CLIENT_SECRET_CONFIG``
-
-``KEYCLOAK_URL=https://keycloak_URL/keycloak`` - aida-keycloak connection url
-
-``DWC_PUBLIC_KEY= "certificate"`` - by default this variable is set to the DWC public key of the Liberty SSL certificates. If you are using custom certificates for the DWC, replace the default value accordingly.
-
-### aida-exporter
-``WA_OMETRICS=https://WA_URL/metrics`` - connection url to WA exposed metrics
-
-``WA_METADATA=http://WA_URL/metadata`` - connection url to WA metadata
-
-``WA_RECORDS=http://WA_URL/records`` - connection url to WA records
-
-``ALERT_CONFIG_URL=http://WA_URL/metric_retriever`` - connection url to alert configuration file
-
-``KPI_CONFIG_URL=http://WA_URL/kpi_retriever`` - connection url to kpi configuration file
-
-``MAXIMUM_DAYS_OF_OLDER_PREDICTIONS=14`` - number of days of predictions to keep in the past
-
-``MAXIMUM_DAYS_OF_OLDER_DATA=400`` - the number of days of metrics data to keep in the past
-
-``RESOLVE_ALERTS_AFTER_DAYS=1`` - number of days after which alerts will automatically go in "resolved" status
-
-### aida-ui
-``DEBUG=ERROR:*,INFO:*,-TRACE:*`` - logging level
-
+### [aida-ui parameters](#aida-ui-parameters)
+ 	
+| **Parameter** | **Description** | **Mandatory** | **Example** | **Default** |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
+|DEBUG|Log level in AIDA UI  | no | "ERROR:*,INFO:*,-TRACE:*" |"ERROR:*,INFO:*,-TRACE:*"  |
   
 
 ## Troubleshooting
