@@ -307,11 +307,11 @@ The following tables list the configurable parameters of each service in the com
  	
 | **Parameter** | **Description** | **Mandatory** | **Example** | **Default** |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
-|SMTP_SERVER|The smtp server   | yes (if you want to receive anomaly notification by email) | "smtp-mail.outlook.com" | "smtp.server.com"  |
-|SMTP_PORT|The port of the smtp server  | yes (if you want to receive anomaly notification by email) | 587 | 587  |
-|SENDER_MAILID| The email account of the alert sender   | yes (if you want to receive anomaly notification by email) |`"john@outlook.com"`  |  `"smtp@server.com"` |
+|SMTP_SERVER|The smtp server   | yes (if you want to receive anomaly notification by email) | "smtp-mail.outlook.com" |  |
+|SMTP_PORT|The port of the smtp server  | yes (if you want to receive anomaly notification by email) | 587 |  |
+|SENDER_MAILID| The email account of the alert sender   | yes (if you want to receive anomaly notification by email) |`"john@outlook.com"`  |   |
 |SENDER_MAILPWD|The email password of the alert sender   | yes (if you want to receive anomaly notification by email) |  |   |
-|RECIPIENT_MAILIDS|The list of recipient emails   | yes (if you want to receive anomaly notification by email) |`"jack@gmail.com,jessie@live.com"`  | `"mail1@mail.com,mail2@mail.com"` |
+|RECIPIENT_MAILIDS|The list of recipient emails   | yes (if you want to receive anomaly notification by email) |`"jack@gmail.com,jessie@live.com"`  |  |
 
 ### [aida-redis parameters](#aida-redis-parameters)
  Optionally, before AIDA installation, you can replace the following default certificates for redis connection with custom certificates (file names must be the same):	
