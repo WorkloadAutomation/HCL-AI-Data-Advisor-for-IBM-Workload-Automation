@@ -140,7 +140,7 @@ To install AIDA, run the following procedure:
 
 	If you are using custom certificates for the DWC, replace the `DWC_PUBLIC_KEY` value accordingly.
  4. In the common.env file, set the ``OPENSSL_PASSWORD``  parameter. This parameter will be used to generate an encryption key to hide the IBM Workload Automation engine credentials. (According to ISO, passwords must be encrypted inside the database).
- 5. If you want to customize the installation parameters, edit the common.env file. For details, see  [Configuration variables](#configuration-variables).
+ 5. If you want to receive alert notification via email, properly set the configuration parameters in the aida-email section in the common.env file. For the remaining parameters of the common.env file, you can use the default values. If you want to use custom values instead, edit the common.env file. For details, see  [Configuration variables](#configuration-variables).
  6. Optionally, from [docker_deployment_dir], run the command
  
 	 ``./AIDA.sh first-start``
