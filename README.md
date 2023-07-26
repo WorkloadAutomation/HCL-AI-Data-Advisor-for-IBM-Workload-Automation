@@ -166,7 +166,7 @@ To install AIDA, run the following procedure:
 	 Specify ``aida-port`` only if it is different from the default value (9432). 
      Otherwise, AIDA can only be accessed from the alert widget in the Workload Dashboard of the Dynamic Workload Console. 
 
-   **Note**: The **common.env** environment file contains all the environment variables. For details, see  [Configuration parameters](#configuration-parameters).   After AIDA installation, if you want to modify the configuration parameters, edit the common.env file and then run the comand: **./AIDA.sh restart**.
+   **Note**: The **common.env** environment file contains all the environment variables. For details, see  [Configuration parameters](#configuration-parameters).   After AIDA installation, if you want to modify the configuration parameters, edit the common.env file and then run the comand: **./AIDA.sh restart** to restart the containers.
 
 ## Managing Workload Automation server credentials
 You can manage the credentials needed to connect to a Workload Automation server using  AIDA.sh script. 
