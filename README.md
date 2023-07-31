@@ -285,15 +285,15 @@ AIDA configuration parameters in the common.env file are divided in three catego
 
 | **Parameter** | **Description** | **Mandatory** | **Customizable** | **Default value** |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
-|LOG_LEVEL_INFO |Log level in AIDA. It can be DEBUG, INFO, ERROR, WARNING, CRITICAL |  | Y |"INFO"  |
-|ESCONFIG|The Elasticsearch host|  | N | ["https://admin:admin@aida-es:9200"]
-|REDIS_HOST|aida-redis host name |  |N |"aida-redis" |
-|REDIS_PSWD|aida-redis password  |  |N  |"foobared" |
-|REDIS_PORT|aida-redis port |  |N |6379 |
-|DEFAULT_SHARD_COUNT | The default number of OpenSearch shards | |N |1  |	
-|DEFAULT_REPLICA_COUNT | The default number of OpenSearch replicas | | N |0  |
+|LOG_LEVEL_INFO |Log level in AIDA. It can be DEBUG, INFO, ERROR, WARNING, CRITICAL | N | Y |"INFO"  |
+|ESCONFIG|The Elasticsearch host|N  | N | ["https://admin:admin@aida-es:9200"]
+|REDIS_HOST|aida-redis host name |N  |N |"aida-redis" |
+|REDIS_PSWD|aida-redis password  |N  |N  |"foobared" |
+|REDIS_PORT|aida-redis port |N  |N |6379 |
+|DEFAULT_SHARD_COUNT | The default number of OpenSearch shards |N |N |1  |	
+|DEFAULT_REPLICA_COUNT | The default number of OpenSearch replicas |N | N |0  |
 |OPENSSL_PASSWORD | This password will be used to generate an encryption key to hide the Workload Automation server credentials. (According to ISO, passwords must be encrypted inside the database) | Y |  | |
-|WEB_CONCURRENCY | Number of workers of the web server (trading). The more they are, the more there is parallelism (and the more RAM is consumed). Suggested value: [(2 x <number_of_cores>) + 1] |  | Y| 2  |
+|WEB_CONCURRENCY | Number of workers of the web server (trading). The more they are, the more there is parallelism (and the more RAM is consumed). Suggested value: [(2 x <number_of_cores>) + 1] |N  | Y| 2  |
 
 
 - ### AIDA parameters
@@ -303,15 +303,15 @@ The following tables list the configurable parameters of each service in the com
  	
 | **Parameter** | **Description** | **Mandatory** | **Customizable** | **Default** |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
-|Model|The Machine Learning model used for predictions  |  | N |  neural |
+|Model|The Machine Learning model used for predictions  |N  | N |  neural |
  
  ### [aida-ad parameters](#aida-ad-parameters)
  	
 | **Parameter** | **Description** | **Mandatory** | **Customizable** | **Default** |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
-|AIDA_UI_URL|AIDA UI url  |  | N |  "https://aida-ui:9432/" |
-|TOLERANCE_MILLIS |The maximum number of milliseconds between a real data point and a predicted data point in order to consider them close and, therefore, usable by the alert detection algorithm   |   | Y |240000 |
-|MINIMUM_SEVERITY_FOR_MAIL |The minimum level of severity above which an alert will be sent by email. Can be high, medium or low|   | Y |high |
+|AIDA_UI_URL|AIDA UI url  |N  | N |  "https://aida-ui:9432/" |
+|TOLERANCE_MILLIS |The maximum number of milliseconds between a real data point and a predicted data point in order to consider them close and, therefore, usable by the alert detection algorithm   | N  | Y |240000 |
+|MINIMUM_SEVERITY_FOR_MAIL |The minimum level of severity above which an alert will be sent by email. Can be high, medium or low| N  | Y |high |
 	
  ### [aida-email parameters](#aida-email-parameters)
  	
@@ -330,17 +330,17 @@ The following tables list the configurable parameters of each service in the com
  	
 | **Parameter** | **Description** | **Mandatory** | **Customizable** | **Default** |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
-|PROPHET_URL|aida-predictor connection url |  |N |  "http://aida-predictor:5000"|
-|ALERT_URL | aida-ad connection url | |N | "http://aida-ad:5000" |
-|PROPHET_ORCHESTRATOR | interval in minutes between two subsequent predictions, and between two subsequent alert detections  |  |Y | {"schedule":1440},{"schedule_alert":15} |
-|DAYS_OF_PREDICTION |How many days to predict in the future|   |Y  |1 |
+|PROPHET_URL|aida-predictor connection url |N  |N |  "http://aida-predictor:5000"|
+|ALERT_URL | aida-ad connection url |N |N | "http://aida-ad:5000" |
+|PROPHET_ORCHESTRATOR | interval in minutes between two subsequent predictions, and between two subsequent alert detections  | N |Y | {"schedule":1440},{"schedule_alert":15} |
+|DAYS_OF_PREDICTION |How many days to predict in the future|N   |Y  |1 |
 
 
 ### [aida-ui parameters](#aida-ui-parameters)
  	
 | **Parameter** | **Description** | **Mandatory** | **Customizable** | **Default** |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
-|DEBUG|Log level in AIDA UI  |  | N |"ERROR:*,INFO:*,-TRACE:*"  |
+|DEBUG|Log level in AIDA UI  N|  | N |"ERROR:*,INFO:*,-TRACE:*"  |
 
 
 ### [aida-nginx parameters](#aida-nginx-parameters)
@@ -348,32 +348,32 @@ The following tables list the configurable parameters of each service in the com
 | **Parameter** | **Description** | **Mandatory** | **Customizable** | **Default** |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
 |LICENSE |Before starting AIDA deployment, change into **accept** to accept the product license. | Y | Y | notaccepted |
-|CLIENT_SECRET|AIDA secret  | |N  |AIDA-SECRET |
-|KEYCLOAK_URL  |aida-keycloak connection url  |  | N|"http://aida-keycloak:8080"|
-|UI_URL  |aida-UI connection url  |  | N|"http://aida-ui:9000"|
-|DWC_PUBLIC_KEY  |By default this variable is set to the DWC public key of the Liberty SSL certificates. If you are using custom certificates for the DWC, replace the default value accordingly.  || Y   |(DWC Public Key)|
+|CLIENT_SECRET|AIDA secret  |N |N  |AIDA-SECRET |
+|KEYCLOAK_URL  |aida-keycloak connection url  |N  | N|"http://aida-keycloak:8080"|
+|UI_URL  |aida-UI connection url  | N | N|"http://aida-ui:9000"|
+|DWC_PUBLIC_KEY  |By default this variable is set to the DWC public key of the Liberty SSL certificates. If you are using custom certificates for the DWC, replace the default value accordingly.  |N| Y   |(DWC Public Key)|
 
  ### [aida-exporter parameters](#aida-exporter-parameters)
  	
 | **Parameter** | **Description** | **Mandatory** | **Customizable** | **Default** |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
-|WA_OMETRICS|Connection url to WA exposed metrics  |  |N|https://WA_URL/metrics  |
-|WA_METADATA|Connection url to WA metadata  | |N |https://WA_URL/twsd/engine/historical_metric/metadata  |
-|WA_RECORDS|Connection url to WA records  |  |N |https://WA_URL/twsd/engine/historical_metric/record  |
-|ALERT_CONFIG_URL|Connection url to alert configuration file  |  |N |https://WA_URL/twsd/engine/definition/alert |
-|KPI_CONFIG_URL|Connection url to kpi configuration file  |  |N |https://WA_URL/twsd/engine/definition/kpi |
-|WA_CATALOGS|WA Catalogs  |  |N |https://WA_URL/twsd/engine/definition/aida_catalog |
-|ENDPOINTS_CONF|For KPIs configuration  |  |N |{"KPI_CONFIG": "twsd/engine/definition/kpi", "ALERT_CONFIG": "twsd/engine/definition/alert", "WA_OMETRICS": "metrics", "WA_METADATA": "twsd/engine/historical_metric/metadata", "WA_RECORDS": "twsd/engine/historical_metric/record", "WA_CATALOGS": "twsd/engine/definition/aida_catalog"} |
-|ENDPOINTS_Z_CONF|For KPIs configuration  |  |N |{"KPI_CONFIG": "twsz/v1/aida/definition/kpi", "ALERT_CONFIG": "twsz/v1/aida/definition/alert", "WA_OMETRICS": "metrics", "WA_METADATA": "twsz/v1/aida/historical_metric/metadata", "WA_RECORDS": "twsz/v1/aida/historical_metric/record", "WA_CATALOGS": "twsz/v1/aida/definition/aida_catalog"} |
-|MAXIMUM_DAYS_OF_OLDER_PREDICTIONS_AND_ALERTS |How many days of prediction and alert data to keep in the past |   |Y |14 |
-|MAXIMUM_DAYS_OF_OLDER_DATA|How many days of metrics data to keep in the past |  |Y|180|
-|RESOLVE_ALERTS_AFTER_DAYS|Number of days after which alerts will automatically go in "resolved" status |   |Y |1|
+|WA_OMETRICS|Connection url to WA exposed metrics  |N  |N|https://WA_URL/metrics  |
+|WA_METADATA|Connection url to WA metadata  |N |N |https://WA_URL/twsd/engine/historical_metric/metadata  |
+|WA_RECORDS|Connection url to WA records  |N  |N |https://WA_URL/twsd/engine/historical_metric/record  |
+|ALERT_CONFIG_URL|Connection url to alert configuration file  |N  |N |https://WA_URL/twsd/engine/definition/alert |
+|KPI_CONFIG_URL|Connection url to kpi configuration file  |N  |N |https://WA_URL/twsd/engine/definition/kpi |
+|WA_CATALOGS|WA Catalogs  | N |N |https://WA_URL/twsd/engine/definition/aida_catalog |
+|ENDPOINTS_CONF|For KPIs configuration  |N  |N |{"KPI_CONFIG": "twsd/engine/definition/kpi", "ALERT_CONFIG": "twsd/engine/definition/alert", "WA_OMETRICS": "metrics", "WA_METADATA": "twsd/engine/historical_metric/metadata", "WA_RECORDS": "twsd/engine/historical_metric/record", "WA_CATALOGS": "twsd/engine/definition/aida_catalog"} |
+|ENDPOINTS_Z_CONF|For KPIs configuration  |N  |N |{"KPI_CONFIG": "twsz/v1/aida/definition/kpi", "ALERT_CONFIG": "twsz/v1/aida/definition/alert", "WA_OMETRICS": "metrics", "WA_METADATA": "twsz/v1/aida/historical_metric/metadata", "WA_RECORDS": "twsz/v1/aida/historical_metric/record", "WA_CATALOGS": "twsz/v1/aida/definition/aida_catalog"} |
+|MAXIMUM_DAYS_OF_OLDER_PREDICTIONS_AND_ALERTS |How many days of prediction and alert data to keep in the past | N  |Y |14 |
+|MAXIMUM_DAYS_OF_OLDER_DATA|How many days of metrics data to keep in the past |N  |Y|180|
+|RESOLVE_ALERTS_AFTER_DAYS|Number of days after which alerts will automatically go in "resolved" status | N  |Y |1|
 
 ### [Debugging parameters](#debugging-parameters)
 
 | **Parameter** | **Description** | **Mandatory** | **Customizable** | **Default** |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
-|PREDICT_EVERYTHING|For debugging purposes|  | N |false|
+|PREDICT_EVERYTHING|For debugging purposes|N  | N |false|
 
 
  
