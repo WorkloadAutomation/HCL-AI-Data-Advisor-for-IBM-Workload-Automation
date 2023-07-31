@@ -340,7 +340,7 @@ The following tables list the configurable parameters of each service in the com
  	
 | **Parameter** | **Description** | **Mandatory** | **Customizable** | **Default** |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
-|DEBUG|Log level in AIDA UI  N|  | N |"ERROR:*,INFO:*,-TRACE:*"  |
+|DEBUG|Log level in AIDA UI | N | N |"ERROR:*,INFO:*,-TRACE:*"  |
 
 
 ### [aida-nginx parameters](#aida-nginx-parameters)
