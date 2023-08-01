@@ -303,7 +303,7 @@ The following tables list the configurable parameters of each service in the com
  	
 | **Parameter** | **Description** | **Mandatory** | **Customizable** | **Default** |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
-|Model|The Machine Learning model used for predictions  |N  | N |  neural |
+|Model|The Machine Learning model used for predictions  |N  | N |  neural (for AIDA on Z Linux, only Prophet ML model is supported)|
  
  ### [aida-ad parameters](#aida-ad-parameters)
  	
