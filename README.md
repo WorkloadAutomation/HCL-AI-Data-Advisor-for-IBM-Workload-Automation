@@ -322,7 +322,7 @@ The following tables list the configurable parameters of each service in the com
 |SENDER_MAILID| The email account of the alert sender   | Y (if you want to receive anomaly notification by email) |  |   |
 |SENDER_MAILPWD|The email password of the alert sender   | Y (if you want to receive anomaly notification by email)|  |   |
 |RECIPIENT_MAILIDS|The list of recipient emails. Example: `jack@gmail.com,jessie@live.com`   | Y (if you want to receive anomaly notification by email) | |  |
-|HOST_IP|AIDA host IP address | Y | |  |
+|HOST_IP|AIDA Host IP address and Port. Example: 10.14.32.141:9432 | Y | |  |
 
 
 
