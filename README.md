@@ -2,7 +2,6 @@
 
 # AI Data Advisor (AIDA) 
 
-
 ## Content
   -  [Introduction](#introduction)  
   -  [Prerequisites](#prerequisites)
@@ -19,20 +18,20 @@
   -  [Troubleshooting](#troubleshooting)
 
 ## Introduction
-**AI Data Advisor (AIDA)** is a component of IBM Workload Automation since V10.1, and is based on Artificial Intelligence and Machine Learning techniques. It enables fast and simplified data-driven decision making for an intelligent workload management. By analyzing workload historical data and metrics gathered by IBM Workload Automation and predicting their future patterns, AIDA identifies anomalies in KPIs trend (such as the jobs in plan by status and the jobs in plan by workstation) and sends immediate alerts to prevent problems and delays. Alerts show up on the Workload Dashboard and can be notified via email.
+**AI Data Advisor (AIDA)** is a component of IBM Workload Automation since V10.1, based on Artificial Intelligence and Machine Learning techniques. It enables fast and simplified data-driven decision making for an intelligent workload management. By analyzing workload historical data and metrics gathered by IBM Workload Automation and predicting their future patterns, AIDA identifies anomalies in KPIs trend (such as the jobs in plan by status and the jobs in plan by workstation) and sends immediate alerts to prevent problems and delays. Alerts show up on the Workload Dashboard and can be notified via email.
 
-For more information about AIDA, see AIDA User's Guide in the [IBM Workload Automation documentation](https://www.ibm.com/docs/en/workload-automation/10.1.0).
+For more information about AIDA, see AIDA User's Guide in the [IBM Workload Automation documentation](https://www.ibm.com/docs/en/workload-automation/10.2.0?topic=ai-data-advisor-aida-users-guide).
 
 
 ## Prerequisites
 
- -  IBM Workload Automation V10.1 or above exposed metrics.
-    - For information about IBM Workload Automation exposed metrics, see "Exposing metrics to monitor your workload" in the [IBM Workload Automation documentation](https://www.ibm.com/docs/en/workload-automation/10.1.0) User's Guide.  
-    - For information about IBM Workload Automation for Z exposed metrics, see "Exposing metrics to monitor your workload" in the [IBM Z Workload Scheduler documentation](https://www.ibm.com/docs/en/workload-automation/10.1.0) Managing the Workload manual.    
+ -  IBM Workload Automation V10.1 or higher exposed metrics.
+    - For information about IBM Workload Automation exposed metrics, see "Exposing metrics to monitor your workload" in the [IBM Workload Automation documentation](https://www.ibm.com/docs/en/workload-automation/10.2.0?topic=scheduler-exposing-metrics-monitor-your-workload).  
+    - For information about IBM Z Workload Automation exposed metrics, see "Exposing metrics to monitor your workload" in the [IBM Z Workload Scheduler documentation](https://www.ibm.com/docs/en/workload-automation/10.2.0) Managing the Workload manual.    
 
  -  Docker Compose 1.28 or later.
 
-    Docker 19.x or later.
+ -  Docker from version 20.10+ to version 24.0+.
 
     Verify that Docker and Docker Compose are installed, configured, and ready to use.
 	
@@ -43,7 +42,9 @@ For more information about AIDA, see AIDA User's Guide in the [IBM Workload Auto
 
  -  External container image for OpenSearch 2.3.0 (an Elasticsearch based technology).
 
- -  External container image for Keycloak (JBoss Keycloak V17.0.0). Optional, if you want to access AIDA UI from outside the Dynamic Workload Console.
+ -  External container image for Keycloak V22.0.0 (only for IBM Workload Automation users). Optional, if you want to access AIDA UI from outside the Dynamic Workload Console. IBM Z Workload Automation users can only access AIDA UI from the alert widget in the Workload Dashboard of the Dynamic Workload Console.
+
+ - **OpenSearch (an Elasticsearch based technology)** - To store and analyze data.
  
  -  Before starting AIDA installation, verify that `vm.max_map_count` parameter for Elasticsearch is at minimum 262144 on the host machine (not inside the container). 
  
@@ -78,15 +79,15 @@ Linux intel based 64-bit, and Linux on Z.
     ```
 The images are as follows:
  
- - ``cp.icr.io/cp/aida-ad:10.2.0.0`` 
- - ``cp.icr.io/cp/aida-exporter:10.2.0.0``
- - ``cp.icr.io/cp/aida-email:10.2.0.0``
- - ``cp.icr.io/cp/aida-nginx:10.2.0.0``
- - ``cp.icr.io/cp/aida-orchestrator:10.2.0.0``
- - ``cp.icr.io/cp/aida-predictor:10.2.0.0``
- - ``cp.icr.io/cp/aida-redis:10.2.0.0``
- - ``cp.icr.io/cp/aida-config:10.2.0.0``
- - ``cp.icr.io/cp/aida-ui:10.2.0.0``
+ - ``cp.icr.io/cp/aida-ad:10.2.1.0`` 
+ - ``cp.icr.io/cp/aida-exporter:10.2.1.0``
+ - ``cp.icr.io/cp/aida-email:10.2.1.0``
+ - ``cp.icr.io/cp/aida-nginx:10.2.1.0``
+ - ``cp.icr.io/cp/aida-orchestrator:10.2.1.0``
+ - ``cp.icr.io/cp/aida-predictor:10.2.1.0``
+ - ``cp.icr.io/cp/aida-redis:10.2.1.0``
+ - ``cp.icr.io/cp/aida-config:10.2.1.0``
+ - ``cp.icr.io/cp/aida-ui:10.2.1.0``
  
 
  
@@ -115,7 +116,7 @@ AIDA package includes the following containers:
 
 - **aida-ad** - Anomaly detection and alert generation service
 - **aida-exporter** - Exporter service
-- **aida-mail** - Email notification service 
+- **aida-email** - Email notification service 
 - **aida-nginx** - As a reverse proxy for AIDA components
 - **aida-orchestrator** - Orchestrator service
 - **aida-predictor** - Predictor service
@@ -126,7 +127,8 @@ AIDA package includes the following containers:
 
 Also, AIDA uses:
 
- - **Keycloak** - To manage security and user access. Keycloak is optional: if used, it enables the creation of AIDA administrators who can access AIDA UI from outside the Dynamic Workload Console. Otherwise,  AIDA can only be accessed from the alert widget in the Workload Dashboard of the Dynamic Workload Console. 
+ - **Keycloak** - To manage security and user access, for IBM Workload Automation only (not for IBM Z Workload Automation). Keycloak is optional: if used, it enables the creation of AIDA administrators who can access AIDA UI from outside the Dynamic Workload Console. Otherwise,  AIDA can only be accessed from the alert widget in the Workload Dashboard of the Dynamic Workload Console. 
+   Note: For IBM Z Workload Automation, AIDA can only be accessed from the alert widget.
 
  - **OpenSearch (an Elasticsearch based technology)** - To store and analyze data.
 
@@ -134,27 +136,27 @@ Also, AIDA uses:
 ## AIDA installation 
 To install AIDA, run the following procedure: 
 
- 1. Accept the product license by setting the LICENSE parameter to **accept** in the common.env file located in the [docker_deployment_dir] directory.
- 2. To use custom SSL certificates for AIDA, in the <install_path>/nginx/cert folder replace aida.crt e aida.key with your own files (do not change the default names).
- 3. Verify that the `DWC_PUBLIC_KEY` parameter in the common.env file is set to the DWC public key of the Liberty SSL certificates.
+ 1. To use custom SSL certificates for AIDA, in the <install_path>/nginx/cert folder replace aida.crt e aida.key with your own files (do not change the default names).
+ 2. Verify that the `DWC_PUBLIC_KEY` parameter in the common.env file is set to the DWC public key of the Liberty SSL certificates.
 
 	If you are using custom certificates for the DWC, replace the `DWC_PUBLIC_KEY` value accordingly.
- 4. In the common.env file, set the ``OPENSSL_PASSWORD``  parameter. This parameter will be used to generate an encryption key to hide the IBM Workload Automation engine credentials. (According to ISO, passwords must be encrypted inside the database).
- 5. Edit the common.env file to set mandatory parameters (parameters whose value you must provide). For example, if you want to receive alert notification via email, properly set the configuration parameters in the aida-email section in the common.env file. For the non-mandatory parameters of the common.env file, you can use the default values. For details, see  [Configuration parameters](#configuration-parameters).
+ 3. In the common.env file, set the ``OPENSSL_PASSWORD``  parameter. This parameter will be used to generate an encryption key to hide the IBM Workload Automation engine credentials. (According to ISO, passwords must be encrypted inside the database).
+ 4. Edit the common.env file to set mandatory parameters (parameters whose value you must provide). For example, if you want to receive alert notification via email, properly set the configuration parameters in the aida-email section in the common.env file. For the non-mandatory parameters of the common.env file, you can use the default values. For details, see  [Configuration parameters](#configuration-parameters).
+ 5. To prevent HTTP Host Header attacks, in the common.env file add the string ``EXTERNAL_HOSTNAME=IP`` where IP is the IP address of the machine where AIDA is being installed.
  6. Optionally, from [docker_deployment_dir], run the command
  
 	 ``./AIDA.sh first-start``
 
-     This command starts a guided configuration procedure. Follow the guided procedure and answer the prompts to configure AIDA with your settings.
-   
+         This command starts a guided configuration procedure. Follow the guided procedure and answer the prompts to configure AIDA with your settings.
+         Accept the product license when prompted.
  7.  Build, create, and start AIDA containers by running the command   
  
-     ``./AIDA.sh build-start``
+         ``./AIDA.sh build-start``
 
-	 AIDA is now up and running.    
- 8.  Configure the first server to be monitored by running the command 
+	 Accept the product license when prompted.    
+ 8.  AIDA is now up and running. Configure the first server to be monitored by running the command 
  
-     ``./AIDA.sh add-credentials``    
+         ``./AIDA.sh add-credentials``    
 	
      This command starts a guided configuration of the server. 
 	 For details, see [Managing Workload Automation server credentials](#managing-workload-automation-server-credentials).
@@ -166,7 +168,7 @@ To install AIDA, run the following procedure:
 	 Specify ``aida-port`` only if it is different from the default value (9432). 
      Otherwise, AIDA can only be accessed from the alert widget in the Workload Dashboard of the Dynamic Workload Console. 
 
-   **Note**: The **common.env** environment file contains all the environment variables. For details, see  [Configuration parameters](#configuration-parameters).   After AIDA installation, if you want to modify the configuration parameters, edit the common.env file and then run the comand: **./AIDA.sh restart** to restart the containers.
+   **Note**: The **common.env** environment file contains all the environment variables. For details, see  [Configuration parameters](#configuration-parameters).   
 
 ## Managing Workload Automation server credentials
 You can manage the credentials needed to connect to a Workload Automation server using  AIDA.sh script. 
@@ -206,21 +208,24 @@ To **delete existing credentials**, run the following steps:
 
 ## Updating AIDA installation
 
-To update an existing AIDA installation, you just need to refresh AIDA images in the installation folder and rerun the installation steps:
-1. ``./AIDA.sh down``
-2. For linux:
- 
-	 ``./AIDA.sh load``
-	 
-	  
-	 
-	For zlinux:
-	
-	``tar -xvzf aida-images.tgz``
-	``for f in ./aida-images/aida-*.tar*; do cat $f | docker load; done``
-3. ``./AIDA.sh build-start``
+If you are using AIDA V10.1 or V10.2.0.0 with Keycloak V17.0.0 and want to update your AIDA installation to V10.2.1.0,  you must first migrate your previous Keycloak V17.0.0 data to Keycloak V22.0.0.
+Run the following procedure.  
 
- Existing configuration parameters are used.
+ 1. Download data from Keycloak V17.0.0 to a file named `aida-realm.json` by running the following commands: 
+
+    ``timeout --preserve-status -s SIGINT 60 docker exec -it aida-keycloak /opt/jboss/keycloak/bin/standalone.sh -Djboss.socket.binding.port-offset=100 -Dkeycloak.migration.action=export -Dkeycloak.migration.provider=singleFile -Dkeycloak.migration.realmName=aida -Dkeycloak.migration.usersExportStrategy=REALM_FILE -Dkeycloak.migration.file=/opt/jboss/aida-realm.json; docker cp aida-keycloak:opt/jboss/aida-realm.json aida-realm.json``
+
+ 2. Save the file ``aida-realm.json`` to a disk drive.
+ 3. Remove the data volume from Keycloak V17.0.0 by running the following commands:
+    ``./AIDA.sh down; docker run --rm -it --entrypoint /bin/sh -v docker-deployment_aida-keycloak-data:/keycloak docker-deployment_keycloak -c 'mkdir keycloak/old_backup_data; mv keycloak/* keycloak/old_backup_data'``
+ 4. Download AIDA V10.2.1.0 images from the source repository.
+ 5. Copy the file ``aida-realm.json`` to the ``keycloak/`` folder in the [docker_deployment_dir]. 
+ 6. From [docker_deployment_dir],run the following command:
+    ``sed -i 's+"loginTheme" : "custom"+"loginTheme" : "keycloakTemplate_IBM"+g' ./keycloak/aida-realm.json``
+ 7. Complete AIDA V10.2.1.0 installation by running the following commands: 
+    ``./AIDA.sh load``
+    ``./AIDA.sh build-start``
+    
  
 ## Uninstalling AIDA 
 
@@ -271,10 +276,11 @@ For the command usage, run
 
 ``set-custom-port`` Sets a custom port to access AIDA (default value is 9432)
 
+
  
 ## Configuration parameters
-
-AIDA configuration parameters in the common.env file are divided in three categories: 
+ 
+ AIDA configuration parameters in the common.env file are divided in three categories: 
 1. Parameters whose value users **must provide** (Mandatory=Y)
 2. Parameters with a default value that users can **optionally customize** ( Customizable =Y)
 3. Parameters with a default value that users **should not change** ( Customizable =N)
@@ -375,8 +381,7 @@ The following tables list the configurable parameters of each service in the com
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
 |PREDICT_EVERYTHING|For debugging purposes|N  | N |false|
 
-
- 
+  
 
 ## Troubleshooting
 
