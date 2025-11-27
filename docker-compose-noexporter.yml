@@ -3,7 +3,7 @@ version: '2.3'
 services:
 
     config:
-        image: cp.icr.io/cp/ibm-workload-automation-aida-config:10.1.0.00
+        image: cp.icr.io/cp/ibm-workload-automation-aida-config:10.2.5
         container_name: aida-config
         env_file: common.env
         networks:
