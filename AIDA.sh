@@ -67,12 +67,12 @@ down_volumes() {
 }
 
 build() {
-	docker-compose -f $1 build --build-arg REGISTRY="cp.icr.io/cp" --build-arg VERSION=10.1.0.00
+	docker-compose -f $1 build --build-arg REGISTRY="cp.icr.io/cp" --build-arg VERSION=10.2.3
     docker-compose -f $1 up --no-start
 }
 
 build_start() {
-	docker-compose -f $1 build --build-arg REGISTRY="cp.icr.io/cp" --build-arg VERSION=10.1.0.00 $2
+	docker-compose -f $1 build --build-arg REGISTRY="cp.icr.io/cp" --build-arg VERSION=10.2.3 $2
     docker-compose -f $1 up -d $2
 }
 
@@ -121,7 +121,7 @@ first_start() {
 }
 
 start_config() {
-    if ! docker image inspect "cp.icr.io/cp/ibm-workload-automation-aida-config:10.1.0.00" >&/dev/null; then
+    if ! docker image inspect "cp.icr.io/cp/ibm-workload-automation-aida-config:10.2.3" >&/dev/null; then
         echo "Loading configuration container image..."
         docker load -i ../aida-images.tgz
     fi
