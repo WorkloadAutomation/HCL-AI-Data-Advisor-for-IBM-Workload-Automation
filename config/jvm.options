@@ -8,8 +8,8 @@
 ## Xms represents the initial size of total heap space
 ## Xmx represents the maximum size of total heap space
 
--Xms3g
--Xmx3g
+-Xms2g
+-Xmx2g
 
 ################################################################
 ## Expert settings
@@ -22,9 +22,9 @@
 ################################################################
 
 ## GC configuration
-8-13:-XX:+UseConcMarkSweepGC
-8-13:-XX:CMSInitiatingOccupancyFraction=75
-8-13:-XX:+UseCMSInitiatingOccupancyOnly
+#8-13:-XX:+UseConcMarkSweepGC
+#8-13:-XX:CMSInitiatingOccupancyFraction=75
+#8-13:-XX:+UseCMSInitiatingOccupancyOnly
 
 ## G1GC Configuration
 # NOTE: G1 GC is only supported on JDK version 10 or later
@@ -37,7 +37,8 @@
 14-:-XX:InitiatingHeapOccupancyPercent=30
 
 ## JVM temporary directory
--Djava.io.tmpdir=${ES_TMPDIR}
+# Commented by me
+#-Djava.io.tmpdir=${ES_TMPDIR}
 
 ## heap dumps
 
@@ -47,13 +48,12 @@
 
 # specify an alternative path for heap dumps; ensure the directory exists and
 # has sufficient space
--XX:HeapDumpPath=/var/lib/elasticsearch
+#-XX:HeapDumpPath=/var/lib/opensearch
 
 # specify an alternative path for JVM fatal error logs
--XX:ErrorFile=/var/log/elasticsearch/hs_err_pid%p.log
+#-XX:ErrorFile=/var/log/opensearch/hs_err_pid%p.log
 
 ## OpenDistro Performance Analyzer
--Dclk.tck=100
--Djdk.attach.allowAttachSelf=true
--Djava.security.policy=file:///usr/share/elasticsearch/plugins/opendistro-performance-analyzer/pa_config/es_security.policy
-
+#-Dclk.tck=100
+#-Djdk.attach.allowAttachSelf=true
+#-Djava.security.policy=file:///usr/share/opensearch/plugins/opendistro-performance-analyzer/pa_config/es_security.policy
