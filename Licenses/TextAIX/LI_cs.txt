@@ -3,7 +3,7 @@ LICEN�N� INFORMACE
 N��e uveden� Programy jsou licencov�ny na z�klad� n�sleduj�c�ch podm�nek uveden�ch v dokumentu Licen�n� informace, kter� dopl�uj� licen�n� podm�nky pro Program, s nimi� d��ve Z�kazn�k a IBM vyj�d�ili souhlas Pokud Z�kazn�k d��ve nevyj�d�il souhlas s ��inn�mi licen�n�mi podm�nkami pro Program, uplatn� se licence Mezin�rodn� licen�n� smlouva pro program (i125-3301-15).
 
 N�zev Programu (��slo Programu):
-IBM Workload Scheduler AIDA 10.2.3 (Tool)
+IBM Workload Scheduler AIDA 10.2.4 (Tool)
 
 Na pou��v�n� Programu Dr�itelem licence se vztahuj� n�sleduj�c� standardn� podm�nky.
 

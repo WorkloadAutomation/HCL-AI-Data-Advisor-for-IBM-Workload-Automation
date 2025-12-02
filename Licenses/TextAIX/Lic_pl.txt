@@ -3,7 +3,7 @@ INFORMACJE LICENCYJNE
 Programy wymienione poni�ej s� licencjonowane na podstawie przedstawionych poni�ej warunk�w Informacji licencyjnych, kt�re stanowi� uzupe�nienie warunk�w licencji na Program uzgodnionych uprzednio mi�dzy Klientem a IBM. Je�li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj� warunki licencji Mi�dzynarodowa Umowa Licencyjna na Program (i125-3301-15).
 
 Nazwa Programu (Numer Programu):
-IBM Workload Scheduler AIDA 10.2.3 (Tool)
+IBM Workload Scheduler AIDA 10.2.4 (Tool)
 
 Poni�sze standardowe warunki maj� zastosowanie do u�ywania Programu przez Licencjobiorc�.
 
