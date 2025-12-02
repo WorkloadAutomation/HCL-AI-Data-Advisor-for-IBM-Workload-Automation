@@ -1,17 +1,28 @@
 #/*******************************************************************************
 #* Licensed Materials - Property of HCL 
-#* (c) Copyright HCL Technologies Ltd. 2021. All Rights Reserved. 
+#* (c) Copyright HCL Technologies Ltd. 2023. All Rights Reserved. 
 #
 #* Note to U.S. Government Users Restricted Rights:
 #* Use, duplication or disclosure restricted by GSA ADP Schedule
 #**************************************************************/
+
 ARG REGISTRY
 ARG VERSION
-FROM ${REGISTRY}/aida-predictor:${VERSION}
+FROM ${REGISTRY}aida-predictor:${VERSION} AS base
 
 EXPOSE 5000
 
 COPY ./redis/redis.key .
 COPY ./redis/ca.pem .
 
-CMD  python -m server.py
+FROM base AS dev
+RUN pip install debugpy
+
+CMD python -m debugpy --listen 0.0.0.0:5678 -m gunicorn -b 0.0.0.0:5000 -k gthread --reload -t 0 'server:app'
+
+FROM base AS debug
+RUN pip install debugpy
+CMD python -m debugpy --wait-for-client --listen 0.0.0.0:5678 -m gunicorn -b 0.0.0.0:5000 -k gthread --reload -t 0 'server:app'
+
+FROM base AS release
+CMD gunicorn -b 0.0.0.0:5000 -k gthread 'server:app'

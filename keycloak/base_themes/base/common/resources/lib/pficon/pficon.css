@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "pficon-tmp";
+  src: url("./pficon.woff2") format("woff2");
+}
+
+.pf-icon-openshift:before {
+  font-family: "pficon-tmp";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  text-decoration: none;
+  text-transform: none; }
+
+.pf-icon-openshift:before {
+  content: ""; }

@@ -1,0 +1,28 @@
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro program (i125-3301-15).
+
+Název Programu (Èíslo Programu):
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Na pou¾ívání Programu Dr¾itelem licence se mohou vztahovat následující mìrné jednotky.
+
+Jednotka PVU (Processor Value Unit)
+
+Jednotka PVU (Processor Value Unit) je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Poèet vy¾adovaných oprávnìní k jednotkám PVU je zalo¾en na procesorové technologii (definované v licencování Processor Value Unit (PVU) pro webovou stránku Distribuovaný software na adrese https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) a na poètu procesorù zpøístupnìných pro Program. IBM i nadále definuje procesor pro úèely licencování na základì jednotek PVU jako ka¾dé procesorové jádro na èipu. Dvoujádrový procesorový èip má napøíklad dvì procesorová jádra.
+
+Dr¾itel licence mù¾e nasadit Program (je-li podporován) pomocí plnì kapacitního licencování, licencování na základì dílèí kapacity (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) nebo licencování kontejneru (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Dal¹í informace viz propojené webové stránky.
+
+Namísto oprávnìní vy¾adovaných pøímo pro Program je Dr¾itel licence povinen si opatøit oprávnìní pro jednotky PVU k tomuto Programu v takovém poètu, který je dostaèující k pokrytí procesorových jader pro systémy, na nich¾ se nacházejí prostøedky spravované a zpracovávané Programem.
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+

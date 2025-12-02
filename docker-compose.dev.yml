@@ -1,0 +1,94 @@
+#/*******************************************************************************
+#* Licensed Materials - Property of HCL
+#* (c) Copyright HCL Technologies Ltd. 2023. All Rights Reserved.
+#
+#* Note to U.S. Government Users Restricted Rights:
+#* Use, duplication or disclosure restricted by GSA ADP Schedule
+#**************************************************************/
+version: "3.0"
+
+services:
+    predictor:
+        build:
+            target: dev
+        env_file: common.env
+        environment:
+            - LOG_LEVEL=DEBUG
+        ports:
+            - "9201:5000"
+            - "9301:5678"
+        #volumes:
+        #      - ../../WAAI-Prophet/PredictorContainer/engine_WA:/opt/app-root/src/
+
+    ad:
+        build:
+            target: dev
+        env_file: common.env
+        environment:
+            - LOG_LEVEL=DEBUG
+        ports:
+            - "9202:5000"
+            - "9302:5678"
+        #volumes:
+        #    - ../../WAAI-Prophet/ADContainer:/opt/app-root/src/
+
+    orchestrator:
+        build:
+            target: dev
+        env_file: common.env
+        environment:
+            - LOG_LEVEL=DEBUG
+        ports:
+            - "9303:5678"
+        #volumes:
+        #    - ../../WAAI-Prophet/prophet_orchestrator:/opt/app-root/src/
+    exporter:
+        build:
+            target: dev
+        env_file: common.env
+        environment:
+            - LOG_LEVEL=DEBUG
+        ports:
+            - "9304:5678"
+        #volumes:
+        #   - ../../WAAI-Exporter/exporter_container:/usr/src/app
+    email:
+        build:
+            target: dev
+        env_file: common.env
+        environment:
+            - LOG_LEVEL=DEBUG
+        ports:
+            - "9205:5000"
+            - "9305:5678"
+        #volumes:
+        #    - ../../WAAI-Prophet/MailContainer:/usr/src/app    
+    redis:
+        ports:
+            - "6379:6379"
+    es:
+        ports:
+            - "9200:9200"
+    nginx:
+        build:
+            target: dev
+        env_file: common.env
+        environment:
+            - LOG_LEVEL=DEBUG
+    opensearch-dashboards:
+        image: opensearchproject/opensearch-dashboards:2.3.0
+        container_name: opensearch-dashboards
+        ports:
+            - 5601:5601
+        expose:
+            - "5601"
+        environment:
+            - 'OPENSEARCH_HOSTS=["https://aida-es:9200"]'
+            - "DISABLE_SECURITY_DASHBOARDS_PLUGIN=true" # disables security dashboards plugin in OpenSearch Dashboards
+        networks:
+            - aida-net
+        volumes:
+            - aida-dashboards-data:/usr/share/opensearch-dashboards/:rw
+
+volumes:
+    aida-dashboards-data:

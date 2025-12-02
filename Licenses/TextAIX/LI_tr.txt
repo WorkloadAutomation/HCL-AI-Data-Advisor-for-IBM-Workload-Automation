@@ -1,0 +1,28 @@
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Uluslararasý Program Lisans Sözleþmesi (i125-3301-15) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+Aþaðýdaki ölçü birimleri, Lisans Alan Tarafýn Programý kullanýmý için geçerli olabilir.
+
+Ýþlemci Deðer Birimi (PVU)
+
+Ýþlemci Deðer Birimi (PVU), bu Programýn lisanslanabileceði bir ölçü birimidir. Gereken Ýþlemci Deðer Birimi (PVU) yetkilerinin sayýsý hesaplanýrken, iþlemci teknolojisi (https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html adresindeki Daðýnýk Yazýlýmlar web sitesi için Ýþlemci Deðer Birimi (PVU) esasýyla lisanslamada tanýmlanýr) ve Program için kullanýma sunulan iþlemci sayýsý esas alýnýr. IBM, Ýþlemci Deðer Birimi esasýnda lisanslamanýn amacý doðrultusunda bir çip üzerinde yer alan her iþlemci çekirdeði için bir iþlemci tanýmlamaya devam eder. Örneðin, bir çift çekirdekli iþlemci çipinde iki adet iþlemci çekirdeði bulunur.
+
+Lisans Alan Taraf, Programý (destekleniyorsa), tam kapasite lisanslamasýný, alt kapasite lisanslamasýný (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamasýný (https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek için baaðlantýsý verilen web sitelerine bakýn.
+
+Lisans Alan Taraf, bu Program için doðrudan edinilmesi gereken yetkilerin yerine, bu Program için, Program tarafýndan yönetilen veya iþlenen kaynaklarýn üzerinde bulunduðu sistemler için iþlemci çekirdeklerini kapsamaya yetecek sayýda Ýþlemci Deðer Birimi yetkisi edinmelidir.
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+

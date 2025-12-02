@@ -1,26 +1,33 @@
 #/*******************************************************************************
 #* Licensed Materials - Property of HCL 
-#* (c) Copyright HCL Technologies Ltd. 2021. All Rights Reserved. 
+#* (c) Copyright HCL Technologies Ltd. 2023. All Rights Reserved. 
 #
 #* Note to U.S. Government Users Restricted Rights:
 #* Use, duplication or disclosure restricted by GSA ADP Schedule
 #**************************************************************/
+
 ARG REGISTRY
 ARG VERSION
-FROM ${REGISTRY}/aida-redis:${VERSION}
+FROM ${REGISTRY}aida-redis:${VERSION}
+
 EXPOSE 6379
 
 USER 0
+RUN echo ${REDIS_VERSION}
+
 
 COPY ./redis/redis.conf /usr/local/etc/redis/redis.conf
 COPY ./redis/redis.key /etc/ssl/
 COPY ./redis/redis.crt /etc/ssl/
 COPY ./redis/ca.pem /etc/ssl/certs/
 
-RUN chown -R default:users ./redis-6.2.1 \
+
+RUN sed -Ezi "s/REDIS_VERSION_TO_CHANGE/${REDIS_VERSION}/g" /usr/local/etc/redis/redis.conf
+
+RUN chown -R default:users ./redis-${REDIS_VERSION} \
     && chown -R default:users /usr/local/etc/redis/ \
     && chown -R default:users /etc/ssl/ \
-    && chmod -R 0775 ./redis-6.2.1 \
+    && chmod -R 0775 ./redis-${REDIS_VERSION} \
     && chmod -R 0775 /usr/local/etc/redis/ \
     && chmod -R 0775 /etc/ssl/
 	

@@ -1,0 +1,28 @@
+许可信息
+
+下面列出的这些程序按照以下许可信息条款和条件以及获得客户与 IBM 事先同意的程序许可条款授予许可。如果客户事先未同意对本程序生效的许可条款，那么 国际程序许可协议 (i125-3301-15) 适用。
+
+程序名称 (程序号)：
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+以下标准条款适用于被许可方对本程序的使用。
+
+可修改的第三方代码
+
+在某种程度上，如果在"第三方声明"中，IBM 将第三方代码标识为"可修改第三方代码"，那么 IBM 授权被许可方 1) 修改可修改第三方代码，以及 2) 对直接与可修改第三方代码互动的程序模块进行反向工程设计，前提是其目的仅为了调试被许可方对此类第三方代码的修改。 IBM 的服务和支持义务（如有）仅适用于未经修改的程序。
+
+以下计量单位可能适用于被许可方对本程序的使用。
+
+处理器价值单元 (PVU)
+
+“处理器价值单元”(PVU) 是获取本程序许可所使用的计量单位。必需的 PVU 权利的数量基于处理器技术定义（按照在分布式软件网站的处理器价值单元 (PVU) 许可中定义： https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html）以及为本程序提供的处理器的数量。IBM 继续将用于获取基于 PVU 许可的“一个处理器”定义为在一个芯片上的每个处理器核心。例如，双核处理器芯片拥有两个处理器核。
+
+被许可人可以使用满容量许可和次容量许可 (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) 或集装箱许可 (https://www.ibm.com/software/passportadvantage/containerlicenses.html) 来部署程序（如果支持）。有关更多信息，请参见链接的网站。
+
+被许可方还必须为本程序获取足以覆盖本程序管理或处理的资源所在系统的处理器核的 PVU 权利，而不是直接获取本程序所需的权利。
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+

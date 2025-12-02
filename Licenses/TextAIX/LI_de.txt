@@ -1,0 +1,28 @@
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für Programmpakete (i125-3301-15).
+
+Programmname (Programmnummer):
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Modifizierbarer Code einer Drittpartei
+
+Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
+
+Die folgenden Maßeinheiten können für die Programmnutzung durch den Lizenznehmer gelten.
+
+Prozessor-Value-Unit (PVU)
+
+"Prozessor-Value-Unit" (PVU) ist eine Maßeinheit für die Lizenzierung des Programms. Die Anzahl der erforderlichen PVU-Berechtigungen basiert auf der Prozessortechnologie (siehe die Website PVU-Lizenzierung für Distributed Software unter https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) und der Anzahl der Prozessoren, die dem Programm zur Verfügung stehen. Nach der weiterhin gültigen Definition von IBM ist für die Zwecke der PVU-basierten Lizenzierung jeder Prozessorkern auf einem Chip ein Prozessor. Ein Doppelkernprozessorchip hat z. B. zwei Prozessorkerne.
+
+Der Lizenznehmer kann das Programm (sofern unterstützt) mit Full-Capacity-Lizenzierung, Sub-Capacity-Lizenzierung (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) oder Container-Lizenzierung (https://www.ibm.com/software/passportadvantage/containerlicenses.html) einsetzen. Auf den verlinkten Websites sind weitere Informationen zu finden.
+
+Anstatt der Berechtigungen, die direkt für das Programm erforderlich sind, muss der Lizenznehmer PVU-Berechtigungen für das Programm erwerben, die die Prozessorkerne für die Systeme, auf denen sich die von dem Programm verwalteten oder verarbeiteten Ressourcen befinden, hinreichend abdecken.
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+

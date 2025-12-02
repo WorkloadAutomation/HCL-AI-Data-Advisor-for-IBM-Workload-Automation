@@ -1,0 +1,28 @@
+INFORMAÇÕES DA LICENÇA
+
+Os Programas listados abaixo são licenciados sob os/ao abrigo dos termos e condições da seguinte Informação sobre a Licença a seguir, além dos termos de licença do Programa acordados anteriormente pelo Cliente e pela IBM. Se o Cliente não tiver acordado anteriormente com os termos de licença em vigor para o Programa, o Contrato Internacional de Licença de Programa (i125-3301-15) será aplicável.
+
+Nome do Programa (Número do Programa):
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+Os termos padrão a seguir se aplicam o uso do Programa pelo Licenciado.
+
+Código Modificável de Terceiros
+
+Modificável de Terceiros", a IBM autorizará o Licenciado a 1) modificar o Código Modificável de Terceiros e 2) fazer engenharia reversa dos módulos do Programa que interagem diretamente com o Código Modificável de Terceiros, contanto que seja apenas com o propósito de depurar as modificações do Licenciado para tal código de terceiros. As obrigações de serviço e suporte da IBM, se houver, se aplicarão apenas ao Programa não modificado.
+
+As unidades de medida a seguir se aplicam o uso do Programa pelo Licenciado.
+
+Processor Value Unit (PVU)
+
+Processor Value Unit (PVU) é uma unidade de medida pela qual o Programa pode ser licenciado. O número de titularidades de PVU necessários é baseado na tecnologia do processador (definida no licenciamento da Processor Value Unit (PVU) para o site do Software Distribuído em https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) e no número de processadores disponibilizados para o Programa. A IBM continua a definir um processador, para o propósito/fim de licenciamento baseado em PVU, para cada núcleo de processador num chip. Um chip de processador de núcleo duplo, por exemplo, tem dois núcleos de processador.
+
+O Licenciado pode implementar o Programa (se suportado) usando o licenciamento de capacidade total, o licenciamento de subcapacidade (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ou o licenciamento de contêiner (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Consulte os sites vinculados para obter mais informações.
+
+Em vez das titularidades necessárias diretamente/directamente para o Programa, o Licenciado deve obter titularidades de PVU para este Programa que sejam suficientes para cobrir os núcleos de processador para os sistemas nos quais residem os recursos gerenciados/geridos ou processados pelo Programa.
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+

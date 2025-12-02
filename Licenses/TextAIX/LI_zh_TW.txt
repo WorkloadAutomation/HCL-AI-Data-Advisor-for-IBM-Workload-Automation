@@ -1,0 +1,28 @@
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãá£È¢ÚæûâÇÙÒü (i125-3301-15)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+Æ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£
+
+ÇãÎÃãôËçâúÄã IBM ÙòÜÉÄµÄ©á£È¢î£áþÒ³¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Õë¡¾Ó¼È´¡¿¡¢ÏÐÆü IBM ÚæûâÝ·ÚæûâÄ©ÚµÒ³Ä¶ÇÄÚÅËç¡¨ 1) ÔºÊÑ¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Å¯ 2) è×ÎþÚÙÝÙá¸¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×ÄæÆÛá£È¢í¼ÜÚâÐÈçõäÔÏÄÖá£¡¢ÚÍã¯ÓîÙ×Íõ â¸ÐêÅÂè×æÚÜÉÄµÄ©á£È¢î£ÍÔÒ³ÄæÔºÊÑâÐÈçØæòãÄæÆøÎûÈÔÒ³Äæ¡¤ IBM ÄæÎ¤Ù­êØÅÅßÎåøÙ­¡¾ÇñÎªÈ´Îûæã¡¿¡¢ã¯ïËÆîÍõÆÜÔºÊÑÄæ¡Öá£È¢¡×¡¤
+
+Ä¶ÇÄÓÓâØÞÌÈíïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+Ý¨Ü¡ðÂì¤Ô«ÞÌÈí (Processor Value Unit, PVU)
+
+¡ÖÝ¨Ü¡ðÂì¤Ô«ÞÌÈí (PVU)¡×ÏûÑÀ¡ÖÆÛá£È¢¡×ÄæÚæûâÓÓâØÞÌÈí¡¤ÍÔëæ PVU ÚæûâÄæÇ¹í°¡¢ÏûÅèÝ¨Ü¡ðÂÊÀÝ´¡¾Ý·ÌùåøÍõ ¡ÖÅ¡ß×È¢ÝÔüÕ¡×ê½×»Äæ¡ÖÝ¨Ü¡ðÂì¤Ô«ÞÌÈí (PVU)¡×ÚæûâÄù¡¢æÛÄ¶ÇÄê½Éß¡¨https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html¡¿Å¯Ëò¡ÖÆÛá£È¢¡×ËðÆîÄæÝ¨Ü¡ðÂí°âØÒ³Ù×öð¡¤IBM Ò³Åè PVU Ò³ÚæûâÓÓâØÞÌÈíÄæÆøÎû¡¢Ä¡ÝËÙòÄ¡Ô¶Ý¨Ü¡ðÂÌùåøÒ³ßÞÅÚÄ¸ÄæÊäÄ¡Ý¨Ü¡ðÂÕøÅÀ¡¤ËóÇñ¡¢÷äÕøÅÀÝ¨Ü¡ðÂßÞÅÚÈ´Ä¨Ô¶Ý¨Ü¡ðÂÕøÅÀ¡¤
+
+Ý·ÚæûâÄ©Æ«ÚèÆîÇÀÕ©âØÚæûâ¡£ÄÍÕ©âØÚæûâ (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ÍÐóÃÇôðÂÚæûâ (https://www.ibm.com/software/passportadvantage/containerlicenses.html) Ýåå÷¡ÖÆÛá£È¢¡×¡¤ÇñëæÌ§ÅìæñØ¹¡¢îùÙ¶ïåù¹á¸ê½×»¡¤
+
+Ý·ÚæûâÄ©óÜÒ³ÆÛá£È¢Ì½ÚµËÍÅèÛàêäÆÛá£È¢Ú·Äãê§Ü¡ÍÐÝ¨Ü¡æñäãÄæË·ÜÓÄæÝ¨Ü¡ðÂÕøÅÀÄæ PVU Úæûâí°âØ¡¢ÈÔÏæÎþÚÙÌ½Úµ¡ÖÆÛá£È¢¡×ÍÔëæÄæÚæûâí°âØ¡¤
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+
