@@ -8,11 +8,7 @@
 
 services:
     config:
-<<<<<<< HEAD
         image: wa-registry.prod.hclpnp.com/wa-aida/aida-ibm/aida-config:10.2.6
-=======
-        image: cp.icr.io/cp/ibm-workload-automation-aida-config:10.2.3
->>>>>>> main
         logging:
             options:
                 max-size: "100m"
