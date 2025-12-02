@@ -76,6 +76,7 @@ down_volumes() {
 }
 
 build() {
+<<<<<<< HEAD
 	$CONTAINER_RUNTIME compose -f $yml build --build-arg REGISTRY='wa-registry.prod.hclpnp.com/wa-aida/aida-ibm/' --build-arg VERSION=10.2.6
     $CONTAINER_RUNTIME compose -f $yml up --no-start
 }
@@ -87,6 +88,15 @@ build_start() {
 
 up() {
     $CONTAINER_RUNTIME compose -f $yml up -d
+=======
+	docker-compose -f $1 build --build-arg REGISTRY="cp.icr.io/cp" --build-arg VERSION=10.2.3
+    docker-compose -f $1 up --no-start
+}
+
+build_start() {
+	docker-compose -f $1 build --build-arg REGISTRY="cp.icr.io/cp" --build-arg VERSION=10.2.3 $2
+    docker-compose -f $1 up -d $2
+>>>>>>> main
 }
 
 first_start() {
@@ -120,7 +130,11 @@ first_start() {
 }
 
 start_config() {
+<<<<<<< HEAD
     if ! $CONTAINER_RUNTIME image inspect "wa-registry.prod.hclpnp.com/wa-aida/aida-ibm/aida-config:10.2.6" >&/dev/null; then
+=======
+    if ! docker image inspect "cp.icr.io/cp/ibm-workload-automation-aida-config:10.2.3" >&/dev/null; then
+>>>>>>> main
         echo "Loading configuration container image..."
         for f in ../aida-*.t*; do cat $f | $CONTAINER_RUNTIME load; done
     fi
