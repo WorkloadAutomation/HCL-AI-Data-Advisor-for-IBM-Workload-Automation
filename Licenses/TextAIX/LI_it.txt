@@ -1,0 +1,28 @@
+INFORMAZIONI RELATIVE ALLA LICENZA
+
+I Programmi elencati di seguito sono concessi in licenza in base alle seguenti clausole e condizioni License Information in aggiunta alle clausole della licenza del Programma precedentemente accettate dal Cliente e IBM. Se il Cliente non ha accettato precedentemente le clausole della licenza in vigore per il Programma, si applica Accordo Internazionale di Licenza di Programmi (i125-3301-15).
+
+Nome Programma (Numero Programma):
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+Le seguenti clausole standard si applicano all'utilizzo del Programma da parte del licenziatario.
+
+Codice di Terze Parti Modificabile
+
+Se e nei limiti in cui, nei file NOTICES, IBM dovesse identificare codice di terze parti come "Codice di Terze Parti Modificabile", IBM autorizza il Licenziatario a 1) modificare il Codice di Terze Parti Modificabile e 2) eseguire il reverse engineer dei moduli del Programma che si interfacciano direttamente con il Codice di Terze Parti Modificabile a condizione che sia solo allo scopo di eseguire il debug delle modifiche del Licenziatario per tale codice di terze parti. Gli obblighi di servizio e supporto di IBM, se esistenti, si applicano solo al Programma non modificato.
+
+Le seguenti unità di misura possono essere applicabili all'utilizzo del Programma da parte del licenziatario.
+
+Processor Value Unit (PVU)
+
+Processor Value Unit (PVU) è l'unità di misura per cui il Programma può essere concesso in licenza. Il numero di titolarità PVU richiesto si basa sulla tecnologia del processore (definita all'interno della licenza PVU (Processor Value Unit) per il sito web del software distribuito all'indirizzo https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) e sul numero di processori resi disponibili al Programma. IBM continua a definire un processore come ciascun core del processore su un chip, ai fini della licenza basata su PVU. Ad esempio un dual-core del processore su chip ha due processor core.
+
+Il licenziatario può sviluppare il Programma (se supportato) utilizzando la licenza full capacity, la licenza per sub-capacity (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), o la licenza container (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Per ulteriori informazioni, esaminare i link delle pagine web.
+
+Invece delle titolarità richieste per il Programma direttamente, il licenziatario deve ottenere titolarità PVU per questo Programma sufficienti a coprire i processor core per i sistemi su cui risiedono le risorse gestite o elaborate dal Programma.
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+

@@ -1,16 +1,26 @@
 #/*******************************************************************************
 #* Licensed Materials - Property of HCL 
-#* (c) Copyright HCL Technologies Ltd. 2021. All Rights Reserved. 
+#* (c) Copyright HCL Technologies Ltd. 2023. All Rights Reserved. 
 #
 #* Note to U.S. Government Users Restricted Rights:
 #* Use, duplication or disclosure restricted by GSA ADP Schedule
 #**************************************************************/
+
 ARG REGISTRY
 ARG VERSION
-FROM ${REGISTRY}/aida-email:${VERSION}
+FROM ${REGISTRY}aida-email:${VERSION} AS base
 
 WORKDIR /usr/src/app
-
 EXPOSE 5000
 
-CMD python3 ./sendMail.py
+FROM base AS dev
+RUN pip install debugpy
+CMD python -m debugpy --listen 0.0.0.0:5678 -m gunicorn -b 0.0.0.0:5000 -k gthread -w 1 --threads 1 --reload -t 0 'sendMail:app'
+
+FROM base AS debug
+RUN pip install debugpy
+CMD python -m debugpy --wait-for-client --listen 0.0.0.0:5678 -m gunicorn -b 0.0.0.0:5000 -k gthread -w 1 --threads 1 --reload -t 0 'sendMail:app'
+
+
+FROM base AS release
+CMD gunicorn -b 0.0.0.0:5000 -k gthread -w 1 --threads 1 'sendMail:app'

@@ -1,34 +1,23 @@
-#/*******************************************************************************
-#* Licensed Materials - Property of HCL 
-#* (c) Copyright HCL Technologies Ltd. 2021. All Rights Reserved. 
-#
-#* Note to U.S. Government Users Restricted Rights:
-#* Use, duplication or disclosure restricted by GSA ADP Schedule
-#**************************************************************/
+FROM quay.io/keycloak/keycloak:22.0.5
+EXPOSE 8080
 
-FROM jboss/keycloak:16.1.1
+ENV KEYCLOAK_PATH opt/keycloak
+ENV KEYCLOAK_USER_MANAGER ${KEYCLOAK_PATH}/bin/kcadm.sh
+ENV KEYCLOAK_ADMIN admin
+ENV KEYCLOAK_ADMIN_PASSWORD admin
 
-USER 0
+ENV KC_HOSTNAME_STRICT false
+ENV KC_PROXY_ADDRESS_FORWARDING true
 
-RUN microdnf update -y && microdnf install -y glibc-langpack-en gzip hostname java-11-openjdk-headless openssl tar which && microdnf clean all
+COPY keycloak/aida-realm.json ${KEYCLOAK_PATH}/data/import/aida-realm.json
+COPY keycloak/base_themes ${KEYCLOAK_PATH}/themes/
+COPY keycloak/keycloak.conf ${KEYCLOAK_PATH}/conf/keycloak.conf
 
-USER jboss:users
+RUN mkdir -p ${KEYCLOAK_PATH}/data/h2
+RUN chmod -R 777 ${KEYCLOAK_PATH}/data/h2
 
-ARG REGISTRY
-ENV REGISTRY ${REGISTRY}
+RUN ${KEYCLOAK_PATH}/bin/kc.sh build
 
-RUN sed -i -e 's/<web-context>auth<\/web-context>/<web-context>keycloak\/auth<\/web-context>/' $JBOSS_HOME/standalone/configuration/standalone.xml
-RUN sed -i -e 's/<web-context>auth<\/web-context>/<web-context>keycloak\/auth<\/web-context>/' $JBOSS_HOME/standalone/configuration/standalone-ha.xml
+ENTRYPOINT ${KEYCLOAK_PATH}/bin/kc.sh start --import-realm --auto-build
 
-ADD ./keycloak/aida-realm.json /tmp/aida-realm.json
-ENV KEYCLOAK_IMPORT=/tmp/aida-realm.json
 
-ADD --chown=jboss ./login-theme /opt/jboss/keycloak/themes
-RUN if grep -q "ibm" <<< "$REGISTRY" ; then rm -rf /opt/jboss/keycloak/themes/custom/* && cp -r /opt/jboss/keycloak/themes/IBM/* /opt/jboss/keycloak/themes/custom; fi
-
-RUN rm -rf /opt/jboss/keycloak/themes/IBM
-
-RUN /opt/jboss/keycloak/bin/add-user-keycloak.sh --user aidauser --password user --realm aida --roles aida-user
-RUN /opt/jboss/keycloak/bin/add-user-keycloak.sh --user aidaadmin --password admin --realm aida --roles aida-admin
-
-RUN /opt/jboss/keycloak/bin/add-user-keycloak.sh -u admin -p admin

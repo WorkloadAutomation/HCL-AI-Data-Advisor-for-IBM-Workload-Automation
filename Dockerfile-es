@@ -1,9 +1,43 @@
 #/*******************************************************************************
 #* Licensed Materials - Property of HCL 
-#* (c) Copyright HCL Technologies Ltd. 2021. All Rights Reserved. 
+#* (c) Copyright HCL Technologies Ltd. 2023. All Rights Reserved. 
 #
 #* Note to U.S. Government Users Restricted Rights:
 #* Use, duplication or disclosure restricted by GSA ADP Schedule
+#**************************************************************/
+
+FROM registry.access.redhat.com/ubi9/ubi:9.2-696
+
+USER 0
+
+RUN echo 'vm.max_map_count=262144' >> /etc/sysctl.conf
+
+ARG UID=1000
+ARG GID=1000
+
+EXPOSE 9200
+
+# Create an opensearch user, group, and directory
+RUN groupadd -g $GID opensearch && \
+    adduser -u $UID -g $GID -d /usr/share/opensearch opensearch 
+
+WORKDIR /usr/share/opensearch
+
+RUN yum -y install java-17-openjdk-devel wget unzip initscripts && yum clean all
+
+RUN curl https://artifacts.opensearch.org/releases/bundle/opensearch/2.3.0/opensearch-2.3.0-linux-x64.tar.gz -o ./opensearch.tar.gz \
+&&  tar -zxf ./opensearch.tar.gz --strip-components=1 && rm ./opensearch.tar.gz
+
+COPY ./config /usr/share/opensearch/config
+
+ENV JAVA_HOME=/usr
+
+RUN mkdir -p /usr/share/opensearch/data && chown -R opensearch:opensearch /usr/share/opensearch
+
+# Create the folder with the name specified 
+# Insert file into the folder
 
 
-COPY ./config/ /etc/elasticsearch/
+USER opensearch:opensearch
+
+ENTRYPOINT ["./bin/opensearch"]

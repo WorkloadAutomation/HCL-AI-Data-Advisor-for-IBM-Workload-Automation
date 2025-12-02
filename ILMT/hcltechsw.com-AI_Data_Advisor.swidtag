@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SoftwareIdentity name="AI Data Advisor" tagId="hcltechsw.com-c6c4bf76a7d34c22a24bdc0a882f80bf-10.2.3.0" version="10.2.3.0" versionScheme="multipartnumeric" xml:lang="en" xmlns="http://standards.iso.org/iso/19770/-2/2015/schema.xsd" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://standards.iso.org/iso/19770/-2/2015-current/schema.xsd schema.xsd">
+    <Meta persistentId="c6c4bf76a7d34c22a24bdc0a882f80bf"/>
+    <Meta generator="HCL ISO SWID TAG 0.1"/>
+    <Meta componentonly="true"/>
+    <Entity name="HCL" regid="hcltechsw.com" role="licensor tagCreator softwareCreator"/>
+</SoftwareIdentity>

@@ -1,0 +1,28 @@
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Program (i125-3301-15).
+
+Nazwa Programu (Numer Programu):
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Poni¿sze jednostki miary maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Procesorowa Jednostka Warto¶ci
+
+Procesorowa Jednostka Warto¶ci (Processor Value Unit, zwana dalej "PVU") to jednostka miary, wed³ug której licencjonowany jest Program. Liczba wymaganych uprawnieñ PVU zale¿y od technologii procesorowej (zdefiniowanej w ramach licencjonowania wed³ug jednostek PVU w serwisie WWW oprogramowania pod adresem https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) oraz od liczby procesorów udostêpnionych dla Programu. Na potrzeby licencjonowania w oparciu o jednostki PVU, IBM w dalszym ci±gu definiuje jako procesor ka¿dy rdzeñ procesora w uk³adzie scalonym. I tak na przyk³ad procesor dwurdzeniowy traktowany jest jako dwa procesory.
+
+Licencjobiorca mo¿e zainstalowaæ Program (je¶li jest obs³ugiwany) z licencjonowaniem wed³ug pe³nej mocy obliczeniowej, ograniczonej mocy obliczeniowej (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) lub wed³ug kontenerów(https://www.ibm.com/software/passportadvantage/containerlicenses.html). Wiêcej informacji na ten temat mo¿na znale¼æ w serwisach WWW, do których kieruj± podane odsy³acze.
+
+Zamiast uprawnieñ wymaganych bezpo¶rednio dla Programu, Licencjobiorca musi nabyæ uprawnienia PVU dla tego Programu obejmuj±ce rdzenie procesorów dla systemów, w których rezyduj± zasoby zarz±dzane lub przetwarzane przez Program.
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+

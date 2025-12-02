@@ -1,0 +1,580 @@
+﻿
+MASTER LICENSE AGREEMENT
+
+This Master License Agreement (“Agreement”) is BETWEEN
+HCL Technologies Limited a company incorporated under the laws of India and having its registered offices at 
+806 Siddharth, 96 Nehru Place, New Delhi-110019; and HCL America, Inc., a California corporation with an 
+office at 2600 Great America Way, Suite 101 and 401, Santa Clara, CA 95054 (together referred to as 
+“HCLSoftware”); and ______________ (“Licensee”). 
+The Agreement governs the receipt and use of HCLSoftware Programs and related Support (as defined below).  
+HCLSoftware and Licensee are hereinafter referred to individually or collectively, as “Party” or “Parties.” 
+	
+1.	Definitions.  In addition to the terms defined above and elsewhere in this Agreement, the following terms will 
+have the meaning set forth below: 
+1.1. “Affiliate” means an entity that controls, is controlled by, or shares common control with HCLSoftware or 
+Licensee, where such control arises from either (a) a direct or indirect ownership interest of more than 
+fifty percent (50%) of the outstanding voting stock and/or equivalent interest, or (b) the power to direct 
+or cause the direction of the management and policies, whether through the ownership of voting stock 
+and/or equivalent interest, by contract, or otherwise, equal to that provided by a direct or indirect 
+ownership of more than fifty percent (50%) of the outstanding voting stock and/or equivalent interest.
+1.2. “Authorized Users” means the representatives authorized by Licensee including employees, temporary 
+agency staff, contractors, consultants and service providers to access and use the Program(s) as specified 
+in an Order pursuant to the terms of this Agreement and subject to Section 3 and Section 4 of this 
+Agreement.
+1.3. “Documentation” means HCLSoftware’s guides, manuals, and other technical information in printed and 
+machine-readable form that describes the functionality and use of the Program(s). 
+1.4. “Effective Date” means the earlier of the date of acceptance of this Agreement or of the first Order.
+1.5. “Feedback” means (i) Licensee's requirements, input, comments, responses, opinions, and feedback, 
+concerning the definition, design or validation of the Program and Documentation or (ii) Licensee's 
+technical Program Requirements for HCLSoftware to include in the Program specifications, design or 
+validation. 
+1.6. “Fees” means license, Support, and other fees as specified in an Order or provided under this Agreement.
+1.7. “Intellectual Property Rights” or “IPR” means any ideas, whether or not patentable, inventions, 
+discoveries, processes, works of authorship, marks, names, know-how, and any and all rights in such 
+materials on a worldwide basis, including any rights in patents, inventor’s certificates, utility models, 
+copyrights, moral rights, trade secrets, mask works, and all related, similar or other intellectual property 
+rights recognized in any jurisdiction worldwide, including all applications and registrations with respect 
+thereto.
+1.8. “Licensed Capacity” means the quantity of each Program licensed as specified in an Order.
+1.9. “License Information Document”, means a document that provides information and any additional terms 
+specific to a Program. License Information Documents as applicable are made available at 
+https://www.hcltechsw.com/wps/portal/resources/license-agreements.
+1.10. "Object Code" means software, including all computer programming code, entirely in binary form, 
+which is directly executable by a computer and includes those help, message, overlay, and other files 
+necessary for supporting the intended use of the executable code. 
+1.11. “Open Source Software” means software licensed under an open source license.
+1.12. “Order” means an agreed written or electronic document, and any purchase order issued by the 
+Licensee, which shall be subject to the terms and conditions of this Agreement that identifies the 
+Programs to be licensed, the Licensed Capacity thereof, applicable Fees, including tax and payment 
+terms and the Support to be purchased, and any other applicable terms (including but not limited to a 
+listing of any additional Authorized Users, which for avoidance of doubt Licensee shall be responsible 
+for their agreement and compliance with the terms hereof and such obligation shall be deemed part of 
+Section 3). Solely for administrative convenience of the Parties in ordering hereunder, Licensee may 
+issue a purchase order referencing an HCLSoftware Order form in lieu of the Parties signing the 
+HCLSoftware Order form (HCLSoftware Program License and Support Order Schedule) and such 
+purchase order shall then be deemed an Order for ordering purposes, and any different terms in such 
+purchase order will not apply. The purpose of the purchase order is solely for identifying pricing, 
+product/service selected, and quantity for ordering hereunder. 
+1.13. “Problem” means a reproducible condition that causes the operation of a Program to deviate from its 
+Documentation, when such Program is used with the prescribed Program Requirements and so as to 
+impact Licensee’s ability to use the Program in the manner described in the Documentation.
+1.14. “Program(s)” means the Object Code of the software and all accompanying Documentation, delivered 
+by HCLSoftware to Licensee, including all items delivered by HCLSoftware to Licensee under Support.
+1.15. “Program Requirements” means any software, materials, operating systems, hardware, platforms and 
+prerequisite items identified in the Documentation or License Information Document or other 
+specifications provided by HCLSoftware which are not included or part of the Programs and are 
+required to ensure that the Program operates in accordance with the Documentation.
+1.16. “Source Code” means computer programming code in human readable form and related system level 
+documentation, including all associated comments, symbols, and any procedural code such as job 
+control language.
+1.17. “Territory” means world-wide except for those countries considered embargoed or sanctioned countries 
+under U.S. or applicable laws or regulations. 
+1.18. “Third Party Software” means third party software, libraries, and components excluding Open Source 
+Software incorporated in or included with a Program.    
+2.	Agreement Structure.  
+HCL America Inc. is the owner and/or licensor of the Intellectual Property Rights in the VoltMX Program. 
+HCL Technologies Limited is the owner and/or licensor of all other Program(s) and all associated Intellectual 
+Property Rights. HCL America Inc.  is a wholly owned subsidiary of HCL Technologies Limited. Licenses are 
+granted and Support is obtained solely in connection with valid Orders. For Orders issued in the US, HCL 
+America Inc.  shall be the billing entity for each VoltMX Program Order. HCL Technologies Limited shall be 
+the billing entity for all other Orders. For the rest of the world the billing entity will be the HCLSoftware entity 
+stated on the applicable Order.  Each Order is subject to the terms of this Agreement and any License 
+Information Document, if applicable, and deemed to be a discrete contract, separate from each other Order, 
+unless expressly stated otherwise therein.  Orders may be entered into under this Agreement by and between (a) 
+HCLSoftware or an Affiliate of HCLSoftware; and (b) the Licensee or an Affiliate of Licensee.  With respect to 
+an Order, the term HCLSoftware or Licensee (or Customer) will be deemed to refer to the entities that execute 
+such Order.  Neither execution of this Agreement nor anything contained herein will obligate either Party to 
+enter into any Orders.  In the event an Order is proposed by HCLSoftware, and is deemed to constitute an offer, 
+then acceptance of such offer is limited to its terms.  As also set forth in Section 1.12 (Order) hereof, in the 
+event Licensee proposes or accepts an Order by submitting a Licensee purchase order, order document, 
+acknowledgment, or other Licensee communication, then regardless of whether HCLSoftware acknowledges, 
+accepts, fully or partially performs under any such document, HCLSoftware objects to and rejects any 
+additional or different terms in such document and no such additional or different terms will become part of the 
+agreement between the Parties even if HCLSoftware uses or refers to such document for invoicing purposes.
+
+3.	License Grant
+3.1	Subject to the terms, conditions, and other restrictions set forth in this Agreement, and a valid Order 
+(including timely payments of any Fees therein), HCLSoftware grants to Licensee a non-exclusive, non-
+transferable, limited, and revocable license, without the right to sublicense, under HCLSoftware IPR, to 
+install, access, and use the Programs (i) in the Territory (ii) up to the Licensed Capacity; (iii) only for 
+Licensee’s internal business purposes); (iv) for the term stated in the applicable Order; and (v) in 
+accordance with the Documentation, License Information Document and the applicable Order.  For 
+avoidance of doubt, Licensee has no rights to create derivative works, assign, distribute, lease, rent, or 
+otherwise transfer the Program(s).
+3.2	Licensee Affiliates and Authorized Users may install, access, and use the Programs and Support under the 
+terms of this Agreement, and such use shall be counted in determining Licensee’s utilization of the 
+Licensed Capacity. Licensee shall remain fully responsible for ensuring its Affiliates’ and Authorized 
+Users’ agreement and compliance with the terms of this Agreement and the Order.
+3.3	HCLSoftware may, in its sole discretion, make available pre-release, alpha or beta versions of the Program, 
+pre-release, alpha or beta Program features and/or pre-release, alpha or beta Program code that are not 
+generally available to date (hereinafter referred to as the “Pre-release Program”). HCLSoftware does not 
+guarantee that the generally available release will be identical to the Pre-release Program or that the 
+generally available release will not require reinstallation. Licensee agrees that if it registers for Support or if 
+otherwise required by HCLSoftware, Licensee shall provide HCLSoftware with specific information 
+concerning Licensee’s experiences with the operation of the Pre-Release Program.  Licensee agrees and 
+acknowledges that the Pre-release Program (a) is to be used only for testing purposes and not to perform 
+any production activities unless HCLSoftware shall have otherwise approved in writing and (b) has not 
+been tested or debugged and is experimental and that the documentation may be in draft form and will, in 
+many cases, be incomplete.  Licensee agrees that HCLSoftware makes no representations regarding the 
+completeness, accuracy or Licensee’s use or operation of the Pre-Release Program.  PRE-RELEASE 
+PROGRAMS ARE PROVIDED ON AN "AS IS" BASIS, WITHOUT ANY INDEMNITY, WARRANTY 
+OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING WITHOUT 
+LIMITATION, ANY WARRANTIES OR REPRESENTATIONS OF TITLE, NON-INFRINGEMENT, 
+MERCHANTABILITY OR FITNESS FOR PURPOSE AS WELL AS ANY EXPRESS WARRANTIES 
+PROVIDED ELSEWHERE IN THIS AGREEMENT. If Licensee is also a tester of the Pre-release 
+Program (as defined by the pre-release testing agreement (“Pre-Release Agreement”) that was agreed to by 
+Licensee during the registration process before obtaining the Pre-release Program), Licensee agrees that the 
+terms of this Agreement are in addition to, and do not supersede, the terms of the Pre-Release Agreement.
+3.4	 If the Program is being licensed on a trial, demonstration or evaluation basis, Licensee agrees to use the 
+Program solely for such purposes, in accordance with the usage restrictions set forth in Section 4, for the 
+evaluation period defined in the applicable Order or trial document (the "Trial Period").  At the end of the 
+Trial Period, Licensee’s right to use the Program automatically expires and Licensee agrees to de-install the 
+Program and return to HCLSoftware all copies or partial copies of the Program or certify to HCLSoftware 
+in writing that all copies or partial copies of the Program have been deleted from Licensee’s computer 
+libraries and/or storage devices and destroyed.  If Licensee desires to continue its use of the Program 
+beyond the Trial Period, Licensee may contact HCLSoftware or an HCLSoftware Affiliate to acquire a 
+license to the Program for the applicable fee.  LICENSEE’S USE OF THE PROGRAM DURING THE 
+TRIAL PERIOD IS ON AN "AS IS" BASIS WITHOUT ANY INDEMNITY, WARRANTY OR 
+REPRESENTATION OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT 
+LIMITATION, ANY WARRANTIES OR REPRESENTATIONS OF TITLE, NON-INFRINGEMENT, 
+MERCHANTABILITY OR FITNESS FOR PURPOSE, AS WELL AS ANY EXPRESS WARRANTIES 
+PROVIDED ELSEWHERE IN THIS AGREEMENT. 
+3.5	Licensee hereby acknowledges that the Program(s) may contain Third Party Software and/or Open Source 
+Software and/or may require Program Requirements.  In the event that Open Source or Third Party 
+Software is included in the Program(s), such Open Source or Third Party Software is made available to 
+Licensee in accordance with the licenses for such Open Source or Third Party Software. In the event that 
+the Program relies on Program Requirements and unless expressly provided otherwise in an Order, 
+Licensee agrees that: (a) HCLSoftware and its Affiliates have not obtained or conveyed to Licensee any 
+Intellectual Property Rights to use the applicable Program Requirements; (b) Licensee shall be solely 
+responsible, at its cost and expense, for procuring the required rights/licenses in the Program Requirements; 
+(c) HCLSoftware does not provide any warranties or support for Program Requirements; and (d) any claims 
+with respect to the Program Requirements shall be made against the applicable third party provider of such 
+Program Requirements.
+4.	License Restrictions 
+4.1. Restrictions. Except for the limited licenses expressly granted in Section 3, Licensee has no further 
+rights in the Program(s), whether express, implied, arising from estoppel or otherwise. Further restrictions 
+regarding Licensee’s use of any and all Program(s) are set forth below.  Except as expressly authorized 
+herein, Licensee will not: 
+4.1.1.	prepare any derivative works, or otherwise use, copy, modify, distribute, assign, sublicense, lease, 
+rent, or otherwise transfer the Program(s), except to the extent required by law;
+4.1.2.	use the Programs in an outsourcing or service bureau environment on its behalf and/or on behalf of 
+non-affiliated third parties or allow the Programs to be used by an outsourcing or service bureau 
+provider on behalf of the Licensee; 
+4.1.3.	distribute the Program to end-users as on-premises distributions or offer the Program as a cloud 
+service or software-as-a-service to any end-users;   
+4.1.4.	reverse engineer, reverse assemble, reverse compile, translate, or otherwise attempt to discover the 
+Source Code form of any Program(s) that are provided in Object Code form, except as permitted by 
+the national or regional law of the places where the Licensee does business (without the opportunity 
+for contractual waiver), and then only with respect to the particular copy of Object Code incorporated 
+into that particular Program;
+4.1.5.	use any of the Program’s components, files, modules, audio-visual content, or related licensed 
+materials separately from the Program;
+4.1.6.	attempt to disable or circumvent any of the licensing mechanisms within the Program;
+4.1.7.	alter or remove any copyright, trademark or patent notice(s) in the Programs; and
+4.1.8.	use the Programs in a way that requires the Programs to be licensed as Open Source Software.
+5.	Feedback.  Licensee is not obligated to provide Feedback to HCLSoftware. To the extent that Licensee 
+provides Feedback to HCLSoftware, Licensee hereby grants to HCLSoftware a worldwide, non-exclusive, 
+perpetual, irrevocable, royalty-free license, with the right to sublicense, under any and all Licensee IPR in and 
+to the Feedback to make, use, sell, offer to sell, have made, import, reproduce, prepare derivative works, 
+distribute, incorporate or otherwise utilize such Feedback.  
+6.	Ownership.  Licensee acknowledges that, as between Licensee and HCLSoftware, HCLSoftware has exclusive 
+right, title and interest in and to all of the IPR in and to the Program(s).  Notwithstanding the use of the terms 
+“purchase”, “sale”, or any similar terminology in connection with a transaction contemplated by this 
+Agreement, the Program(s) are licensed, not sold. HCL America Inc.  is not a sub-licensor of the HCL 
+Technologies Limited IPR.  HCL Technologies Limited is not a sub-licensor of the HCL America Inc.  IPR. 
+7.	Delivery. Provided Licensee is current on all applicable payment obligations HCLSoftware will make 
+Program(s) available to Licensee.  All Programs are delivered electronically unless stated otherwise in an Order 
+and Licensee agrees upon request from HCLSoftware to provide HCLSoftware with documentation supporting 
+that the designated items were received electronically.  
+8.	Support and Updates
+Support services (“Support”) are provided by HCLSoftware as described in the current support guide (“Support 
+Guide”) posted at https://support.hcltechsw.com/csm. Upon purchase of a license for the Program(s), Licensee 
+is enrolled in standard Support for the Program(s) identified in an Order for the first 12 months thereof at no 
+additional cost. While HCLSoftware Support is in effect, HCLSoftware may make available defect corrections, 
+restrictions, bypasses, new versions, releases, or updates available as part of Support.  Any items provided 
+under Support are subject to the same terms, conditions, usage limitations and restrictions as the Program 
+originally licensed to Licensee by HCLSoftware and any applicable License Information Document.
+9.	Licensee Data and Privacy
+9.1	HCLSoftware as controller.  Licensee authorizes HCLSoftware and its Affiliates to store and use Licensee's 
+business contact information wherever it does business, in connection with Licensee’s use of HCLSoftware 
+Programs and related services or Support, or in furtherance of HCLSoftware's business relationship with 
+Licensee. Any personal data used by HCLSoftware as a data controller will  be processed under the terms of the 
+HCLSoftware online privacy statement found here: https://www.hcltechsw.com/wps/portal/legal/privacy. 
+9.2	Data excluding personal data. To assist Licensee in isolating the cause of an error or Problem with the 
+Program(s), HCLSoftware may request that Licensee send certain information to HCLSoftware. Such 
+information may include metadata, usage metrics, and/or system data, excluding personally identifiable 
+information. Licensee acknowledges that HCLSoftware uses information about errors and problems to improve 
+its products and services and to assist with its provision of related Support offerings. Licensee is responsible for 
+ensuring that such data is backed up before providing same and that it is sent only through HCLSoftware 
+approved secure channels. 
+9.3	HCLSoftware as processor. To the extent Licensee provides personally identifiable information to 
+HCLSoftware for purposes of using the Program, or for receiving Support or related services (including 
+information contained in a support ticket or file attachment), such information shall be processed by 
+HCLSoftware as a data processor. The terms of the HCLSoftware data processing addendum (“DPA”) found at 
+https://www.hcltechsw.com/wps/portal/resources/master-agreements posted as of the Effective Date shall apply 
+to such processing and are hereby incorporated by reference. To the extent personal data from the European 
+Economic Area (EEA), the United Kingdom and Switzerland are processed by HCLSoftware, the Standard 
+Contractual Clauses shall apply, as further set forth in the DPA. For the purposes of the Standard Contractual 
+Clauses, Licensee and its applicable Affiliates are each the data exporter, and Licensee’s acceptance of this 
+Agreement shall be treated as its execution of the Standard Contractual Clauses and Appendices. Licensee 
+acknowledges that it shall have no reason to provide sensitive personal data/special category of personal data to 
+HCLSoftware for any purposes and shall not include same in any support ticket or file attachment without 
+HCLSoftware’s prior express written consent. 
+9.4	Protection of Licensee Data. HCLSoftware will maintain appropriate administrative, physical, and 
+technical safeguards for protection of the security, confidentiality and integrity of Licensee data, as described in 
+HCLSoftware’s Technical and Organizational Measures found here: https://www.hcltechsw.com/resources/sw-
+toms
+
+10.	Payments.  
+10.1. Fees.  Licensee will pay any and all Fees, without deduction, offset or withholding, as detailed in the 
+Order. Except as provided therein, all amounts in the Order are in United States Dollars (USD). 
+HCLSoftware will invoice Licensee annually in advance.  Licensee will pay HCLSoftware for the amounts 
+due, owing, and duly invoiced under the Order within thirty (30) days of the date of invoice. Licensee shall 
+make all payments pursuant to the Order through electronic transfer of funds to the designated bank 
+accounts as nominated by HCLSoftware in writing. Overdue amounts payable under the Order will bear 
+interest from the original due date at the rate of one percent (1%) per month or the maximum legal rate, 
+whichever is less. Except as provided in this Agreement, all Fees are non-refundable and non-cancellable. 
+If the Licensee has a bona fide dispute in respect of the whole or any part of any invoice, Licensee shall 
+notify HCLSoftware in writing within ten (10) days of receipt of an invoice and, if a dispute remains 
+unresolved within 10 days of receipt of notification, Licensee may withhold payment of the amount in 
+dispute but shall pay the undisputed amount in accordance with this Agreement. If HCLSoftware 
+subsequently determines any disputed amount is due from Licensee, or if the Parties resolve the payment 
+dispute, the amount due shall be paid within 7 days after such determination or resolution.
+10.2. Right to charge additional Fee. Where applicable, HCLSoftware reserves the right to charge, upon notice 
+to the Licensee, additional fees if applicable for (i) over deployment as per Section 11; and (ii) re-
+instatement fee for lapsed Support and/or other Program.
+10.3. Taxes.  All Fees quoted are exclusive of taxes. Licensee is responsible for payment of any and all sales, 
+use, value added, GST, and other similar taxes or governmental fees associated with the Order, except for 
+taxes based on HCLSoftware’s net income, gross revenue or employment obligations. If HCLSoftware is 
+obligated by applicable law to collect and remit any taxes or fees, the appropriate tax or fee amount will be 
+charged and set forth in the applicable invoice. Licensee agrees to bear any withholding tax liability as may 
+be required by applicable law and would increase payment due under the Order by such an amount so that 
+the net payment made to HCLSoftware after deduction of applicable withholding tax is the same, had there 
+been no withholding tax applicable. Licensee is solely responsible for timely and accurate payment of 
+applicable taxes and fees without deduction from HCLSoftware’s invoiced amounts, irrespective of what 
+HCLSoftware’s invoice may state. Subject to applicable laws and presentation of a valid tax exemption 
+certificate provided within the period of the payment terms, HCLSoftware will make relevant adjustments 
+in the invoice.  Licensee shall remain liable for any incorrect claims of tax exemptions.
+11.	License Compliance.  Licensee agrees that HCLSoftware may, no more than one time per twelve (12) month 
+period, audit the Licensee’s use of the Programs including but not limited to software logs of Licensee, its 
+Affiliates and Authorized Users, relating to the Program in order to verify their use in compliance with this 
+Agreement and/or the Order.  HCLSoftware may make copies of any such software logs to the extent 
+necessary to verify Licensee’s compliance with the terms hereof.  HCLSoftware may at its option and cost, 
+engage an independent third party to do such audit, provided that such third party is subject to confidentiality 
+obligations consistent with this Agreement.  The audit may be conducted at any sites of Licensee’s Affiliates 
+and Authorized Users, where the Program is installed, used or accessed from, including remotely.  
+HCLSoftware will bear its own costs in connection with an audit. HCLSoftware will provide fifteen (15) 
+calendar days’ notice prior to an audit.  Any such audit will be performed during the usual business hours of 
+the Licensee, its Affiliates or Authorized Users and HCLSoftware will use commercially reasonable efforts to 
+have the audit conducted in a manner that minimizes disruption to business.  Licensee, its Affiliates, and 
+Authorized Users will provide all assistance reasonably necessary for HCLSoftware to carry out such audit.  If 
+the audit reveals underpayments, including but not limited to any underpayments due to any usage of Programs 
+other than as authorized in this Agreement, Licensee will promptly make such payments and in case of 
+unauthorized usage, pay for the differentials at HCLSoftware’s then list price for the Program.  As with all 
+provisions of this Agreement, HCLSoftware’s rights and remedies in this section will be without prejudice to 
+other rights and remedies HCLSoftware has under this Agreement or in any Order, at law or in equity.  
+HCLSoftware’s audit rights under this section will survive for two years beyond the longer of the term license 
+on the Order, the relevant perpetual License or the Agreement.
+12.	Term and Termination. 
+12.1. Term.  This Agreement shall enter into force as of the Effective Date and shall remain in force until 
+terminated in accordance with the terms contained herein. The Program license period (“Subscription 
+Period”) and Support period (“Support Period”) are set forth in the applicable Order. 
+12.2. Termination by Licensee.  Licensee may terminate the applicable Program license or Support in an Order 
+upon written notice to HCLSoftware if HCLSoftware commits any material breach hereunder and fails to 
+cure such breach within thirty (30) days after Licensee notifies HCLSoftware in writing providing details 
+of the breach.
+12.3. Termination (or Suspension) by HCLSoftware.  HCLSoftware may terminate or suspend this Agreement 
+and/or any Order(s), in whole or in part, and at any time if: 
+12.3.1.	If HCLSoftware does not receive payment against HCLSoftware’s invoices in accordance with 
+the payment terms under this Agreement or an applicable Order (i) within a further fifteen (15) 
+days after the relevant due date, or (ii) on more than one occasion in any 12-month period;
+12.3.2.	Licensee infringes the IPR of HCLSoftware, its Affiliates, or its licensors or uses the Program(s) 
+outside the scope of the license;
+12.3.3.	Licensee commits any material breach of this Agreement or any Order (i) and fails to cure such 
+breach within thirty (30) days after HCLSoftware notifies Licensee in writing of the breach, or (ii) 
+if such breach is uncurable; or
+12.3.4.	Licensee (i) files, or has filed against it, a petition in bankruptcy, (ii) has a receiver appointed to 
+handle its assets or affairs, (iii) makes or attempts to make an assignment for benefit of creditors,
+     in each case, HCLSoftware shall provide written notice of termination and/or suspension.
+For avoidance of doubt, HCLSoftware’s rights to terminate or suspend are in addition to any other rights 
+HCLSoftware may have.
+
+12.4. Effect of Termination or Expiration. In the event of termination or expiration of this Agreement or an 
+Order, in whole or in part: 
+12.4.1.	All affected licenses granted hereunder will terminate, except perpetual licenses (unless 
+terminated as provided herein); 		
+12.4.2.	Licensee shall pay to HCLSoftware, on the date of termination or expiration, the total amounts 
+due per the Agreement and/or the Order, and, unless Licensee terminated for HCLSoftware’s 
+uncured material breach, Licensee shall pay all Fees that would have been paid over the term of 
+the Order and/or Agreement had the Agreement or Order (as the case may be) not terminated;
+12.4.3.	Licensee will return to HCLSoftware, and/or certify that it has destroyed all copies of, the 
+terminated Program(s) and Documentation (except for perpetual licenses unless terminated as 
+provided herein), which are in the possession of the Licensee;	
+12.4.4.	all affected Support obligations under the Agreement or an Order will terminate, and Licensee 
+will no longer have access to same; 
+12.4.5.	HCLSoftware will be entitled to deactivate license keys (remotely or otherwise) or shut off 
+Support for the terminated Programs.
+12.5	Effect of Suspension. In the event of suspension of an Agreement and/or an Order, in whole or in part, by 
+HCLSoftware:
+12.5.1	Licenses to the affected Programs and/or provision of Support will be suspended during the 
+suspension period;
+12.5.2	HCLSoftware’s obligations (except for confidentiality) will be suspended during the suspension 
+period;
+12.5.3	Licensee will be liable for Fees for the suspension period;
+12.5.4	Licensee’s obligations continue to be in force during the suspension period;
+12.5.5	Suspension will not be withdrawn until HCLSoftware is reasonably satisfied that Licensee has 
+cured the conditions that led to the suspension.
+
+13.	Confidentiality.  Except as otherwise expressly permitted in this Agreement, both Parties will hold in 
+confidence the Programs, Documentation and all other non-public or proprietary information or any other 
+information that by its form, nature, content or mode of transmission would to a reasonable recipient be deemed 
+confidential or proprietary as made available by the disclosing Party (“Confidential Information”).  Both 
+Parties agree that the Programs and Documentation will be treated as proprietary trade secrets of HCLSoftware. 
+Neither Party will make Confidential Information available in any form to any person or entity other than to its 
+respective Affiliates and Licensee’s Authorized Users on a need to know basis and subject to the same 
+restrictions of this Section 13. Recipients of Confidential Information that are not employees of either Party 
+must be subject to confidentiality restrictions no less stringent than those contained herein (in the case of non-
+employees such restrictions will be contained in a written agreement executed by the applicable 
+contractor/person/entity).  Each Party warrants to the other Party that it maintains a system of confidentiality to 
+protect its own Confidential Information, including written agreements with employees, that the Confidential 
+Information will be protected by such system using no less than a reasonable degree of care, and that it shall 
+ensure its recipients’ compliance with this Section. If the receiving Party at any time becomes aware of any 
+unauthorized use or disclosure of the disclosing Party’s Confidential Information, it will promptly and fully 
+notify the disclosing Party of all facts known to it concerning such unauthorized use or disclosure and 
+reasonably cooperate with the disclosing Party in seeking a protective order or other appropriate remedy to 
+limit such disclosure.
+14.	Performance Warranty. 
+14.1. HCLSoftware warrants that the Programs will operate materially in accordance with the applicable 
+specifications set forth within the Documentation for a period of six (6) months (“Warranty Period”) after 
+delivery of the Programs subject to Licensee’s compliance with the Agreement (“Performance 
+Warranty”).
+14.2. The Performance Warranty does not cover Problems, failures, or defects in the Programs caused by any act 
+or omission of Licensee or its representatives, or any other non-HCLSoftware person or entity, including 
+but not limited to: (a) the misuse of or damage to the Program; (b) modifications to the Programs not made 
+by or as authorized in writing in advance by HCLSoftware; (c) combination or use of the Programs with 
+other software, hardware or cloud infrastructure not provided by HCLSoftware; (d) use of the Program in 
+an operating environment other than that described in the Documentation or Program Requirements 
+mutually agreed in writing; or (e) failure to install updates, patches or fixes provided by HCLSoftware.  
+14.3. THE LIMITED WARRANTIES EXPRESSLY SET FORTH IN SECTION 14.1 ABOVE ARE 
+LICENSEE’S EXCLUSIVE WARRANTIES.  HCLSOFTWARE DISCLAIMS ALL OTHER 
+WARRANTIES OR CONDITIONS, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, 
+ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, SATISFACTORY 
+QUALITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND ANY WARRANTY OR 
+CONDITION OF NON-INFRINGEMENT.  SOME STATES OR JURISDICTIONS DO NOT ALLOW 
+THE EXCLUSION OF EXPRESS OR IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY 
+NOT APPLY TO LICENSEE.  IN THAT EVENT, SUCH WARRANTIES ARE LIMITED IN 
+DURATION TO THE RESPECTIVE WARRANTY PERIOD.  NO WARRANTIES APPLY AFTER THE 
+WARRANTY PERIOD.  SOME STATES OR JURISDICTIONS DO NOT ALLOW LIMITATIONS ON 
+HOW LONG AN IMPLIED WARRANTY LASTS, SO THE ABOVE LIMITATION MAY NOT APPLY 
+TO LICENSEE.
+14.4. THE WARRANTIES IN THIS SECTION 14 ARE PROVIDED SOLELY BY THE HCLSOFTWARE 
+ENTITY LICENSING THE PROGRAM AND NOT BY A THIRD PARTY OR ANY OTHER 
+HCLSOFTWARE ENTITY.  THE DISCLAIMERS IN THIS SECTION 14, HOWEVER, ALSO APPLY 
+TO ALL HCLSOFTWARE ENTITIES AND THEIR LICENSORS AND SUPPLIERS OF THIRD 
+PARTY SOFTWARE. THOSE SUPPLIERS PROVIDE SUCH SOFTWARE WITHOUT WARRANTIES 
+OR CONDITION OF ANY KIND.
+14.5. Performance Warranty Remedy. In the event of breach of the above stated Performance Warranty, 
+Licensee’s remedy is for HCLSoftware, in consultation with Licensee, to either (i) use reasonable efforts 
+consistent with industry standards to repair the defect within a commercially reasonable time frame, (ii) 
+replace the affected Program(s) with one that materially complies with the Documentation, or in the event 
+(i) or (ii) do not resolve the issue to then (iii) terminate the license and provide a pro-rata refund of the 
+license fees paid and/or Support fees to Licensee. If option (iii) applies, the pro-rata refund shall be 
+calculated on the number of months left remaining on the Term of the applicable Order or if the Program(s) 
+is licensed under a perpetual license, using (only for purposes of a refund calculation) an amortization 
+schedule of three (3) years. The above warranty remedies are HCLSoftware’s sole obligation and 
+Licensee’s sole and exclusive remedy for breach of the above Performance Warranty. The Performance 
+Warranty Remedy is conditioned upon (i) any error or defect reported is reasonably reproducible by 
+HCLSoftware, (ii) the Program(s) is not modified and is being used in accordance with the Documentation 
+and the terms of the Agreement, and (iii) the breach is not attributable in whole or in part to any non-
+HCLSoftware products or services.
+
+15.	Indemnification 
+15.1. HCLSoftware will, at its election, settle or defend, any third party claim brought in any suit or proceeding 
+against Licensee based upon an allegation that any Program(s) furnished hereunder constitutes a direct 
+infringement of any patent, trade secret or copyright, and HCLSoftware will pay all damages and costs finally 
+awarded against Licensee for the claim or agreed in settlement by HCLSoftware. In the event of any claim, 
+allegation, or suit, HCLSoftware, in its sole discretion, may reengineer the Program(s) in a manner that 
+removes the infringing material, replace the Program(s) with non-infringing software, or terminate the 
+Agreement or applicable Order.   HCLSoftware will not be liable for any costs or damages and will not 
+indemnify or defend Licensee to the extent such action is based upon a claim arising from: 
+
+15.1.1.	modification of the Program(s) by a party other than HCLSoftware after delivery by HCLSoftware;  
+15.1.2.	use of the Program(s) in combination with hardware or software not provided by HCLSoftware, 
+unless the Documentation refers to combination with such hardware or software (without directing 
+Licensee not to perform such a combination);  
+15.1.3.	any failure to use the Program in accordance with the Program Requirements and/or Documentation;
+15.1.4.	any unauthorized use of the Program(s); 
+15.1.5.	Licensee’s failure to incorporate updates or upgrades that would have avoided the alleged 
+infringement; or
+15.1.6.	provision of Programs as Pre-Release Programs (Section 3.3) or for trial purposes (Section 3.4). 
+15.2. The foregoing obligations are HCLSoftware’s entire liability and Licensee’s sole and exclusive remedy for 
+any infringement claims and are conditioned on the following: (i) HCLSoftware is notified promptly in 
+writing of such claim; (ii) HCLSoftware controls the defense or settlement of the claim; and (iii) Licensee 
+cooperates reasonably and gives all necessary authority, information and assistance.
+
+16.	Limitation of Liability 
+16.1. IN NO EVENT WILL EITHER PARTY (OR HCLSOFTWARE’S AFFILIATES AND SUPPLIERS) BE 
+LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES 
+WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, LOSS 
+OF REVENUE, LOSS OF OPPORTUNITIES, LOSS OF REPUTATION/GOODWILL, BUSINESS 
+INTERRUPTION OR LOSS OF CONFIDENTIAL OR OTHER INFORMATION AND LOSS OR 
+CORRUPTION OF DATA, FOR BUSINESS INTERRUPTION, FOR PERSONAL INJURY, FOR LOSS 
+OF PRIVACY ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO 
+USE THE PROGRAM(S), OR OTHERWISE IN CONNECTION WITH ANY PROVISION OF THIS 
+AGREEMENT, EVEN IF THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH 
+DAMAGES AND EVEN IF THE REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
+16.2. EXCEPT FOR BREACHES OF LICENSE GRANTS IN SECTION 3, LICENSE RESTRICTIONS IN 
+SECTION 4, LICENSEE’S CONFIDENTIALITY OBLIGATIONS IN SECTION 13, AND LICENSEE’S 
+PAYMENT OBLIGATIONS (INCLUDING, BUT NOT LIMITED TO, PAYMENTS ARISING FROM 
+HCLSOFTWARE’S AUDIT RIGHTS), IN NO EVENT WILL LICENSEE’S TOTAL CUMULATIVE 
+LIABILITY HEREUNDER FOR DIRECT DAMAGES (REGARDLESS OF BASIS FOR CLAIMS) 
+EXCEED THE VALUE OF THE APPLICABLE ORDER. 
+16.3. IN NO EVENT WILL HCLSOFTWARE’S (AND ITS AFFILIATES’ AND SUPPLIERS’) TOTAL 
+CUMULATIVE LIABILITY HEREUNDER FOR DIRECT DAMAGES (REGARDLESS OF BASIS FOR 
+CLAIMS) EXCEED THE SUM PAID BY LICENSEE TO HCLSOFTWARE UNDER THE APPLICABLE 
+ORDER FOR THE AFFECTED PRODUCT OR SERVICE, DURING THE PRECEDING TWELVE (12) 
+MONTH PERIOD.  
+16.4. IN NO EVENT WILL HCLSOFTWARE BE LIABLE TO LICENSEE OR TO ANY OTHER PARTY 
+UNDER SECTIONS 3.3 AND 3.4 FOR ANY DAMAGES, LOSS OR LIABILITY, INCLUDING 
+WITHOUT LIMITATION, DIRECT, INDIRECT, SPECIAL, PUNITIVE, EXEMPLARY OR 
+CONSEQUENTIAL DAMAGE, LOSS OR LIABILITY, TIME, MONEY OR GOODWILL WHICH MAY 
+ARISE DIRECTLY OR INDIRECTLY FROM OR RELATED TO COMPANY'S OR ANY OTHER 
+PERSON’S USE OF THE PRODUCTS WHETHER IN CONTRACT, TORT, FOR BREACH OF 
+STATUTORY DUTY OR OTHERWISE TO THE EXTENT PERMITTED BY LAW.
+16.5. For the avoidance of doubt, (a) HCLSoftware shall have no responsibility for matters beyond its reasonable 
+control, including the acts or omissions of Licensee and its users; (b) each Party shall have a duty to mitigate 
+its damages; and (c) except for injunction and exercise of termination rights hereunder, the Parties shall 
+negotiate in good faith for 30 days prior to commencing any legal action against the other.
+16.6. The foregoing disclaimers, limitations, and exclusions may be invalid in some jurisdictions and apply only 
+to the extent permitted by applicable law or regulation in Licensee’s jurisdiction. Licensee may have 
+additional rights that may not be waived or disclaimed. HCLSoftware does not seek to limit Licensee's 
+warranty or remedies to any extent not permitted by law.
+17.	Other Terms 
+17.1. Conflict.  In the event of a conflict between this Agreement and an Order to this Agreement, the terms of 
+the Order will prevail solely with respect to such Order. If there is a conflict between the terms this 
+Agreement and License Information Document for a Program, the terms of this Agreement will prevail. 
+In the event of a conflict between the terms of a click-wrap version of this Agreement and the terms of a 
+negotiated physically signed version of this Agreement, the terms of the negotiated physically signed 
+version of this Agreement shall govern.
+17.2. Force Majeure.  Neither Party will be liable for any failure to perform (except Licensee’s monetary 
+obligations and each Party’s confidentiality obligations) due to circumstances that it could not have been 
+reasonably foreseen or causes beyond its reasonable control, including, but not limited to, acts of God, 
+war, riot, embargoes, acts of civil or military authorities, epidemic, pandemic, delay in delivery by 
+vendors, fire, flood, accident, strikes, inability to secure transportation, facilities, fuel, energy, labor, or 
+materials.  In the event of force majeure, time for delivery or other performance will be extended for a 
+period equal to the duration of the delay caused thereby.
+17.3. Export. Both Parties will comply with all applicable export and import laws and associated embargo and 
+economic sanction regulations, including those of the United States, that prohibit or restrict the export, re-
+export, transfer (in-country) or re-transfer (in-country) of products, technology, services, or data, directly 
+or indirectly, to certain countries, or for certain end uses or end users. Licensee acknowledges that the 
+Program is subject to U.S. export laws and regulations.  Licensee agrees that, unless authorized by the 
+U.S. export license or regulation, it will not export or re-export the Program provided by HCLSoftware 
+under this Agreement or an Order to (i) those countries (or nationals of countries) considered embargoed 
+countries under U.S. export laws and regulations or (ii) prohibited end users or end uses, including but 
+not limited to: nuclear, space or missiles, and weapons systems (including chemical and biological).  At 
+the time of this Agreement, those countries considered embargoed/terrorist are Cuba, Iran, North Korea, 
+and Syria and Crimea region of Ukraine.
+17.4. Anti-Corruption and Other Laws.  Each Party will comply, at its own expense, with all applicable laws, 
+including without limitation, all laws prohibiting corruption and bribery, as amended from time to time, 
+(such as, if applicable, the U.S. Foreign Corrupt Practices Act of 1977 and the UK Bribery Act 2010).
+17.5. Marketing.  Licensee hereby grants HCLSoftware, its employees, agents and contractors a worldwide, 
+irrevocable license, without compensation, to use Licensee’s logo and/or branding in and for general 
+marketing, sales, and promotion purposes and Licensee waives its right to inspect and/or approve each 
+use of such materials.
+17.6. Notices.  Except as provided herein, all notices required or permitted by this Agreement will be in writing 
+and will be valid and sufficient if sent by (i) registered or certified mail, return receipt requested, postage 
+prepaid; or (ii) by express mail or courier service providing a receipt of delivery.  Notices will be 
+effective upon receipt as demonstrated by reliable confirmation.  Notices will be addressed to the Parties 
+using the address given in the applicable Order or this Agreement marked as for the attention of the legal 
+department.  Either Party may change its address or other contact information by a notice given to the 
+other Party in the manner set forth above.
+17.7. Limitation of Claims. Unless otherwise required by applicable law without the possibility of contractual 
+waiver or limitation: (i) neither Party will bring a legal action, regardless of form, for any claim arising 
+out of or related to this Agreement more than two (2) years after the cause of action arose; and (ii) upon 
+the expiration of such time limit, any such claim and all respective rights related to the claim lapse.
+17.8. Credit Checks. HCLSoftware may conduct and Licensee agrees to credit checks of Licensee during the 
+term of the Agreement and/or any Order.
+17.9. HCLSoftware. HCLSoftware is a division of HCL Technologies Limited, a company duly organized and 
+existing under the laws of India and having its registered offices at 806 Siddharth, 96 Nehru Place, 
+New Delhi-110019.
+17.10. Survival.  All of the provisions in Sections 1 (Definitions), 4 (License Restrictions), 5 (Feedback), 6 
+(Ownership), 10 (Payments), 11 (License Compliance), 12 (Term and Termination), 13 (Confidentiality), 
+16 (Limitation of Liability) and 17 (Other Terms) will survive expiration or termination of this 
+Agreement. 
+17.11. Assignment.  HCLSoftware may assign, delegate, subcontract or transfer this Agreement or any Order, 
+in whole or in part, including but not limited to, its payment rights hereunder.  Licensee shall not assign 
+or transfer this Agreement or an Order without the prior written consent of HCLSoftware.  Except as 
+mentioned herein, any attempted assignment or transfer by Licensee of this Agreement or Order is null 
+and void.
+17.12. Relationship of Parties.  The relationship between the Parties is that of independent contractors. This 
+Agreement does not constitute a partnership or joint venture between Licensee and HCLSoftware.  
+Licensee is not the representative or agent of HCLSoftware and HCLSoftware is not the representative or 
+agent of Licensee, and neither will so hold itself out publicly or to any third party or incur any liability 
+for the other Party. Customer’s relationship with HCLSoftware business partners and resellers is 
+governed by the agreement between Customer and any such HCLSoftware business partner and reseller. 
+For this reason, HCLSoftware shall not be responsible for the acts or omissions of HCLSoftware business 
+partners and resellers in their specific interactions with the Customer.
+17.13. Modifications. Neither Party shall modify this Agreement except by the express written agreement of 
+both Parties and annexed hereto. 
+17.14. Severability. All rights and remedies whether conferred hereunder, or by any other instrument or law 
+will be cumulative and may be exercised singularly or concurrently. The failure of any Party to enforce 
+any of the provisions hereof will not be construed to be a waiver of the right of such Party thereafter to 
+enforce such provisions. The terms and conditions stated herein are declared to be severable.  If any 
+provision or provisions of this Agreement will be held to be invalid, illegal or unenforceable, the 
+validity, legality and enforceability of the remaining provisions will not in any way be affected or 
+impaired thereby. 
+17.15. Counterparts.  This Agreement may be executed in several counterparts, each of which will be deemed 
+an original, but all of which together will constitute one and the same instrument. 
+17.16. Injunctive Relief.  Licensee agrees that preliminary injunctive or other equitable relief will be a 
+necessary and proper remedy in the event of a breach of this Agreement in violation of HCLSoftware’s 
+IPR, in addition to all other rights that HCLSoftware has at law or in equity.   
+17.17. Governing Law; Jurisdiction; and Waiver of Jury Trial.  For purchases in the U.S., any claims 
+arising under or relating to this Agreement will be governed by the internal substantive laws of the 
+State of California or federal courts located in California, without reference to (i) any conflicts of law 
+principle that would apply the substantive laws of another jurisdiction to the Parties’ rights or duties; 
+(ii) the 1980 United Nations Convention on Contracts for the International Sale of Goods; or (iii) other 
+international laws.  For purchases in the U.S., each Party (i) hereby irrevocably agrees to submit to the 
+jurisdiction and venue in the courts of the State of California for all disputes and litigation arising under 
+or relating to this Agreement and (ii) waives any right to a jury trial in any proceeding arising out of or 
+related to this Agreement.  For purchases in the Middle East and African countries, any claims arising 
+under or relating to this Agreement will be governed by English laws, without reference to (i) any 
+conflicts of law principle that would apply the substantive laws of another jurisdiction to the Parties’ 
+rights or duties; (ii) the 1980 United Nations Convention on Contracts for the International Sale of 
+Goods; or (iii) other international laws and each Party hereby irrevocably agrees to submit to the 
+jurisdiction and venue in the courts of England for all disputes and litigation arising under or relating to 
+this Agreement.  For purchase outside the U.S., except Middle East and African countries, both Parties 
+agree to the application of the laws of the country in which Licensee obtained the Program license to 
+govern, interpret, and enforce all of Licensee’s and HCLSoftware’s respective rights, duties, and 
+obligations arising from, or relating in any manner to, the subject matter of this Agreement, without 
+reference to (i) any conflicts of law principle that would apply the substantive laws of another 
+jurisdiction to the Parties’ rights or duties; (ii) the 1980 United Nations Convention on Contracts for the 
+International Sale of Goods; or (iii) other international laws. Furthermore, all rights, duties, and 
+obligations arising from, or relating in any manner to, the subject matter of this Agreement, are subject 
+to the jurisdiction of the courts of the country in which Licensee obtained the Program license.
+17.18. U.S. Government Restricted Rights.  The Programs and Documentation provided with the products 
+and services are “commercial items” as that term is defined at 48 C.F.R. 12.101, consisting of 
+“commercial computer software” and “commercial computer software documentation” as such terms 
+are used in 48 C.F.R. 12.212.  Consistent with 48 C.F.R. 12.212 and 48 C.F.R. 227.7202-1 through 
+227.7202-4, all U.S. Government end-users acquire the Programs and Documentation with only those 
+rights set forth herein.
+17.19. Public Announcement.  Neither Party will publicly announce or create a press release referencing this 
+Agreement, its contents or its related activities without the prior written consent of the other Party. 
+17.20. Entire Agreement. This Agreement, along with the Orders entered into pursuant to the Agreement, is 
+the entire agreement between HCLSoftware and Licensee relating to the Program(s) and it supersedes 
+all prior or contemporaneous oral or written communications, proposals and representations with 
+respect to the Program(s) or any other subject matter covered by this Agreement and/or the Orders. 
+However, in the event Licensee purchased perpetual licenses for the Programs from a third party prior 
+to the Effective Date, nothing herein shall modify Licensee’s rights to use the Programs under those 
+license terms but HCLSoftware shall have the right to enforce its IPR in the Programs during and after 
+the term hereof.
+
+
+
+
+
+ 
+
+
+
+MLA v. June 01, 2023		Page 1 of 1
+

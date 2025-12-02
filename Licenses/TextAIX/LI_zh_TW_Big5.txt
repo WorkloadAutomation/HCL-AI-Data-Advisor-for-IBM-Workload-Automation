@@ -1,0 +1,28 @@
+授權手冊
+
+下列本程式之授權除係依客戶與 IBM 先前同意之授權條款外，並依下述授權手冊條款授權。若客戶先前就本程式未同意生效任何授權條款，則本程式適用 國際程式授權合約 (i125-3301-15)。
+
+程式名稱 (程式編號)：
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+下列標準條款適用於被授權人對本程式之使用。
+
+可修改之第三人程式碼
+
+在注意事項中 IBM 將第三人程式碼視為「可修改之第三人程式碼」時（若有），表示 IBM 授權被授權人得為下列情事： 1) 修改「可修改之第三人程式碼」及 2) 對直接連結「可修改之第三人程式碼」之本程式模組進行還原工程，惟僅限基於 貴客戶對該第三人程式碼所為之修改進行除錯之目的而為之。 IBM 之服務與支援義務（如果有的話），僅適用於未修改之「程式」。
+
+下列計量單位適用於被授權人對本程式之使用。
+
+處理器價值單位 (Processor Value Unit, PVU)
+
+「處理器價值單位 (PVU)」係指「本程式」之授權計量單位。所需 PVU 授權之份數，係以處理器技術（被定義於 「分散式軟體」網站之「處理器價值單位 (PVU)」授權內，詳下列網址：https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html）及供「本程式」使用之處理器數量為基礎。IBM 為以 PVU 為授權計量單位之目的，一貫將一個處理器定義為晶片上之每一處理器核心。例如，雙核心處理器晶片有二個處理器核心。
+
+被授權人可採用全容量授權、子容量授權 (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) 或儲存器授權 (https://www.ibm.com/software/passportadvantage/containerlicenses.html) 部署「本程式」。如需其他資訊，請參閱鏈結網站。
+
+被授權人應為本程式取得足以涵蓋本程式從中管理或處理資源之系統之處理器核心之 PVU 授權數量，而非直接取得「本程式」所需之授權數量。
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+

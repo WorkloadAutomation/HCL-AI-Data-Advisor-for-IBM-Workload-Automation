@@ -1,0 +1,28 @@
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International Program License Agreement (i125-3301-15) applies.
+
+Program Name (Program Number):
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+The following units of measure may apply to Licensee's use of the Program.
+
+Processor Value Unit (PVU)
+
+Processor Value Unit (PVU) is a unit of measure by which the Program can be licensed. The number of PVU entitlements required is based on the processor technology (defined within the Processor Value Unit (PVU) licensing for Distributed Software website at https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) and the number of processors made available to the Program. IBM continues to define a processor, for the purpose of PVU-based licensing, to be each processor core on a chip. A dual-core processor chip, for example, has two processor cores.
+
+Licensee can deploy the Program (if supported) using full capacity licensing, sub-capacity licensing (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), or container licensing (https://www.ibm.com/software/passportadvantage/containerlicenses.html). See the linked websites for more information.
+
+Instead of the entitlements required for the Program directly, Licensee must obtain PVU entitlements for this Program sufficient to cover the processor cores for the systems on which the resources managed or processed by the Program reside.
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+
