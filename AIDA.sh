@@ -120,11 +120,7 @@ first_start() {
 }
 
 start_config() {
-<<<<<<< HEAD
     if ! $CONTAINER_RUNTIME image inspect "wa-registry.prod.hclpnp.com/wa-aida/aida-ibm/aida-config:10.2.6" >&/dev/null; then
-=======
-    if ! docker image inspect "cp.icr.io/cp/ibm-workload-automation-aida-config:10.2.3" >&/dev/null; then
->>>>>>> main
         echo "Loading configuration container image..."
         for f in ../aida-*.t*; do cat $f | $CONTAINER_RUNTIME load; done
     fi

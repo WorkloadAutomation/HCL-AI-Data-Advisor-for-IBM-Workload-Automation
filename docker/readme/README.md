@@ -79,7 +79,6 @@ Linux intel based 64-bit, and Linux on Z.
     ```
 The images are as follows:
  
-<<<<<<< HEAD
  - ``cp.icr.io/cp/ibm-workload-automation-aida-ad:10.2.6`` 
  - ``cp.icr.io/cp/ibm-workload-automation-aida-exporter:10.2.6``
  - ``cp.icr.io/cp/ibm-workload-automation-aida-email:10.2.6``
@@ -88,16 +87,6 @@ The images are as follows:
  - ``cp.icr.io/cp/ibm-workload-automation-aida-predictor:10.2.6``
  - ``cp.icr.io/cp/ibm-workload-automation-aida-redis:10.2.6``
  - ``cp.icr.io/cp/ibm-workload-automation-aida-ui:10.2.6``
-=======
- - ``cp.icr.io/cp/ibm-workload-automation-aida-ad:10.2.3`` 
- - ``cp.icr.io/cp/ibm-workload-automation-aida-exporter:10.2.3``
- - ``cp.icr.io/cp/ibm-workload-automation-aida-email:10.2.3``
- - ``cp.icr.io/cp/ibm-workload-automation-aida-nginx:10.2.3``
- - ``cp.icr.io/cp/ibm-workload-automation-aida-orchestrator:10.2.3``
- - ``cp.icr.io/cp/ibm-workload-automation-aida-predictor:10.2.3``
- - ``cp.icr.io/cp/ibm-workload-automation-aida-redis:10.2.3``
- - ``cp.icr.io/cp/ibm-workload-automation-aida-ui:10.2.3``
->>>>>>> main
  
 
  

@@ -20,23 +20,14 @@
 ## Introduction
 **AI Data Advisor (AIDA)** is a component of IBM Workload Automation since V10.1, based on Artificial Intelligence and Machine Learning techniques. It enables fast and simplified data-driven decision making for an intelligent workload management. By analyzing workload historical data and metrics gathered by IBM Workload Automation and predicting their future patterns, AIDA identifies anomalies in KPIs trend (such as the jobs in plan by status and the jobs in plan by workstation) and sends immediate alerts to prevent problems and delays. Alerts show up on the Workload Dashboard and can be notified via email.
 
-<<<<<<< HEAD
 For more information about AIDA, see AIDA User's Guide in the [IBM Workload Automation documentation](https://www.ibm.com/docs/en/workload-automation/10.2.6?topic=ai-data-advisor-aida-users-guide).
-=======
-For more information about AIDA, see AIDA User's Guide in the [IBM Workload Automation documentation](https://www.ibm.com/docs/en/workload-automation/10.2.3?topic=ai-data-advisor-aida-users-guide).
->>>>>>> main
 
 
 ## Prerequisites
 
  -  IBM Workload Automation V10.1 or higher exposed metrics.
-<<<<<<< HEAD
     - For information about IBM Workload Automation exposed metrics, see "Exposing metrics to monitor your workload" in the [IBM Workload Automation documentation](https://www.ibm.com/docs/en/workload-automation/10.2.6?topic=scheduler-exposing-metrics-monitor-your-workload).  
     - For information about IBM Z Workload Automation exposed metrics, see "Exposing metrics to monitor your workload" in the [IBM Z Workload Scheduler documentation](https://www.ibm.com/docs/en/workload-automation/10.2.6) Managing the Workload manual.    
-=======
-    - For information about IBM Workload Automation exposed metrics, see "Exposing metrics to monitor your workload" in the [IBM Workload Automation documentation](https://www.ibm.com/docs/en/workload-automation/10.2.3?topic=scheduler-exposing-metrics-monitor-your-workload).  
-    - For information about IBM Z Workload Automation exposed metrics, see "Exposing metrics to monitor your workload" in the [IBM Z Workload Scheduler documentation](https://www.ibm.com/docs/en/workload-automation/10.2.3) Managing the Workload manual.    
->>>>>>> main
 
  -  Docker Compose 1.28 or later.
 
@@ -88,7 +79,6 @@ Linux intel based 64-bit, and Linux on Z.
     ```
 The images are as follows:
  
-<<<<<<< HEAD
  - ``cp.icr.io/cp/aida-ad:10.2.6`` 
  - ``cp.icr.io/cp/aida-exporter:10.2.6``
  - ``cp.icr.io/cp/aida-email:10.2.6``
@@ -98,17 +88,6 @@ The images are as follows:
  - ``cp.icr.io/cp/aida-redis:10.2.6``
  - ``cp.icr.io/cp/aida-config:10.2.6``
  - ``cp.icr.io/cp/aida-ui:10.2.6``
-=======
- - ``cp.icr.io/cp/aida-ad:10.2.3`` 
- - ``cp.icr.io/cp/aida-exporter:10.2.3``
- - ``cp.icr.io/cp/aida-email:10.2.3``
- - ``cp.icr.io/cp/aida-nginx:10.2.3``
- - ``cp.icr.io/cp/aida-orchestrator:10.2.3``
- - ``cp.icr.io/cp/aida-predictor:10.2.3``
- - ``cp.icr.io/cp/aida-redis:10.2.3``
- - ``cp.icr.io/cp/aida-config:10.2.3``
- - ``cp.icr.io/cp/aida-ui:10.2.3``
->>>>>>> main
  
 
  
@@ -229,11 +208,7 @@ To **delete existing credentials**, run the following steps:
 
 ## Updating AIDA installation
 
-<<<<<<< HEAD
 If you are using AIDA V10.1 or V10.2.0.0 with Keycloak V17.0.0 and want to update your AIDA installation to V10.2.6,  you must first migrate your previous Keycloak V17.0.0 data to Keycloak V22.0.0.
-=======
-If you are using AIDA V10.1 or V10.2.0.0 with Keycloak V17.0.0 and want to update your AIDA installation to V10.2.3,  you must first migrate your previous Keycloak V17.0.0 data to Keycloak V22.0.0.
->>>>>>> main
 Run the following procedure.  
 
  1. Download data from Keycloak V17.0.0 to a file named `aida-realm.json` by running the following commands: 
@@ -243,19 +218,11 @@ Run the following procedure.
  2. Save the file ``aida-realm.json`` to a disk drive.
  3. Remove the data volume from Keycloak V17.0.0 by running the following commands:
     ``./AIDA.sh down; docker run --rm -it --entrypoint /bin/sh -v docker-deployment_aida-keycloak-data:/keycloak docker-deployment_keycloak -c 'mkdir keycloak/old_backup_data; mv keycloak/* keycloak/old_backup_data'``
-<<<<<<< HEAD
  4. Download AIDA V10.2.6 images from the source repository.
  5. Copy the file ``aida-realm.json`` to the ``keycloak/`` folder in the [docker_deployment_dir]. 
  6. From [docker_deployment_dir],run the following command:
     ``sed -i 's+"loginTheme" : "custom"+"loginTheme" : "keycloakTemplate_IBM"+g' ./keycloak/aida-realm.json``
  7. Complete AIDA V10.2.6 installation by running the following commands: 
-=======
- 4. Download AIDA V10.2.3 images from the source repository.
- 5. Copy the file ``aida-realm.json`` to the ``keycloak/`` folder in the [docker_deployment_dir]. 
- 6. From [docker_deployment_dir],run the following command:
-    ``sed -i 's+"loginTheme" : "custom"+"loginTheme" : "keycloakTemplate_IBM"+g' ./keycloak/aida-realm.json``
- 7. Complete AIDA V10.2.3 installation by running the following commands: 
->>>>>>> main
     ``./AIDA.sh load``
     ``./AIDA.sh build-start``
     
