@@ -76,7 +76,6 @@ down_volumes() {
 }
 
 build() {
-<<<<<<< HEAD
 	$CONTAINER_RUNTIME compose -f $yml build --build-arg REGISTRY='wa-registry.prod.hclpnp.com/wa-aida/aida-ibm/' --build-arg VERSION=10.2.6
     $CONTAINER_RUNTIME compose -f $yml up --no-start
 }
@@ -88,15 +87,6 @@ build_start() {
 
 up() {
     $CONTAINER_RUNTIME compose -f $yml up -d
-=======
-	docker-compose -f $1 build --build-arg REGISTRY="cp.icr.io/cp" --build-arg VERSION=10.2.3
-    docker-compose -f $1 up --no-start
-}
-
-build_start() {
-	docker-compose -f $1 build --build-arg REGISTRY="cp.icr.io/cp" --build-arg VERSION=10.2.3 $2
-    docker-compose -f $1 up -d $2
->>>>>>> main
 }
 
 first_start() {
