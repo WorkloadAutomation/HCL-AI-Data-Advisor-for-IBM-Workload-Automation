@@ -3,7 +3,7 @@ LICENCIJOS INFORMACIJA
 Toliau nurodytos Programos licencijuojamos pagal �ias Licencijos informacijos s�lygas, kurios papildo Programos licencijos s�lygas, d�l kuri� susitar� Klientas ir IBM. Jei Klientas anks�iau n�ra sutik�s su Programai taikomomis licencijos s�lygomis, taikoma Tarptautin� programos licencin� sutartis (i125-3301-15).
 
 Programos pavadinimas (Programos numeris):
-IBM Workload Scheduler AIDA 10.2.3 (Tool)
+IBM Workload Scheduler AIDA 10.2.5 (Tool)
 
 �ios standartin�s s�lygos taikomos Licenciato Programos naudojimui.
 

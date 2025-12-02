@@ -3,7 +3,7 @@ L�SANS B�LG�LER�
 A�a��da listelenen programlar, daha �nce M��teri ve IBM taraf�ndan kabul edilen Program lisans� ko�ullar�na ek olarak a�a��daki Lisans Bilgilerinin kay�t ve ko�ullar� kapsam�nda lisanslan�r. M��teri, Programa ili�kin y�r�rl�kte olan lisans ko�ullar�n� daha �nce kabul etmemi�se, Uluslararas� Program Lisans S�zle�mesi (i125-3301-15) ge�erli olur.
 
 Program Ad� (Program Numaras�):
-IBM Workload Scheduler AIDA 10.2.3 (Tool)
+IBM Workload Scheduler AIDA 10.2.5 (Tool)
 
 A�a��daki standart ko�ullar, Lisans Alan Taraf�n Program� kullan�m� i�in ge�erlidir.
 

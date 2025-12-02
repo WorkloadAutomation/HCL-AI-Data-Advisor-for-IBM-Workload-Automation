@@ -3,7 +3,7 @@ PODATKI O LICENCIRANJU
 Spodaj navedeni programi so licencirani na podlagi naslednjih dolo�b in pogojev licen�ne informacije, ki veljajo poleg pogojev licence za program, s katerimi naro�nik in IBM predhodno sogla�ata. �e naro�nik predhodno ne sogla�a s pogoji, ki veljajo za program, velja Mednarodna licen�na pogodba za program (i125-3301-15).
 
 Ime programa (�tevilka programa):
-IBM Workload Scheduler AIDA 10.2.3 (Tool)
+IBM Workload Scheduler AIDA 10.2.5 (Tool)
 
 Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
 
