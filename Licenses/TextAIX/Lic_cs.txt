@@ -1,0 +1,530 @@
+LICEN�N� INFORMACE
+
+N��e uveden� Programy jsou licencov�ny na z�klad� n�sleduj�c�ch podm�nek uveden�ch v dokumentu Licen�n� informace, kter� dopl�uj� licen�n� podm�nky pro Program, s nimi� d��ve Z�kazn�k a IBM vyj�d�ili souhlas Pokud Z�kazn�k d��ve nevyj�d�il souhlas s ��inn�mi licen�n�mi podm�nkami pro Program, uplatn� se licence Mezin�rodn� licen�n� smlouva pro program (i125-3301-15).
+
+N�zev Programu (��slo Programu):
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+Na pou��v�n� Programu Dr�itelem licence se vztahuj� n�sleduj�c� standardn� podm�nky.
+
+Upraviteln� k�d t�et� strany
+
+V p��padn�m rozsahu, v jak�m IBM v souboru OZN�MEN� ozna�� k�d t�et� strany jako "Upraviteln� k�d t�et� strany", IBM oprav�uje Dr�itele licence, aby 1) upravil Upraviteln� k�d t�et� strany a 2) zp�tn� analyzoval moduly Programu, kter� jsou p��mo spojeny s Upraviteln�m k�dem t�et� strany, ov�em za p�edpokladu, �e k tomu doch�z� pouze pro ��ely lad�n� zm�n Dr�itele licence takov�ho k�du t�et� strany. P��padn� povinnosti servisu a podpory IBM se vztahuj� pouze na nezm�n�n� Program.
+
+Na pou��v�n� Programu Dr�itelem licence se mohou vztahovat n�sleduj�c� m�rn� jednotky.
+
+Jednotka PVU (Processor Value Unit)
+
+Jednotka PVU (Processor Value Unit) je m�rnou jednotkou, na jej�m� z�klad� m��e b�t Program licencov�n. Po�et vy�adovan�ch opr�vn�n� k jednotk�m PVU je zalo�en na procesorov� technologii (definovan� v licencov�n� Processor Value Unit (PVU) pro webovou str�nku Distribuovan� software na adrese https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) a na po�tu procesor� zp��stupn�n�ch pro Program. IBM i nad�le definuje procesor pro ��ely licencov�n� na z�klad� jednotek PVU jako ka�d� procesorov� j�dro na �ipu. Dvouj�drov� procesorov� �ip m� nap��klad dv� procesorov� j�dra.
+
+Dr�itel licence m��e nasadit Program (je-li podporov�n) pomoc� pln� kapacitn�ho licencov�n�, licencov�n� na z�klad� d�l�� kapacity (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) nebo licencov�n� kontejneru (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Dal�� informace viz propojen� webov� str�nky.
+
+Nam�sto opr�vn�n� vy�adovan�ch p��mo pro Program je Dr�itel licence povinen si opat�it opr�vn�n� pro jednotky PVU k tomuto Programu v takov�m po�tu, kter� je dosta�uj�c� k pokryt� procesorov�ch jader pro syst�my, na nich� se nach�zej� prost�edky spravovan� a zpracov�van� Programem.
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+
+Mezin�rodn� licen�n� smlouva pro program
+
+��st 1 - Obecn� ustanoven�
+
+STA�EN�M, INSTALAC�, KOP�ROV�N�M, P��STUPEM K PROGRAMU, KLEPNUT�M NA TLA��TKO "SOUHLAS�M" NEBO JIN�M POU�IT�M PROGRAMU VYJAD�UJE DR�ITEL LICENCE SV�J SOUHLAS S PODM�NKAMI T�TO SMLOUVY. JESTLI�E S T�MITO PODM�NKAMI SOUHLAS�TE JM�NEM DR�ITELE LICENCE, PROHLA�UJETE, �E JSTE PLN� OPR�VN�NI ZAV�ZAT DR�ITELE LICENCE T�MITO PODM�NKAMI.
+
+POKUD NESOUHLAS�TE S T�MITO PODM�NKAMI NEBO NEM�TE OPR�VN�N�: i) PROGRAM NESTAHUJTE, NEINSTALUJTE, NEKOP�RUJTE, NEP�ISTUPUJTE K N�MU A NEKLEPEJTE NA TLA��TKO "SOUHLAS�M" ANI PROGRAM NEPOU��VEJTE; A ii) NEPRODLEN� VRA�TE NEPOU�IT� M�DIA, DOKUMENTACI A DOKUMENTY O OPR�VN�N� STRAN�, OD KTER� JSTE JE Z�SKALI, OPROTI VR�CEN� ZAPLACEN� ��STKY. POKUD BYL PROGRAM STA�EN, ZNI�TE VE�KER� KOPIE PROGRAMU.
+
+Tato Mezin�rodn� licen�n� smlouva pro program (IPLA) a p��slu�n� Transak�n� dokumenty (d�le spole�n� jen "Smlouva") p�edstavuj� �plnou dohodu mezi Dr�itelem licence a spole�nost� IBM ohledn� pou��v�n� Programu. Povinn� podm�nky p��slu�n�ho st�tu zahrnut� v ��sti 2 t�to smlouvy IPLA nahrazuj� nebo upravuj� podm�nky ��sti 1.
+
+Transak�n� dokumenty (TD) uv�d�j� popis, informace a podm�nky t�kaj�c� se Programu a jeho opr�vn�n�ho pou�it�. K p��klad�m Transak�n�ch dokument� pro Program pat�� licen�n� informace (LI), specifikace licencovan�ho programu (LPS), cenov� nab�dka, dokument o opr�vn�n� (PoE) nebo faktura. V rozsahu p��padn�ho rozporu budou m�t podm�nky Transak�n�ho dokumentu p�ednost p�ed smlouvou IPLA.
+
+1. Licence k Programu
+
+a. Program p�edstavuje spustiteln� po��ta�ov� program se zna�kou IBM a jeho souvisej�c� materi�ly a zahrnuje cel� i ��ste�n� kopie. Podrobnosti o programu jsou pops�ny v Transak�n�m dokumentu dostupn�m na adrese http://www.ibm.com/software/sla (pro programy Passport Advantage) nebo http://www.ibm.com/support/knowledgecenter (pro ostatn� Programy IBM), v adres��i ovl�d�n� syst�mu Programu nebo jinde dle specifikac� spole�nosti IBM. Z�sady IBM pro software (nap�. pro z�lohov�n�, do�asn� pou�it� a schv�len� cloudov� prost�ed� IBM) dostupn� na adrese http://www.ibm.com/softwarepolicies se vztahuj� na pou��v�n� Program� Dr�itelem licence.
+
+b. Kopie Program� jsou chr�n�ny autorsk�m pr�vem a licencov�ny.
+
+c. Dr�iteli licence je ud�lena nev�hradn� licence:
+
+(1) k pou��v�n� v�ech kopi� Programu v souladu s podm�nkami Smlouvy a a� do po�tu licen�n�ch opr�vn�n� zakoupen�ch Dr�itelem licence ("Opr�vn�n� u��v�n�");
+
+(2) k vytv��en� a instalaci kopi� na podporu takov�ho Opr�vn�n�ho u��v�n�; a
+
+(3) k vytv��en� z�lo�n� kopie.
+
+d. Programy mohou b�t vyu��v�ny Dr�itelem licence, jeho zam�stnanci a smluvn�mi partnery. Dr�itel licence nen� opr�vn�n Program pronaj�mat ani poskytnout na leasing ani poskytovat komer�n� slu�by IT, hostov�n� nebo �asov�ho sd�len� jak�koliv t�et� osob�. Dal�� pr�va lze z�skat za dodate�n� poplatky nebo na z�klad� jin�ch podm�nek.
+
+e. Licence ud�len� k Programu je podm�n�na t�m, �e Dr�itel licence:
+
+(1) bude reprodukovat ozn�men� o autorsk�ch pr�vech a dal�� zna�ky ve v�ech kopi�ch;
+
+(2) zajist�, aby v�ichni, kdo pou��vaj� Program: i) tak �inili pouze jm�nem Dr�itele licence v r�mci Opr�vn�n�ho u��v�n� Dr�itele licence a ii) dodr�ovali tuto Smlouvu;
+
+(3) nebude prov�d�t zp�tn� sestaven�, kompilaci, p�eklad nebo zp�tnou anal�zu Programu, s v�jimkou p��pad� v�slovn� povolen�ch pr�vn�mi p�edpisy bez mo�nosti smluvn�ho vzd�n� se takov�ho pr�va; a
+
+(4) nebude pou��vat ��dn� z prvk� Programu nebo souvisej�c� licen�n� materi�ly odd�len� od Programu.
+
+f. Pokud Transak�n� dokument pro Program ("Hlavn� program") uv�d�, �e sou��st� Hlavn�ho programu je "Podp�rn� program", Dr�itel licence sm� pou��vat takov� Podp�rn� program v souladu s ve�ker�mi licen�n�mi omezen�mi Hlavn�ho programu a pouze na podporu Hlavn�ho programu.
+
+g. Tato licence se vztahuje na v�echny kopie Programu, kter� Dr�itel licence vytvo��.
+
+h. Na aktualizace, opravy �i do�asn� �e�en� Programu se vztahuj� podm�nky upravuj�c� Program, pokud nebudou v aktualizovan�m Transak�n�m dokumentu uvedeny nov� podm�nky. Dr�itel licence takov� nov� podm�nky akceptuje instalac� aktualizace, opravy nebo do�asn�ho �e�en�. Pokud bude Program nahrazen aktualizac�, Dr�itel licence souhlas�, �e neprodlen� p�estane pou��vat nahrazen� Program.
+
+i. Pokud nebude Dr�itel licence s Programem z jak�hokoliv d�vodu spokojen, Dr�itel licence je opr�vn�n licenci vypov�d�t vr�cen�m Programu a dokumentu o opr�vn�n� spole�nosti IBM nebo opr�vn�n�mu obchodn�mu partnerovi IBM do 30 dn� od p�vodn�ho data n�kupu takov�ho Programu oproti vr�cen� uhrazen� ��stky. V p��pad� stahovan�ch Program� se obracejte na osobu, od kter� Dr�itel licence Program zakoupil a kter� v�m poskytne pokyny pro vr�cen� pen�z.
+
+2. Z�ruky
+
+a. IBM zaru�uje, �e Program bude v p��pad� pou��v�n� ve specifikovan�m opera�n�m prost�ed� odpov�dat sv�m specifikac�m. Z�ru�n� doba Programu je 12 m�s�c� od n�kupu, nebo po��te�n� licen�n� obdob�, pokud se jedn� o obdob� krat�� ne� 12 m�s�c�, nen�-li v Transak�n�m dokumentu uvedena jin� z�ru�n� doba.
+
+b. B�hem z�ru�n� doby bude m�t Dr�itel licence p��stup do datab�z� spole�nosti IBM, kter� obsahuj� informace o zn�m�ch chyb�ch Programu, oprav�ch chyb, omezen�ch a n�hradn�ch �e�en�ch dle popisu v p��ru�ce podpory IBM na adrese http://www.ibm.com/support/pages/node/733923.
+
+c. Pokud program nefunguje v souladu se z�rukou b�hem z�ru�n� lh�ty a probl�m nelze vy�e�it s pou�it�m informac� dostupn�ch v datab�z�ch IBM, Dr�itel licence je opr�vn�n vr�tit Program a dokument o opr�vn�n� spole�nosti IBM nebo obchodn�mu partnerovi IBM oproti vr�cen� ��stky, kterou Dr�itel licence zaplatil, a licence Dr�itele licence t�m bude ukon�ena.
+
+d. IBM nezaru�uje nep�eru�ovan� �i bezchybn� provoz Programu IBM, ani nezaru�uje, �e oprav� ve�ker� chyby nebo �e zabr�n� naru�en� t�et�mi osobami. Tyto z�ruky jsou v�hradn�mi z�rukami poskytovan�mi IBM a nahrazuj� ve�ker� jin� z�ruky, v�etn� konkludentn�ch z�ruk nebo podm�nek uspokojiv� kvality, prodejnosti, neporu�en� pr�v t�et�ch osob a vhodnosti pro ur�it� ��el. Z�ruky IBM se neuplatn� v p��pad�, �e do�lo k neopr�vn�n�mu pou�it�, �prav�, po�kozen� nezp�soben�mu IBM nebo nedodr�en� p�semn�ch pokyn� poskytnut�ch spole�nost� IBM. Programy od jin�ch subjekt�, ne� je IBM, se poskytuj� JAK STOJ� A LE��, bez z�ruk jak�hokoli druhu. T�et� strany mohou Dr�iteli licence poskytnout sv� vlastn� z�ruky.
+
+e. Dodate�n� podpora m��e b�t k dispozici b�hem z�ru�n� lh�ty, nebo po jej�m uplynut� na z�klad� samostatn� smlouvy.
+
+3. Poplatky, dan�, platba a ov��en�
+
+a. Pr�vo Dr�itele licence na pou��v�n� Programu je podm�n�no t�m, �e Dr�itel licence uhrad� p��slu�n� poplatky uveden� ve smlouv�, na jej�m� z�klad� Dr�itel licence licen�n� opr�vn�n� zakoupil. Dr�itel licence je povinen zakoupit dodate�n� licen�n� opr�vn�n� p�ed jak�mkoliv nav��en�m vyu�it� ze strany Dr�itele licence.
+
+b. Dr�itel licence souhlas�, �e uhrad� ve�ker� p��slu�n� poplatky za zakoupen� opr�vn�n� a ve�ker� poplatky za pou��v�n� nad r�mec opr�vn�n�. Poplatky nezahrnuj� ��dn� celn� ani jin� poplatky, dan� a podobn� odvody vym��ovan� jak�mkoliv org�nem v d�sledku zakoupen� opr�vn�n� Dr�itelem licence a tyto ��stky budou fakturov�ny nav�c vedle takov�ch poplatk�. ��stky jsou splatn� po obdr�en� faktury od spole�nost IBM a mus� b�t uhrazeny do 30 dn� od data vystaven� faktury na ��et uveden� spole�nost� IBM a v p��pad� pozdn� platby m��e b�t ��tov�n poplatek z prodlen�. Dr�itel licence je povinen ��dn� zakoupit dodate�n� licen�n� opr�vn�n� p�ed nav��en�m vyu�it� ze strany Dr�itele licence. IBM neposkytuje dobropisy ani nevrac� ��stky poplatk� ji� splatn� nebo uhrazen�, s v�jimkou p��pad� stanoven�ch jinde v t�to smlouv� IPLA, p��slu�n�m Transak�n�m dokumentu nebo podm�nk�ch smlouvy, v souladu s n�� Dr�itel licence licen�n� opr�vn�n� zakoupil.
+
+c. Na z�klad� z�skan�ch opr�vn�n� se Dr�itel licence zavazuje, �e: i) jakoukoli sr�kovou da� uhrad� p��mo p��slu�n�mu org�nu ve�ejn� moci v p��padech, kdy to vy�aduj� pr�vn� p�edpisy; ii) dod� spole�nosti IBM potvrzen� o zaplacen� t�to dan�; iii) zaplat� spole�nosti IBM pouze �ist� v�nos po zdan�n�; a iv) bude v pln�m rozsahu spolupracovat s IBM p�i hled�n� mo�nost�, pokud jde o osvobozen� od t�chto dan� nebo o jejich sn��en�, a bez zbyte�n�ho prodlen� vypln� a pod� ve�ker� relevantn� dokumenty.
+
+d. Pokud Dr�itel licence doveze, vyveze a p�evede Program �i p�istupuje k Programu nebo ho pou��v� p�es hranice, zavazuje se Dr�itel licence, �e ponese odpov�dnost za �hradu a uhrad� org�n�m ve�ker� cla, poplatky, dan� nebo podobn� odvody vym��en� t�mito org�ny. To vylu�uje dan� vych�zej�c� z �ist�ho p��jmu spole�nosti IBM.
+
+3.1 Ov��en� poskytnut� licence
+
+a. Dr�itel licence, pro v�echny Programy na v�ech webech a pro v�echna prost�ed�, vytvo��, uchov� a ka�d� rok poskytne IBM na vy��d�n� s 30denn�m p�edstihem: i) zpr�vu, ve form�tu po�adovan�m spole�nost� IBM, s vyu�it�m z�znam�, v�stup� syst�mov�ch n�stroj� a dal��ch informac� syst�mu; a ii) pr�vodn� dokumentaci (d�le spole�n� jen "Data o nasazen�").
+
+b. Na z�klad� ozn�men� zaslan�ho s rozumn�m p�edstihem mohou spole�nost IBM nebo jej� nez�visl� audito�i ov��it dodr�ov�n� t�to Smlouvy Dr�itelem licence, na v�ech webech a pro v�echna prost�ed�, v nich� Dr�itel licence Programy pou��v� (k libovoln�m ��el�m). Ov��en� prob�hne zp�sobem, kter� bude minimalizovat naru�en� podnik�n� Dr�itele licence, a m��e b�t prov�d�no v prostor�ch Dr�itele licence b�hem b�n� pracovn� doby. Spole�nost IBM bude m�t s nez�visl�m auditorem uzav�enou p�semnou smlouvu o zachov�n� d�v�rnosti. Dr�itel licence se zavazuje, �e krom� Dat o nasazen� dle popisu v��e poskytne spole�nosti IBM a jej�m auditor�m na po��d�n� dodate�n� p�esn� informace a Data o nasazen�.
+
+c. Dr�itel licence neprodlen� objedn� a uhrad� poplatky dle aktu�ln�ch sazeb spole�nosti IBM souvisej�c� s: i) jak�mikoliv nasazen�mi nad r�mec opr�vn�n� uveden�ch v jak�koliv v�ro�n� zpr�v� nebo ov��en�; ii) p��slu�nou registrac� &amp;amp; a slu�bami podpory (S&amp;S) pro takov� nasazen� nav�c za dobu pou��v�n� takov�ho nadm�rn�ho vyu�it�, nebo za dobu dvou let, podle toho, kter� z t�chto obdob� je krat��; a iii) ve�ker�mi dodate�n�mi poplatky a dal��mi z�vazky stanoven�mi v d�sledku takov�ho ov��en�, v�etn� nap��klad dan�, cel a regula�n�ch poplatk�.
+
+4. Odpov�dnost a ochrana pr�v du�evn�ho vlastnictv�
+
+a. Celkov� odpov�dnost IBM za ve�ker� n�roky souvisej�c� s touto Smlouvou nep�es�hne ��stku skute�n� p��m� �kody vznikl� Dr�iteli licence, a to a� do v��e ��stek uhrazen�ch za opr�vn�n� k Programu, kter� je p�edm�tem uveden�ho n�roku, bez ohledu na podstatu takov�ho n�roku (v p��pad� pravideln�ch poplatk� se za limit pova�uje ��stka odpov�daj�c� poplatk�m za obdob� 12 m�s�c�). IBM nenese odpov�dnost za zvl�tn�, nahodil�, exempl�rn� a nep��m� �kody nebo n�sledn� ekonomick� �kody ani za u�l� zisk, ztr�tu obchodn�ch p��le�itost�, hodnoty, v�nos�, dobr�ho jm�na nebo p�edpokl�dan�ch �spor. Tato omezen� plat� spole�n� pro IBM, jej� p�idru�en� spole�nosti, smluvn� partnery a dodavatele.
+
+b. V��e uveden� maxim�ln� limit se neuplatn� na n�sleduj�c� ��stky: i) platby t�et�m osob�m souvisej�c� s n�roky v d�sledku poru�en� pr�v popsan�mi v ustanoven� 4 c n��e; a ii) n�hrady �kody, jejich� v��i nelze omezit dle ustanoven� platn�ch pr�vn�ch p�edpis�.
+
+c. Pokud t�et� osoba uplatn� n�rok proti Dr�iteli licence na z�klad� toho, �e Program IBM poru�uje patent nebo autorsk� pr�vo, IBM bude br�nit Dr�itele licence proti takov�mu n�roku a uhrad� ��stky dle vykonateln�ho rozsudku soudu proti Dr�iteli licence nebo zahrnut� ve vypo��d�n� schv�len�m spole�nost� IBM. Na z�sk�n� obrany spole�nosti IBM a �hrady n�rok� v d�sledku poru�en� pr�v mus� Dr�itel licence neprodlen�: i) informovat IBM p�semn� o existenci n�roku; ii) poskytnout informace po�adovan� spole�nost� IBM; a iii) umo�nit spole�nosti IBM kontrolu a poskytnout rozumnou spolupr�ci p�i obran� a vypo��d�n�, v�etn� snah o sm�rn� �e�en�. Povinnost spole�nosti IBM zajistit obranu a uhradit n�roky v d�sledku poru�en� pr�va se vztahuj� na n�roky z poru�en� pr�va na z�klad� k�du typu open source, kter� spole�nost IBM vybere a zabuduje do Programu IBM.
+
+d. nebo za n�roky vznikl� v souvislosti s poru�en�m z�kona �i pr�v t�et� osoby zp�soben�m Obsahem nebo materi�ly, n�vrhy a specifikacemi Dr�itele licence nebo u��v�n�m neaktu�ln�ch verz� �i vyd�n� Programu IBM, pokud by se uplatn�n� n�roku v souvislosti s t�mto poru�en�m dalo p�edej�t pou�it�m aktu�ln� verze nebo vyd�n�. Obsah zahrnuje ve�ker� data, software a informace, kter� Dr�itel licence nebo jeho opr�vn�n� u�ivatel� poskytuj�, ve vztahu k nim� ud�luj� souhlas s p��stupem nebo je vkl�daj� do Programu.
+
+5. Ukon�en� Smlouvy
+
+a. Spole�nost IBM je opr�vn�na vypov�d�t licenci Dr�itele licence na pou��v�n� Programu, pokud Dr�itel licence nedodr�� smlouvu IPLA, Transak�n� dokumenty nebo smlouvy o koupi, jako je smlouva International Passport Advantage Agreement (IPAA). Po ukon�en� licence k Programu Dr�itel licence neprodlen� zni�� ve�ker� kopie Programu. Podm�nky, je� svou povahou trvaj� i po jej�m ukon�en�, jsou ��inn� a� do okam�iku sv�ho spln�n� a plat� i pro p��padn� pr�vn� n�stupce a postupn�ky.
+
+6. Rozhodn� pr�vo a geografick� rozsah
+
+a. Ob� smluvn� strany souhlas� s uplatn�n�m pr�va zem�, kde dojde k pln�n� transakce licen�n�ho opr�vn�n�, s vylou�en�m uplatn�n� ustanoven� kolizn�ch norem. Pr�va a povinnosti jednotliv�ch smluvn�ch stran jsou platn� pouze v zemi realizace transakce zakoupen� licen�n�ch opr�vn�n� nebo, pokud s t�m souhlas� spole�nost IBM, v zemi, kde je Program um�st�n do produktivn�ho pou�it�, p�i�em� v�echny licence jsou platn� dle specifikac� ud�len�.
+
+b. Ka�d� ze smluvn�ch stran je rovn� povinna dodr�ovat: i) pr�vn� p�edpisy a na��zen� vztahuj�c�ch se na jej� podnik�n� a Obsah; a ii) pr�vn� p�edpisy o dovozu, v�vozu a ekonomick�ch sankc�ch, v�etn� re�imu kontroly USA a v�ech p��slu�n�ch jurisdikc� pro obchod s vojensk�m materi�lem, kter� zakazuj� nebo omezuj� dovoz, v�voz, zp�tn� v�voz nebo p�evod produkt�, technologi�, slu�eb �i dat, p��mo nebo nep��mo, do n�kter�ch zem�, n�kter�m koncov�m u�ivatel�m �i pro n�kter� koncov� pou�it�.
+
+c. Bude-li kter�koli z ustanoven� t�to Smlouvy pro Program neplatn� nebo nevymahateln�, zb�vaj�c� ustanoven� z�st�vaj� pln� platn� a ��inn�. Z�konn� pr�va spot�ebitel�, kter� nemohou b�t smluvn� omezena nebo vylou�ena, nejsou ��dn�m ustanoven�m t�to Smlouvy dot�ena. �mluva OSN o smlouv�ch o mezin�rodn� koupi zbo�� se pro transakce podle t�to Smlouvy neuplatn�.
+
+7. Obecn�
+
+a. IBM je nez�visl� smluvn� partner, nevystupuje jako z�stupce Dr�itele licence, nen� partnerem v r�mci spole�n�ho podniku s Dr�itelem licence, ani jeho partnerem �i zmocn�ncem. Nezavazuje se k pln�n� jak�chkoli regula�n�ch z�vazk� Dr�itele licence ani nep�eb�r� ��dnou odpov�dnost za obchodn� �innost nebo operace Dr�itele licence. Z�kazn�k nese odpov�dnost za u��v�n� Program� IBM a Program� jin�ch subjekt�, ne� je IBM. Spole�nost IBM vystupuje pouze jako poskytovatel informa�n� technologie. Pokyny IBM, doporu�en� pou�it� nebo n�vody �i vyu�it� Programu nep�edstavuj� jak�koliv l�ka�sk�, klinick�, pr�vn�, ��etn� ani jin� licencovan� odborn� poradenstv�. Dr�itel licence by m�l z�skat sv� vlastn� odborn� poradenstv�.
+
+b. V p��pad� Program�, kter� spole�nost IBM poskytuje Dr�iteli licence v hmotn� form�, spole�nost IBM spln� sv� povinnosti expedice a dod�n� dod�n�m takov�ch program� pov��en�mu p�epravci IBM, pokud nebude mezi Dr�itelem licence a spole�nost� IBM p�semn� dohodnuto jinak.
+
+c. Dr�itel licence nesm� pou��vat Program, pokud by selh�n� Programu mohlo zp�sobit smrt, v�nou �jmu na zdrav� nebo �kody na majetku �i �ivotn�m prost�ed�.
+
+d. IBM, jej� p�idru�en� spole�nosti a smluvn� partne�i spole�nosti IBM i jej�ch p�idru�en�ch spole�nost� vy�aduj� pou��v�n� obchodn�ch kontaktn�ch informac�, stejn� jako ur�it�ch informac� o vyu�it� ��tu. Tyto informace nep�edstavuj� Obsah. Obchodn� kontaktn� informace se pou��vaj� pro komunikaci a ��zen� obchodn�ch jedn�n� s Dr�itelem licence. K p��klad�m obchodn�ch kontaktn�ch informac� pat�� jm�no, obchodn� telefon, adresa, e-mail, ID u�ivatele a informace o da�ov� registraci. Informace o vyu�it� ��tu jsou nezbytn� pro aktivaci, poskytov�n�, ��zen�, podporu, spr�vu a zlep�ov�n� Program�. K p��klad�m informac� o vyu�it� ��tu pat�� nahl�en� chyby a digit�ln� informace shrom�d�n� s vyu�it�m sledovac�ch technologi�, jako jsou soubory cookies a webov� maj�ky, b�hem pou��v�n� Program�. Prohl�en� o ochran� osobn�ch �daj� IBM na adrese http://www.ibm.com/privacy upravuje dal�� podrobnosti t�kaj�c� se toho, jak IBM shroma��uje, pou��v� a zpracov�v� obchodn� kontaktn� informace a informace o vyu�it� ��tu. V p��pad�, �e Dr�itel licence poskytuje spole�nosti IBM informace a pro takov� zpracov�n� se vy�aduje ozn�men� fyzick�m osob�m nebo jejich souhlas, Dr�itel licence bude tyto fyzick� osoby informovat a z�sk� jejich souhlas.
+
+e. Obchodn� partne�i IBM, kte�� pou��vaj� nebo zp��stup�uj� Programy, jsou nez�visl� na IBM a jednostrann� si ur�uj� sv� ceny a podm�nky. IBM neodpov�d� za jejich jedn�n�, opomenut�, prohl�en� nebo nab�dky.
+
+f. Spole�nost IBM m��e nab�zet i Programy jin�ch subjekt�, ne� je IBM, nebo m��e Program IBM umo��ovat p��stup k Program�m jin�ch subjekt�, ne� je IBM, co� m��e vy�adovat akceptaci podm�nek t�et� osoby identifikovan�ch v Transak�n�m dokumentu nebo p�edlo�en�ch Dr�iteli licence. Odkazy na Programy jin�ch subjekt�, ne� je IBM, nebo jejich pou��v�n� p�edstavuje souhlas Dr�itele licence s takov�mi podm�nkami. IBM nen� smluvn� stranou jak�koliv smlouvy s t�et�mi osobami a nenese odpov�dnost za takov� Programy jin�ch subjekt�, ne� je ne� IBM.
+
+g. Licence ud�len� k Program�m jsou poskytov�ny newyorskou obchodn� spole�nost� International Business Machines Corporation ("IBM Corporation"). Spole�nost IBM, od n�� Dr�itel licence zakoup� opr�vn�n� ("IBM") vystupuje jako distributor a dod�v� Programy a nese odpov�dnost za vym�h�n� podm�nek t�to Smlouvy. Pokud jsou opr�vn�n� zakoupena od obchodn�ho partnera IBM, spole�nost IBM pro zemi koup� ponese odpov�dnost za vym�h�n� podm�nek t�to Smlouvy. Dr�iteli licence nevznik� v��i IBM Corporation ��dn� pr�vo ani �alobn� d�vod. Dr�itel licence se vzd�v� ve�ker�ch n�rok� a �alobn�ch d�vod� v��i spole�nosti IBM Corporation a zavazuje se, �e bude v��i IBM uplat�ovat jen pr�va a prost�edky n�pravy v souvislosti s Programy.
+
+h. Dr�itel licence nen� opr�vn�n poskytnout podlicenci, postoupit nebo p�ev�st licenci k jak�mukoliv Programu (s v�jimkou rozsahu, v jak�m postoupen� nebo p�evod nelze z�konn�m zp�sobem omezit, nebo dle v�slovn�ch povolen� uveden�ch v Transak�n�m dokumentu nebo jinak schv�len�ch spole�nost� IBM). IBM je opr�vn�na postoupit sv� pr�va a povinnosti v souladu s touto Smlouvou v souvislosti s prodejem ��sti podniku IBM, kter� zahrnuje Program. IBM sm� sd�let tuto Smlouvu a souvisej�c� dokumenty v souvislosti s jak�mkoliv postoupen�m.
+
+i. Ve�ker� sd�len� na z�klad� Smlouvy mus� m�t p�semnou formu a mus� b�t zasl�na na adresu m�sta podnik�n� uvedenou ve Smlouv� Dr�itele licence, leda�e by smluvn� strana p�semn� ur�ila jinou adresu. Smluvn� strany souhlas� s pou��v�n�m elektronick�ch prost�edk� a faxov�ch p�enos� pro ��ely komunikace, jako by se jednalo o podepsan� p�semn� dokumenty. Jak�koli reprodukce Smlouvy proveden� spolehliv�m prost�edkem se pova�uje za origin�l. Smlouva nahrazuje jak�koli obchodn� jedn�n�, rozhovory nebo prohl�en� mezi smluvn�mi stranami.
+
+j. Smlouva neud�luje ��dn� pr�va ani nezakl�d� ��dn� �alobn� d�vody ve prosp�ch t�et�ch osob. ��dn� smluvn� strana nezah�j� soudn� ��zen� vypl�vaj�c� z t�to Smlouvy nebo v souvislosti s n� po uplynut� v�ce ne� let od vzniku d�vodu ��zen�. ��dn� ze smluvn�ch stran nenese odpov�dnost za nespln�n� p��padn�ch nepen�it�ch z�vazk�, pokud k takov�mu nespln�n� do�lo nez�visle na jej� v�li. Ka�d� ze smluvn�ch stran poskytne druh� stran� p�im��enou mo�nost n�pravy p�ed t�m, ne� v��i druh� stran� vznese n�roky souvisej�c� s nepln�n�m jej�ch povinnost�.
+
+k. IBM sm� vyu��vat person�l a zdroje v m�stech po cel�m sv�t�, v�etn� nez�visl�ch smluvn�ch partner�, k poskytov�n� podpory pro dod�vku Program� a poskytov�n� podpory pro Program. Pou��v�n� program� Dr�itelem licence m��e v�st k p�enosu Obsahu, v�etn� osobn� identifikovateln�ch informac�, p�es hranice zem�, aby mohla b�t poskytov�na podpora pro program v souladu s popisem v p��ru�ce podpory pro software IBM.
+
+Odd�l 2 - Podm�nky vy�adovan� ur�it�m st�tem
+
+Pokud se jedn� o licence zakoupen� v n��e uveden�ch zem�ch, n�sleduj�c� podm�nky nahrazuj� nebo upravuj� podm�nky t�to IPLA, na kter� se odkazuje. Podm�nky, kter� nejsou upraveny t�mito dodatky, z�st�vaj� beze zm�ny a v ��innosti.
+
+1. SEVERN� A JI�N� AMERIKA
+
+Odd�l 3. Poplatky, dan�, platba a ov��en�
+
+Nahra�te prvn� a druhou v�tu odstavce b n�sleduj�c�m zn�n�m:
+
+V Braz�lii: Dr�itel licence se zavazuje, �e uhrad� ve�ker� p��slu�n� poplatky za zakoupen� opr�vn�n� a ve�ker� poplatky za pou��v�n� nad r�mec povolen� �i jak�koliv cla �i jin� poplatky, dan� a podobn� odvody, kter� jsou vym��eny jak�mikoliv org�ny na z�klad� zakoupen� opr�vn�n� Dr�itelem licence.
+
+V odstavci b:
+
+V Mexiku: Ve t�et� v�t� vyma�te slova "na ��et stanoven� spole�nost� IBM".
+
+V Mexiku: Dopl�te n�sleduj�c� novou v�tu za t�et� v�tu:
+
+Platby budou uhrazeny prost�ednictv�m elektronick�ho p�evodu finan�n�ch prost�edk� na ��et stanoven� spole�nost� IBM nebo domicilu IBM na adrese Alfonso Napoles Gandara 3111, Santa Fe Pe~na Blanca, Alvaro Obregon, Mexico City, sm�rovac� ��slo 01210.
+
+Na konec odstavce c dopl�te n�sleduj�c� v�tu:
+
+V Kanad�: V p��pad�, �e jsou dan� vym��ov�ny podle lokalit, kter� maj� p��nos z Programu, m� Dr�itel licence pr�b�nou povinnost informovat IBM o t�chto lokalit�ch, pokud se li�� od obchodn� adresy Dr�itele licence uveden� v p��slu�n�m Transak�n�m dokumentu.
+
+Na konec odstavce c dopl�te n�sleduj�c� v�tu:
+
+Ve Spojen�ch st�tech americk�ch: Smluvn� strany souhlas�, �e na Dr�itele licence nep�ech�z� ��dn� hmotn� osobn� majetek (nap�. m�dia nebo publikace), pokud: i) IBM dod�v� Programy Dr�iteli licence elektronicky; nebo ii) pokud Dr�itel licence uplat�uje v�jimku z dan� z prodeje �i dan� z u��v�n� pro Programy, kter� IBM dod�v� Dr�iteli licence elektronicky. V p��pad�, �e jsou dan� vym��ov�ny podle lokalit, kter� maj� p��nos z Programu, m� Dr�itel licence pr�b�nou povinnost informovat IBM o t�chto lokalit�ch, pokud se li�� od obchodn� adresy Dr�itele licence uveden� v p��slu�n�m Transak�n�m dokumentu.
+
+Odd�l 4. Odpov�dnost a ochrana pr�v du�evn�ho vlastnictv�
+
+N�sleduj�c� omezen� odpov�dnosti vlo�te na konec odstavce a:
+
+V Peru: V souladu s ustanoven�m � 1328 peru�nsk�ho ob�ansk�ho z�kon�ku se tato omezen� a vylou�en� neuplatn� v p��pad� �mysln�ho protipr�vn�ho jedn�n� ("dolo") nebo hrub� nedbalosti ("culpa inexcusable").
+
+Odd�l 6. Rozhodn� pr�vo a geografick� rozsah
+
+V odstavci a nahra�te prvn� v�tu pouze t�mto zn�n�m:
+
+V Argentin�: Ob� smluvn� strany souhlas� s uplatn�n�m pr�vn�ch p�edpis� Argentinsk� republiky, a to bez ohledu na kolizn� normy. Ve�ker� ��zen� t�kaj�c� se pr�v, povinnost� a z�vazk� vypl�vaj�c�ch z t�to Smlouvy budou vedena u Obecn�ho obchodn�ho soudu m�sta "Ciudad Aut�noma de Buenos Aires".
+
+V Chile: Ob� smluvn� strany souhlas� s uplatn�n�m pr�vn�ch p�edpis� Chile, a to bez ohledu na kolizn� normy. Ve�ker� spory, v�klad nebo poru�en� souvisej�c� s touto Smlouvou, kter� Smluvn� strany nedok�ou vy�e�it, budou p�edlo�eny obecn�m soud�m m�sta a obvodu Santiago.
+
+V Kolumbii: Ob� smluvn� strany souhlas� s uplatn�n�m pr�vn�ch p�edpis� Kolumbijsk� republiky, a to bez ohledu na kolizn� normy. Ve�ker� pr�va, povinnosti a z�vazky budou �e�eny soudci Kolumbijsk� republiky.
+
+V Ekv�doru Ob� smluvn� strany souhlas� s uplatn�n�m pr�vn�ch p�edpis� Ekv�dorsk� republiky, a to bez ohledu na kolizn� normy. Ve�ker� spory vypl�vaj�c� z t�to Smlouvy nebo v souvislosti s n� budou p�edlo�eny soudc�m pro ob�anskopr�vn� spory m�sta Quito k �stn�mu zkr�cen�mu ��zen�.
+
+Ve Venezuele: Ob� smluvn� strany souhlas� s uplatn�n�m pr�vn�ch p�edpis� Venezuely, a to bez ohledu na kolizn� normy. Smluvn� strany se zavazuj�, �e ve�ker� sv� spory souvisej�c� s touto Smlouvou p�edlo�� soud�m metropolitn� oblasti m�sta Caracas.
+
+V Peru: Ob� smluvn� strany souhlas� s uplatn�n�m pr�vn�ch p�edpis� Peru, a to bez ohledu na kolizn� normy. Ve�ker� rozpory, kter� p��padn� vzniknou mezi smluvn�mi stranami p�i pln�n�, v�kladu nebo dodr�ov�n� t�to Smlouvy, kter� smluvn� strany nedovedou vy�e�it samy, budou p�edlo�eny p��slu�n�m soudc�m a soud�m soudn�ho obvodu Cercado de Lima, kter� maj� odpov�daj�c� pravomoc.
+
+V Uruguayi: Ob� smluvn� strany souhlas� s uplatn�n�m pr�vn�ch p�edpis� Uruguaye. Ve�ker� rozpory, kter� p��padn� vzniknou mezi smluvn�mi stranami p�i pln�n�, v�kladu nebo dodr�ov�n� t�to Smlouvy, kter� smluvn� strany nemohou vy�e�it samy, budou p�edlo�eny obecn�m soud�m v Montevideu ("Tribunales Ordinarios de Montevideo").
+
+V odstavci a, pouze v prvn� v�t�, nahra�te v�raz "zem�, kde je transakce pro licen�n� opr�vn�n� realizov�na" textem:
+
+Spojen� st�ty, Anguilla, Antigua a Barbuda, Aruba, Bahamy, Barbados, Bermudy, Bonaire, Britsk� Panensk� ostrovy, Kajmansk� ostrovy, Curacao, Dominika, Grenada, Guyana, Jamajka, Montserrat, Saba, Svat� Eustach, Svat� Kry�tof a Nevis, Svat� Lucie, Svat� Martin, Svat� Vincenc a Grenadiny, Surinam, Tortola, Trinidad a Tobago, Turk a Caicos: St�tu New York, USA.
+
+V Kanad�: Provincie Ontario a feder�ln� z�kony Kanady, kter� se zde uplatn�.
+
+V odstavci a, druh� v�t�, nahra�te v�raz "zem�, kde je transakce zakoupen� licen�n�ch opr�vn�n� realizov�na" textem:
+
+V Argentin�: Argentina
+
+V Chile: Chile
+
+V Kolumbii: Kolumbie
+
+V Ekv�doru: Ekv�dor
+
+V Mexiku: Mexiko
+
+V Peru: Peru
+
+V Uruguay: Uruguay
+
+Ve Venezuele: Venezuela
+
+P�idejte n�sleduj�c� v�ty na konec odstavce b:
+
+V Braz�lii: Ve�ker� spory vypl�vaj�c� z t�to Smlouvy nebo s n� souvisej�c�, v�etn� zkr�cen�ch ��zen�, budou p�edlo�eny Soudu m�sta San Paolo, st�t S~ao Paolo, Braz�lie, kter� bude m�t v�hradn� p��slu�nost, a smluvn� strany neodvolateln� souhlas� s touto konkr�tn� soudn� p��slu�nost� a vzd�vaj� se jak�koliv jin� bez ohledu na jej� pr�vn� z�klad.
+
+V Mexiku: Smluvn� strany se zavazuj�, �e se pod��d� v�hradn� soudn� p��slu�nosti soud� ve m�st� Mexico pro �e�en� ve�ker�ch spor� vypl�vaj�c�ch z t�to Smlouvy. Smluvn� strany se vzd�vaj� pr�va na jakoukoliv dal�� soudn� p��slu�nost, kter� se na n� p��padn� vztahuje na z�klad� jejich st�vaj�c�ch �i budouc�ch domicil� �i z jin�ho d�vodu.
+
+Odd�l 7. Obecn�
+
+V odstavci g:
+
+Ve Spojen�ch st�tech americk�ch: odstra�te posledn� dv� v�ty.
+
+V odstavci i dopl�te n�sleduj�c� novou v�tu za prvn� v�tu:
+
+V Mexiku: Ve�ker� zm�ny adresy je t�eba ozn�mit 10 (deset) dn� p�edem; v opa�n�m p��pad� budou m�t ozn�men� u�in�n� na posledn� uvedenou adresu �pln� pr�vn� ��inky.
+
+V odstavci j:
+
+V Braz�lii: odstra�te celou druhou v�tu "��dn� smluvn� strana nepod� �alobu vypl�vaj�c� z t�to Smlouvy nebo souvisej�c� s touto Smlouvou po uplynut� v�ce ne� dvou let pot�, co nastal d�vod �aloby."
+
+Dopl�te k tomuto odd�lu jako nov� odstavec l:
+
+V Kanad�: Ob� strany souhlas�, �e tento dokument sep��� v anglick�m jazyce. Les parties ont convenu de r�diger le pr�sent document en langue anglaise.
+
+2. ASIE A PACIFICK� OBLAST
+
+Odd�l 2. Z�ruky
+
+Na konec tohoto odd�lu dopl�te jako nov� odstavec f:
+
+V Austr�lii: Tyto z�ru�n� podm�nky se uplatn� nav�c vedle v�ech p��padn�ch pr�v v souladu se Z�konem o obchodn� sout�i a ochran� spot�ebitele z roku 2010 a jsou omezeny pouze v rozsahu povolen�m t�mto z�konem.
+
+V Japonsku: Odpov�dnost spole�nosti IBM je omezena na tento odstavec a odd�l Odpov�dnost a ochrana pr�v k du�evn�mu vlastnictv� a p��slu�n� Transak�n� dokumenty jako v�hradn� prost�edek n�pravy Dr�itele licence za nespln�n� z�ruk uveden�ch v tomto odd�le.
+
+Na Nov�m Z�landu: Tyto z�ruky se uplatn� nav�c vedle v�ech pr�v vypl�vaj�c�ch ze Z�kona o spot�ebitelsk�ch z�ruk�ch z roku 1993 nebo jin�ch pr�vn�ch p�edpis� a nelze je ze z�kona omezit.
+
+Odd�l 3. Poplatky, dan�, platba a ov��en�
+
+V odstavci b nahra�te t�et� v�tu n�sleduj�c�mi dv�ma v�tami:
+
+V Hongkongu, Indon�sii, Koreji, Macau, Malajsii, na Filip�n�ch, v Singapuru a Vietnamu: ��stky jsou splatn� na z�klad� doru�en� faktury od spole�nosti IBM a jsou splatn� do 30 dn� od data vystaven� faktury na ��et ur�en� spole�nost� IBM. Pokud platba nebude uhrazena do 30 dn� od data vystaven� faktury, spole�nost IBM bude opr�vn�na ��tovat �roky z prodlen� z neuhrazen� ��stky vypo�ten� podle po�tu dn�, o kter� bude platba uhrazena pozd�ji, ve v��i ni��� z n�sleduj�c�ch ��stek: i) 2 % za ka�d� 30denn� obdob� nebo jeho ��st; nebo ii) maxim�ln� ��stka p��pustn� v souladu s platn�mi pr�vn�mi p�edpisy.
+
+V Thajsku: ��stky jsou splatn� na z�klad� doru�en� faktury od spole�nosti IBM a jsou splatn� do 30 dn� od data vystaven� faktury na ��et stanoven� spole�nost� IBM. Pokud platba nebude uhrazena do 30 dn� od data vystaven� faktury, lze na neuhrazenou ��stku uplatnit �roky z prodlen� ve v��i 1,25 % m�s��n� vypo�ten� podle po�tu dn�, o kter� bude platba uhrazena pozd�ji.
+
+V prvn� v�t� odstavce c odstra�te slovo "a" p�ed bodem "(iv)" a dopl�te st�edn�k a n�sleduj�c� nov� bod "(v)":
+
+V Indii: ; a (v) v�as podat spr�vn� da�ov� p�izn�n� k Dan�m sr�en�m u zdroje (TDS). Pokud nebudou n�kter� dan�, cla, odvody nebo poplatky (d�le jen "Dan�") vym��eny na z�klad� dokumentace o v�jimce poskytnut� Dr�itelem licence a da�ov� org�ny n�sledn� rozhodnou, �e takov� Dan� m�ly b�t vym��eny, pak je Dr�itel licence povinen takov� Dan� uhradit, a to v�etn� v�ech �rok�, odvod� a/nebo pen�le k nim p�irostl�ch.
+
+V prvn� v�t� odstavce c odstra�te slovo "a" p�ed bodem "(iv)" a nahra�te bod (iv) a p�idejte dopl�te bod (v) n�sleduj�c�ho zn�n�:
+
+V Singapuru, Malajsii, na Filip�n�ch, v Thajsku, Indon�sii a Vietnamu: (iv) pln� spolupracovat s IBM ve snaze o zpro�t�n� sr�kov� �i jin� dan� nebo jej� sn��en�, pro kter� Dr�itel licence po�aduje zpro�t�n� nebo sn��en�; a v) neprodlen� dokon�it, podat a aktualizovat ve�ker� relevantn� dokumenty pro jak�koliv takov� zpro�t�n�, sn��en� nebo v�jimku.
+
+Odd�l 4. Odpov�dnost a ochrana pr�v du�evn�ho vlastnictv�
+
+V odstavci a dopl�te na konce prvn� v�ty n�sleduj�c�:
+
+V Austr�lii: (nap��klad zda na z�klad� smlouvy, v d�sledku p�e�inu, nedbalosti, v souladu se z�konem nebo jinak)
+
+V odstavci a ve druh� v�t� za slovo "zvl�tn�" a p�ed slovo "n�hodn�" dopl�te n�sleduj�c�:
+
+Na Filip�n�ch: (v�etn� symbolick� a exempl�rn� n�hrady �kody), mor�ln�,
+
+P�idejte jako nov� odstavec na konec odstavce a (a zajist�te p��slu�n� p�e��slov�n� odstavc�):
+
+V Austr�lii: Pokud se IBM dopust� poru�en� z�ruky vypl�vaj�c� ze Z�kona o ochran� hospod��sk� sout�e a spot�ebitele z roku 2010, je odpov�dnost IBM omezena na opravy nebo v�m�nu zbo�� nebo dod�vku ekvivalentn�ho zbo�� nebo �hradu n�klad� na v�m�nu zbo�� nebo zaji�t�n� opravy zbo��. V p��pad�, �e se z�ruka vztahuje k pr�vu prodeje, neru�en� dr�by nebo bezvadn�mu titulu ke zbo�� v souladu s p��lohou �. 2 Z�kona o ochran� hospod��sk� sout�e a spot�ebitele , neuplatn� se ��dn� z t�chto omezen�.
+
+Odd�l 5. Ukon�en�
+
+Na konec ��sti dopl�te jako nov� odstavec b:
+
+V Indon�sii: Smluvn� strany se vzd�vaj� sv�ho pr�va vypl�vaj�c�ho z � 1266 indon�sk�ho ob�ansk�ho z�kon�ku v rozsahu, v jak�m vy�aduje rozhodnut� soudu o ukon�en� smlouvy se vznikem vz�jemn�ch povinnost�.
+
+Odd�l 6. Rozhodn� pr�vo a geografick� rozsah
+
+V odstavci a, pouze v prvn� v�t�, nahra�te v�raz "zem�, kde je transakce licen�n�ch opr�vn�n� realizov�na" n�sleduj�c�m textem:
+
+V Kambod�i, Laosu: st�t New York, USA
+
+V Austr�lii: st�t nebo teritorium, kde transakce prob�hla.
+
+V Hongkongu: Zvl�tn� administrativn� oblast ��nsk� lidov� republiky Hongkong;
+
+V Macau: Zvl�tn� administrativn� oblast ��nsk� lidov� republiky Hongkong;
+
+V Koreji: Korejsk� republika, kde m� p��slu�nost soud Korejsk� republiky pro centr�ln� obvod Soul
+
+V Tchaj-wanu: Tchaj-wan
+
+V Indii: Indie
+
+V odstavci a, ve druh� v�t�, nahra�te v�raz "zem�, kde je transakce zakoupen� licen�n�ch opr�vn�n� realizov�na, nebo pokud s t�m souhlas� IBM, zem�, kde je Program uveden do produktivn�ho vyu�it�" n�sleduj�c�m textem:
+
+V Hongkongu: Zvl�tn� administrativn� oblast ��nsk� lidov� republiky Hongkong;
+
+V Macau: Zvl�tn� spr�vn� oblast ��nsk� lidov� republiky Macao;
+
+V Tchaj-wanu: Tchaj-wan
+
+V odstavci b, v prvn� v�t�, v bod� ii), za slovo "v�etn�" a p�ed slova "obrana", dopl�te:
+
+V Japonsku: t�chto pr�vn�ch p�edpis� Japonska a
+
+Na konec ��sti dopl�te jako nov� odstavec d:
+
+V Kambod�i, Laosu, na Filip�n�ch a Sr� Lance: Spory budou s kone�nou platnost� vy�e�eny v rozhod��m ��zen� v Singapuru souladu s pravidly rozhod��ho ��zen� Mezin�rodn�ho centra pro rozhod�� ��zen� v Singapuru ("Pravidla SIAC").
+
+V Indii: Spory budou s kone�nou platnost� urovn�ny v souladu se Z�konem o rozhod��m a sm�r��m ��zen� z roku 1996 v aktu�ln� platn�m zn�n� v anglick�m jazyce a m�stem kon�n� ��zen� bude Bangalore, Indie. Pokud je ��stka sporu ni��� ne� p�t crore (50�000�000) indick�ch rupi� �i je rovna t�to ��stce, ��zen� povede jeden rozhodce, v opa�n�m p��pad� t�i rozhodci. V p��pad� v�m�ny rozhodce bude ��zen� pokra�ovat od okam�iku uvoln�n� pozice.
+
+V Indon�sii: Spory budou s kone�nou platnost� vy�e�eny v rozhod��m ��zen�m v Jakart�, Indon�sie, kter� je spravov�no Indon�skou n�rodn� radou pro rozhod�� ��zen� zalo�enou v roce 1977 ("Badan Arbitrase Nasional Indonesia" nebo "BANI") v souladu s ��dem Indon�sk� n�rodn� rady pro rozhod�� ��zen� a rozhod�� n�lez bude kone�n� a z�vazn� pro smluvn� strany bez mo�nosti odvol�n�, a bude m�t p�semnou formu a bude uv�d�t skutkov� zji�t�n� a z�konn� z�v�ry.
+
+V ��nsk� lidov� republice: Ka�d� strana je opr�vn�na p�edlo�it spor ��nsk� komisi pro mezin�rodn� ekonomick� a obchodn� rozhod�� ��zen� v Pekingu, �LR, k rozhod��mu ��zen�. Smluvn� strany souhlas�, �e pro �e�en� ka�d�ho sporu budou jmenov�ni t�i rozhodci.
+
+Ve Vietnamu:Spory budou s kone�nou platnost� vy�e�eny v souladu s pravidly rozhod��ho ��zen� Mezin�rodn�ho centra pro rozhod�� ��zen� ve Vietnamu ("Pravidla VIAC"). Cel� ��zen� a v�echny p�edkl�dan� dokumenty budou v anglick�m jazyce.
+
+Odd�l 7. Obecn�
+
+V odstavci j, ve druh� v�t�, nahra�te v�raz "dva roky" textem:
+
+V Indii: t�i roky
+
+Na konec tohoto odd�lu dopl�te n�sleduj�c� odstavec l:
+
+V Indon�sii: Tato smlouva je uzav�ena v anglick�m a indon�sk�m jazyce. V rozsahu p��pustn�m platn�mi pr�vn�mi p�edpisy bude m�t anglick� verze p�ednost v p��pad� rozporu mezi t�mito dv�ma verzemi.
+
+3. EVROPA, ST�EDN� V�CHOD A AFRIKA
+
+Odd�l 2. Z�ruky
+
+V odstavci d nahra�te �tvrtou v�tu n�sleduj�c�mi dv�ma v�tami:
+
+V �esk� republice, v Estonsku a Litv�: Programy jin�ho subjektu, ne� je IBM, jsou poskytov�ny, jak stoj� a le��, bez z�ruk jak�hokoliv druhu nebo odpov�dnosti za vady. Strany t�mto vylu�uj� jakoukoliv odpov�dnost IBM za vady nad r�mec dohodnut�ch z�ruk.
+
+Odd�l 3. Poplatky, dan�, platba a ov��en�
+
+V odstavci b dopl�te n�sleduj�c� text na konec t�et� v�ty:
+
+V It�lii: pokud to IBM po�aduje v p�semn�m ozn�men� Dr�iteli licence.
+
+Na Ukrajin�: z dlu�n� ��stky od n�sleduj�c�ho dne po datu splatnosti do data skute�n� �hrady, po��t�no pom�rn� za ka�d� den prodlen�, s �rokovou sazbou, kter� se rovn� dvojn�sobku diskontn� sazby stanoven� Ukrajinskou n�rodn� bankou (NBU) b�hem obdob� prodlen� (odstavec 6 �l�nku 232 ukrajinsk�ho obchodn�ho z�kon�ku se neuplatn�).
+
+V odstavci b nahra�te t�et� v�tu n�sleduj�c� v�tou:
+
+Ve Francii: ��stky jsou splatn� do 10 dn� od data vystaven� faktury na ��et stanoven� spole�nost� IBM a uplatn� se �roky z prodlen� ve v��i aktu�ln� sazby Evropsk� centr�ln� banky plus 10 bod� krom� n�klad� na vym�h�n� dluhu ve v��i �ty�icet (40) eur; pokud takov� n�klady p�ekro�� �ty�icet eur, dodate�n� od�kodn�n� v souladu s od�vodn�n�m po�adovan� ��stky).
+
+V Rusku: ��stky jsou splatn� na z�klad� doru�en� faktury a jsou splatn� do 30 dn� od data vystaven� faktury elektronick�m p�evodem pen�n�ch prost�edk� na ��et stanoven� spole�nost� IBM. Mohou se uplatnit �roky z prodlen� ve v��i 24 % ro�n� vypo��tan� za ka�d� den po uplynut� 30 dn�.
+
+V odstavci b dopl�te na konec posledn� v�ty n�sleduj�c� text:
+
+V Litv�: nebo pokud z�kon nestanov� jinak
+
+Na konec odstavce b dopl�te n�sleduj�c� text:
+
+V It�lii: V p��pad� neuhrazen� platby nebo ��ste�n� platby a rovn� po form�ln�m postupu uplatn�n� n�roku nebo soudn�m ��zen�, kter� je spole�nost IBM opr�vn�na zah�jit odchyln� od ustanoven� �l�nku 4 z�konn� vyhl�ky �. 231 ze dne 9. ��jna 2002 a v souladu s �l�nkem 7 t�e z�konn� vyhl�ky, bude spole�nost IBM Dr�itele licence o splatn�ch poplatc�ch za prodlen� s �hradou p�semn� informovat doporu�enou listovn� z�silkou s dodejkou.
+
+Odd�l 4. Odpov�dnost a ochrana pr�v du�evn�ho vlastnictv�
+
+V odstavci a, v prvn� v�t�, vlo�te n�sleduj�c� p�ed slova "uhrazen� ��stky":
+
+V Belgii, Francii, N�mecku, It�lii, Lucembursku, na Malt�, v Portugalsku a ve �pan�lsku: vy��� ne� 500�000 EUR (p�t set tis�c eur) nebo
+
+V Irsku a ve Spojen�m kr�lovstv�: 125 % z
+
+V odstavci a, v prvn� v�t�, nahra�te v�raz "p��m� �kody vznikl� Dr�iteli licence" textem:
+
+Ve �pan�lsku: za dolo�enou �kodu vzniklou Dr�iteli licence v p��m�m d�sledku nepln�n� povinnost� IBM
+
+V odstavci a vlo�te za prvn� v�tu n�sleduj�c� novou v�tu:
+
+Ve Slovensku: S odkazem na ustanoven� � 379 obchodn�ho z�kon�ku, z�kona �. 513/1991 Sb., ve zn�n� pozd�j��ch p�edpis� a ohledn� v�ech podm�nek souvisej�c�ch s uzav�en�m smlouvy ob� smluvn� strany uv�d�j�, �e celkov� p�edv�dateln� �kody, kter� mohou vzniknout, nep�ekro�� v��e uvedenou ��stku a jedn� se o maxim�ln� ��stku, za ni� nese spole�nost IBM odpov�dnost.
+
+V odstavci a vlo�te p�ed druhou v�tu n�sleduj�c� novou v�tu:
+
+V Rusku: IBM nenese odpov�dnost za u�l� prosp�ch.
+
+V odstavci a, v druh� v�t�, odstra�te slovo:
+
+V Irsku a ve Spojen�m kr�lovstv�: ekonomick�
+
+V odstavci a nahra�te druhou v�tu n�sleduj�c�m textem:
+
+Ve st�tech Belgie, Nizozemsko a Lucembursko: IBM nenese odpov�dnost za nep��m� �i n�sledn� �kody, u�l� zisk, ztr�tu podnik�n�, hodnoty, p��jmu, goodwillu, �kody na pov�sti nebo ztr�ty o�ek�van�ch �spor, jak�koliv n�roky t�et�ch osob v��i Z�kazn�kovi ani ztr�tu (nebo po�kozen�) dat.
+
+Ve Francii: IBM nenese odpov�dnost za �kody na pov�sti, nep��m� �kody ani u�l� zisk, ztr�tu podnik�n�, hodnoty, p��jmu, goodwillu �i o�ek�van�ch �spor.
+
+V Portugalsku: IBM nenese odpov�dnost za nep��m� �kody, v�etn� u�l�ho zisku.
+
+Ve �pan�lsku: IBM nenese odpov�dnost za �kody na pov�sti, u�l� zisk, ztr�tu podnik�n�, hodnoty, p��jmu, goodwillu �i o�ek�van�ch �spor.
+
+P�idejte n�sleduj�c� text na konec odstavce a:
+
+Ve Francii: Podm�nky Smlouvy v�etn� finan�n�ch podm�nek, byly stanoveny s p�ihl�dnut�m k tomuto ustanoven�, kter� tvo�� ned�lnou sou��st obecn� ekonomie Smlouvy.
+
+V odstavci b nahra�te "a ii) �kody, kter� nelze omezit v souladu s platn�mi pr�vn�mi p�edpisy" n�sleduj�c�m textem:
+
+V N�mecku: ; ii) �kody za �jmu na zdrav� (v�etn� smrti); iii) ztr�ty nebo �kody zp�soben� poru�en�m z�ruky p�evzat� spole�nost� IBM v souvislosti s jakoukoliv transakc� v souladu s touto Smlouvou a iv) zp�soben� �mysln� nebo hrubou nedbalost�.
+
+Odd�l 6. Rozhodn� pr�vo a geografick� rozsah
+
+V odstavci a, pouze v prvn� v�t�, nahra�te v�raz "zem�, kde je transakce pro licen�n� opr�vn�n� realizov�na" textem:
+
+V Alb�nii, Arm�nii, �zerb�jd��nu, B�lorusku, Bosn� a Hercegovin�, Bulharsku, Chorvatsku, B�val� jugosl�vsk� republice Makedonie, Gruzii, Kazachst�nu, Kyrgyzst�nu, Moldavsku, �ern� Ho�e, Rumunsku, Rusku, Srbsku, Tad�ikist�nu, Turkmenist�nu, na Ukrajin� a v Uzbekist�nu: Rakousko
+
+V Estonsku, Litv� a Loty�sku: Finsko
+
+Ve st�tech Al��rsko, Andorra, Benin, Burkina Faso, Burundi, Kamerun, Kapverdy, St�edoafrick� republika, �ad, Komory, Kongo, D�ibuti, Demokratick� republika Kongo, Rovn�kov� Guinea, Francouzsk� Guyana, Francouzsk� Polyn�sie, Gabon, Guinea, Guinea Bissau, Pob�e�� slonoviny, Libanon, Madagaskar, Mali, Maurit�nie, Mauricius, Mayotte, Maroko, Nov� Kaledonie, Niger, R�union, Senegal, Seychely, Togo, Tunisko, Vanuatu a Wallis a Futuna: Francie
+
+Ve st�tech Angola, Bahrajn, Botswana, Egypt, Eritrea, Etiopie, Gambie, Ghana, Ir�k, Jord�nsko, Ke�a, Kuvajt, Lib�rie, Malawi, Malta, Mozambik, Nig�rie, Om�n, P�kist�n, Katar, Rwanda, Svat� Tom� a Princ�v ostrov, Sa�dsk� Ar�bie, Sierra Leone, Som�lsko, Tanzanie, Uganda, Spojen� arabsk� emir�ty, Z�padn� b�eh Jord�nu / p�smo Gazy, Jemen, Zambie a Zimbabwe: Anglie
+
+V Lichten�tejnsku: �v�carsko
+
+Ve st�tech Jihoafrick� republika, Namibie, Lesotho a Svazijsko: Jihoafrick� republika
+
+Ve Spojen�m kr�lovstv�: Anglie
+
+V odstavci a dopl�te na konec prvn� v�ty:
+
+Ve Francii: Smluvn� strany souhlas�, �e �l�nky 1222 a 1223 francouzsk�ho ob�ansk�ho z�kon�ku se neuplatn�.
+
+P�idejte n�sleduj�c� text na konec odstavce a:
+
+Ve st�tech Alb�nie, Arm�nie, �zerb�jd��n, B�lorusko, Bosna a Hercegovina, Bulharsko, Chorvatsko, B�val� jugosl�vsk� republika Makedonie, Gruzie, Kazachst�n, Kosovo, Kyrgyzst�n, Moldavsko, �ern� Hora, Rumunsko, Rusko, Srbsko, T�d�ikist�n, Turkmenist�n, Ukrajina a Uzbekist�n: Ve�ker� spory vypl�vaj�c� z t�to Smlouvy budou s kone�nou platnost� vy�e�eny Mezin�rodn�m rozhod��m soudem Rakousk� feder�ln� hospod��sk� komory ve V�dni (Rozhod�� org�n) v souladu s ��dem rozhod��ho soudu (V�de�sk� pravidla) ve V�dni, Rakousko, v anglick�m jazyce a t�emi nestrann�mi rozhodci, kte�� budou jmenov�ni v souladu s V�de�sk�mi pravidly. Ka�d� strana jmenuje jednoho rozhodce a tito rozhodci pak do 30 dn� spole�n� jmenuj� nez�visl�ho p�edsedu rozhod��ho sen�tu; v opa�n�m p��pad� bude p�edseda rozhod��ho sen�tu jmenov�n Rozhod��m org�nem v souladu s V�de�sk�mi pravidly. Rozhodci nebudou m�t pravomoc vydat soudn� p��kaz nebo p�iznat n�hradu �kody vylou�en� touto Smlouvou nebo p�esahuj�c� limity uveden� v t�to Smlouv�. ��dn� ustanoven� t�to Smlouvy nebr�n� jak�koli smluvn� stran� ve vyu�it� soudn�ho ��zen� pro ��ely (1) p�edb�n�ho opat�en�, kter� zabr�n� podstatn� �jm� nebo poru�en� ustanoven� o zachov�n� d�v�rnosti nebo pr�v k du�evn�mu vlastnictv�, nebo (2) ur�en� platnosti nebo vlastnictv� autorsk�ch pr�v, patentu nebo ochrann� zn�mky vlastn�n� nebo tvrzen� smluvn� stranou �i jej�m Podnikem nebo (3) vym�h�n� dluhu, jeho� v��e nep�esahuje 500�000,00 USD.
+
+Ve st�tech, Estonsko, Loty�sko, a Litva: Ve�ker� spory vypl�vaj�c� z t�to Smlouvy budou s kone�nou platnost� vy�e�eny Rozhod��m institutem Finsk� obchodn� komory (Rozhod�� org�n) v souladu s ��dem rozhod��ho ��zen� Finsk� obchodn� komory (��d), v Helsink�ch, Finsko, v anglick�m jazyce a t�emi nestrann�mi rozhodc�, kte�� budou jmenov�ni v souladu s t�mto ��dem. Ka�d� strana jmenuje jednoho rozhodce a tito rozhodci pak do 30 dn� spole�n� jmenuj� nez�visl�ho p�edsedu rozhod��ho sen�tu; v opa�n�m p��pad� bude p�edseda rozhod��ho sen�tu jmenov�n Rozhod��m org�nem v souladu s ��dem. Rozhodci nebudou m�t pravomoc vydat soudn� p��kaz nebo p�iznat n�hradu �kody vylou�en� touto Smlouvou nebo p�esahuj�c� limity uveden� v t�to Smlouv�. ��dn� ustanoven� t�to Smlouvy nebr�n� jak�koli smluvn� stran� ve vyu�it� soudn�ho ��zen� pro ��ely (1) p�edb�n�ho opat�en�, kter� zabr�n� podstatn� �jm� nebo poru�en� ustanoven� o zachov�n� d�v�rnosti nebo pr�v k du�evn�mu vlastnictv�, nebo (2) ur�en� platnosti nebo vlastnictv� autorsk�ch pr�v, patentu nebo ochrann� zn�mky vlastn�n� nebo tvrzen� smluvn� stranou �i jej�m Podnikem nebo (3) vym�h�n� dluhu, jeho� v��e nep�esahuje 500�000,00 USD.
+
+Ve st�tech Afgh�nist�n, Angola, Bahrajn, Botswana, Burundi, Kapverdy, D�ibutsko, Egypt, Eritrea, Etiopie, Gambie, Ghana, Ir�k, Jord�nsko, Ke�a, Kuvajt, Libanon, Lib�rie, Libye, Madagaskar, Malawi, Mosambik, Nig�rie, Om�n, P�kist�n, Palestinsk� �zem�, Katar, Rwanda, Svat� Tom� a Princ�v ostrov, Sa�dsk� Ar�bie, Seychely, Sierra Leone, Som�lsko, Ji�n� S�d�n, Tanzanie, Uganda, Spojen� arabsk� emir�ty, Z�padn� Sahara, Jemen, Zambie a Zimbabwe: Ve�ker� spory vypl�vaj�c� z t�to Smlouvy budou s kone�nou platnost� �e�eny Lond�nsk�m soudem pro mezin�rodn� rozhod�� ��zen� (LCIA, rozhod�� org�n) v souladu s ��dem rozhod��ho ��zen� LCIA (��d), ve m�st� Lond�n, Spojen� kr�lovstv�, v anglick�m jazyce a t�emi nestrann�mi rozhodci, kte�� budou jmenov�ni v souladu s ��dem. Ka�d� strana jmenuje jednoho rozhodce a tito rozhodci pak do 30 dn� spole�n� jmenuj� nez�visl�ho p�edsedu rozhod��ho sen�tu; v opa�n�m p��pad� bude p�edseda rozhod��ho sen�tu jmenov�n Rozhod��m org�nem v souladu s ��dem. Rozhodci nebudou m�t pravomoc vydat soudn� p��kaz nebo p�iznat n�hradu �kody vylou�en� touto Smlouvou nebo p�esahuj�c� limity uveden� v t�to Smlouv�. ��dn� ustanoven� t�to Smlouvy nebr�n� jak�koli smluvn� stran� ve vyu�it� soudn�ho ��zen� pro ��ely (1) p�edb�n�ho opat�en�, kter� zabr�n� podstatn� �jm� nebo poru�en� ustanoven� o zachov�n� d�v�rnosti nebo pr�v k du�evn�mu vlastnictv�, nebo (2) ur�en� platnosti nebo vlastnictv� autorsk�ch pr�v, patentu nebo ochrann� zn�mky vlastn�n� nebo tvrzen� smluvn� stranou �i jej�m Podnikem nebo (3) vym�h�n� dluhu, jeho� v��e nep�esahuje 500�000,00 USD.
+
+Ve st�tech Al��rsko, Benin, Burkina Faso, Kamerun, St�edoafrick� republika, �ad, Kon�sk� republika, Demokratick� republika Kongo, Rovn�kov� Guinea, Francouzsk� Guyana, Francouzsk� Polyn�sie, Gabon, Guinea, Guinea-Bissau, Pob�e�� slonoviny, Mali, Maurit�nie, Mauricius, Maroko, Niger, Senegal, Togo a Tunisko: Ve�ker� spory vypl�vaj�c� z t�to Smlouvy budou s kone�nou platnost� �e�eny Mezin�rodn�m rozhod��m soudem v Pa���i (Rozhod�� org�n) v souladu s jeho ��dem rozhod��ho ��zen� (��d), v Pa���i, Francie, ve francouzsk�m jazyce a t�emi nestrann�mi rozhodci, kte�� budou jmenov�ni v souladu s ��dem. Ka�d� strana jmenuje jednoho rozhodce a tito rozhodci pak do 30 dn� spole�n� jmenuj� nez�visl�ho p�edsedu rozhod��ho sen�tu; v opa�n�m p��pad� bude p�edseda rozhod��ho sen�tu jmenov�n Rozhod��m org�nem v souladu s ��dem. Rozhodci nebudou m�t pravomoc vydat soudn� p��kaz nebo p�iznat n�hradu �kody vylou�en� touto Smlouvou nebo p�esahuj�c� limity uveden� v t�to Smlouv�. ��dn� ustanoven� t�to Smlouvy nebr�n� jak�koli smluvn� stran� ve vyu�it� soudn�ho ��zen� pro ��ely (1) p�edb�n�ho opat�en�, kter� zabr�n� podstatn� �jm� nebo poru�en� ustanoven� o zachov�n� d�v�rnosti nebo pr�v k du�evn�mu vlastnictv�, nebo (2) ur�en� platnosti nebo vlastnictv� autorsk�ch pr�v, patentu nebo ochrann� zn�mky vlastn�n� nebo tvrzen� smluvn� stranou �i jej�m Podnikem nebo (3) vym�h�n� dluhu, jeho� v��e nep�esahuje 250�000,00 USD.
+
+V Jihoafrick� republice, Namibii, Lesothu a Swazijsku: Ve�ker� spory vypl�vaj�c� z t�to Smlouvy budou s kone�nou platnost� vy�e�eny Rozhod�� asociac� Jihoafrick� republiky (AFSA) (Rozhod�� org�n) v souladu s ��dem rozhod��ho ��zen� AFSA (��d), v Johannesburgu, Jihoafrick� republika, v anglick�m jazyce a t�emi nestrann�mi rozhodci, kte�� budou jmenov�ni v souladu s ��dem. Ka�d� strana jmenuje jednoho rozhodce a tito rozhodci pak do 30 dn� spole�n� jmenuj� nez�visl�ho p�edsedu rozhod��ho sen�tu; v opa�n�m p��pad� bude p�edseda rozhod��ho sen�tu jmenov�n Rozhod��m org�nem v souladu s ��dem. Rozhodci nebudou m�t pravomoc vydat soudn� p��kaz nebo p�iznat n�hradu �kody vylou�en� touto Smlouvou nebo p�esahuj�c� limity uveden� v t�to Smlouv�. ��dn� ustanoven� t�to Smlouvy nebr�n� jak�koli smluvn� stran� ve vyu�it� soudn�ho ��zen� pro ��ely (1) p�edb�n�ho opat�en�, kter� zabr�n� podstatn� �jm� nebo poru�en� ustanoven� o zachov�n� d�v�rnosti nebo pr�v k du�evn�mu vlastnictv�, nebo (2) ur�en� platnosti nebo vlastnictv� autorsk�ch pr�v, patentu nebo ochrann� zn�mky vlastn�n� nebo tvrzen� smluvn� stranou �i jej�m Podnikem nebo (3) vym�h�n� dluhu, jeho� v��e nep�esahuje 250�000,00 USD.
+
+Ve st�tech, Andorra, Rakousko, Kypr, Francie, N�mecko, �ecko, Izrael, It�lie, Portugalsko, �pan�lsko, �v�carsko a Turecko: V�echny spory budou p�edlo�eny pravomoci n��e uveden�ch soud�, kter� budu m�t v�hradn� p��slu�nost:
+
+V Ando�e: obchodn� soud v Pa���i.
+
+V Rakousku: soud ve V�dni (Vnit�n� m�sto), Rakousko.
+
+V Kypru: p��slu�n� soud v Nik�sii.
+
+Ve Francii: obchodn� soud v Pa���i.
+
+V N�mecku: soudy ve Stuttgartu.
+
+V �ecku: p��slu�n� soud v At�n�ch.
+
+V Izraeli: soudy v Tel Avivu-Jaff�.
+
+V It�lii: soudy v Mil�n�.
+
+V Portugalsku: soudy v Lisabonu.
+
+V �pan�lsku: soudy v Madridu.
+
+Ve �v�carsku: obchodn� soud kantonu Curych.
+
+V Turecku: centr�ln� soudy v Istanbulu (Caglayan) a v�konn� p�edstavenstvo m�sta Istanbul (Execution Directorates), Tureck� republika.
+
+V Nizozemsku: Smluvn� strany se vzd�vaj� sv�ch pr�v v souladu s Hlavou 7.1 ('Koop') a � 7:401 a 402 nizozemsk�ho ob�ansk�ho z�kon�ku a sv�ch pr�v na dom�h�n� se �pln�ho �i ��ste�n�ho zru�en� ('gehele of partiele ontbinding') t�to Smlouvy v souladu s ustanoven�m � 6:265 nizozemsk�ho ob�ansk�ho z�kon�ku.
+
+Odd�l 7. Obecn�
+
+V odstavci d vlo�te n�sleduj�c� na konec odstavce tento text:
+
+Ve �pan�lsku: IBM vyhov� ��dostem o p��stup, aktualizace nebo odstran�n� kontaktn�ch �daj�, pokud budou doru�eny na n�sleduj�c� adresu: IBM, c/ Santa Hortensia 26-28, 28002 Madrid, Departamento de Privacidad de Datos.
+
+V odstavci j p�idejte na konec odstavce:
+
+V �esk� republice: v souladu s ustanoven�m � 1801 Z�kona �. 89/2012 Sb. ("Ob�ansk� z�kon�k") se na transakce podle t�to Smlouvy neuplatn� ustanoven� � 1799 a � 1800 Ob�ansk�ho z�kon�ku, v platn�m zn�n�. Dr�itel licence p�ij�m� riziko zm�ny okolnost� v souladu s � 1765 Ob�ansk�ho z�kon�ku.
+
+V odstavci j:
+
+V Bulharsku, Chorvatsku, Rusku, Srbsku a ve Slovinsku: odstra�te druhou v�tu, kter� zn�: "��dn� ze stran nepod� �alobu vypl�vaj�c� z t�to Smlouvy nebo s n� souvisej�c� v�ce ne� dva roky po vzniku �alobn�ho d�vodu."
+
+V odstavci j dopl�te na konec druh� v�ty:
+
+V Litv�: pokud z�kon nestanov� jinak
+
+V odstavci j nahra�te druhou v�tu n�sleduj�c�m textem:
+
+V Polsku: ��dn� ze stran nepod� �alobu vypl�vaj�c� z t�to Smlouvy nebo s n� souvisej�c� v�ce ne� t�i roky po vzniku �alobn�ho d�vodu s v�jimkou �alob v d�sledku nezaplacen�, kter� budou pod�ny nejpozd�ji 2 roky od data splatnosti.
+
+V odstavci j, ve druh� v�t�, nahra�te slovo "dv�" slovem:
+
+V Loty�sku a na Ukrajin�: t�i
+
+Na Slovensku: �ty�i
+
+V odstavci j dopl�te na konec t�et� v�ty, kter� zn�: "��dn� ze stran nenese odpov�dnost za nepln�n� sv�ch nepen�n�ch povinnost� v d�sledku p���in le��c�ch mimo jejich rozumnou kontrolu":
+
+V Rusku: v�etn� - nikoli v�ak pouze - zem�t�esen�, povodn�, po��r�, vy��� moci, st�vek (s v�jimkou st�vek zam�stnanc� stran), v�le�n�ch akt�, vojensk�ch akc�, embarg, blok�d, mezin�rodn�ch nebo vl�dn�ch sankc� a jedn�n� ��ad� p��slu�n� jurisdikce.
+
+V odstavci j, t�et� v�t�, upravte v�tu: "��dn� ze stran nenese odpov�dnost za nepln�n� sv�ch nepen�n�ch povinnost� v d�sledku p���in le��c�ch mimo jejich rozumnou kontrolu" n�sledovn�:
+
+Na Ukrajin�: ��dn� ze stran nenese odpov�dnost za nepln�n� sv�ch nepen�n�ch povinnost� v d�sledku p���in nebo regula�n�ch zm�n le��c�ch mimo jejich kontrolu, v�etn� nap��klad po�adavk� na dovoz, v�voz nebo hospod��sk�ch sankc� Spojen�ch st�t� americk�ch.
+
+Na konec odstavce dopl�te tento text jako nov� odstavec l:
+
+V Ma�arsku: Uzav�en�m t�to Smlouvy Dr�itel licence potvrzuje, �e byl dostate�n� informov�n o v�ech ustanoven�ch t�to Smlouvy a m�l mo�nost tyto podm�nky vyjednat. N�sleduj�c� ustanoven� se mohou v�razn� odli�ovat od ustanoven� obecn� uplat�ovan�ch ma�arsk�m pr�vem a ob� strany akceptuj� takov� ustanoven� podpisem Smlouvy: Licence k Programu; Z�ruky; Poplatky, Dan�, Platba a ov��en�, Odpov�dnost a ochrana pr�v du�evn�ho vlastnictv�; Ukon�en�; Rozhodn� pr�vo a zem�pisn� rozsah a Obecn� ustanoven�.
+
+V �esk� republice: Dr�itel licence v�slovn� akceptuje podm�nky t�to Smlouvy, kter� zahrnuj� n�sleduj�c� d�le�it� komer�n� podm�nky: i) omezen� a vylou�en� odpov�dnosti za vady (Z�ruky); ii) omezen� opr�vn�n� Dr�itele licence na n�hradu �kody (Odpov�dnost a ochrana pr�v du�evn�ho vlastnictv�); iii) z�vazn� povaha v�vozn�ch a dovozn�ch na��zen� (Rozhodn� pr�vo a zem�pisn� rozsah); iv) krat�� proml�ec� lh�ty (Obecn� ustanoven�); v) vylou�en� uplatn�n� ustanoven� o adhezn�ch smlouv�ch (Obecn� ustanoven�); a vi) akceptace rizik zm�ny okolnost� (Obecn� ustanoven�).
+
+V Rumunsku: Dr�itel licence v�slovn� akceptuje n�sleduj�c� standardn� ustanoven�, kter� mohou b�t pova�ov�na za "neobvykl� ustanoven�" v souladu s ustanoven�m � 1203 rumunsk�ho ob�ansk�ho z�kon�ku: �l�nky 2, 4, 5 a 8j. Dr�itel licence t�mto potvrzuje, �e byl dostate�n� informov�n o v�ech ustanoven�ch t�to Smlouvy, v�etn� v��e uveden�ch �l�nk�, �e je ��dn� analyzoval a pochopil a m�l p��le�itost o podm�nk�ch jednotliv�ch �l�nk� jednat.
+
+i125-3301-15 (10-2021)
+

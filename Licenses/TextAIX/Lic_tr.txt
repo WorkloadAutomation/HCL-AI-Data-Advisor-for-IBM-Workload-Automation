@@ -1,0 +1,530 @@
+L�SANS B�LG�LER�
+
+A�a��da listelenen programlar, daha �nce M��teri ve IBM taraf�ndan kabul edilen Program lisans� ko�ullar�na ek olarak a�a��daki Lisans Bilgilerinin kay�t ve ko�ullar� kapsam�nda lisanslan�r. M��teri, Programa ili�kin y�r�rl�kte olan lisans ko�ullar�n� daha �nce kabul etmemi�se, Uluslararas� Program Lisans S�zle�mesi (i125-3301-15) ge�erli olur.
+
+Program Ad� (Program Numaras�):
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+A�a��daki standart ko�ullar, Lisans Alan Taraf�n Program� kullan�m� i�in ge�erlidir.
+
+De�i�tirilebilir ���nc� Ki�i Kodu
+
+IBM'in, varsa, NOTICES dosyas�nda ���nc� ki�i kodunu "De�i�tirilebilir ���nc� Ki�i Kodu" olarak tan�mlad��� �l��de, IBM, Lisans Alan Tarafa 1) De�i�tirilebilir ���nc� Ki�i Kodunu de�i�tirme ve 2) yaln�zca Lisans Alan Taraf�n an�lan ���nc� ki�i kodu �zerinde yapt��� de�i�ikliklerinden kaynaklanan hatalar�n ay�klanmas� amac�yla, De�i�tirilebilir ���nc� Ki�i Kodu ile do�rudan aray�z� olan Program mod�lleri �zerinde tersine m�hendislik ger�ekle�tirme yetkisi verir. Varsa, IBM'in hizmet ve destek y�k�ml�l�kleri yaln�zca de�i�iklik yap�lmam�� Program i�in ge�erlidir.
+
+A�a��daki �l�� birimleri, Lisans Alan Taraf�n Program� kullan�m� i�in ge�erli olabilir.
+
+��lemci De�er Birimi (PVU)
+
+��lemci De�er Birimi (PVU), bu Program�n lisanslanabilece�i bir �l�� birimidir. Gereken ��lemci De�er Birimi (PVU) yetkilerinin say�s� hesaplan�rken, i�lemci teknolojisi (https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html adresindeki Da��n�k Yaz�l�mlar web sitesi i�in ��lemci De�er Birimi (PVU) esas�yla lisanslamada tan�mlan�r) ve Program i�in kullan�ma sunulan i�lemci say�s� esas al�n�r. IBM, ��lemci De�er Birimi esas�nda lisanslaman�n amac� do�rultusunda bir �ip �zerinde yer alan her i�lemci �ekirde�i i�in bir i�lemci tan�mlamaya devam eder. �rne�in, bir �ift �ekirdekli i�lemci �ipinde iki adet i�lemci �ekirde�i bulunur.
+
+Lisans Alan Taraf, Program� (destekleniyorsa), tam kapasite lisanslamas�n�, alt kapasite lisanslamas�n� (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamas�n� (https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek i�in baa�lant�s� verilen web sitelerine bak�n.
+
+Lisans Alan Taraf, bu Program i�in do�rudan edinilmesi gereken yetkilerin yerine, bu Program i�in, Program taraf�ndan y�netilen veya i�lenen kaynaklar�n �zerinde bulundu�u sistemler i�in i�lemci �ekirdeklerini kapsamaya yetecek say�da ��lemci De�er Birimi yetkisi edinmelidir.
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+
+Uluslararas� Program Lisans S�zle�mesi
+
+B�l�m 1 - Genel Ko�ullar
+
+L�SANS ALAN TARAF, PROGRAMI KAR�IDAN Y�KLEYEREK, KURARAK, KOPYALAYARAK, PROGRAMA ER��EREK, "KABUL ED�YORUM" D��MES�N� TIKLAYARAK YA DA PROGRAMI D��ER HERHANG� B�R B���MDE KULLANARAK BU S�ZLE�MEN�N KO�ULLARINI KABUL EDER. BU KO�ULLARI L�SANS ALAN TARAF ADINA KABUL ED�YORSANIZ, BU KO�ULLARI L�SANS ALAN TARAF ADINA BA�LAYICI OLACAK �EK�LDE KABUL ETMEK ���N TAM YETK�YE SAH�P OLDU�UNUZU BEYAN ETM�� OLURSUNUZ.
+
+BU KO�ULLARI KABUL ETM�YORSANIZ VEYA YETK�N�Z YOKSA: i) BU PROGRAMI Y�KLEMEY�N�Z, KURMAYINIZ, KOPYALAMAYINIZ, PROGRAMA ER��MEY�N�Z, "KABUL ED�YORUM" D��MES�N� TIKLAMAYINIZ VEYA PROGRAMI KULLANMAYINIZ VE ii) �DED���N�Z TUTARI GER� ALMAK ���N, KULLANILMAMI� ORTAMLARI, BELGELER� VE YETK� BELGES�N� PROGRAMI ED�ND���N�Z TARAFA DERHAL �ADE ED�N�Z. PROGRAM Y�KLEND�YSE, PROGRAMIN T�M KOPYALARINI �MHA ED�N�Z.
+
+Bu Uluslararas� Program Lisans S�zle�mesi (UPLS) ve ge�erli ��lem Belgeleri (birlikte "S�zle�me"), bir Program�n kullan�m�yla ilgili olarak Lisans Alan Taraf ile IBM aras�ndaki s�zle�menin tamam�n� olu�turur. Bu UPLS'de B�l�m 2'de yer alan �lkeye �zg� ko�ullar, B�l�m 1'deki ko�ullar�n yerine ge�er veya onlar� de�i�tirir.
+
+��lem Belgelerinde, Programla ve onun yetkili kullan�m�yla ilgili tan�m, bilgi ve ko�ullar sa�lan�r. Programlara ili�kin ��lem Belgelerine �rnekler aras�nda lisans bilgileri, lisansl� program belirtimleri, fiyat teklifi, yetki belgesi veya fatura yer al�r. Herhangi bir �eli�ki olmas� halinde ��lem Belgesi, UPLS'den �ncelikli olarak uygulanacakt�r.
+
+1. Program Lisans�
+
+a. Bir Program, IBM markal�, �al��t�r�labilir bir bilgisayar program� ve bununla ilgili malzemelerdir. Program, tam ve k�smi kopyalar� i�erir. Program ayr�nt�lar� http://www.ibm.com/software/sla (Passport Advantage Programlar� i�in) veya http://www.ibm.com/support/knowledgecenter (di�er IBM Programlar� i�in) adresinde, Program�n sistem komut dizininde veya IBM taraf�ndan ba�ka �ekilde belirtilen bir adreste yer alan bir ��lem Belgesinde a��klan�r. Lisans Alan Taraf�n Programlar� kullan�m� i�in http://www.ibm.com/softwarepolicies adresinde yer alan IBM yaz�l�m ilkeleri (�rne�in, yedekleme, ge�ici kullan�m ve IBM'in onaylad��� bulut ortam�) ge�erlidir.
+
+b. Programlar�n kopyalar� telif hakk�na tabidir ve lisanslan�r.
+
+c. Lisans Alan Tarafa a�a��dakileri yerine getirmek i�in m�nhas�r olmayan bir lisans verilir:
+
+(1) Program�n her bir kopyas�n�n, S�zle�menin ko�ullar�na tabi olarak ve Lisans Alan Taraf�n edindi�i lisans yetkisi say�s�na kadar olacak �ekilde kullan�lmas� ("Yetkili Kullan�m");
+
+(2) S�z konusu Yetkili Kullan�m� desteklemek i�in kopyalar�n ��kar�lmas� ve kurulmas�; ve
+
+(3) Yedek kopyan�n ��kar�lmas�.
+
+d. Programlar, Lisans Alan Taraf, onun �al��anlar� ve y�klenicileri taraf�ndan kullan�labilir. Lisans Alan Taraf, bir Program� kiraya veremez veya finansal kiralama yapamaz veya herhangi bir ���nc� ki�iye ticari BT, bar�nd�rma ya da s�re payla��m� hizmetleri sa�layamaz. Ek �cretler kar��l���nda ya da farkl� ko�ullar uyar�nca sa�lanan ek haklar s�z konusu olabilir.
+
+e. Bir Program i�in verilen lisans, Lisans Alan Taraf�n a�a��dakileri yerine getirmesine tabidir:
+
+(1) Telif hakk� bildirimlerinin ve di�er i�aretlerin kopyalara eklenmesi;
+
+(2) Program� kullanan t�m ki�ilerin i) bunu yaln�zca Lisans Alan Taraf�n Yetkili Kullan�m� dahilinde Lisans Alan Taraf�n ad�na yapmas�; ve ii) bu S�zle�meye uymas�;
+
+(3) Ge�erli yasalar�n s�zle�me ile de�i�tirilmesine olanak tan�mayarak a��k�a izin verdi�i durumlar d���nda, Program �zerinde tersine derleme, tersine d�zenleme, �eviri veya tersine m�hendislik ger�ekle�tirilmemesi; ve
+
+(4) Program bile�enlerinin veya ilgili lisansl� malzemelerin Programdan ayr� olarak kullan�lmamas�.
+
+f. Bir Programa ("As�l Program") ili�kin ��lem Belgesinde , As�l Programla birlikte bir "Destekleyici Program�n" yer ald��� belirtiliyorsa, Lisans Alan Taraf, Destekleyici Program� As�l Program�n lisans s�n�rlamalar�na tabi olarak ve yaln�zca As�l Program� desteklemek amac�yla kullanabilir.
+
+g. Bu lisans, Lisans Alan Taraf�n olu�turdu�u her Program kopyas� i�in ge�erlidir.
+
+h. Programa ili�kin bir g�ncelleme, d�zeltme veya yama, g�ncellenmi� bir ��lem Belgesinde yeni ko�ullar sa�lanmad��� s�rece Program�n tabi oldu�u ko�ullara tabidir. Lisans Alan Taraf, g�ncelleme, d�zeltme veya yama kuruldu�unda bu yeni ko�ullar� kabul etmi� olur. Lisans Alan Taraf, bir g�ncellemenin Program�n yerini almas� halinde, g�ncellemeden �nce kullan�lan Program�n kullan�m�na derhal son vermeyi kabul eder.
+
+i. Lisans Alan Taraf�n herhangi bir nedenle bir Programdan memnun kalmamas� halinde, Lisans Alan Taraf, �denen tutar� geri almak i�in Program� ve yetki belgesini s�z konusu Program�n ilk sat�n al�nd��� tarihten sonra 30 g�n i�inde IBM'e veya yetkili IBM ��z�m Orta��na iade ederek lisans� sona erdirebilir. Y�klenen bir Program i�in geri �deme y�nergeleri al�nmas� amac�yla Lisans Alan Taraf�n Program� sat�n ald��� tarafla ileti�im kurulmal�d�r.
+
+2. Garantiler
+
+a. IBM, tan�mlanm�� i�letim ortam�nda kullan�ld���nda bir Program�n IBM'in resmi olarak yay�nlanm�� belirtimlerine uygun olaca��n� garanti eder. Bir Program i�in garanti s�resi, bir ��lem Belgesinde ba�ka bir garanti s�resi belirtilmedik�e, sat�n alma tarihinden itibaren 12 ayd�r ya da 12 aydan k�sa ise ilk lisans s�resine e�ittir.
+
+b. Garanti s�resi boyunca Lisans Alan Taraf, http://www.ibm.com/support/pages/node/733923 adresinde yer alan IBM Destek Rehberinde a��kland��� �ekilde bilinen Program hatalar�, hata d�zeltmeleri, k�s�tlamalar ve ge�ici ��z�mlere ili�kin bilgi i�eren IBM veritabanlar�na eri�ime sahip olacakt�r.
+
+c. Bir Program Garanti S�resi boyunca garanti edildi�i �ekilde �al��m�yorsa ve sorun IBM veritabanlar�nda sa�lanan bilgilerle ��z�lemiyorsa, Lisans Alan Taraf, �dedi�i tutar� geri almak �zere Program� ve yetki belgesini IBM'e veya IBM ��z�m Orta��na iade edebilir ve b�ylece Lisans Alan Taraf�n lisans� sona erdirilir.
+
+d. IBM, bir IBM Program�n�n kesintisiz ya da hatas�z bir �ekilde �al��aca��n� ya da t�m kusurlar� giderece�ini veya ���nc� ki�ilerden kaynaklanan aksakl�klar� �nleyece�ini garanti etmez. Bu garantiler, IBM taraf�ndan sa�lanan m�nhas�r garantilerdir ve tatmin edici kaliteye, bir �r�n veya hizmetin ticari sat�� ko�ullar�na, hak ihlali yap�lmayaca��na ve belirli bir amaca uygunlu�a ili�kin z�mni garanti ya da ko�ullar dahil olmak �zere di�er t�m garantilerin yerine ge�er. Hatal� kullan�m, de�i�iklik, IBM'den kaynaklanmayan hasar veya IBM taraf�ndan sa�lanan yaz�l� y�nergelere uyulmamas� durumunda IBM garantileri ge�ersiz olacakt�r. IBM D��� Programlar hi�bir garanti verilmeksizin, oldu�u gibi sa�lan�r. ���nc� ki�iler, Lisans Alan Tarafa kendi garantilerini sunabilirler.
+
+e. Garanti s�resi boyunca veya sonras�nda mevcut ek destek hizmeti ayr� bir s�zle�me kapsam�nda sa�lanabilir.
+
+3. �cretler, Vergiler, �deme ve Do�rulama
+
+a. Lisans Alan Taraf�n bir Program� kullanma hakk�, kapsam�nda Lisans Alan Taraf�n lisans yetkilerini sat�n ald��� s�zle�mede belirtilen ge�erli �cretlerin Lisans Alan Taraf�a �denmesi ko�uluna ba�l�d�r. Lisans Alan Taraf, kendi kullan�m�n� art�rmadan �nce ek lisans yetkilerinin sat�n al�nmas�ndan sorumludur.
+
+b. Lisans Alan Taraf, sat�n al�nan yetkiler i�in belirtilen ge�erli t�m �cretleri ve yetkileri a�an kullan�mlara ili�kin �cretleri �demeyi kabul eder. �cretlere, Lisans Alan Taraf�n yapt��� sat�n al�mlara herhangi bir resmi kurum taraf�ndan uygulanan herhangi bir g�mr�k vergisi ya da di�er herhangi bir resim, vergi ve benzer har�lar dahil de�ildir. Bunlar, Lisans Alan Taraf�n sat�n al�mlar�na ili�kin �cretlere ek olarak fatura edilecektir. Tutarlar IBM'in faturas� teslim al�nd���nda muaccel olur ve fatura tarihini izleyen 30 g�n i�erisinde IBM taraf�ndan belirtilen bir hesaba �denir ve gecikme faizi uygulanabilir. Lisans Alan Taraf, kendi kullan�m�n� art�rmadan �nce ek lisans yetkilerinin do�ru bir �ekilde sat�n al�nmas�ndan sorumludur. IBM, bu UPLS'de, ge�erli ��lem Belgesinde veya kapsam�nda Lisans Alan Taraf�n lisans yetkilerini sat�n ald��� s�zle�menin ko�ullar�nda belirtilenler haricinde, vadesi gelmi� veya �denmi� �cretler i�in alacak kaydetmez veya geri �deme yapmaz.
+
+c. Sat�n al�nan yetkilere dayal� olarak Lisans Alan Taraf a�a��da belirtilenleri kabul eder: i) hukuken zorunlu olmas� durumunda, stopaj vergisini do�rudan uygun devlet kurumuna �deyecektir; ii) an�lan �demenin yap�lm�� oldu�una ili�kin bir vergi makbuzunu IBM'e ibraz edecektir; iii) IBM'e yaln�zca vergi mahsup edildikten sonraki net tutar� �deyecektir; iv) an�lan vergilerden muafiyet ya da indirim al�nmas�nda IBM ile tam i�birli�i yapacak ve ilgili t�m belgeleri en k�sa s�re i�erisinde tamamlayacak ve dosyalayacakt�r.
+
+d. Lisans Alan Taraf�n bir Program� yurt d���ndan ithal etmesi, yurt d���na ihra� etmesi, aktarmas�, Programa yurt d���nda eri�mesi veya Program� yurt d���nda kullanmas� halinde, Lisans Alan Taraf, yetkili kurumlarca belirlenen her t�rl� g�mr�k vergisi, resim, vergi veya benzer har�lardan sorumlu oldu�unu ve bunlar i�in yetkili kurumlara �deme yapaca��n� kabul eder. IBM'in net gelirini esas alan vergiler, bu ko�ula dahil de�ildir.
+
+3.1 Lisans Do�rulamas�
+
+a. Lisans Alan Taraf, t�m yerlerdeki t�m Programlar i�in ve t�m ortamlar i�in yanda belirtilenleri olu�turacak, saklayacak ve 30 g�n �nceden bildirimle talebi �zerine her y�l IBM'e sa�layacakt�r: i) kay�tlar�, sistem arac� ��kt�lar�n� ve di�er sistem bilgilerini kullanarak IBM taraf�ndan talep edilen bi�imde bir rapor; ve ii) destekleyici belgeler (toplu olarak "Devreye Alma Verileri").
+
+b. IBM ve onun ba��ms�z denet�ileri, makul bir s�re �nceden bildirimde bulunarak, Lisans Alan Taraf�n (herhangi bir ama�la) Programlar� kulland��� t�m yerlerde ve t�m ortamlar i�in Lisans Alan Taraf�n bu S�zle�meye uyumlulu�unu do�rulayabilir. Do�rulama i�lemi, Lisans Alan Taraf�n i�ine en az engel olacak �ekilde yap�lacak olup, normal i� saatleri i�inde Lisans Alan Taraf�n tesislerinde ger�ekle�tirilebilir. IBM, ba��ms�z denet�iyle yaz�l� bir gizlilik s�zle�mesi yapacakt�r. Lisans Alan Taraf, yukar�da a��klanan Devreye Alma Verilerinin sa�lanmas�na ek olarak, IBM'e ve onun denet�ilerine talep �zerine ek do�ru bilgileri ve Devreye Alma Verilerini sa�lamay� kabul eder.
+
+c. Lisans Alan Taraf, yanda belirtilenlerle ili�kili olarak derhal sipari� verecek ve IBM'in o s�rada ge�erli g�ncel fiyatlar� �zerinden �deme yapacakt�r: i) fazla kullan�m s�resi veya iki y�ll�k s�reden daha k�sa olan� i�in s�z konusu fazla devreye al�mlara ili�kin ge�erli yaz�l�m aboneli�i ve destek hizmetleri; ve iii) vergiler, har�lar ve yasal d�zenleme �cretleri dahil ancak bunlarla s�n�rl� olmaks�z�n s�z konusu do�rulaman�n sonucu olarak belirlenen ek �cretler ve di�er y�k�ml�l�kler.
+
+4. Sorumluluk ve Fikri M�lkiyetin Korunmas�
+
+a. IBM'in bu S�zle�meyle ba�lant�l� t�m taleplere ili�kin sorumlulu�unun tamam�, talebin gerek�esine etki etmeksizin, Lisans Alan Taraf�n talebe konu Program i�in ald��� yetkiler i�in �demi� oldu�u tutar�n toplam�n� (s�rekli �cretler s�z konusu ise, 12 ayl�k �cretlerin toplam�na kadar olan tutar ge�erlidir) a�mamak kayd�yla, Lisans Alan Taraf�n kar�� kar��ya kald��� herhangi bir ger�ek do�rudan zararlarla s�n�rl�d�r. IBM, �zel, ar�zi, cezai, dolayl� veya ekonomik netice kabilinden do�an zararlardan, k�r kayb�, i� kayb�, de�er kayb�, gelir kayb�, itibar veya beklenen tasarruf kayb�ndan sorumlu olmayacakt�r. Bu s�n�rlamalar, IBM, ba�l� kurulu�lar�, y�klenicileri ve tedarik�ileri i�in ge�erlidir.
+
+b. A�a��daki tutarlar, yukar�da belirtilen s�n�rlamaya tabi olmayacakt�r: i) a�a��da 4 c f�kras�nda a��klanan ihlal iddialar�yla ilgili ���nc� ki�i �demeleri; ve ii) ge�erli yasa uyar�nca s�n�rlanmas� m�mk�n olmayan zararlar.
+
+c. Bir ���nc� ki�inin Lisans Alan Tarafa y�nelik olarak bir IBM Program�n�n bir patenti ya da telif hakk�n� ihlal etti�ine ili�kin bir iddia �ne s�rmesi halinde IBM, Lisans Alan Taraf� an�lan iddiaya kar�� savunacak ve bir mahkeme taraf�ndan nihai olarak Lisans Alan Taraf�n �demesine h�kmedilen ya da IBM taraf�ndan onaylanan bir uzla�maya dahil olan tutarlar� �deyecektir. �hlal iddialar�yla ilgili olarak IBM'in savunmas�n� ve �demeyi almak amac�yla Lisans Alan Taraf�n derhal i) iddia hakk�nda IBM'i yaz�l� olarak bilgilendirmesi; ii) IBM taraf�ndan talep edilen bilgileri sa�lamas� ve iii) tenkis �abalar� da dahil olmak �zere savunman�n ve uzla�man�n IBM taraf�ndan kontrol edilmesine izin vermesi ve makul surette i� birli�i yapmas� gerekir. IBM'in ihlal iddialar�na ili�kin savunma ve �deme y�k�ml�l�kleri, IBM'in IBM Program�nda se�ti�i ve bu Programa yerle�tirdi�i bir a��k kaynak koduna dayal� iddialar� kapsar.
+
+d. IBM; IBM D��� �r�nlere, IBM taraf�ndan sa�lanmam�� ��elere veya ��erikten ya da Lisans Alan Taraf�n malzemeleri, tasar�mlar� ve belirtimlerinden kaynaklanan herhangi bir hukuka ayk�r�l��a ya da ���nc� ki�i haklar�n�n ihlaline ya da bir IBM Program�n�n en g�ncel versiyonu ya da s�r�m� kullan�larak telif hakk� ihlaline ili�kin bir talep engellenebilecekken, s�z konusu program�n g�ncel olmayan bir versiyonu ya da s�r�m�n�n kullan�m�na dayand�r�lan taleplerden sorumlu de�ildir. ��erik, Lisans Alan Taraf�n ya da onun yetkili kullan�c�lar�n�n sa�lad���, eri�imine yetki verdi�i ya da Programa girdi�i t�m verilerden, yaz�l�mlardan ve bilgilerden olu�ur.
+
+5. Sona Erdirme
+
+a. IBM, Lisans Alan Taraf�n UPLS, ��lem Belgeleri veya Uluslararas� Passport Advantage S�zle�mesi (IPAA) gibi sat�n alma s�zle�melerine uymamas� durumunda, Lisans Alan Taraf�n Program� kullanmaya y�nelik lisans�n� sona erdirebilir. Lisans Alan Taraf, lisans sona erdirildikten sonra Program�n t�m kopyalar�n� derhal imha edecektir. Niteli�i gere�i sona erdirmenin ard�ndan y�r�rl�kte kalacak herhangi bir ko�ul, yerine getirilinceye kadar y�r�rl�kte kalacak olup, taraflar�n halefleri ve devralanlar� i�in de ge�erli olacakt�r.
+
+6. Uygulanacak Hukuk ve Co�rafi Kapsam
+
+a. Her iki taraf da kanunlar ihtilaf� ilkeleri dikkate al�nmaks�z�n, lisans yetkilerine ili�kin i�lemin ger�ekle�tirildi�i �lkenin yasalar�n�n ge�erli olmas�n� kabul eder. Taraflar�n her birinin haklar� ve y�k�ml�l�kleri, yaln�zca lisans yetkilerini sat�n alma i�leminin ger�ekle�tirildi�i �lkede ya da IBM'in kabul etmesi durumunda, Program�n �retim ama�l� kullan�ld��� �lkede ge�erlidir, ancak t�m lisanslar yaln�zca �zel olarak verilmi� oldu�u �ekilde ge�erlidir.
+
+b. Taraflardan her biri ayn� zamanda yanda belirtilenlere uymaktan da sorumludur: i) kendi i�i ve ��eri�i i�in ge�erli yasalar ve yasal d�zenlemeler; ve (ii) belirli son kullan�mlara veya son kullan�c�lara veya bunlar i�in �r�nlerin, teknolojinin, hizmetlerin veya verilerin ithalat�n�, ihracat�n�, yeniden ihracat�n� veya aktar�lmas�n� yasaklayan ABD'nin ve ge�erli yarg� yetkisi alanlar�n�n savunma ticari kontrol rejimi dahil olmak �zere ithalat, ihracat ve ekonomik yapt�r�m yasalar� ve yasal d�zenlemeleri.
+
+c. Bir Program i�in bu S�zle�menin h�k�mlerinden herhangi birinin ge�ersiz ya da uygulanamaz olmas� halinde, geriye kalan h�k�mler tam olarak ge�erli olmaya devam edecek ve y�r�rl�kte kalacakt�r. Bu S�zle�menin hi�bir h�km�, t�keticilerin s�zle�me ile s�n�rland�r�lamayacak veya feragat edilemeyecek nitelikteki yasal haklar�n� etkilemez. Uluslararas� Mal Sat���na �li�kin S�zle�meler Hakk�nda Birle�mi� Milletler Antla�mas�, bu S�zle�me kapsam�ndaki i�lemler i�in ge�erli olmayacakt�r.
+
+7. Genel
+
+a. IBM, ba��ms�z bir y�klenici olup Lisans Alan Taraf�n arac�s�, ortak giri�imcisi, orta�� ya da vekili de�ildir ve Lisans Alan Taraf�n herhangi bir yasal y�k�ml�l���n� yerine getirmeyi taahh�t etmez. Lisans Alan Taraf�n i�ine veya operasyonlar�na ili�kin herhangi bir sorumluluk �stlenmez. Lisans Alan Taraf, IBM Programlar�n� ve IBM D��� Programlar� kullan�m�ndan kendisi sorumludur. IBM, yaln�zca bir bilgi teknolojisi sa�lay�c�s� olarak hareket eder. IBM'in bir Programa ili�kin herhangi bir y�nergesi, �nerilen kullan�m� veya k�lavuzlu�u; t�bbi, klinik, hukuki, muhasebeyle ili�kili ya da ba�ka bir lisansl� profesyonel dan��manl�k niteli�inde de�ildir. Lisans Alan Taraf, uzman tavsiyesini kendisi almal�d�r.
+
+b. Aksi Lisans Alan Taraf ve IBM taraf�ndan yaz�l� olarak kabul edilmedik�e, IBM, Lisans Alan Tarafa fiziksel ortam �zerinde sa�lad��� Programlar i�in sevkiyat ve teslimat y�k�ml�l�klerini s�z konusu Programlar� IBM taraf�ndan belirlenen ta��y�c�ya teslim etti�inde yerine getirmi� olacakt�r.
+
+c. Lisans Alan Taraf, Programda ortaya ��kacak bir hatan�n �l�me, ciddi bedensel yaralanmaya veya malda ya da �evrede hasara neden olabilece�i durumda Program� kullanamaz.
+
+d. IBM, IBM'in ba�l� kurulu�lar� ve bunlardan herhangi birinin y�klenicileri, i� ileti�im bilgilerinin ve belirli hesap kullan�m� bilgilerinin kullan�lmas�n� zorunlu tutar. Bu bilgi ��erik niteli�inde de�ildir. �� ileti�im bilgileri, Lisans Alan Tarafla yap�lan i� anla�malar�n� bildirmek ve y�netmek i�in kullan�l�r. �� ileti�im bilgilerine �rnekler aras�nda isim, i� telefonu, adres, e-posta, kullan�c� kimli�i ve vergi numaras� yer al�r. Hesap kullan�m� bilgileri, Programlar� etkinle�tirmek, sa�lamak, y�netmek, desteklemek, idare etmek ve iyile�tirmek i�in kullan�l�r. Hesap kullan�m bilgilerine �rnekler aras�nda raporlanan hatalar ve Programlar�n kullan�m� s�ras�nda �erezler (cookies) ve web i�aret�ileri (beacon) gibi izleme teknolojileri kullan�larak toplanan dijital bilgiler yer al�r. IBM'in i� ileti�im bilgilerin ive hesap verilerini toplamas�, kullanmas� ve i�lemesiyle ilgili daha fazla ayr�nt�ya http://www.ibm.com/privacy/ adresinde bulunan IBM Gizlilik Bildiriminden (IBM Privacy Statement) ula��labilir. S�z konusu i�leme i�in Lisans Alan Taraf�n IBM�e bilgi sa�lad��� ve ki�ilere bildirimde bulundu�u veya ki�ilerden r�za almas�n�n gerekti�i durumlarda, Lisans Alan Taraf ki�ilere bildirimde bulunacak ve s�z konusu r�zay� alacakt�r.
+
+e. �r�nleri kullanan veya kullan�ma sunan IBM ��z�m Ortaklar�, IBM'den ba��ms�zd�r ve fiyatlar� ile ko�ullar�n� tek tarafl� olarak belirlerler. ��z�m Ortaklar�n�n eylemlerinden, ihmallerinden, beyanlar�ndan ya da tekliflerinden IBM sorumlu de�ildir.
+
+f. IBM, IBM D��� Programlar sunabilir veya bir IBM Program�, IBM D��� Programlara eri�imi etkinle�tirebilir. Bu IBM D��� Program, ��lem Belgesinde belirtilen veya Lisans Alan Tarafa sunulan ���nc� ki�i ko�ullar�n�n kabul edilmesini zorunlu k�labilir. IBM D��� Programlara ba�lant� verilmesi veya bunlar�n kullan�lmas�, Lisans Alan Taraf�n s�z konusu ko�ullar� kabul etti�i anlam�na gelir. IBM, herhangi bir ���nc� ki�i s�zle�mesine taraf olmad��� gibi IBM D��� Programlardan da sorumlu de�ildir.
+
+g. Programlar i�in verilen lisanslar, merkezi New York'ta bulunan bir �irket olan International Business Machines Corporation ("IBM Corporation") taraf�ndan sa�lan�r. Lisans Alan Taraf�n yetkileri sat�n ald��� IBM �irketi ("IBM"), distrib�t�r olarak hareket etmekte ve Programlar� sa�lamaktad�r. Ayr�ca bu S�zle�menin ko�ullar�n�n uygulanmas�ndan sorumludur. IBM ��z�m Orta��ndan edinilen yetkilerde, bu S�zle�menin ko�ullar�n�n uygulanmas�ndan sat�n alman�n yap�ld��� �lkeye ili�kin IBM �irketi sorumludur. IBM Corporation'a kar�� Lisans Alan Taraf�n lehine bir hak ya da dava a�ma gerek�esi olu�turulmaz. Lisans Alan Taraf, IBM Corporation �irketine kar�� olan t�m taleplerinden ve yasal yollara ba�vurma gerek�elerinden feragat eder ve Programlara ili�kin t�m haklar ve yasal �areler i�in m�nhas�ran IBM'e ba�vurmay� kabul eder.
+
+h. Lisans Alan Taraf, herhangi bir Programa ili�kin lisans i�in alt lisans veremez, lisans� temlik edemez veya devredemez (s�z konusu temlik ve devrin hukuken k�s�tlanmas�n�n m�mk�n olmad��� veya ��lem Belgesinde a��k�a izin verildi�i veya IBM taraf�ndan aksi kararla�t�r�ld��� durumlar hari�). IBM, bu S�zle�me kapsam�ndaki haklar�n� ve y�k�ml�l�klerini IBM'in i�letmesinin Program� kapsayan b�l�m�n�n sat��� sonucunda devredebilir. IBM, i�bu S�zle�meyi ve ilgili belgeleri herhangi bir devirle ba�lant�l� olarak payla�abilir.
+
+i. Bu S�zle�me kapsam�ndaki t�m bildirimler yaz�l� olacakt�r ve taraflardan biri yaz�l� olarak farkl� bir adres bildirmedik�e, Lisans Alan Taraf�n lisans yetkilerini sat�n ald��� s�zle�mede belirtilen i� adresine g�nderilecektir. Taraflar, elektronik ara�lar ve faks kullan�larak ger�ekle�tirilen ileti�imlerin imzal� belge olarak de�erlendirilmesini kabul ederler. Bu S�zle�menin g�venilir y�ntemlerle al�nan herhangi bir kopyas� as�l olarak de�erlendirilecektir. Bu S�zle�me, taraflar aras�nda ger�ekle�tirilen herhangi bir m�zakerenin, g�r��menin ya da beyan�n yerine ge�er.
+
+j. Bu S�zle�me, herhangi bir ���nc� ki�i i�in bir hak ya da dava a�ma gerek�esi olu�turmaz. Taraflardan hi�biri, dava gerek�esinin ortaya ��kmas�n�n �zerinden iki y�ldan fazla s�re ge�tikten sonra bu S�zle�meyle ba�lant�l� ya da S�zle�meden kaynaklanan herhangi bir yasal i�lem ba�latmayacakt�r. Taraflardan hi�biri, elinde olmayan nedenlerden �t�r� herhangi bir y�k�ml�l���n� yerine getirememekten sorumlu tutulamaz. Taraflardan her biri, di�er taraf�n y�k�ml�l�klerini yerine getirmedi�ini iddia etmeden �nce, di�er tarafa S�zle�meye uymas� i�in makul f�rsat tan�yacakt�r.
+
+k. IBM, Programlar�n teslimini ve Program deste�inin sa�lanmas�n� desteklemek amac�yla, ���nc� ki�i y�kleniciler dahil olmak �zere, d�nya �ap�ndaki lokasyonlar�nda bulunan personeli ve kaynaklar� kullanabilir. Lisans Alan Taraf�n Programlar� kullan�m� sonucunda ki�ileri tan�mlamaya yarayan bilgiler dahil olmak �zere ��erik, IBM Yaz�l�m Destek Rehberinde belirtildi�i �ekilde Program deste�i sa�lanmas� amac�yla yurtd���na aktar�labilir.
+
+B�l�m 2 - �lkeye �zg� Ko�ullar
+
+A�a��da belirtilen �lkelerde sat�n al�nan lisanslar i�in a�a��da belirtilen ko�ullar bu UPLS'de at�fta bulunulan ko�ullar�n yerine ge�er veya onlar� de�i�tirir. Bu de�i�ikliklerle de�i�tirilmeyen ko�ullar de�i�meksizin tam olarak y�r�rl�kte kalmaya devam eder.
+
+1. KUZEY VE G�NEY AMER�KA
+
+Madde 3. �cretler, Vergiler, �deme ve Do�rulama
+
+F�kra b'nin birinci ve ikinci c�mlesini a�a��daki ifadeyle de�i�tirin:
+
+Brezilya'da: Lisans Alan Taraf, sat�n al�nan yetkiler i�in ge�erli t�m �cretleri, yetkileri a�an kullan�mlara ili�kin �cretleri, kendisinin yetkileri sat�n almas�ndan kaynaklanan herhangi bir resmi kurum taraf�ndan uygulanan herhangi bir g�mr�k vergisini ya da di�er herhangi bir resim, vergi veya benzer har�lar� �demeyi kabul eder.
+
+F�kra b'de:
+
+Meksika'da: ���nc� c�mlede, "IBM taraf�ndan belirtilen bir hesaba" ifadesini silin.
+
+Meksika'da: ���nc� c�mleden sonra a�a��daki yeni c�mleyi ekleyin:
+
+�demeler, IBM taraf�ndan belirtilen bir hesaba elektronik fon transferi yoluyla veya IBM'in Alfonso Napoles Gandara 3111, Santa Fe Pe�a Blanca, Alvaro Obregon, Mexico City, Zip Code 01210 adresindeki yasal adresine yap�lacakt�r.
+
+F�kra c'nin sonuna a�a��daki c�mleyi ekleyin:
+
+Kanada'da: Vergiler hesaplan�rken Programdan yararlan�lan lokasyon/lokasyonlar esas al�nd���nda, Lisans Alan Taraf�n, ge�erli ��lem Belgesinde belirtilen i� adresinden farkl� oldu�u durumlarda bu lokasyonu/lokasyonlar� IBM'e bildirme y�k�ml�l��� devam edecektir.
+
+F�kra c'nin sonuna a�a��daki c�mleyi ekleyin:
+
+ABD'de: Taraflar, �u durumlarda Lisans Alan Tarafa hi�bir fiziksel ki�isel m�lkiyet (�rne�in, medya veya yay�nlar) devredilmeyece�ini kabul ederler: i) IBM'in Lisans Alan Tarafa, Programlar� elektronik olarak sa�lamas� veya ii) Lisans Alan Taraf�n IBM'in Lisans Alan Tarafa elektronik olarak sa�lad��� Programlar i�in bir sat�� veya kullan�m vergisi muafiyeti talep etmesi. Vergiler hesaplan�rken Programdan yararlan�lan lokasyon/lokasyonlar esas al�nd���nda, Lisans Alan Taraf�n, ge�erli ��lem Belgesinde belirtilen i� adresinden farkl� oldu�u durumlarda bu lokasyonu/lokasyonlar� IBM'e bildirme y�k�ml�l��� devam edecektir.
+
+Madde 4. Sorumluluk ve Fikri M�lkiyetin Korunmas�
+
+F�kra a'n�n sonuna a�a��daki sorumlulu�un reddi maddesini ekleyin:
+
+Peru'da: Peru Medeni Kanunu�nda yer alan 1328 say�l� Maddeye uygun olarak, bu k�s�tlamalar ve istisnalar, kasten hukuka ayk�r� hareket ("dolo") ya da a��r ihmal ("culpa inexcusable") durumlar� i�in ge�erli olmayacakt�r.
+
+Madde 6. Uygulanacak Hukuk ve Co�rafi Kapsam
+
+F�kra a'da, ilk c�mleyi a�a��daki c�mleyle de�i�tirin:
+
+Arjantin'de: Taraflar�n her ikisi de kanunlar ihtilaf� prensiplerine bak�lmaks�z�n, bu S�zle�me i�in Arjantin Cumhuriyeti yasalar�n�n ge�erli olaca��n� kabul eder. Bu S�zle�meden do�an hak, g�rev ve y�k�ml�l�klerle ilgili her t�r i�lem i�in "Ciudad Aut�noma de Buenos Aires" �ehri Ola�an Ticari Mahkemesine ba�vurulacakt�r.
+
+�ili'de: Taraflar�n her ikisi de kanunlar ihtilaf� prensiplerine bak�lmaks�z�n, bu S�zle�me i�in �ili yasalar�n�n ge�erli olaca��n� kabul eder. ��bu S�zle�meyle ilgili olarak Taraflarca ��z�lemeyen herhangi bir ihtilaf, yorum veya ihlal i�in Santiago �ehrinin ve b�lgesinin Adli Mahkemelerinin yarg� yetkisine ba�vurulmal�d�r.
+
+Kolombiya'da:Taraflar�n her ikisi de kanunlar ihtilaf� prensiplerine bak�lmaks�z�n, bu S�zle�me i�in Kolombiya Cumhuriyeti yasalar�n�n ge�erli olaca��n� kabul eder. T�m haklar, g�rev ve y�k�ml�l�kler Kolombiya Cumhuriyetinin hakimlerine tabidir.
+
+Ekvador'da: Taraflar�n her ikisi de kanunlar ihtilaf� prensiplerine bak�lmaks�z�n, bu S�zle�me i�in Ekvador Cumhuriyeti yasalar�n�n ge�erli olaca��n� kabul eder. Bu S�zle�meden do�an veya S�zle�meyle ilgili herhangi bir ihtilafta, Quito'nun hukuk mahkemesi hakimlerine ve s�zl� nitelikte seri yarg�lama usullerine ba�vurulacakt�r.
+
+Venezuela'da: Taraflar�n her ikisi de kanunlar ihtilaf� prensiplerine bak�lmaks�z�n, bu S�zle�me i�in Venezuela yasalar�n�n ge�erli olaca��n� kabul eder. Taraflar, bu S�zle�meyle ilgili olarak ortaya ��kan herhangi bir ihtilaf i�in Caracas �ehri B�y�k�ehir B�lgesi Mahkemelerine ba�vurmay� kabul eder.
+
+Peru'da: Taraflar�n her ikisi de kanunlar ihtilaf� prensiplerine bak�lmaks�z�n, bu S�zle�me i�in Peru yasalar�n�n ge�erli olaca��n� kabul eder. Taraflar aras�nda, i�bu S�zle�menin uygulanmas�, yorumlanmas� veya S�zle�meye uyulmas� s�ras�nda do�abilecek ve do�rudan ��z�lemeyebilecek herhangi bir uyu�mazl�kla ilgili olarak, 'Cercado de Lima' Yarg� B�lgesi Hakimlerinin ve Mahkemelerinin Yarg� Yetkisine ve Yetkinli�ine ba�vurulacakt�r.
+
+Uruguay'da: Taraflar�n her ikisi de Uruguay yasalar�n�n ge�erli olaca��n� kabul eder. Taraflar aras�nda, i�bu S�zle�menin uygulanmas�, yorumlanmas� veya S�zle�meye uyulmas� s�ras�nda do�abilecek ve do�rudan ��z�lemeyen herhangi bir uyu�mazl�kla ilgili olarak Montevideo Mahkemelerine (Montevideo Ola�an Mahkemeleri) ba�vurulacakt�r.
+
+F�kra a'da yaln�zca ilk c�mlede "lisans yetkilerine ili�kin i�lemin ger�ekle�tirildi�i �lkenin" ifadesini a�a��daki ifadeyle de�i�tirin:
+
+Amerika Birle�ik Devletleri, Anguilla, Antigua/Barbuda, Aruba, Bahamalar, Barbados, Bermuda, Bonaire, �ngiliz Virgin Adalar�, Kayman Adalar�, Curacao, Dominica, Grenada, Guyana, Jamaika, Montserrat, Saba, Saint Eustatius, Saint Kitts ve Nevis, Saint Lucia, Saint Maarten, Saint Vincent ve Grenadines, Surinam, Tortola, Trinidad ve Tobago ve Turk ve Caicos'ta: ABD'de New York Eyaleti'nin.
+
+Kanada'da: Ontario Eyaleti'nin ve Kanada'n�n burada ge�erli federal yasalar�.
+
+F�kra a'da ikinci c�mlede "lisans yetkilerini sat�n alma i�leminin ger�ekle�tirildi�i �lkede" ifadesini a�a��daki ifadeyle de�i�tirin:
+
+Arjantin'de: Arjantin
+
+�ili'de: �ili
+
+Kolombiya'da: Kolombiya
+
+Ekvador'da: Ekvador
+
+Meksika'da: Meksika
+
+Peru'da: Peru
+
+Uruguay'da: Uruguay
+
+Venezuela'da: Venezuela
+
+F�kra b'nin sonuna a�a��daki c�mleleri ekleyin:
+
+Brezilya'da: Seri yarg�lama usulleri dahil olmak �zere, bu S�zle�meden do�an veya bu S�zle�meyle ilgili t�m ihtilaflarda, Brezilya, S�o Paulo Eyaleti, Forum of the City of S�o Paulo yetkili mahkemesine ba�vurulacak ve bu mahkemelerin m�nhas�r yetkisine tabi olunacakt�r ve taraflar, ayr�cal�kl� olsa da di�er herhangi birinden feragat ederek bu belirli mahkemeyi geri al�namaz bir �ekilde kabul ederler.
+
+Meksika'da: Taraflar, bu S�zle�meden do�an t�m ihtilaflarda, Mexico City yetkili mahkemesine ba�vurmay� ve bu mahkemenin m�nhas�ran yetkili oldu�unu kabul ederler. Taraflar, mevcut veya gelecekteki ikametleri nedeniyle veya herhangi bir ba�ka nedenle kendileri i�in ge�erli olabilecek di�er her t�rl� yarg� yetkisi alan�ndan feragat ederler.
+
+Madde 7. Genel
+
+F�kra g'de:
+
+ABD'de: son iki c�mleyi silin.
+
+F�kra i'de ilk c�mleden sonra a�a��daki yeni c�mleyi ekleyin:
+
+Meksika'da: Herhangi bir adres de�i�ikli�i 10 (on) g�n �nceden bildirilmelidir, aksi takdirde son bildirilen adrese yap�lan bildirimler hukuki olarak ge�erli bir bildirimin t�m sonu�lar�n� do�uracakt�r.
+
+F�kra j'de:
+
+Brezilya'da: �kinci c�mlenin tamam�n� silin: "Taraflardan hi�biri, dava gerek�esinin ortaya ��kmas�n�n �zerinden iki y�ldan fazla s�re ge�tikten sonra bu S�zle�meyle ba�lant�l� ya da S�zle�meden kaynaklanan herhangi bir yasal i�lem ba�latmayacakt�r."
+
+A�a��daki ifadeyi bu maddeye yeni l f�kras� olarak ekleyin:
+
+Kanada'da: �ki taraf da bu belgeyi �ngilizce olarak yazmay� kabul eder. Les parties ont convenu de r�diger le pr�sent document en langue anglaise.
+
+2. ASYA PAS�F�K
+
+Madde 2. Garantiler
+
+A�a��daki ifadeyi bu maddenin sonuna yeni f f�kras� olarak ekleyin:
+
+Avustralya'da: Bu garantiler, Competition and Consumer Act 2010 (Avustralya Rekabet ve T�ketici Yasas� 2010) kapsam�ndaki haklara ek niteli�indedir ve yaln�zca bu yasan�n izin verdi�i �l��ler dahilinde s�n�rl�d�r.
+
+Japonya'da: IBM'in sorumlulu�u bu f�kra ile Sorumluluk ve Fikri M�lkiyetin Korunmas� maddesinde, ge�erli ��lem Belgelerinde belirtilenlerle s�n�rl� olup, bu maddede belirtilen garantileri kar��lanmamas� durumunda Lisans Alan Taraf�n ba�vuraca�� yegane ��z�m yoludur.
+
+Yeni Zelanda'da: Bu garantiler, Consumer Guarantee Act 1993 (1993 T�ketici Garantileri Yasas�) veya yasalarca s�n�rlanamayacak di�er yasal d�zenlemeler kapsam�ndaki haklara ek niteli�indedir.
+
+Madde 3. �cretler, Vergiler, �deme ve Do�rulama
+
+F�kra b'de ���nc� c�mleyi a�a��daki 2 c�mleyle de�i�tirin:
+
+Hong Kong, Endonezya, Kore, Macau, Malezya, Filinpinler, Singapur ve Vietnam'da: Tutarlar IBM'in faturas� teslim al�nd���nda muaccel olur ve fatura tarihini takip eden 30 g�n i�erisinde IBM taraf�ndan belirtilen bir hesaba �denir. �deme fatura tarihinden sonra 30 g�n i�inde yap�lmazsa, IBM, �denmemi� tutara �demenin ge� yap�ld��� g�n say�s� esas al�narak hesaplanacak �ekilde i) her 30 g�n veya bunun bir b�l�m� i�in %2 veya ii) ge�erli yasan�n izin verdi�i en y�ksek tutardan daha az olan� �zerinden gecikme faizi uygulayabilir.
+
+Tayland'da: Tutarlar IBM'in faturas� teslim al�nd���nda muaccel olur ve fatura tarihini takip eden 30 g�n i�erisinde IBM taraf�ndan belirtilen bir hesaba �denir. �deme fatura tarihinden sonra 30 g�n i�inde yap�lmazsa, IBM, �denmemi� tutara �demenin ge� yap�ld��� g�n say�s� esas al�narak hesaplanacak �ekilde ayda %1,25 oran�nda gecikme faizi uygulayabilir.
+
+F�kra c'nin ilk c�mlesinde "(iv)" �n�ndeki "ve" s�zc���n� kald�r�n ve noktal� virg�l ve a�a��daki yeni "(v)" bendini ekleyin:
+
+Hindistan'da: ; ve (v) do�ru Stopaj Vergisi beyannamelerini zaman�nda verecektir. Lisans Alan Taraf�n sa�lad��� muafiyet belgelerine dayan�larak herhangi bir vergi, resim, har� ya da �cretin ("Vergiler") uygulanmamas� ve vergi makam�n�n, daha sonra bu Vergilerin uygulanmas� gerekti�i konusunda h�k�m vermesi durumunda, Lisans Alan Taraf, bu vergilere uygulanan herhangi bir faiz, resim ve/veya cezalar da dahil olmak �zere s�z konusu Vergileri �demekle y�k�ml� olacakt�r.
+
+F�kra c'nin ilk c�mlesinde "(iv)" �n�ndeki "ve" s�zc���n� kald�r�n, "(iv)" bendini a�a��daki ifadeyle de�i�tirin ve yeni (v) bendini ekleyin:
+
+Singapur, Malezya, Filipinler, Tayland, Endonezya ve Vietnam'da: (iv) Lisans Alan Taraf�n muafiyet veya indirim talep etti�i stopaj veya di�er vergilerden muafiyet ya da indirim al�nmas�nda IBM ile tam i�birli�i yapacak; ve (v) s�z konusu muafiyet, indirim veya feragatler ile ilgili t�m belgeleri en k�sa s�re i�erisinde tamamlayacak, dosyalayacak ve g�ncel olarak muhafaza edecektir.
+
+Madde 4. Sorumluluk ve Fikri M�lkiyetin Korunmas�
+
+F�kra a'da ilk c�mlenin sonuna a�a��daki ifadeyi ekleyin:
+
+Avustralya'da: (�rne�in; ister s�zle�meden, ister haks�z fiilden, ihlalden, mevzuattan veya ba�ka bir husustan kaynaklans�n)
+
+F�kra a'da "�zel" s�zc���nden sonra ve "ar�zi" s�zc���nden �nce ikinci c�mlede a�a��daki ifadeyi ekleyin:
+
+Filipinler'de: (nominal ve �rnek te�kil eden zararlar dahil), manevi,
+
+F�kra a'n�n sonundan sonra yeni bir f�kra olarak ekleyin (ve f�kra harflerinin d�zg�n olmas�n� sa�lay�n):
+
+Avustralya'da: IBM'in 2010 Rekabet ve T�ketici Yasas�nca belirtilen bir garantiyi ihlal etmesi durumunda, IBM'in sorumlulu�u; �r�nlerin onar�lmas� veya de�i�tirilmesi veya e�de�er �r�nler sa�lanmas�yla veya �r�nleri de�i�tirmenin veya �r�nlerin onar�m�n� yapt�rman�n maliyetinin �denmesiyle s�n�rl�d�r. Bir garantinin, Rekabet ve T�ketici Yasas�n�n 2 no.lu plan� kapsam�ndaki bir �r�ne ili�kin sat�� hakk�, hakl� zilyetlik veya �zerinde herhangi bir k�s�tlama olmayan m�lkiyet hakk� ile ilgiliyse, bu s�n�rlamalar�n hi�biri ge�erli de�ildir.
+
+Madde 5. Sona Erdirme
+
+A�a��daki ifadeyi bu maddenin sonuna yeni b f�kras� olarak ekleyin:
+
+Endonezya'da: Taraflar, kar��l�kl� y�k�ml�l�kler olu�turan bir s�zle�menin sona erdirilmesi i�in mahkeme karar� al�nmas� gerekti�ine ili�kin Endonezya Medeni Kanunu'nda madde 1266�n�n h�k�mlerine g�re h�k�mlerinden feragat ederler.
+
+Madde 6. Uygulanacak Hukuk ve Co�rafi Kapsam
+
+F�kra a'da yaln�zca ilk c�mlede "lisans yetkileri i�in i�lemin ger�ekle�tirildi�i �lkenin" ifadesini a�a��daki ifadeyle de�i�tirin:
+
+Kambo�ya, Laos'ta: Amerika Birle�ik Devletleri'nde New York Eyaleti'nin
+
+Avustralya'da: ��lemin ger�ekle�tirildi�i Eyalet ya da B�lgenin.
+
+Hong Kong'ta: �in Halk Cumhuriyeti'nin Hong Kong �zel �dare B�lgesi'nin
+
+Macau'da: �in Halk Cumhuriyeti'nin Hong Kong �zel �dare B�lgesi'nin
+
+Kore'de: Kore Cumhuriyeti Seul Merkezi B�lge Mahkemesine tabi olarak Kore Cumhuriyeti'nin
+
+Tayvan'da: Tayvan
+
+Hindistan'da: Hindistan
+
+F�kra a'da ikinci c�mlede, "Lisans yetkilerini sat�n alma i�leminin ger�ekle�tirildi�i �lkede veya IBM'in kabul etmesi durumunda, Program�n �retim ama�l� olarak kullan�ld��� �lkede" ifadesini a�a��daki ifadeyle de�i�tirin:
+
+Hong Kong'ta: �in Halk Cumhuriyeti'nin Hong Kong �zel �dare B�lgesi'nde
+
+Macau'da: �in Halk Cumhuriyeti'nin Macau �zel �dare B�lgesi'nde
+
+Tayvan'da: Tayvan'da
+
+F�kra b'de, ii) bendinde ilk c�mlede "rejimi" s�zc���nden sonra ve "dahil" s�zc���nden �nce a�a��daki ifadeyi ekleyin:
+
+Japonya'da: ve Japonya yasalar�ndakiler
+
+A�a��daki ifadeyi bu maddenin sonuna yeni d f�kras� olarak ekleyin:
+
+Kambo�ya, Laos, Filipinler, Sri Lanka'da: �htilaflar Singapur'da bulunan Singapur Uluslararas� Tahkim Merkezi'nin Tahkim Kurallar�na ("SIAC Kurallar�") g�re uygulanacak tahkim mahkemesinde nihai olarak karara ba�lanacakt�r.
+
+Hindistan'da: �htilaflar, nihai olarak, Hindistan, Bangalore'da �ngilizce olarak y�r�rl�kte olan, 1996 tarihli Tahkim ve Uzla�ma Yasas� uyar�nca ��z�me kavu�turulacakt�r. �htilafl� tutar, 50 milyon Hindistan Rupisine e�it veya daha d���kse bir hakem, tutar daha fazla ise �� hakem olacakt�r. Bir hakem de�i�tirildi�inde, dava muamelesi, makam�n bo�ald��� a�amadan itibaren devam edecektir.
+
+Endonezya'da: �htilaflar, Endonezya'n�n Jakarta �ehrinde, 1977 y�l�ndan belirlenen Endonezya Ulusal Tahkim Kurulu (Badan Arbitrase Nasional Indonesia ya da "BANI") kurallar� uyar�nca ger�ekle�tirilecek tahkim yoluyla nihai olarak karara ba�lanacakt�r. Hakem karar�, taraflar�n itiraz hakk� olmaks�z�n nihai ve ba�lay�c�d�r ve yaz�l� olmak kayd�yla konuya ili�kin karar� ve mer'i kanun h�k�mlerinin uygulanmas�yla var�lan sonu�lar� belirtir.
+
+�in Halk Cumhuriyeti'nde: Taraflardan herhangi biri, tahkim ger�ekle�tirilmesi i�in ihtilaf� �in Halk Cumhuriyeti'nin Pekin �ehrindeki �in Uluslararas� Ekonomik ve Ticari Tahkim Komisyonuna g�nderme hakk�na sahiptir. Taraflar, herhangi bir ihtilaf�n ��z�lmesi i�in �� hakem kullan�laca��n� kabul ederler.
+
+Vietnam'da: �htilaflar Vietnam'da bulunan Vietnam Uluslararas� Tahkim Merkezi'nin Tahkim Kurallar�na ("VIAC Kurallar�") g�re uygulanacak tahkim mahkemesinde nihai olarak karara ba�lanacakt�r. T�m i�lemler ve belgeler �ngilizce dilinde y�r�t�lecek ve sunulacakt�r.
+
+Madde 7. Genel
+
+F�kra j'de ikinci c�mlede "iki y�l" ifadesini a�a��daki ifadeyle de�i�tirin:
+
+Hindistan'da: �� y�l
+
+A�a��daki ifadeyi bu maddenin sonuna yeni l f�kras� olarak ekleyin:
+
+Endonezya'da: Bu S�zle�me, �ngilizce ve Bahasa Endonezya dilinde akdedilmi�tir. Ge�erli yasan�n izin verdi�i �l��de, �eli�ki olmas� halinde s�zle�menin �ngilizce olarak haz�rlanan hali �ncelikli olarak uygulanacakt�r.
+
+3. AVRUPA, ORTA DO�U VE AFR�KA
+
+Madde 2. Garantiler
+
+F�kra d'de, d�rd�nc� c�mleyi a�a��daki iki c�mleyle de�i�tirin:
+
+�ek Cumhuriyeti, Estonya ve Litvanya'da IBM D��� Programlar, ay�plar i�in hi�bir t�rde garanti verilmeksizin veya y�k�ml�l�k �stlenilmeksizin oldu�u gibi sa�lan�r. Taraflar kararla�t�r�lan garantiler haricinde ay�plara ili�kin y�k�ml�l�kleri i�bu belgeyle kapsam d���nda tutmaktad�rlar.
+
+Madde 3. �cretler, Vergiler, �deme ve Do�rulama
+
+F�kra b'de ���nc� c�mlenin sonuna a�a��daki ifadeyi ekleyin:
+
+�talya'da: IBM, Lisans Alan Tarafa yaz�l� bildirimle istekte bulunursa
+
+Ukrayna'da: , gecikme s�resi boyunca Ukrayna Ulusal Bankas� (National Bank of Ukraine; NBU) taraf�ndan belirlenen indirim oran�n�n iki kat�na denk gelen faiz oran�yla, vade dolum tarihinden sonraki g�nden �demenin ger�ekle�ti�i tarihe kadar gecikmenin her g�n� i�in oranlanm�� olarak, �demesi gecikmi� tutar �zerinden (Ukrayna Ticari Kanunu'nun 232 numaral� maddesinin 6. f�kras� ge�erli olmaz).
+
+F�kra b'de, ���nc� c�mleyi a�a��daki c�mleyle de�i�tirin:
+
+Fransa'da: Tutarlar fatura tarihinden itibaren 10 g�n i�inde muaccel olur ve IBM taraf�ndan belirtilen bir hesaba �denir ve k�rk (40) Avro tutar�nda bor� tahsilat maliyetlerine ek olarak veya bu maliyetler k�rk Avro'yu ge�iyorsa, talep edilen tutar�n gerek�elendirilmesine ba�l� olarak tamamlay�c� tazminata ek olarak, Avrupa Merkez Bankas�n�n en son faiz oran� art� 10 puana e�it olan gecikme faizleri uygulan�r.
+
+Rusya'da: Tutarlar fatura teslim al�nd���nda muaccel olur ve fatura tarihini takip eden 30 g�n i�erisinde IBM taraf�ndan belirtilen bir hesaba elektronik fon transferi y�ntemi ile �denir. 30 g�n� a�an her g�n i�in hesaplanacak �ekilde y�ll�k %24 oran�nda gecikme faizi uygulanabilir.
+
+F�kra b'de son c�mlenin sonuna a�a��daki ifadeyi ekleyin:
+
+Litvanya'da: Yasa aksini gerektirmedik�e
+
+F�kra b'nin sonuna a�a��daki ifadeyi ekleyin:
+
+�talya'da: �deme yap�lmamas� veya k�smi �deme yap�lmas� durumunda ve IBM'in ba�latabilece�i resmi bir alacak talebi prosed�r�n�n veya a�abilece�i davan�n ard�ndan, 9 Ekim 2002 tarihli, 231 say�l� Kanun H�km�nde Kararnamenin, 4. maddesinin de�i�tirilmi� haliyle ve ayn� Kanun H�km�nde Kararnamenin 7. Maddesi uyar�nca IBM, Lisans Alan Taraf� gecikme faizlerine ili�kin iadeli taahh�tl� posta yoluyla yaz�l� olarak bilgilendirecektir.
+
+Madde 4. Sorumluluk ve Fikri M�lkiyetin Korunmas�
+
+F�kra a'da ilk c�mlede "�denen tutarlar" ifadesinden �nce a�a��daki ifadeyi ekleyin:
+
+Bel�ika, Fransa, Almanya, �talya, L�ksemburg, Malta, Portekiz ve �spanya'da hangisi daha y�ksek ise) 500.000 avro (be� y�z bin avro) ya da
+
+�rlanda ve Birle�ik Krall�k'ta: %125'i
+
+F�kra a'da ilk c�mlede "Lisans Alan Taraf�n kar�� kar��ya kald��� do�rudan zararlarla" ifadesini a�a��daki ifadeyle de�i�tirin:
+
+�spanya'da: "do�rudan IBM'in kusurundan kaynaklanan, Lisans Alan Taraf�n kar�� kar��ya kald��� kan�tlanm�� zararlarla"
+
+F�kra a'da ilk c�mleden sonra a�a��daki yeni c�mleyi ekleyin:
+
+Slovakya'da: De�i�tirilmi� �ekliyle, 513/1991 Coll. say�l� Ticaret Yasas�, B�l�m 379'a at�fta bulunarak, ve S�zle�menin sonu�land�r�lmas�na ili�kin t�m ko�ullarla ilgili olarak, taraflardan her ikisi de tahakkuk edebilecek toplam �ng�r�lebilir zarar�n yukar�daki f�krada belirtilen tutar� a�mayaca��n� ve bunun, IBM'in y�k�ml� oldu�u en y�ksek tutar oldu�unu belirtmektedir.
+
+F�kra a'da ikinci c�mleden �nce a�a��daki yeni c�mleyi ekleyin:
+
+Rusya'da: IBM, feragat edilmi� haklardan sorumlu olmayacakt�r.
+
+F�kra a'da ikinci c�mlede a�a��daki s�zc��� silin:
+
+�rlanda ve Birle�ik Krall�k'ta: ekonomik
+
+F�kra a'da, ikinci c�mleyi a�a��daki c�mleyle de�i�tirin:
+
+Bel�ika, Hollanda ve L�ksemburg'ta: IBM, dolayl� veya sonu�ta ortaya ��kan zararlardan, k�r kayb�, i� kayb�, de�er kayb�, gelir kayb�, firma de�eri kayb�ndan, itibar�n zarar g�rmesinden veya beklenen tasarruf kayb�ndan, Lisans Alan Tarafa kar�� herhangi bir ���nc� ki�i iddias�ndan ve veri kayb�ndan (veya hasar�ndan) sorumlu olmayacakt�r.
+
+Fransa'da: IBM, dolayl� zararlardan, itibar kayb�, k�r kayb�, i� kayb�, de�er kayb�, gelir kayb�, firma de�eri kayb� veya beklenen tasarruf kayb�ndan sorumlu olmayacakt�r.
+
+Portekiz'de: IBM, k�r kayb� dahil olmak �zere dolayl� zararlardan sorumlu olmayacakt�r.
+
+�spanya'da: IBM, itibar�n zarar g�rmesinden, k�r kayb�, i� kayb�, de�er kayb�, gelir kayb�, firma de�eri kayb� veya beklenen tasarruf kayb�ndan sorumlu olmayacakt�r.
+
+F�kra a'n�n sonuna a�a��daki ifadeyi ekleyin:
+
+Fransa'da: Finansal ko�ullar dahil S�zle�menin ko�ullar�, S�zle�menin genel ekonomisinin ayr�lmaz par�as� olan mevcut madde dikkate al�narak belirlenmi�tir.
+
+F�kra b'de "ve ii) ge�erli yasa uyar�nca s�n�rlanmas� m�mk�n olmayan zararlar" ifadesini a�a��daki ifadeyle de�i�tirin:
+
+Almanya'da: ; ii) bedensel yaralanmalara (�l�m dahil) ili�kin zararlar; iii) bu S�zle�me kapsam�ndaki herhangi bir i�lemle ba�lant�l� olarak IBM'in �stlendi�i garanti ihlalinden kaynaklanan kay�p veya zararlar; ve (iv) kasti veya b�y�k ihmal sonucunda olu�an kay�p veya zararlar.
+
+Madde 6. Uygulanacak Hukuk ve Co�rafi Kapsam
+
+F�kra a'da yaln�zca ilk c�mlede "lisans yetkileri i�in i�lemin ger�ekle�tirildi�i �lkenin" ifadesini a�a��daki ifadeyle de�i�tirin:
+
+Arnavutluk, Ermenistan, Azerbaycan, Belarus, Bosna Hersek, Bulgaristan, H�rvatistan, Makedonya Eski Yugoslav Cumhuriyeti, G�rcistan, Kazakistan, K�rg�zistan, Moldova, Karada�, Romanya, Rusya, S�rbistan, Tacikistan, T�rkmenistan, Ukrayna ve �zbekistan'da: Avusturya
+
+Estonya, Letonya ve Litvanya'da: Finlandiya
+
+Cezayir, Andora, Benin, Burkina Faso, Burundi, Kamerun, Ye�il Burun Adalar�, Orta Afrika Cumhuriyeti, �ad, Komor Adalar�, Kongo Cumhuriyeti, Cibuti, Demokratik Kongo Cumhuriyeti, Ekvator Ginesi, Frans�z Guyanas�, Frans�z Polinezyas�, Gabon, Gine, Gine Bissau, Fildi�i Sahili, L�bnan, Madagaskar, Mali, Moritanya, Morityus, Mayotte, Fas, Yeni Kaledonya, Nijer, Reunion, Senegal, Sey�eller, Togo, Tunus, Vanuatu ve Wallis ve Futuna Adalar�'nda: Fransa
+
+Angola, Bahreyn, Botsvana, M�s�r, Eritre, Etiyopya, Gambiya, Gana, Irak, �rd�n, Kenya, Kuveyt, Liberya, Malavi, Malta, Mozambik, Nijerya, Umman, Pakistan, Katar, Ruanda, Sao Tome ve Principe, Suudi Arabistan, Sierra Leone, Somali, Tanzanya, Uganda, Birle�ik Arap Emirlikleri, Bat� �eria/Gazze, Yemen, Zambiya ve Zimbabwe'de:�ngiltere
+
+Lihten�tayn'da: �svi�re
+
+G�ney Afrika, Namibya, Lesoto ve Svaziland'da: G�ney Afrika Cumhuriyeti
+
+Birle�ik Krall�k'ta: �ngiltere
+
+F�kra a'da ilk c�mlenin sonuna a�a��daki ifadeyi ekleyin:
+
+Fransa'da: Taraflar, Frans�z Medeni Kanunu'nun 1222 ve 1223 say�l� maddelerinin ge�erli olmad���n� kabul ederler.
+
+F�kra a'n�n sonuna a�a��daki ifadeyi ekleyin:
+
+ Arnavutluk, Ermenistan, Azerbaycan, Belarus, Bosna Hersek, Bulgaristan, H�rvatistan, Makedonya Eski Yugoslav Cumhuriyeti, G�rcistan, Kazakistan, Kosova, K�rg�zistan, Moldova, Karada�, Romanya, Rusya, S�rbistan, Tacikistan, T�rkmenistan, Ukrayna ve �zbekistan'da: Bu S�zle�meden do�an t�m ihtilaflar, Avusturya'n�n Viyana �ehrinde Avusturya Federal Ticaret Odas� Tahkim Merkezi taraf�ndan s�z konusu Arbitral Merkezi'nin Kurallar� (Viyana Kurallar�) kapsam�nda ve Viyana Kurallar� uyar�nca g�revlendirilen �� tarafs�z hakem taraf�ndan resmi dil olarak �ngilizce kullan�larak nihai olarak karara ba�lanacakt�r. Taraflardan her biri kendi hakemini aday g�sterecek ve bu ki�iler birlikte 30 g�n i�inde ba��ms�z bir ba�kan atayacaklard�r veya ba�kan, Viyana Kurallar� kapsam�nda Tahkim Merkezi taraf�ndan atanacakt�r. Hakemlerin, bu S�zle�mede hari� tutulan ve bu S�zle�mede yer alan s�n�rlamalar� a�an zararlar� tazmin etme veya ihtiyati tedbir karar� verme yetkisi olmayacakt�r. Bu S�zle�mede yer alan hi�bir ifade, (1) gizlilik h�k�mlerinin ya da fikri m�lkiyet haklar�n�n ihlal edilmesini veya bunlar�n esas�na ili�kin zarar verilmesini �nlemek amac�yla mahkemenin ara tedbir koymas�, veya (2) taraflardan birinin veya onun Te�ebb�s �irketinin m�lkiyetinde olan veya oldu�u iddia edilen her t�rl� telif hakk�, patent veya ticari markaya ili�kin ge�erlilik veya m�lkiyetin belirlenmesi, veya (3) 500.000,00 ABD dolar�n�n alt�nda bor� tahsilat� i�in taraflardan herhangi birinin adli i�lemlere ba�vurmas�n� �nlemeyecektir;
+
+Estonya, Letonya ve Litvanya'da: Bu S�zle�meden kaynaklanan t�m ihtilaflar, Finlandiya, Helsinki'de bulunan Finlandiya Ticaret Odas�n�n Tahkim Enstit�s� (Tahkim Merkezi) taraf�ndan, Finlandiya Ticaret Odas�n�n Tahkim Kurallar� (Kurallar) kapsam�nda, bu Kuralla uyar�nca g�revlendirilen tarafs�z �� hakem taraf�ndan resmi dil olarak �ngilizce kullan�larak nihai olarak karara ba�lanacakt�r. Taraflardan her biri kendi hakemini aday g�sterecek ve bu ki�iler birlikte 30 g�n i�inde ba��ms�z bir ba�kan atayacaklard�r veya ba�kan, Kurallar kapsam�nda Tahkim Merkezi taraf�ndan atanacakt�r. Hakemlerin, bu S�zle�mede hari� tutulan ve bu S�zle�mede yer alan s�n�rlamalar� a�an zararlar� tazmin etme veya ihtiyati tedbir karar� verme yetkisi olmayacakt�r. Bu S�zle�mede yer alan hi�bir ifade, (1) gizlilik h�k�mlerinin ya da fikri m�lkiyet haklar�n�n ihlal edilmesini veya bunlar�n esas�na ili�kin zarar verilmesini �nlemek amac�yla mahkemenin ara tedbir koymas�, veya (2) taraflardan birinin veya onun Te�ebb�s �irketinin m�lkiyetinde olan veya oldu�u iddia edilen her t�rl� telif hakk�, patent veya ticari markaya ili�kin ge�erlilik veya m�lkiyetin belirlenmesi, veya (3) 500.000,00 ABD dolar�n�n alt�nda bor� tahsilat� i�in taraflardan herhangi birinin adli i�lemlere ba�vurmas�n� �nlemeyecektir;
+
+Afganistan, Angola, Bahreyn, Botsvana, Burundi, Ye�il Burun Cumhuriyeti, Cibuti, M�s�r, Eritre, Etiyopya, Gambiya, Gana, Irak, �rd�n, Kenya, Kuveyt, L�bnan, Liberya, Libya, Madagaskar, Malavi, Mozambik, Nijerya, Umman, Pakistan, Filistin B�lgesi, Katar, Ruanda, Sao Tome ve Principe, Suudi Arabistan, Sey�eller, Sierra Leone, Somali, G�ney Sudan, Tanzanya, Uganda, Birle�ik Arap Emirlikleri, Bat� Sahra, Yemen, Zambiya ve Zimbabve'de: Bu S�zle�meden do�an t�m ihtilaflar Birle�ik Krall�k, Londra Uluslararas� Tahkim Mahkemesi (LCIA) taraf�ndan kendi tahkim kurallar� (Kurallar) kapsam�nda ve bu Kurallar uyar�nca g�revlendirilen �� tarafs�z hakem taraf�ndan resmi dil olarak �ngilizce kullan�larak nihai olarak karara ba�lanacakt�r. Taraflardan her biri kendi hakemini aday g�sterecek ve bu ki�iler birlikte 30 g�n i�inde ba��ms�z bir ba�kan atayacaklard�r veya ba�kan, Kurallar kapsam�nda Tahkim Merkezi taraf�ndan atanacakt�r. Hakemlerin, bu S�zle�mede hari� tutulan ve bu S�zle�mede yer alan s�n�rlamalar� a�an zararlar� tazmin etme veya ihtiyati tedbir karar� verme yetkisi olmayacakt�r. Bu S�zle�mede yer alan hi�bir ifade, (1) gizlilik h�k�mlerinin ya da fikri m�lkiyet haklar�n�n ihlal edilmesini veya bunlar�n esas�na ili�kin zarar verilmesini �nlemek amac�yla mahkemenin ara tedbir koymas�, veya (2) taraflardan birinin veya onun Te�ebb�s �irketinin m�lkiyetinde olan veya oldu�u iddia edilen her t�rl� telif hakk�, patent veya ticari markaya ili�kin ge�erlilik veya m�lkiyetin belirlenmesi, veya (3) 500.000,00 ABD dolar�n�n alt�nda bor� tahsilat� i�in taraflardan herhangi birinin adli i�lemlere ba�vurmas�n� �nlemeyecektir;
+
+Cezayir, Benin, Burkina Faso, Kamerun, Orta Afrika Cumhuriyeti, �ad, Kongo Cumhuriyeti, Demokratik Kongo Cumhuriyeti, Ekvator Ginesi, Frans�z Guyanas�, Frans�z Polinezyas�, Gabon, Gine, Gine Bissau, Fildi�i Sahili, Mali, Moritanya, Morityus, Fas, Nijer, Senegal, Togo ve Tunus'ta: Bu S�zle�meden do�an t�m ihtilaflar, Fransa, Paris'teki ICC Uluslararas� Tahkim Mahkemesi taraf�ndan kendi tahkim kurallar� (Kurallar) kapsam�nda ve bu Kurallar uyar�nca g�revlendirilen �� tarafs�z hakem taraf�ndan resmi dil olarak Frans�zca kullan�larak nihai olarak karara ba�lanacakt�r. Taraflardan her biri kendi hakemini aday g�sterecek ve bu ki�iler birlikte 30 g�n i�inde ba��ms�z bir ba�kan atayacaklard�r veya ba�kan, Kurallar kapsam�nda Tahkim Merkezi taraf�ndan atanacakt�r. Hakemlerin, bu S�zle�mede hari� tutulan ve bu S�zle�mede yer alan s�n�rlamalar� a�an zararlar� tazmin etme veya ihtiyati tedbir karar� verme yetkisi olmayacakt�r. Bu S�zle�mede yer alan hi�bir ifade, (1) gizlilik h�k�mlerinin ya da fikri m�lkiyet haklar�n�n ihlal edilmesini veya bunlar�n esas�na ili�kin zarar verilmesini �nlemek amac�yla mahkemenin ara tedbir koymas�, veya (2) taraflardan birinin veya onun Te�ebb�s �irketinin m�lkiyetinde olan veya oldu�u iddia edilen her t�rl� telif hakk�, patent veya ticari markaya ili�kin ge�erlilik veya m�lkiyetin belirlenmesi, veya (3) 250.000,00 ABD dolar�n�n alt�nda bor� tahsilat� i�in taraflardan herhangi birinin adli i�lemlere ba�vurmas�n� �nlemeyecektir;
+
+G�ney Afrika, Namibya, Lesoto ve Svaziland'da: Bu S�zle�meden kaynaklanan t�m ihtilaflar, G�ney Afrika, Johannesburg'ta bulunan G�ney Afrika Tahkim Kurulu (AFSA) (Tahkim Dairesi) taraf�ndan, AFSA Kurallar� (Kurallar) kapsam�nda, bu Kurallar uyar�nca g�revlendirilen tarafs�z �� hakem taraf�ndan resmi dil olarak �ngilizce kullan�larak nihai olarak karara ba�lanacakt�r. Taraflardan her biri kendi hakemini aday g�sterecek ve bu ki�iler birlikte 30 g�n i�inde ba��ms�z bir ba�kan atayacaklard�r veya ba�kan, Kurallar kapsam�nda Tahkim Merkezi taraf�ndan atanacakt�r. Hakemlerin, bu S�zle�mede hari� tutulan ve bu S�zle�mede yer alan s�n�rlamalar� a�an zararlar� tazmin etme veya ihtiyati tedbir karar� verme yetkisi olmayacakt�r. Bu S�zle�mede yer alan hi�bir ifade, (1) gizlilik h�k�mlerinin ya da fikri m�lkiyet haklar�n�n ihlal edilmesini veya bunlar�n esas�na ili�kin zarar verilmesini �nlemek amac�yla mahkemenin ara tedbir koymas�, veya (2) taraflardan birinin veya onun Te�ebb�s �irketinin m�lkiyetinde olan veya oldu�u iddia edilen her t�rl� telif hakk�, patent veya ticari markaya ili�kin ge�erlilik veya m�lkiyetin belirlenmesi, veya (3) 250.000,00 ABD dolar�n�n alt�nda bor� tahsilat� i�in taraflardan herhangi birinin adli i�lemlere ba�vurmas�n� �nlemeyecektir;
+
+Andora, Avusturya, K�br�s, Fransa, Almanya, Yunanistan, �srail, �talya, Portekiz, �spanya, �svi�re ve T�rkiye'de: T�m ihtilaflar yaln�zca a�a��da belirtilen mahkemelerin m�nhas�r yetkisine tabi olacak ve bu mahkemelerde karara ba�lanacakt�r.
+
+Andora'da: Paris Ticaret Mahkemesi.
+
+Avusturya'da: Avusturya'n�n Viyana �ehri mahkemesi (�ehir Merkezi).
+
+K�br�s'ta: Lefko�e yetkili mahkemesi.
+
+Fransa'da: Paris Ticaret Mahkemesi.
+
+Almanya'da: Stuttgart mahkemeleri.
+
+Yunanistan'da: Atina yetkili mahkemeleri.
+
+�srail'de: Tel Aviv Yafa mahkemeleri.
+
+�talya'da: Milano mahkemeleri.
+
+Portekiz'de: Lizbon mahkemeleri.
+
+�spanya'da: Madrid mahkemeleri.
+
+�svi�re'de: Z�rih kantonu ticaret mahkemesi.
+
+T�rkiye'de: T�rkiye Cumhuriyeti, �stanbul Merkez (�a�layan) Mahkemeleri ve �stanbul �cra Daireleri.
+
+Hollanda'da: Taraflar, Hollanda Medeni Kanununun 7.1 no.lu Ba�l��� ile 7:401 ve 402. maddeleri kapsam�ndaki haklar�ndan ve bu S�zle�menin, Hollanda Medeni Kanununun 6:265 no.lu maddesi kapsam�nda k�smi veya tam feshine (`gehele of partiele ontbinding�) ili�kin haklar�ndan feragat ederler.
+
+Madde 7. Genel
+
+F�kra d'de f�kran�n sonuna a�a��daki ifadeyi ekleyin:
+
+�spanya'da: IBM, �u adrese g�nderilmesi durumunda, ileti�im bilgilerine eri�im, bunlar� g�ncelleme ya da silme taleplerini kar��layacakt�r: IBM, c/ Santa Hortensia 26-28, 28002 Madrid, Departamento de Privacidad de Datos".
+
+F�kra j'de f�kran�n sonuna a�a��daki ifadeyi ekleyin:
+
+�ek Cumhuriyeti'nde: 89/2012 Coll say�l� Kanunda ("Medeni Kanun") Madde 1801 uyar�nca, Medeni Kanunda madde 1799 ve 1800, de�i�tirildikleri haliyle, bu S�zle�me kapsam�ndaki i�lemler i�in ge�erli de�ildir. Lisans Alan Taraf, Medeni Kanunun 1765 numaral� maddesi kapsam�nda durumlar�n de�i�mesi riskini kabul eder.
+
+F�kra j'de:
+
+Bulgaristan, H�rvatistan, Rusya, S�rbistan ve Slovenya'da: "Taraflardan hi�biri, dava gerek�esinin ortaya ��kmas�n�n �zerinden iki y�ldan fazla s�re ge�tikten sonra S�zle�meyle ba�lant�l� ya da S�zle�meden kaynaklanan herhangi bir yasal i�lem ba�latmayacakt�r." �eklindeki ikinci c�mleyi silin.
+
+F�kra j'de ikinci c�mlenin sonuna a�a��daki ifadeyi ekleyin:
+
+Litvanya'da: Yasa aksini gerektirmedik�e
+
+F�kra j'de, ikinci c�mleyi a�a��daki c�mleyle de�i�tirin:
+
+Polonya'da: Taraflardan hi�biri, �deme yap�lmamas� hali hari� olmak �zere dava gerek�esinin ortaya ��kmas�n�n �zerinden �� y�ldan fazla s�re ge�tikten sonra S�zle�meyle ba�lant�l� ya da S�zle�meden kaynaklanan herhangi bir yasal i�lem ba�latmayacakt�r. �demenin yap�lmad��� hallerde, vade tarihinin �zerinden iki sene ge�mesinin ard�ndan yasal i�lem ba�lat�lamayacakt�r.
+
+F�kra j'de ikinci c�mlede "iki" s�zc���n� a�a��daki �ekilde de�i�tirin:
+
+Letonya ve Ukrayna'da: ��
+
+Slovakya'da: d�rt
+
+F�kra j'de "Taraflardan hi�biri, elinde olmayan nedenlerden �t�r� parasal olmayan herhangi bir y�k�ml�l���n� yerine getirememekten sorumlu tutulamaz." �eklindeki ���nc� c�mlenin sonuna a�a��daki ifadeyi ekleyin:
+
+Rusya'da: Bunlara deprem, sel, yang�n, do�al afet, grev (taraflar�n �al��anlar�n grevleri hari�), sava� hali, askeri eylem, ambargo, blokaj, uluslararas� veya devlet yapt�r�mlar� ve ge�erli hukuk d�zeninin yetkili makamlar�n�n eylemleri dahildir, ancak bunlarla s�n�rl� de�ildir.
+
+F�kra j'de "Taraflardan hi�biri, elinde olmayan nedenlerden �t�r� parasal olmayan herhangi bir y�k�ml�l���n� yerine getirememekten sorumlu tutulamaz." �eklindeki ���nc� c�mleyi a�a��daki �ekilde de�i�tirin:
+
+Ukrayna'da: Taraflardan hi�biri, elinde olmayan nedenlerden veya yasal d�zenleme de�i�ikliklerinden �t�r� parasal olmayan herhangi bir y�k�ml�l���n� yerine getirememekten sorumlu tutulamaz. Bunlara ABD'nin ithalat, ihracat ve ekonomik yapt�r�m gereksinimleri dahildir, ancak t�m� bunlarla s�n�rl� de�ildir.
+
+A�a��daki ifadeyi bu maddenin sonuna yeni l f�kras� olarak ekleyin:
+
+Macaristan'da: Lisans Alan Taraf bu S�zle�meyi imzalayarak, Lisans Alan Taraf�n bu S�zle�menin t�m h�k�mleri konusunda yeterli bilgiye sahip oldu�unu ve bu ko�ullar konusunda m�zakere yapma f�rsat� elde etti�ini teyit eder. �u h�k�mler, Macaristan yasalar�nca genel olarak uygulanan h�k�mlerden �nemli �l��de farkl�l�k g�sterebilir ve taraflardan her ikisi de S�zle�meyi imzalayarak bu h�k�mleri kabul etmi� olur: Program Lisans�; Garantiler; �cretler, Vergiler, �deme ve Do�rulama; Sorumluluk ve Fikri M�lkiyetin Korunmas�; Sona Erdirme; Uygulanacak Hukuk ve Co�rafi Kapsam; Genel.
+
+�ek Cumhuriyeti'nde: Lisans Alan Taraf, a�a��da belirtilen �nemli ticari ko�ullar� i�eren i�bu s�zle�menin ko�ullar�n� a��k�a kabul eder: (i) Ay�plara y�nelik sorumlulu�un s�n�rlanmas� ve sorumlulu�un reddi (Garantiler); (ii) Lisans Alan Taraf�n zararlar i�in yetki s�n�rlamas� (Sorumluluk ve Fikri M�lkiyetin Korunmas�); (iii) �hracat ve ithalat yasal d�zenlemelerinin ba�lay�c� niteli�i (Uygulanacak Hukuk ve Co�rafi Kapsam); (iv) daha k�sa s�n�rlama s�releri (Genel); (v) kat�lmal� s�zle�melerdeki h�k�mlerin uygulanabilirli�inin hari� tutulmas� (Genel); ve (vi) ko�ullar�n de�i�mesi riskinin kabul edilmesi (Genel).
+
+Romanya'da: Lisans Alan Taraf, Romanya Medeni Kanunu'nda madde 1203, 2, 4, 5 ve 8j numaral� f�kralar�n�n h�k�mlerine g�re "ola�and��� h�k�mler" olarak addedilecek a�a��daki standart maddeleri a��k�a kabul eder. Lisans Alan Taraf, i�bu belgeyle, yukar�da belirtilen maddeler dahil olmak �zere, bu S�zle�menin t�m h�k�mleri konusunda yeterli bilgiye sahip oldu�unu, s�z konusu h�k�mleri do�ru �ekilde analiz edip anlad���n� ve her maddenin ko�ullar� konusunda m�zakere yapma f�rsat� elde etti�ini teyit eder.
+
+i125-3301-15 (10-2021)
+

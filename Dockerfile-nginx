@@ -1,15 +1,24 @@
 #/*******************************************************************************
 #* Licensed Materials - Property of HCL 
-#* (c) Copyright HCL Technologies Ltd. 2021. All Rights Reserved. 
+#* (c) Copyright HCL Technologies Ltd. 2023. All Rights Reserved. 
 #
 #* Note to U.S. Government Users Restricted Rights:
 #* Use, duplication or disclosure restricted by GSA ADP Schedule
 #**************************************************************/
+
 ARG REGISTRY
 ARG VERSION
-FROM ${REGISTRY}/aida-nginx:${VERSION}
+FROM ${REGISTRY}aida-nginx:${VERSION} as base
 
-ADD ./nginx/default.conf  /etc/nginx/conf.d/default.conf.template
+
 ADD ./nginx/nginx.conf /usr/local/openresty/nginx/conf
 ADD ./nginx/cert/aida.crt /etc/nginx/cert
 ADD ./nginx/cert/aida.key /etc/nginx/cert
+
+FROM base as dev
+
+ADD ./nginx/default_dev.conf  /etc/nginx/conf.d/default.conf.template
+
+FROM base as release
+
+ADD ./nginx/default.conf  /etc/nginx/conf.d/default.conf.template
