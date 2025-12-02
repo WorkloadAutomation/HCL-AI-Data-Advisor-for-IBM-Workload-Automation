@@ -1,0 +1,28 @@
+LICEN�N� INFORMACE
+
+N��e uveden� Programy jsou licencov�ny na z�klad� n�sleduj�c�ch podm�nek uveden�ch v dokumentu Licen�n� informace, kter� dopl�uj� licen�n� podm�nky pro Program, s nimi� d��ve Z�kazn�k a IBM vyj�d�ili souhlas Pokud Z�kazn�k d��ve nevyj�d�il souhlas s ��inn�mi licen�n�mi podm�nkami pro Program, uplatn� se licence Mezin�rodn� licen�n� smlouva pro program (i125-3301-15).
+
+N�zev Programu (��slo Programu):
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+Na pou��v�n� Programu Dr�itelem licence se vztahuj� n�sleduj�c� standardn� podm�nky.
+
+Upraviteln� k�d t�et� strany
+
+V p��padn�m rozsahu, v jak�m IBM v souboru OZN�MEN� ozna�� k�d t�et� strany jako "Upraviteln� k�d t�et� strany", IBM oprav�uje Dr�itele licence, aby 1) upravil Upraviteln� k�d t�et� strany a 2) zp�tn� analyzoval moduly Programu, kter� jsou p��mo spojeny s Upraviteln�m k�dem t�et� strany, ov�em za p�edpokladu, �e k tomu doch�z� pouze pro ��ely lad�n� zm�n Dr�itele licence takov�ho k�du t�et� strany. P��padn� povinnosti servisu a podpory IBM se vztahuj� pouze na nezm�n�n� Program.
+
+Na pou��v�n� Programu Dr�itelem licence se mohou vztahovat n�sleduj�c� m�rn� jednotky.
+
+Jednotka PVU (Processor Value Unit)
+
+Jednotka PVU (Processor Value Unit) je m�rnou jednotkou, na jej�m� z�klad� m��e b�t Program licencov�n. Po�et vy�adovan�ch opr�vn�n� k jednotk�m PVU je zalo�en na procesorov� technologii (definovan� v licencov�n� Processor Value Unit (PVU) pro webovou str�nku Distribuovan� software na adrese https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) a na po�tu procesor� zp��stupn�n�ch pro Program. IBM i nad�le definuje procesor pro ��ely licencov�n� na z�klad� jednotek PVU jako ka�d� procesorov� j�dro na �ipu. Dvouj�drov� procesorov� �ip m� nap��klad dv� procesorov� j�dra.
+
+Dr�itel licence m��e nasadit Program (je-li podporov�n) pomoc� pln� kapacitn�ho licencov�n�, licencov�n� na z�klad� d�l�� kapacity (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) nebo licencov�n� kontejneru (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Dal�� informace viz propojen� webov� str�nky.
+
+Nam�sto opr�vn�n� vy�adovan�ch p��mo pro Program je Dr�itel licence povinen si opat�it opr�vn�n� pro jednotky PVU k tomuto Programu v takov�m po�tu, kter� je dosta�uj�c� k pokryt� procesorov�ch jader pro syst�my, na nich� se nach�zej� prost�edky spravovan� a zpracov�van� Programem.
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+

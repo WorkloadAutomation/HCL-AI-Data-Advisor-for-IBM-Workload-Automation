@@ -1,0 +1,28 @@
+���v��U
+
+�U�C���{�������v���Y�̫Ȥ�P IBM ���e�P�N�����v���ڥ~�A�è̤U�z���v��U���ڱ��v�C�Y�Ȥ���e�N���{�����P�N�ͮĥ�����v���ڡA�h���{���A�� ��ڵ{�����v�X�� (i125-3301-15)�C
+
+�{���W�� (�{���s��)�G
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+�U�C�зǱ��ھA�Ω�Q���v�H�糧�{�����ϥΡC
+
+�i�ק蠟�ĤT�H�{���X
+
+�b�`�N�ƶ��� IBM �N�ĤT�H�{���X�����u�i�ק蠟�ĤT�H�{���X�v�ɡ]�Y���^�A���� IBM ���v�Q���v�H�o���U�C���ơG 1) �ק�u�i�ק蠟�ĤT�H�{���X�v�� 2) �諾���s���u�i�ק蠟�ĤT�H�{���X�v�����{���Ҳնi���٭�u�{�A���ȭ���� �Q�Ȥ��ӲĤT�H�{���X�Ҭ����ק�i�氣�����ت��Ӭ����C IBM ���A�ȻP�䴩�q�ȡ]�p�G�����ܡ^�A�ȾA�Ω󥼭ק蠟�u�{���v�C
+
+�U�C�p�q���A�Ω�Q���v�H�糧�{�����ϥΡC
+
+�B�z�����ȳ�� (Processor Value Unit, PVU)
+
+�u�B�z�����ȳ�� (PVU)�v�Y���u���{���v�����v�p�q���C�һ� PVU ���v�����ơA�Y�H�B�z���޳N�]�Q�w�q�� �u�������n��v�������u�B�z�����ȳ�� (PVU)�v���v���A�ԤU�C���}�Ghttps://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html�^�Ψѡu���{���v�ϥΤ��B�z���ƶq����¦�CIBM ���H PVU �����v�p�q��줧�ت��A�@�e�N�@�ӳB�z���w�q�������W���C�@�B�z���֤ߡC�Ҧp�A���֤߳B�z���������G�ӳB�z���֤ߡC
+
+�Q���v�H�i�ĥΥ��e�q���v�B�l�e�q���v (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ���x�s�����v (https://www.ibm.com/software/passportadvantage/containerlicenses.html) ���p�u���{���v�C�p�ݨ�L��T�A�аѾ\�쵲�����C
+
+�Q���v�H�������{�����o���H�[�\���{���q���޲z�γB�z�귽���t�Τ��B�z���֤ߤ� PVU ���v�ƶq�A�ӫD�������o�u���{���v�һݤ����v�ƶq�C
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+

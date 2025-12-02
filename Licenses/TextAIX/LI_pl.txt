@@ -1,0 +1,28 @@
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni�ej s� licencjonowane na podstawie przedstawionych poni�ej warunk�w Informacji licencyjnych, kt�re stanowi� uzupe�nienie warunk�w licencji na Program uzgodnionych uprzednio mi�dzy Klientem a IBM. Je�li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj� warunki licencji Mi�dzynarodowa Umowa Licencyjna na Program (i125-3301-15).
+
+Nazwa Programu (Numer Programu):
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+Poni�sze standardowe warunki maj� zastosowanie do u�ywania Programu przez Licencjobiorc�.
+
+Modyfikowany Kod Os�b Trzecich
+
+Je�li w pliku NOTICES (UWAGI) IBM okre�li kod osoby trzeciej jako "Modyfikowalny Kod Os�b Trzecich", to IBM upowa�nia Licencjobiorc� do 1) modyfikowania Modyfikowalnego Kodu Os�b Trzecich oraz 2) odtwarzania kodu �r�d�owego modu��w Programu, kt�re bezpo�rednio wsp�pracuj� z Modyfikowalnym Kodem Os�b Trzecich, pod warunkiem �e s�u�y to wy��cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorc� w takim kodzie osoby trzeciej. Ewentualne zobowi�zania IBM w zakresie serwisu i wsparcia dotycz� wy��cznie niezmodyfikowanego Programu.
+
+Poni�sze jednostki miary maj� zastosowanie do u�ywania Programu przez Licencjobiorc�.
+
+Procesorowa Jednostka Warto�ci
+
+Procesorowa Jednostka Warto�ci (Processor Value Unit, zwana dalej "PVU") to jednostka miary, wed�ug kt�rej licencjonowany jest Program. Liczba wymaganych uprawnie� PVU zale�y od technologii procesorowej (zdefiniowanej w ramach licencjonowania wed�ug jednostek PVU w serwisie WWW oprogramowania pod adresem https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) oraz od liczby procesor�w udost�pnionych dla Programu. Na potrzeby licencjonowania w oparciu o jednostki PVU, IBM w dalszym ci�gu definiuje jako procesor ka�dy rdze� procesora w uk�adzie scalonym. I tak na przyk�ad procesor dwurdzeniowy traktowany jest jako dwa procesory.
+
+Licencjobiorca mo�e zainstalowa� Program (je�li jest obs�ugiwany) z licencjonowaniem wed�ug pe�nej mocy obliczeniowej, ograniczonej mocy obliczeniowej (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) lub wed�ug kontener�w(https://www.ibm.com/software/passportadvantage/containerlicenses.html). Wi�cej informacji na ten temat mo�na znale�� w serwisach WWW, do kt�rych kieruj� podane odsy�acze.
+
+Zamiast uprawnie� wymaganych bezpo�rednio dla Programu, Licencjobiorca musi naby� uprawnienia PVU dla tego Programu obejmuj�ce rdzenie procesor�w dla system�w, w kt�rych rezyduj� zasoby zarz�dzane lub przetwarzane przez Program.
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+

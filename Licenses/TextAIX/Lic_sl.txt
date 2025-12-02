@@ -1,0 +1,530 @@
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih dolo�b in pogojev licen�ne informacije, ki veljajo poleg pogojev licence za program, s katerimi naro�nik in IBM predhodno sogla�ata. �e naro�nik predhodno ne sogla�a s pogoji, ki veljajo za program, velja Mednarodna licen�na pogodba za program (i125-3301-15).
+
+Ime programa (�tevilka programa):
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Spremenljiva koda drugega ponudnika
+
+�e v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in�eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak�ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, �e obstajajo, veljajo samo za nespremenjen program.
+
+Za uporabo programa s strani imetnika licence morda veljajo naslednje merske enote.
+
+Enota vrednosti procesorja (PVU)
+
+Enota vrednosti procesorja (PVU) je merska enota, na podlagi katere je lahko licenciran program. �tevilo potrebnih pooblastil PVU temelji na tehnologiji procesorjev (opredeljeni znotraj licenciranja na podlagi enote vrednosti procesorja (PVU) za porazdeljeno programsko opremo na spletnem mestu https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) in �tevilu procesorjev, ki so na voljo za program. Za namen licenciranja, ki temelji na PVU-jih, definira IBM kot procesor vsako procesorsko jedro na �ipu. Tako ima na primer procesorski �ip z dvema jedroma dve procesorski jedri.
+
+Imetnik licence lahko razmesti program (�e je podprt) z licenciranjem celotne kapacitete, licenciranjem podkapacitete (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ali licenciranjem vsebnika (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Za dodatne informacije glejte povezana spletna mesta.
+
+Namesto pooblastil, ki so neposredno potrebna za program, mora pridobiti imetnik licence pooblastila PVU za ta program, ki zadostujejo za pokritje procesorskih jeder za sisteme, v katerih se nahajajo viri, ki jih upravlja ali obdela program.
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+
+Mednarodna licen�na pogodba za program
+
+1. del - Splo�ne dolo�be
+
+S TEM, KO IMETNIK LICENCE PRENESE, NAMESTI, PREKOPIRA PROGRAM, DOSTOPI DO NJEGA, KLIKNE GUMB >>SPREJMEM<< ALI KAKO DRUGA�E UPORABI PROGRAM, SOGLA�A Z DOLO�BAMI TE POGODBE. �E TE DOLO�BE SPREJEMATE V IMENU IMETNIKA LICENCE, POTRJUJETE, DA IMATE VSA POOBLASTILA, DA IMETNIKA LICENCE ZAVE�ETE K TEM DOLO�BAM.
+
+�E Z DOLO�BAMI TE POGODBE NE SOGLA�ATE ALI NIMATE POOBLASTILA: i) NE PRENA�AJTE, NAME��AJTE, KOPIRAJTE ALI UPORABLJAJTE PROGRAMA, NE DOSTOPAJTE DO NJEGA, NE KLIKNITE GUMBA "ACCEPT" IN NE UPORABLJAJTE PROGRAMA; IN ii) NEUPORABLJENE MEDIJE, DOKUMENTACIJO IN DOKAZILO O UPRAVI�ENOSTI NEMUDOMA VRNITE OSEBI, OD KATERE STE JIH PRIDOBILI, ZA USTREZNO POVRA�ILO PLA�ANEGA ZNESKA. �E STE PROGRAM PRENESLI, UNI�ITE VSE NJEGOVE KOPIJE.
+
+Ta mednarodna licen�na pogodba za program (IPLA) in ustrezni transakcijski dokumenti (skupaj imenovani "pogodba") predstavljajo celoten dogovor med imetnikom licence in IBM-om v zvezi z uporabo programa. Nacionalno zahtevane dolo�be 2. dela te mednarodne licen�ne pogodbe za program nadome��ajo ali spreminjajo dolo�be 1. dela.
+
+Transakcijski dokumenti (TD) vsebujejo opis, informacije in dolo�be v zvezi s programom in njegovo poobla��eno uporabo. Primeri transakcijskih dokumentov za programe vklju�ujejo licen�ne informacije (LI), specifikacije licenciranega programa (LPS), ponudbo, dokazilo o upravi�enosti (PoE) ali ra�un. V obsegu morebitnega nasprotja transakcijski dokument prevlada nad mednarodno licen�no pogodbo za program.
+
+1. Licenca za program
+
+a. Program je izvedljiv ra�unalni�ki program znamke IBM s povezanim gradivom in vklju�uje celotne ter delne kopije. Podrobnosti o programu so opisane v transakcijskem dokumentu na naslovuhttp://www.ibm.com/software/sla (za programe Passport Advantage) ali http://www.ibm.com/support/knowledgecenter (za druge IBM-ove programe), v imeniku sistemskih ukazov programa, ali kot druga�e dolo�i IBM. IBM- ovi pravilniki o programski opremi (npr. varnostno kopiranje, za�asna uporaba ali okolje v oblaku, ki ga odobri IBM) na naslovu http://www.ibm.com/softwarepolicies veljajo za uporabo programov s strani imetnika licence.
+
+b. Kopije programov so avtorsko za��itene in licencirane.
+
+c. Imetniku licence je dodeljena neizklju�na licenca za:
+
+(1) uporabo vsake kopije programa v skladu z dolo�bami pogodbe in najve� za toliko licen�nih upravi�enj, kot jih imetnik licence pridobi ("poobla��ena uporaba");
+
+(2) ustvarjanje in name��anje kopij, ki podpirajo tako poobla��eno uporabo; ter
+
+(3) ustvarjanje varnostne kopije.
+
+d. Program lahko uporabljajo imetnik licence ter njegovi zaposleni in pogodbeniki. Imetnik licence programa ne sme dajati v najem/zakup ali zagotavljati komercialnih IT storitev, gostovanja ali dodeljevanja �asa nobeni tretji osebi. Dodatne pravice so lahko na voljo za dodatno pla�ilo ali pod druga�nimi pogoji.
+
+e. Imetnik licence mora v zvezi z dodeljeno licenco za program zagotoviti:
+
+(1) zagotavlja reproduciranje obvestil o avtorskih pravicah in drugih oznak na kateri koli kopiji;
+
+(2) da vsi, ki uporabljajo program: i) to storijo samo v imenu imetnika licence v okviru poobla��ene uporabe imetnika licence; in ii) so njihova dejanja skladna s to pogodbo;
+
+(3) da ni povratnega zbiranja, povratnega prevajanja, prevajanja ali povratnega in�eniringa programa, razen �e to izrecno dovoljuje zakon brez mo�nosti pogodbene odpovedi pravici; in
+
+(4) da ne uporabe katerih koli elementov programa ali povezanega licen�nega gradiva lo�eno od programa.
+
+f. �e je v transakcijskem dokumentu za program ("glavni program") navedeno, da je "podporni program" vklju�en v glavni program, lahko imetnik licence podporni program uporablja v skladu z vsemi omejitvami licence glavnega programa in samo za namene podpore glavnemu programu.
+
+g. Ta licenca se uporablja za vsako kopijo programa, ki jo ustvari imetnik licence.
+
+h. Za posodobitev ali popravek programa veljajo dolo�be, ki urejajo uporabo programa, razen �e so v posodobljenem transakcijskem dokumentu nove dolo�be. Z namestitvijo posodobitve ali popravka imetnik licence sprejme take nove dolo�be. �e program nadomesti posodobitev, imetnik licence sogla�a, da bo nemudoma prenehal uporabljati nadome��eni program.
+
+i. �e zaradi kakr�nega koli razloga imetnik licence s programom ni zadovoljen, lahko prekine licenco tako, da IBM-u ali IBM-ovemu poslovnemu partnerju vrne program in dokazilo o upravi�enosti v roku 30 dni od prvotnega datuma pridobitve tega programa proti povra�ilu pla�anega zneska. Za navodila glede povra�ila je za preneseni program kontaktna oseba tista, od katere je imetnik licence pridobil program.
+
+2. Jamstva
+
+a. IBM jam�i, da je program, kadar se uporablja v svojem predvidenem operacijskem okolju, skladen s svojimi specifikacijami. Garancijsko obdobje za program je 12 mesecev od pridobitve ali enako za�etnemu licen�nemu obdobju, �e traja manj kot 12 mesecev, razen �e je v transakcijskem dokumentu navedeno drugo garancijsko obdobje.
+
+b. V garancijskem obdobju bo imel imetnik licence dostop do IBM-ovih baz podatkov z informacijami o znanih okvarah, popravkih okvar, omejitvah in zaobitjih v zvezi s programom, kot je opisano v IBM-ovem vodi�u za podporo na naslovu http://www.ibm.com/support/pages/node/733923.
+
+c. �e program v garancijskem obdobju ne deluje v skladu z jamstvi in te�ave ni mogo�e odpraviti na podlagi informacij, ki so na voljo v IBM-ovih bazah podatkov, lahko imetnik licence IBM-u ali IBM-ovemu poslovnemu partnerju vrne program in dokazilo o upravi�enosti proti povra�ilu pla�anega zneska, pri �emer se licenca imetnika licence prekine.
+
+d. IBM ne jam�i, da bo IBM-ov program deloval brez motenj ali okvar, ali da bo IBM popravil vse napake ali prepre�il prekinitve pri tretjih osebah. Te garancije so edina jamstva, ki jih daje IBM in nadomestijo vsa druga jamstva, vklju�no s predpostavljenimi jamstvi ali dolo�ili glede zadovoljive kakovosti, primernosti za prodajo, nekr�itve in primernosti za dolo�en namen. IBM-ova jamstva ne veljajo v primerih nepravilne uporabe, spreminjanja, po�kodb, ki niso bile povzro�ene s strani IBM-a, ali neupo�tevanja navodil, podanih s strani IBM-a. Programi, ki niso IBM-ovi, so na voljo "kot so", brez vsakr�nih jamstev. Tretje osebe lahko imetniku licence ponudijo svoja jamstva.
+
+e. Dodatna podpora v garancijskem obdobju ali po njem je morda na voljo z lo�eno pogodbo.
+
+3. Stro�ki, davki, pla�ilo in preverjanje
+
+a. Pravica imetnika licence do uporabe programa je pogojena z imetnikovim pla�ilom ustreznih stro�kov, kot je dolo�eno v pogodbi, v skladu s katero je imetnik pridobil licen�na upravi�enja. Pred pove�anjem njegove uporabe mora imetnik licence pridobiti dodatna licen�na upravi�enja.
+
+b. Imetnik licence sogla�a, da bo pla�al vse ustrezne stro�ke za pridobljena upravi�enja in vse stro�ke za uporabo, ki presega pooblastila. Stro�ki ne vklju�ujejo nobenih carin ali drugih dajatev, davkov in podobnih prispevkov, ki jih za pridobitev upravi�enj imetnika licence predpisuje kateri koli oblastni organ in se zara�unajo dodatno k tem stro�kom. Zneski zapadejo v pla�ilo po prejemu ra�una od IBM-a in jih je treba pla�ati v roku 30 dni od datuma ra�una z nakazilom na ra�un, ki ga dolo�i IBM, pri �emer se lahko zara�unajo nadomestilo zaradi zamude pri pla�ilu. Pred pove�anjem uporabe mora imetnik licence pravilno pridobiti dodatna licen�na upravi�enja. IBM ne daje dobropisov ali vra�il za �e zapadle ali pla�ane stro�ke, razen kot je dolo�eno drugje v tej mednarodni licen�ni pogodbi za program, veljavnem transakcijskem dokumentu ali dolo�bah pogodbe, v skladu s katero je imetnik licence pridobil licen�na upravi�enja.
+
+c. Na podlagi pridobljenih upravi�enj imetnik licence sogla�a, da bo: i) pla�al dav�ni odtegljaj neposredno ustreznemu dr�avnemu subjektu, �e to zahteva zakon; ii) IBM-u predlo�il dav�no potrdilo, ki bo dokazovalo tako pla�ilo; iii) IBM-u pla�al samo neto izkupi�ek po obdav�itvi; in iv) v celoti sodeloval z IBM-om pri uveljavljanju oprostitve ali zni�anja takih davkov ter nemudoma izpolnil in vlo�il vse ustrezne dokumente.
+
+d. �e imetnik licence uvozi, izvozi ali prenese program, dostopa do njega ali ga uporablja v drugi dr�avi, imetnik licence sogla�a, da bo organom pla�al vse carine, dajatve, davke ali podobne prispevke, ki jih predpi�ejo organi. Iz tega so izklju�eni davki na IBM-ov neto prihodek.
+
+3.1 Preverjanje licenciranja
+
+a. Imetnik licence bo za vse programe na vseh mestih in za vsa okolja ustvaril, hranil ter na IBM-ovo zahtevo s 30-dnevnim predhodnim obvestilom vsako leto predlo�il: i) poro�ilo v obliki, ki jo zahteva IBM, z zapisi, izhodnimi podatki sistemskih orodij in drugimi sistemskimi informacijami; in ii) podporno dokumentacijo (skupaj "podatki o postavitvi").
+
+b. IBM in njegovi neodvisni revizorji lahko na podlagi razumnega obvestila preverijo skladnost imetnika licence s to pogodbo na vseh mestih in za vsa okolja, v katerih imetnik licence uporablja programe (za katere koli namene). Preverjanje bo izvedeno na na�in, ki zmanj�uje prekinitve poslovanja imetnika licence, in se lahko izvaja v prostorih imetnika licence v obi�ajnem delovnem �asu. IBM bo z neodvisnim revizorjem sklenil pisno pogodbo o zaupnosti. Poleg predlo�itve zgoraj opisanih podatkov o namestitvi imetnik licence sogla�a, da bo IBM-u in njegovim revizorjem na zahtevo predlo�il dodatne to�ne informacije in podatke o namestitvi.
+
+c. Imetnik licence bo nemudoma naro�il in pla�al stro�ke po takrat veljavnih IBM-ovih cenah v zvezi s/z: i) katerimi koli postavitvami, ki presegajo pooblastila, navedena v katerem koli letnem poro�ilu ali preverjanju; ii) veljavno naro�nino in podpornimi storitvami (S&S) za take prese�ne postavitve za kraj�e obdobje take prese�ne uporabe ali dve leti; ter iii) vsemi dodatnimi stro�ki in drugimi obveznostmi, ki so posledica takega preverjanja, kar med drugim vklju�uje davke, dajatve in regulativne pristojbine.
+
+4. Odgovornost in za��ita intelektualne lastnine
+
+a. IBM-ova celotna odgovornost za vse zahtevke, povezane s to pogodbo, ne bo presegla zneska dejanske neposredne �kode, ki jo utrpi imetnik licence, in je omejena do vi�ine pla�anih zneskov (pri ponavljajo�ih se bremenitvah se upo�tevajo stro�ki do 12 mesecev) za upravi�enja do programa, ki je predmet zahtevka, ne glede na podlago zahtevka. IBM ne prevzema odgovornosti za posebno, naklju�no, eksemplari�no, posredno ali posledi�no ekonomsko �kodo ali za izgubljeni dobi�ek, posel, vrednost, prihodek, dobro ime ali predvidene prihranke. Te omejitve veljajo skupaj za IBM, njegove povezane dru�be, pogodbenike in dobavitelje.
+
+b. Naslednji zneski niso predmet zgornje omejitve: i) pla�ila tretjim osebam, povezana s kr�itvenimi zahtevki, opisanimi v �lenu 4.c spodaj; in ii) od�kodnine, ki jih po veljavnem zakonu ni mogo�e omejiti.
+
+c. �e tretja oseba uveljavlja zahtevek zoper imetnika licence, da IBM-ov program kr�i patentne ali avtorske pravice, bo IBM imetnika licence obvaroval pred takim zahtevkom in kril stro�ke, ki jih sodi��e pravnomo�no nalo�i imetniku licence ali so vklju�eni v poravnavo, ki jo odobri IBM. Za uveljavitev IBM-ovega obvarovanja pred kr�itvenimi zahtevki in povezanimi pla�ili mora imetnik licence nemudoma: i) IBM pisno obvestiti o takem zahtevku; ii) predlo�iti informacije, ki jih IBM zahteva; in iii) IBM-u omogo�iti nadzor ter zagotoviti razumno sodelovanje pri obvarovanju in poravnavi, vklju�no s prizadevanji za ubla�itev posledic. IBM-ove obveznosti glede obvarovanja in pla�ila za kr�itvene zahtevke zajemajo tudi zahtevke v zvezi s kr�itvami, ki temeljijo na odprti izvorni kodi, ki jo IBM izbere in vdela v IBM-ov program.
+
+d. IBM ni odgovoren za zahtevke, ki temeljijo na izdelkih, ki niso IBM-ovi, artiklih, ki jih IBM ne zagotavlja, ali kakr�ni koli kr�itvi zakona ali pravic tretjih oseb, ki je posledica vsebine, gradiv, na�rtov, specifikacij imetnika licence ali uporabe neposodobljene razli�ice ali izdaje IBM-ovega programa, pri �emer bi se z uporabo posodobljene razli�ice ali izdaje bilo mo�no zahtevku za kr�itev izogniti. Vsebino sestavljajo vsi podatki, programska oprema in informacije, ki jih imetnik licence ali njegovi poobla��eni uporabniki zagotovijo, do njih omogo�ijo dostop ali vnesejo v program.
+
+5. Odpoved
+
+a. IBM lahko licenco za uporabo programa imetniku licence odpove, �e ta ne izpolnjuje dolo�b mednarodne licen�ne pogodbe za program, transakcijskega dokumenta ali pogodb o pridobitvi, kot je mednarodna pogodba za Passport Advantage (IPAA). Imetnik licence mora po odpovedi licence nemudoma uni�iti vse kopije programa. Vse dolo�be, ki po svoji naravi veljajo tudi po odpovedi, ostanejo veljavne do izpolnitve ter se uporabljajo za naslednike in poobla��ence.
+
+6. Veljavna zakonodaja in geografski obseg
+
+a. Obe pogodbeni stranki se strinjata, da se uporabljajo zakoni dr�ave, v kateri se izvede prenos licen�nih upravi�enj, ne glede na kolizijska na�ela. Pravice in obveznosti vsake stranke veljajo samo v dr�avi pridobitve licen�nih upravi�enj, ali (�e se IBM s tem strinja) v dr�avi, v kateri se program produktivno uporablja, razen �e so vse licence veljavne kot posebej dodeljene.
+
+b. Poleg tega mora vsaka pogodbena stranka delovati v skladu z: i) zakoni in drugimi predpisi, ki se uporabljajo za njeno poslovanje in vsebino; ter ii) zakoni in predpisi o uvozu, izvozu in gospodarskih sankcijah, vklju�no z re�imom Zdru�enih dr�av Amerike o nadzoru trgovine iz razlogov obrambe, in vseh upo�tevnih jurisdikcij, ki prepovedujejo ali omejujejo uvoz, izvoz, ponovni izvoz ali prenos izdelkov, tehnologije, storitev ali podatkov (neposredno ali posredno) nekaterim dr�avam ali kon�nim uporabnikom oziroma za njih.
+
+c. �e je katera koli od dolo�b te pogodbe za program neveljavna ali neizvr�ljiva, preostale dolo�be ostanejo v celoti veljavne. Nobena dolo�ba te pogodbe ne vpliva na zakonske pravice potro�nikov, ki se jim s pogodbo ni mogo�e odpovedati ali jih omejiti. Za transakcije na podlagi te pogodbe ne velja Konvencija Zdru�enih Narodov o pogodbah o mednarodni prodaji blaga.
+
+7. Splo�no
+
+a. IBM je neodvisni pogodbenik (ne zastopnik imetnika licence, skupni vlagatelj, partner ali fiduciar) in se ne zavezuje, da bo izpolnjeval katere koli zakonske obveznosti imetnika licence ali prevzel odgovornost za poslovanje ali delovanje imetnika licence. Imetnik licence je za svojo uporabo IBM-ovih programov in programov, ki niso IBM-ovi, odgovoren sam. IBM deluje izklju�no kot ponudnik informacijske tehnologije. IBM-ova navodila, predlagana uporaba, smernice ali uporaba programa ne pomenijo zdravstvenega, klini�nega, pravnega, ra�unovodskega ali drugega licenciranega strokovnega nasveta. Imetnik licence mora strokovni nasvet pridobiti sam.
+
+b. Za programe, ki jih IBM imetniku licence zagotovi v opredmeteni obliki, IBM svoje obveznosti po�iljanja in dostave izpolni ob dostavi takih programov IBM-ovemu imenovanemu prevozniku, razen �e se imetnik licence in IBM ne dogovorita druga�e v pisni obliki.
+
+c. Imetnik licence ne sme uporabljati programa, �e bi napaka programa lahko povzro�ila smrt, resne telesne po�kodbe ali materialno/okoljsko �kodo.
+
+d. IBM, njegove povezane dru�be in podizvajalci zahtevajo uporabo poslovnih kontaktnih informacij in nekaterih informacij o uporabi ra�una. Te informacije niso vsebina. Poslovne kontaktne informacije se uporabljajo za namene komuniciranja in upravljanja poslov z imetnikom licence. Primeri poslovnih kontaktnih informacij vklju�ujejo ime, slu�beni telefon, naslov, e-po�tni naslov, ID uporabnika in podatke o dav�ni registraciji. Informacije o uporabi ra�una so zahtevane za omogo�anje, zagotavljanje, upravljanje, podporo, opravljanje skrbni�tva in izbolj�anje programov. Primeri informacij o uporabi ra�una vklju�ujejo prijavljene napake in digitalne informacije, zbrane med uporabo programov s pomo�jo tehnologij za sledenje, kot so pi�kotki in spletni svetilniki. Dodatne podrobnosti o IBM-ovem zbiranju, uporabi in upravljanju poslovnih kontaktnih informacij oziroma informacij o uporabi ra�una so na voljo v IBM-ovi izjavi o zasebnosti na http://www.ibm.com/privacy. �e imetnik licence IBM-u posreduje informacije in taka obdelava zahteva obve��anje ali soglasje posameznikov, mora imetnik licence o tem obvestiti posameznike in pridobiti soglasje.
+
+e. IBM-ovi poslovni partnerji, ki uporabljajo ali dajo na voljo programe, so neodvisni od IBM-a ter enostransko dolo�ajo svoje cene in pogoje. IBM ni odgovoren za njihova dejanja, opustitve dejanj, izjave ali ponudbe.
+
+f. IBM lahko ponudi programe, ki niso IBM-ovi, ali IBM-ov program lahko omogo�i dostop do programov, ki niso IBM-ovi, pri �emer bo morda treba sprejeti pogoje tretjih oseb, opredeljene v transakcijskem dokumentu ali predlo�ene imetniku licence. Povezovanje do programov, ki niso IBM-ovi, ali njihova uporaba pomeni soglasje imetnika licence s takimi pogoji. IBM ni pogodbena stranka nobene pogodbe s tretjo osebo in ni odgovoren za tak program, ki ni IBM-ov.
+
+g. Dodelitev licenc za programe zagotavlja dru�ba International Business Machines iz New Yorka ("dru�ba IBM Corporation"). Podjetje IBM, od katerega imetnik licence pridobi upravi�enja ("IBM"), deluje kot distributer in dostavlja programe ter je odgovorno za uveljavljanje dolo�b te pogodbe. �e so upravi�enja pridobljena od IBM-ovega poslovnega partnerja, je za uveljavljanje dolo�b te pogodbe odgovorno IBM-ovo podjetje v dr�avi pridobitve. V korist imetnika licence zoper dru�bo IBM Corporation ni podlage za nobeno pravico ali vzrok za to�bo. Imetnik licence se odpoveduje vsem zahtevkom in vzrokom za to�bo zoper dru�bo IBM Corporation ter se strinja, da se bo za morebitne pravice in pravna sredstva v zvezi s programi obrnil izklju�no na IBM.
+
+h. Imetnik licence ne sme izdati podlicence niti dodeliti ali prenesti licence za kateri koli program (razen v obsegu, v katerem dodelitev ali prenos ne smeta biti pravno omejena, ali kot je izrecno dovoljeno v transakcijskem dokumentu oziroma sicer dogovorjeno z IBM-om). IBM lahko svoje pravice in obveznosti po tej pogodbi prenese skupaj s prodajo dela IBM-ovega poslovanja, ki vklju�uje program. IBM lahko razkrije to pogodbo in povezane dokumente skupaj s kakr�nim koli prenosom.
+
+i. Vsa obvestila v skladu s pogodbo morajo biti v pisni obliki in poslana na slu�beni naslov, naveden v pogodbi, razen �e pogodbena stranka pisno dolo�i drug naslov. Pogodbeni stranki privolita v uporabo elektronskih sredstev in telefaksa, taka komunikacija pa �teje kot podpisano besedilo. Vsaka kopija te pogodbe, ki je izdelana z zanesljivimi sredstvi, se �teje kot izvirnik. Pogodba nadome��a vsakr�en potek pogajanj, razprav ali predstavitev s strani pogodbenih strank.
+
+j. Pogodba tretjim osebam ne daje podlage za nobeno pravico ali vzrok za to�bo. Nobena pogodbena stranka ne bo vlo�ila to�be, ki bi izhajala iz pogodbe ali bila z njo povezana, ve� kot dve leti po nastanku vzroka za to�bo. Nobena od pogodbenih strank ne nosi odgovornosti za neizpolnjevanje svojih nedenarnih obveznosti zaradi vzrokov, nad katerimi nima nadzora. Vsaka od pogodbenih strank bo drugi dala na voljo smiselno prilo�nost, da izpolni svoje obveznosti, preden vlo�i zahtevek, da jih druga stranka ni izpolnila.
+
+k. IBM lahko za podporo pri dostavi programov in podpore zanje uporablja osebje oziroma vire na lokacijah po vsem svetu, vklju�no z zunanjimi pogodbeniki. Uporaba programov s strani imetnika licence lahko pomeni prenos vsebine, vklju�no s podatki, ki omogo�ajo prepoznavanje posameznika, v druge dr�ave za namene zagotavljanja podpore za programsko opremo, kot je opisano v IBM-ovem vodi�u za podporo za programsko opremo.
+
+2. del - Dolo�ila za posamezne dr�ave
+
+Za licence, pridobljene v spodaj navedenih dr�avah, dolo�be te mednarodne licen�ne pogodbe za program nadome��ajo ali spreminjajo naslednje dolo�be. Dolo�be, ki jih te spremembe ne spreminjajo, ostanejo nespremenjene in v veljavi.
+
+1. AMERIKA
+
+3. razdelek: Stro�ki, davki, pla�ilo in preverjanje
+
+Besedilo prvega in drugega stavka odstavka b se zamenja z naslednjim:
+
+V Braziliji: Imetnik licence sogla�a, da bo pla�al vse ustrezne stro�ke za pridobljena upravi�enja, vse stro�ke za uporabo, ki presega pooblastila, ter vse carine ali druge dajatve, davke in podobne prispevke, ki jih za pridobitev upravi�enj imetnika licence predpisuje kateri koli drug organ.
+
+V odstavku b:
+
+V Mehiki: V tretjem stavku se besede "na ra�un, ki ga dolo�i IBM" izbri�ejo.
+
+V Mehiki: Po tretjem stavku se doda naslednji novi stavek:
+
+Pla�ila bodo izvedena z elektronskim nakazilom sredstev na ra�un, ki ga dolo�i IBM, ali na IBM-ovem naslovu Alfonso Napoles Gandara 3111, Santa Fe Pe~na Blanca, Alvaro Obregon, Mexico City, 01210 (po�tna �tevilka).
+
+Na konec odstavka c se doda naslednji stavek:
+
+V Kanadi: Kadar davki temeljijo na lokacijah, ki prejmejo koristi od programa, mora imetnik licence IBM redno obve��ati o teh lokacijah, �e se razlikujejo od slu�benega naslova imetnika licence, navedenega v ustreznem transakcijskem dokumentu.
+
+Na konec odstavka c se doda naslednji stavek:
+
+V Zdru�enih dr�avah: Pogodbeni stranki se strinjata, da se nobena opredmetena osebna lastnina (npr. mediji ali publikacije) ne prenese imetniku licence, �e: i) IBM imetniku licence po�lje programe v elektronski obliki; ali ii) imetnik licence zahteva oprostitev davka od prodaje ali uporabe programov, ki jih IBM imetniku licence dostavi v elektronski obliki. Kadar davki temeljijo na lokacijah, ki prejmejo koristi od programa, mora imetnik licence IBM redno obve��ati o teh lokacijah, �e se razlikujejo od slu�benega naslova imetnika licence, navedenega v ustreznem transakcijskem dokumentu.
+
+4. razdelek: Odgovornost in za��ita intelektualne lastnine
+
+Na konec odstavka a se vstavi naslednja izjava o zavra�anju odgovornosti:
+
+V Peruju: V skladu s �lenom 1328 perujskega civilnega zakonika te omejitve in izklju�itve ne bodo veljale v primerih namerne kr�itve ("dolo") ali hude malomarnosti ("culpa inexcusable").
+
+6. razdelek: Veljavna zakonodaja in geografski doseg
+
+V odstavku a se besedilo prvega stavka zamenja samo z naslednjim:
+
+V Argentini: Obe pogodbeni stranki se strinjata, da se uporabljajo zakoni Republike Argentine, ne glede na kolizijska na�ela. Morebitni postopki v zvezi s pravicami, dol�nostmi in obveznostmi, ki izhajajo iz te pogodbe, bodo spro�eni na splo�nem trgovinskem sodi��u mesta "Ciudad Aut�noma de Buenos Aires".
+
+V �ilu: Obe pogodbeni stranki se strinjata, da se uporabljajo zakoni �ila, ne glede na kolizijska na�ela. Vsi spori, interpretacije ali kr�itve, povezane s to pogodbo, ki jih stranki ne moreta razre�iti, se predajo pristojnosti rednih sodi�� mesta in okro�ja Santiago.
+
+V Kolumbiji: Obe pogodbeni stranki se strinjata, da se uporabljajo zakoni Republike Kolumbije, ne glede na kolizijska na�ela. Za vse pravice, dol�nosti in obveznosti so pristojni sodniki Republike Kolumbije.
+
+V Ekvadorju: Obe pogodbeni stranki se strinjata, da se uporabljajo zakoni Ekvadorja, ne glede na kolizijska na�ela. Vsi spori, ki bi izhajali iz te pogodbe ali bili povezani z njo, bodo predlo�eni civilnim sodnikom mesta Quito v skraj�an ustni sodni postopek.
+
+V Venezueli: Obe pogodbeni stranki se strinjata, da se uporabljajo zakoni Venezuele, ne glede na kolizijska na�ela. Pogodbeni stranki se strinjata, da bosta morebitne medsebojne spore, povezane s to pogodbo, predlo�ili sodi��em na metropolitanskem obmo�ju mesta Caracas.
+
+V Peruju: Obe pogodbeni stranki se strinjata, da se uporabljajo zakoni Peruja, ne glede na kolizijska na�ela. Kakr�na koli neskladja, ki bi nastala med pogodbenima strankama pri izvr�evanju, interpretaciji ali glede skladnosti te pogodbe in jih ni mogo�e razre�iti neposredno, bodo predlo�ena pristojnim sodi��em v sodnem okro�ju "Cercado de Lima".
+
+V Urugvaju: Obe pogodbeni stranki se strinjata, da se uporabljajo zakoni Urugvaja. Kakr�na koli neskladja, ki bi nastala med pogodbenima strankama pri izvr�evanju, interpretaciji ali skladnosti te pogodbe in jih ni mogo�e razre�iti neposredno, bodo predlo�ena sodi��em v Montevideu ("Tribunales Ordinarios de Montevideo").
+
+Samo v prvem stavku odstavka a se besedilo "dr�ava, v kateri se izvede prenos licen�nih upravi�enj" zamenja z naslednjim:
+
+V naslednjih dr�avah: Zdru�ene dr�ave, Anvila, Antigva/Barbuda, Aruba, Bahami, Barbados, Bermuda, Bonaire, Britansko Devi�ko oto�je, Kajmanski otoki, Curacao, Dominika, Grenada, Gvajana, Jamajka, Montserrat, Saba, Saint Eustatius, Saint Kitts in Nevis, Saint Lucia, Saint Maarten, Saint Vincent in Grenadine, Surinam, Tortola, Trinidad in Tobago ter Turk in Caicos: zvezna dr�ava New York, Zdru�ene dr�ave.
+
+V Kanadi: provinca Ontario in tam veljavni zvezni zakoni Kanade.
+
+V drugem stavku odstavka a se besedilo "dr�ava, v kateri se izvede prenos za upravi�enja licence" zamenja z naslednjim:
+
+V Argentini: Argentine
+
+V �ilu: �ila
+
+V Kolumbiji: Kolumbije
+
+V Ekvadorju: Ekvadorja
+
+V Mehiki: Mehike
+
+V Peruju: Peruja
+
+V Urugvaju: Urugvaja
+
+V Venezueli: Venezuele
+
+Na konec odstavka b se dodajo naslednji stavki:
+
+V Braziliji: Vsi spori, ki bi izhajali iz te pogodbe ali bi bili povezani z njo, vklju�no s skraj�animi sodnimi postopki, bodo predlo�eni izklju�ni pristojnosti foruma mesta Sao Paulo v zvezni dr�avi Sao Paulo v Braziliji, pogodbeni stranki pa se nepreklicno strinjata s to specifi�no pristojnostjo in se odpovedujeta kateri koli drugi, ne glede na njene prednosti.
+
+V Mehiki: Pogodbeni stranki se strinjata, da so za re�evanje sporov, ki izhajajo iz te pogodbe, pristojna izklju�no sodi��a v Mexico Cityju. Pogodbeni stranki se odpovedujeta kateri koli drugi jurisdikciji, ki bi lahko bila ustrezna glede na njun trenutni ali prihodnji domicil ali zaradi kakr�nega koli drugega razloga.
+
+7. razdelek: Splo�no
+
+V odstavku g:
+
+V Zdru�enih dr�avah: izbri�e se besedilo zadnjih dveh stavkov.
+
+V odstavku i se za prvi stavek doda naslednji nov stavek:
+
+V Mehiki: Vsako spremembo naslova je treba sporo�iti 10 (deset) dni vnaprej, sicer bo v polni pravni veljavi ostal zadnji sporo�eni naslov.
+
+V odstavku j:
+
+V Braziliji: izbri�e se celoten 2. stavek "Nobena od pogodbenih strank ne bo vlo�ila to�be, ki bi izhajala iz te pogodbe oziroma bila povezana z njo, po preteku dveh let od nastanka vzroka za to�bo".
+
+Dodajte kot nov odstavek 1 temu razdelku:
+
+V Kanadi: Pogodbeni stranki se strinjata, da bo ta dokument zapisan v angle��ini. Les parties ont convenu de r�diger le pr�sent document en langue anglaise.
+
+2. PACIFI�KI DEL AZIJE
+
+2. razdelek: Jamstva
+
+Doda se na konec tega razdelka kot nov odstavek f:
+
+V Avstraliji: Te garancije veljajo poleg vseh pravic v okviru zakona o konkurenci in potro�nikih iz leta 2010 in so omejene le do mere, kot to ta zakon dovoljuje.
+
+Na Japonskem: IBM-ova odgovornost je omejena na ta odstavek ter razdelek o odgovornosti in za��iti intelektualne lastnine, veljavne transakcijske dokumente kot edino pravno sredstvo imetnika licence za neizpolnjevanje jamstev, opredeljenih v tem razdelku.
+
+Na Novi Zelandiji: Te garancije veljajo poleg vseh pravic v okviru zakona o garanciji za potro�nike iz leta 1993 ali druge zakonodaje, ki jih ni mogo�e omejiti z zakonom.
+
+3. razdelek: Stro�ki, davki, pla�ilo in preverjanje
+
+V odstavku b se besedilo tretjega stavka zamenja z besedilom naslednjih dveh stavkov:
+
+V Hongkongu, Indoneziji, Koreji, Makau, Maleziji, Singapuru in Vietnamu ter na Filipinih: Zneski zapadejo v pla�ilo po prejemu ra�una od IBM-a in jih je treba pla�ati v roku 30 dni od datuma ra�una z nakazilom na ra�un, ki ga dolo�i IBM. �e pla�ilo ni prejeto v 30 dneh od datuma ra�una, lahko IBM za neporavnani znesek zara�una nadomestilo zaradi zamude pri pla�ilu, izra�unano glede na �tevilo dni, ko je pla�ilo zamujalo: i) 2 % za vsako 30-dnevno obdobje ali njegov del; ali ii) najve�ji znesek, ki ga dovoljuje veljavni zakon (kar od tega je manj).
+
+Na Tajskem: Zneski zapadejo v pla�ilo po prejemu ra�una od IBM-a in jih je treba pla�ati v roku 30 dni od datuma ra�una z nakazilom na ra�un, ki ga dolo�i IBM. �e pla�ilo ni prejeto v 30 dneh od datuma ra�una, se lahko za neporavnani znesek zara�una nadomestilo zaradi zamude pri pla�ilu po mese�ni stopnji 1,25 %, izra�unano glede na �tevilo dni, ko je pla�ilo zamujalo.
+
+V prvem stavku odstavka c se odstrani beseda "in" pred "(iv)" in dodata se podpi�je ter naslednja nova postavka "(v)":
+
+V Indiji: ; in (v) pravo�asna vlo�itev natan�ne napovedi za odbitke pri viru (TDS). �e se na podlagi dokumentacije o oprostitvi, ki jo predlo�i imetnik licence, ne zara�una davek, dajatev, prispevek ali pristojbina ("davki") in dav�ni organ naknadno presodi, da bi morali biti ti davki zara�unani, mora imetnik licence poravnati te davke, vklju�no z vsemi obrestmi, dajatvami in/ali kaznimi, ki se uporabljajo zanje.
+
+V prvem stavku odstavka c se odstrani beseda "in" pred "(iv)", zamenja se postavka (iv) in doda se nova postavka "(v)" z naslednjim:
+
+V Singapuru, Maleziji, na Filipinih, Tajskem, v Indoneziji in Vietnamu: (iv) v celoti sodeloval z IBM-om pri iskanju mo�nosti dav�ne oprostitve ali zni�anja dav�nega odtegljaja oziroma drugih davkov tako, da imetnik licence zaprosi za oprostitev ali zni�anje; in v) pravo�asno izpolnil, vlo�il in posodabljal vse ustrezne dokumente za kakr�no koli tak�no oprostitev, zni�anje ali izvzetje.
+
+4. razdelek: Odgovornost in za��ita intelektualne lastnine
+
+V odstavku a se na konec prvega stavka doda naslednje:
+
+V Avstraliji: (na primer na podlagi pogodbe, �kodnega dejanja, malomarnosti, zakona ali kako druga�e)
+
+V odstavku a, drugi stavek po besedi "posebna" in pred besedo "naklju�na" se doda naslednje:
+
+Na Filipinih: (vklju�no z nominalno in zgledno �kodo), moralno,
+
+Doda se kot nov odstavek po koncu odstavka a (zagotovi se ustrezna ozna�itev odstavkov):
+
+V Avstraliji: Kadar IBM kr�i jamstvo, ki ga navaja Zakon o konkurenci in potro�nikih iz leta 2010, je IBM-ova odgovornost omejena na popravilo/zamenjavo blaga ali dobavo enakovrednega blaga ali pla�ilo stro�kov zamenjave blaga ali popravilo blaga. Kadar se garancija navezuje na pravico do prodaje, mirno posest ali jasno upravi�enost do blaga na podlagi priloge 2 Zakona o konkurenci in potro�nikih, ne velja nobena od teh omejitev.
+
+5. razdelek: Odpoved
+
+Doda se kot nov odstavek b na konec razdelka:
+
+V Indoneziji: Pogodbeni stranki se odpovedujeta �lenu 1266 indonezijskega civilnega zakonika v obsegu, ki zahteva sodno odlo�bo o odpovedi pogodbe, ki ustvarja medsebojne obveznosti.
+
+6. razdelek: Veljavna zakonodaja in geografski doseg
+
+Samo v prvem stavku odstavka a se besedilo "dr�ava, v kateri se izvede prenos licen�nih upravi�enj" zamenja z naslednjim:
+
+V Kambod�i, Laosu: zvezne dr�ave New York v Zdru�enih dr�avah
+
+V Avstraliji: dr�ave ali ozemlja, v katerem se izvede prenos
+
+V Hongkongu: posebnega upravnega obmo�ja Hongkong Ljudske republike Kitajske
+
+V Makau: posebnega upravnega obmo�ja Hongkong Ljudske republike Kitajske
+
+V Koreji: Republike Koreje, za katere je pristojno osrednje okro�no sodi��e v Seulu v Republiki Koreji
+
+V Tajvanu: Tajvana
+
+V Indiji: Indije
+
+V drugem stavku odstavka a se besedilo "dr�ava, v kateri se izvede prenos za upravi�enja licence, oziroma, �e se IBM strinja, dr�ava, v kateri je program dan v produkcijsko uporabo" zamenja z naslednjim:
+
+V Hongkongu: posebnega upravnega obmo�ja Hongkong Ljudske republike Kitajske
+
+V Makau: posebnega upravnega obmo�ja Macao Ljudske republike Kitajske
+
+V Tajvanu: Tajvana
+
+V prvem stavku odstavka b v postavki ii) se po besedi "vklju�no z" in pred besedo "obrambne" doda:
+
+Na Japonskem: japonskih zakonov in
+
+Doda se na konec razdelka kot nov odstavek d:
+
+V Kambod�i in Laosu ter na Filipinih in �rilanki: Spori bodo dokon�no razre�eni z arbitra�o v Singapurju v okviru arbitra�nih pravil singapurskega mednarodnega arbitra�nega centra ("pravila SIAC").
+
+V Indiji: Spori bodo dokon�no razre�eni v skladu z zakonom o arbitra�i in pobotu iz leta 1996, ki bo takrat v veljavi, in sicer v angle��ini in s sede�em v Bangaloru v Indiji. �e bo znesek v okviru spora manj�i ali enak petdeset milijonov indijskih rupij, bo arbiter en, �e pa bo znesek vi�ji, bodo arbitri trije. �e bo arbiter zamenjan, se bodo sodni postopki nadaljevali od faze, ko se je mesto arbitra sprostilo.
+
+V Indoneziji: Spori bodo dokon�no razre�eni z arbitra�o v D�akarti v Indoneziji, ki jo bo vodil indonezijski nacionalni arbitra�ni odbor, ustanovljen leta 1977 ("Badan Arbitrase Nasional Indonesia" ali "BANI") v skladu s pravili indonezijskega nacionalnega arbitra�nega odbora. Arbitra�na odlo�ba bo dokon�na in zavezujo�a za pogodbeni stranki brez mo�nosti prito�be, izdana bo v pisni obliki in vsebovala bo ugotovitve o dejanskem stanju ter pravne zaklju�ke.
+
+V Ljudski republiki Kitajski: Vsaka pogodbena stranka lahko spor predlo�i v arbitra�o kitajski komisiji za mednarodno gospodarsko in trgovinsko arbitra�o v Pekingu (LRK). Pogodbeni stranki se strinjata, da bodo za razre�itev spora pristojni trije arbitri.
+
+V Vietnamu: Spori bodo dokon�no razre�eni z arbitra�o v Vietnamu v okviru arbitra�nih pravil vietnamskega mednarodnega arbitra�nega centra ("pravila VIAC"). Vsi postopki bodo potekali in dokumenti bodo predlo�eni v angle��ini.
+
+7. razdelek: Splo�no
+
+V drugem stavku odstavka j se besedilo "dve leti" zamenja z naslednjim:
+
+V Indiji: tri leta
+
+Na konec tega razdelka se doda naslednji nov odstavek 1:
+
+V Indoneziji: Ta pogodba je sestavljena v angle�ki in indonezijski (Bahasa) razli�ici. V primeru nasprotja med tema razli�icama bo v obsegu, ki ga dovoljuje veljavni zakon, prevladala angle�ka razli�ica.
+
+3. EVROPA, SREDNJI VZHOD IN AFRIKA
+
+2. razdelek: Jamstva
+
+�etrti stavek v odstavku d se zamenja z naslednjima dvema stavkoma:
+
+Na �e�kem ter v Estoniji in Litvi: Programi, ki niso IBM-ovi, so na voljo "kot so", brez vsakr�nih jamstev glede okvar. Stranki s tem izklju�ujeta kakr�no koli IBM-ovo odgovornost za okvare, ki presegajo dogovorjene garancije.
+
+3. razdelek: Stro�ki, davki, pla�ilo in preverjanje
+
+V odstavku b se na konec tretjega stavka doda naslednje:
+
+V Italiji: �e IBM to zahteva v pisnem sporo�ilu imetniku licence.
+
+V Ukrajini: , na zapadli znesek od naslednjega dne po datumu zapadlosti do datuma dejanskega pla�ila, porazdeljenega za vsak dan zamude, po obrestni meri dvojne diskontne stopnje, ki jo je dolo�ila Nacionalna banka Ukrajine (NBU) v obdobju zamude (odstavek 6 �lena 232 Trgovinskega zakonika Ukrajine se ne uporablja).
+
+V odstavku b se besedilo tretjega stavka zamenja z naslednjim:
+
+V Franciji: Zneski zapadejo v pla�ilo v roku 10 dni od datuma ra�una ter se pla�ajo na ra�un, ki ga je dolo�il IBM, nadomestilo zaradi zamude pri pla�ilu pa se izra�una po najnovej�i stopnji Evropske centralne banke z dodatkom 10 to�k, poleg stro�kov izterjave dolga v vi�ini �tiridesetih (40) evrov, ali �e ti stro�ki presegajo �tirideset evrov, dopolnilne od�kodnine na podlagi utemeljitve zahtevanega zneska).
+
+V Rusiji: Zneski zapadejo v pla�ilo po prejemu ra�una in jih je treba pla�ati v roku 30 dni od datuma ra�una z elektronskim nakazilom sredstev na ra�un, ki ga dolo�i IBM. Zara�una se lahko nadomestilo zaradi zamude pri pla�ilu po letni stopnji 24 %, izra�unano za vsak dan po 30-dnevnem obdobju.
+
+V odstavku b se na konec zadnjega stavka doda naslednje:
+
+V Litvi: , ali kot dolo�a zakon
+
+Na konec odstavka b se doda naslednje:
+
+V Italiji: V primeru nepla�ila ali delnega pla�ila in tudi po uradnem postopku za ban�no posojilo ali poskus, ki ga za�ne IBM, v odstopanju od �lena 4 zakonske uredbe �t. 231 z dne 9. oktober 2002 in v skladu s �lenom 7 iste zakonske uredbe bo IBM v pisni obliki s po�to s potrdilom o prejetju obvestil imetnika licence o zapadlih provizijah za prepozna pla�ila.
+
+4. razdelek: Odgovornost in za��ita intelektualne lastnine
+
+Pred besedami "pla�ani zneski" v prvem stavku odstavka a se vstavi naslednje:
+
+V Belgiji, Franciji, Nem�iji, Italiji, Luksemburgu in �paniji ter na Malti in Portugalskem: kar je ve� od tega: 500.000 EUR (petsto tiso� evrov) ali
+
+Na Irskem in v Zdru�enem kraljestvu: 125 % od
+
+V prvem stavku odstavka a se besedilo "neposredna �koda za imetnika licence" zamenja z naslednjim:
+
+V �paniji: in dokazana �koda za imetnika licence kot neposredna posledica IBM-ovega privzetega
+
+Po prvem stavku odstavka a se vstavi naslednji novi stavek:
+
+Na Slova�kem: S sklicem na � 379 trgovinskega zakonika, zakon �t. 513/1991 zb. kot je dopolnjen, in v zvezi z vsemi pogoji, povezanimi s sklepanjem pogodbe, obe pogodbeni stranki izjavljata, da skupna predvidljiva �koda, ki lahko nastane, ne bo presegala zgornjega zneska in predstavlja najvi�ji znesek, do katerega je IBM odgovoren.
+
+Pred drugim stavkom odstavka a se vstavi naslednji novi stavek:
+
+V Rusiji: IBM ne prevzema odgovornosti za opu��ene ugodnosti.
+
+V drugem stavku odstavka a se izbri�e beseda:
+
+Na Irskem in v Zdru�enem kraljestvu: gospodarski
+
+V odstavku a se drugi stavek zamenja z naslednjim:
+
+V Belgiji in Luksemburgu ter na Nizozemskem: IBM ne prevzema odgovornosti za posredno ali posledi�no �kodo, izgubljeni dobi�ek, posel, vrednost, prihodek, dobro ime, o�kodovan ugled ali predvidene prihranke, zahtevke tretjih oseb zoper imetnika licence in izgubo (ali po�kodbe) podatkov.
+
+V Franciji: IBM ne prevzema odgovornosti za o�kodovan ugled, posredno �kodo, izgubljeni dobi�ek, posel, vrednost, prihodek, dobro ime ali predvidene prihranke.
+
+Na Portugalskem: IBM ne prevzema odgovornosti za posredno �kodo, vklju�no z izgubo dobi�ka.
+
+V �paniji: IBM ne prevzema odgovornosti za o�kodovan ugled, izgubljeni dobi�ek, posel, vrednost, prihodek, dobro ime ali predvidene prihranke.
+
+Na konec odstavka a se doda naslednje:
+
+V Franciji: Pogoji pogodbe, vklju�no s finan�nimi pogoji, so bili dolo�eni ob upo�tevanju te to�ke, ki je sestavni del splo�nega gospodarskega okvira pogodbe.
+
+V odstavku b se "ter ii) �kodo, ki je v skladu z veljavnim zakonom ni mogo�e omejiti" zamenja z naslednjim:
+
+V Nem�iji: ; ii) od�kodnina za telesne po�kodbe (vklju�no s smrtjo); iii) izguba ali �koda zaradi kr�itve jamstva, ki ga je IBM prevzel v zvezi s katerim koli prenosom v skladu s to pogodbo; in iv) povzro�eno namerno ali iz hude malomarnosti.
+
+6. razdelek: Veljavna zakonodaja in geografski doseg
+
+Samo v prvem stavku odstavka a se besedilo "dr�ava, v kateri se izvede prenos licen�nih upravi�enj" zamenja z naslednjim:
+
+V/na Albaniji, Armeniji, Azerbajd�anu, Belorusiji, Bosni in Hercegovini, Bolgariji, Hrva�kem, Nekdanji jugoslovanski republiki Makedoniji, Gruziji, Kazahstanu, Kirgiziji, Moldaviji, �rni gori, Romuniji, Rusiji, Srbiji, Tad�ikistanu, Turkmenistanu, Ukrajini in Uzbekistanu: Avstrije
+
+V Estoniji, Latviji in Litvi: Finske
+
+V/na Al�iriji, Andori, Beninu, Burkini Faso, Burundiju, Kamerunu, Zelenortskih otokih, Srednjeafri�ki republiki, �adu, Komorih, Republiki Kongo, D�ibutiju, Demokrati�ni republiki Kongo, Ekvatorialni Gvineji, Francoski Gvajani, Francoski Polineziji, Gabonu, Gvineji, Gvineji Bissau, Slonoko��eni obali, Libanonu, Madagaskarju, Maliju, Mavretaniji, Mauritiusu, Mayotteju, Maroku, Novi Kaledoniji, Nigru, Reunionu, Senegalu, Sej�elih, Togu, Tuniziji, Vanuatuju ter Wallisu in Futuni: Francije
+
+V/na Angoli, Bahrajnu, Bocvani, Egiptu, Eritreji, Etiopiji, Gambiji, Gani, Iraku, Jordaniji, Keniji, Kuvajtu, Liberiji, Malaviju, Malti, Mozambiku, Nigeriji, Omanu, Pakistanu, Katarju, Ruandi, Sao Tomeju in Principeju, Saudovi Arabiji, Sierri Leone, Somaliji, Tanzaniji, Ugandi, Zdru�enih arabskih emiratih, Zahodnem bregu/Gazi, Jemnu, Zambiji in Zimbabveju: Anglije.
+
+V Lihten�tajnu: �vice
+
+V Ju�ni Afriki, Namibiji, Lesotu in Svaziju: Ju�noafri�ke republike
+
+V Zdru�enem kraljestvu: Anglije
+
+V odstavku a se na konec prvega stavka doda naslednje:
+
+V Franciji: Pogodbeni stranki se strinjata, da se �lena 1222 in 1223 francoskega civilnega zakonika ne uporabljata.
+
+Na konec odstavka a se doda naslednje:
+
+V/na Albaniji, Armeniji, Azerbajd�anu, Belorusiji, Bosni in Hercegovini, Bolgariji, Hrva�kem, Nekdanji jugoslovanski republiki Makedoniji, Gruziji, Kazahstanu, Kosovu, Kirgiziji, Moldaviji, �rni gori, Romuniji, Rusiji, Srbiji, Tad�ikistanu, Turkmenistanu, Ukrajini in Uzbekistanu: Vse spore, ki bi izhajali iz te pogodbe, bo dokon�no razre�ilo mednarodni arbitra�ni center avstrijske zvezne gospodarske zbornice (razsodi��e) v okviru arbitra�nih pravil tega arbitra�nega centra (dunajska pravila) na Dunaju v Avstriji, pri �emer bo uradni jezik angle��ina in v skladu z dunajskimi pravili bodo imenovani trije nepristranski arbitri. Vsaka pogodbena stranka bo imenovala po enega arbitra, ki bosta v 30 dneh skupaj dolo�ila neodvisnega predsednika, v nasprotnem primeru bo predsednika dolo�il organ za arbitra�o v skladu z dunajskimi pravili. Arbitri ne bodo imeli pooblastila, da bi lahko dolo�ili sodno prepoved ali od�kodnino, ki jo ta pogodba izklju�uje ali ki bi presegala omejitve iz te pogodbe. Nobena dolo�ba te pogodbe pogodbenima strankama ne prepre�uje spro�itve sodnih postopkov za (1) za�asno odredbo za namene prepre�itve premo�enjske �kode ali kr�itve dolo�b o zaupnosti ali pravic intelektualne lastnine, (2) ugotavljanje veljavnosti ali lastni�tva katere koli avtorske pravice, patenta ali blagovne znamke, ki je v lasti pogodbene stranke ali njenega podjetja oziroma jo ta uveljavlja, ali (3) izterjavo dolgov v zneskih, ni�jih od 500.000,00 USD.
+
+V Estoniji, Latviji in Litvi: Vse spore, ki bi izhajali iz te pogodbe, bo dokon�no razre�il in�titut za arbitra�e finske trgovinske zbornice (FAI) (razsodi��e) v skladu z arbitra�nimi pravili finske trgovinske zbornice (pravila) v Helsinkih na Finskem, pri �emer bo uradni jezik angle��ina in v skladu s temi pravili bodo imenovani trije nepristranski arbitri. Vsaka pogodbena stranka bo imenovala po enega arbitra, izbrana arbitra pa bosta v 30 dneh skupaj dolo�ila neodvisnega predsednika, v nasprotnem primeru bo predsednika dolo�il organ za arbitra�o v skladu s pravili. Arbitri ne bodo imeli pooblastila, da bi lahko dolo�ili sodno prepoved ali od�kodnino, ki jo ta pogodba izklju�uje ali ki bi presegala omejitve iz te pogodbe. Nobena dolo�ba te pogodbe pogodbenima strankama ne prepre�uje spro�itve sodnih postopkov za (1) za�asno odredbo za namene prepre�itve premo�enjske �kode ali kr�itve dolo�b o zaupnosti ali pravic intelektualne lastnine, (2) ugotavljanje veljavnosti ali lastni�tva katere koli avtorske pravice, patenta ali blagovne znamke, ki je v lasti pogodbene stranke ali njenega podjetja oziroma jo ta uveljavlja, ali (3) izterjavo dolgov v zneskih, ni�jih od 500.000,00 USD.
+
+V/na Afganistanu, Angoli, Bahrajnu, Bocvani, Burundiju, Zelenortskih otokih, D�ibutiju, Egiptu, Eritreji, Etiopiji, Gambiji, Gani, Iraku, Jordaniji, Keniji, Kuvajtu, Libanonu, Liberiji, Libiji, Madagaskarju, Malaviju, Mozambiku, Nigeriji, Omanu, Pakistanu, palestinskem ozemlju, Katarju, Ruandi, Sao Tomeju in Principeju, Saudovi Arabiji, Sej�elih, Sierri Leone, Somaliji, Ju�nem Sudanu, Tanzaniji, Ugandi, Zdru�enih arabskih emiratih, Zahodni Sahari, Jemnu, Zambiji in Zimbabveju: Vse spore, ki bi izhajali iz te pogodbe, bo dokon�no razre�ilo londonsko sodi��e za mednarodno arbitra�o (LCIA) (razsodi��e) v okviru arbitra�nih pravil LCIA (pravila) v Londonu v Zdru�enem kraljestvu, pri �emer bo uradni jezik angle��ina in v skladu s pravili bodo imenovani trije nepristranski arbitri. Vsaka pogodbena stranka bo imenovala po enega arbitra, izbrana arbitra pa bosta v 30 dneh skupaj dolo�ila neodvisnega predsednika, v nasprotnem primeru bo predsednika dolo�il organ za arbitra�o v skladu s pravili. Arbitri ne bodo imeli pooblastila, da bi lahko dolo�ili sodno prepoved ali od�kodnino, ki jo ta pogodba izklju�uje ali ki bi presegala omejitve iz te pogodbe. Nobena dolo�ba te pogodbe pogodbenima strankama ne prepre�uje spro�itve sodnih postopkov za (1) za�asno odredbo za namene prepre�itve premo�enjske �kode ali kr�itve dolo�b o zaupnosti ali pravic intelektualne lastnine, (2) ugotavljanje veljavnosti ali lastni�tva katere koli avtorske pravice, patenta ali blagovne znamke, ki je v lasti pogodbene stranke ali njenega podjetja oziroma jo ta uveljavlja, ali (3) izterjavo dolgov v zneskih, ni�jih od 500.000,00 USD.
+
+V/na Al�iriji, Beninu, Burkini Faso, Kamerunu, Srednjeafri�ki republiki, �adu, Republiki Kongo, Demokrati�ni republiki Kongo, Ekvatorialni Gvineji, Francoski Gvajani, Francoski Polineziji, Gabonu, Gvineji, Gvineji Bissau, Slonoko��eni obali, Maliju, Mavretaniji, Mauritiusu, Maroku, Nigru, Senegalu, Togu in Tuniziji: Vse spore, ki bi izhajali iz te pogodbe, bo dokon�no razre�ilo mednarodno arbitra�no sodi��e ICC v Parizu (razsodi��e) v okviru svojih arbitra�nih pravil (pravila) v Parizu v Franciji, pri �emer bo uradni jezik franco��ina in v skladu s pravili bodo imenovani trije nepristranski arbitri. Vsaka pogodbena stranka bo imenovala po enega arbitra, izbrana arbitra pa bosta v 30 dneh skupaj dolo�ila neodvisnega predsednika, v nasprotnem primeru bo predsednika dolo�il organ za arbitra�o v skladu s pravili. Arbitri ne bodo imeli pooblastila, da bi lahko dolo�ili sodno prepoved ali od�kodnino, ki jo ta pogodba izklju�uje ali ki bi presegala omejitve iz te pogodbe. Nobena dolo�ba te pogodbe pogodbenima strankama ne prepre�uje spro�itve sodnih postopkov za (1) za�asno odredbo za namene prepre�itve premo�enjske �kode ali kr�itve dolo�b o zaupnosti ali pravic intelektualne lastnine, (2) ugotavljanje veljavnosti ali lastni�tva katere koli avtorske pravice, patenta ali blagovne znamke, ki je v lasti pogodbene stranke ali njenega podjetja oziroma jo ta uveljavlja, ali (3) izterjavo dolgov v zneskih, ni�jih od 250.000,00 USD.
+
+V Ju�ni Afriki, Namibiji, Lesotu in Svaziju: Vse spore, ki bi izhajali iz te pogodbe, bo dokon�no razre�ila ju�noafri�ka fundacija za arbitra�e (AFSA) (razsodi��e) v okviru arbitra�nih pravil AFSA (pravila) v Johannesburgu v Ju�ni Afriki, pri �emer bo uradni jezik angle��ina in v skladu s pravili bodo imenovani trije nepristranski arbitri. Vsaka pogodbena stranka bo imenovala po enega arbitra, izbrana arbitra pa bosta v 30 dneh skupaj dolo�ila neodvisnega predsednika, v nasprotnem primeru bo predsednika dolo�il organ za arbitra�o v skladu s pravili. Arbitri ne bodo imeli pooblastila, da bi lahko dolo�ili sodno prepoved ali od�kodnino, ki jo ta pogodba izklju�uje ali ki bi presegala omejitve iz te pogodbe. Nobena dolo�ba te pogodbe pogodbenima strankama ne prepre�uje spro�itve sodnih postopkov za (1) za�asno odredbo za namene prepre�itve premo�enjske �kode ali kr�itve dolo�b o zaupnosti ali pravic intelektualne lastnine, (2) ugotavljanje veljavnosti ali lastni�tva katere koli avtorske pravice, patenta ali blagovne znamke, ki je v lasti pogodbene stranke ali njenega podjetja oziroma jo ta uveljavlja, ali (3) izterjavo dolgov v zneskih, ni�jih od 250.000,00 USD.
+
+V/na Andori, Avstriji, Cipru, Franciji, Nem�iji, Gr�iji, Izraelu, Italiji, Portugalskem, �paniji, �vici in Tur�iji: Vsi spori bodo obravnavani in bodo v izklju�ni pristojnosti naslednjega pristojnega sodi��a:
+
+V Andori: trgovinskega sodi��a v Parizu.
+
+V Avstriji: trgovinskega sodi��a na Dunaju v Avstriji (znotraj mesta).
+
+Na Cipru: pristojnega sodi��a v Nikoziji.
+
+V Franciji: trgovinskega sodi��a v Parizu.
+
+V Nem�iji: sodi�� v Stuttgartu.
+
+V Gr�iji: pristojnega sodi��a v Atenah.
+
+V Izraelu: sodi�� v Tel Avivu (Jaffa).
+
+V Italiji: sodi�� v Milanu.
+
+Na Portugalskem: sodi�� v Lizboni.
+
+V �paniji: sodi�� v Madridu.
+
+V �vici: trgovinskega sodi��a v kantonu Zurich.
+
+V Tur�iji: centralna sodi��a (Caglayan) v Istanbulu in izvr�ni direktorati v Istanbulu v Republiki Tur�iji.
+
+Na Nizozemskem: Pogodbeni stranki se odpovedujeta pravicam iz naslova 7.1 ("Koop") in to�k 7:401 oziroma 402 nizozemskega civilnega zakonika ter svojim pravicam do sklicevanja na popolno ali delno razpustitev ("gehele of partele ontbinding") te pogodbe v skladu z oddelkom 6:265 nizozemskega civilnega zakonika.
+
+7. razdelek: Splo�no
+
+V odstavku d se na konec odstavka doda naslednje:
+
+V �paniji: IBM bo upo�teval zahteve za dostop do, posodobitev ali izbris kontaktnih informacij, �e bodo poslane na naslednji naslov: IBM, c/ Santa Hortensia 26-28, 28002 Madrid, Departamento de Privacidad de Datos.
+
+V odstavku j se na konec odstavka doda naslednje:
+
+Na �e�kem: V skladu z oddelkom 1801 zakona �t. 89/2012 Coll. (>>Civilni zakonik<<) 1799. in 1800. to�ka Civilnega zakonika, skupaj z dopolnili, ne veljata za transakcije po tej pogodbi. Imetnik licence sprejema tveganje, da se bodo okoli��ine spremenile v skladu s to�ko 1765 Civilnega zakonika.
+
+V odstavku j:
+
+V Bolgariji, na Hrva�kem, v Rusiji, Srbiji in Sloveniji: izbri�e se 2. stavek, ki pravi: "Nobena od pogodbenih strank ne bo vlo�ila to�be, ki bi izhajala iz pogodbe oziroma bila povezana z njo, po preteku dveh let od nastanka vzroka za to�bo".
+
+V odstavku j se na konec drugega stavka doda naslednje:
+
+V Litvi: , razen kot dolo�a zakon
+
+V odstavku j se drugi stavek zamenja z naslednjim:
+
+Na Poljskem: Nobena od pogodbenih strank ne bo vlo�ila to�be, ki bi izhajala iz pogodbe oziroma bila povezana z njo, po preteku treh let od nastanka vzroka za to�bo, razen v primeru to�be zaradi nepla�ila, ki bo vlo�ena najve� dve leti po zapadlosti pla�ila.
+
+V drugem stavku odstavka j se beseda "dve" zamenja z naslednjo:
+
+V Latviji in Ukrajini: tri
+
+Na Slova�kem: �tiri
+
+V odstavku j se na konec tretjega stavka, ki pravi: "Nobena od pogodbenih strank ne nosi odgovornosti za neizpolnjevanje svojih nedenarnih obveznosti zaradi vzrokov, nad katerimi nima nadzora", doda naslednje:
+
+V Rusiji: , ki med drugim vklju�ujejo potrese, poplave, po�are, vi�jo silo, stavke (vklju�no s stavkami uslu�bencev pogodbenih strank), vojne, voja�ke ukrepe, embarge, blokade, mednarodne ali vladne sankcije in ukrepe pristojnih organov.
+
+V tretjem stavku odstavka j se stavek "Nobena od pogodbenih strank ne nosi odgovornosti za neizpolnjevanje svojih nedenarnih obveznosti zaradi vzrokov, nad katerimi nima nadzora" spremeni, kot sledi:
+
+V Ukrajini: Nobena od pogodbenih strank ne nosi odgovornosti za neizpolnjevanje svojih nedenarnih obveznosti zaradi vzrokov ali regulatornih sprememb, nad katerimi nima nadzora, ki med drugim vklju�ujejo zahteve Zdru�enih dr�av glede uvoza, izvoza in gospodarskih sankcij.
+
+Na konec razdelka se kot nov odstavek 1 doda naslednje:
+
+Na Mad�arskem: S sklenitvijo te pogodbe imetnik licence potrjuje, da je bil zadostno obve��en o vseh dolo�bah te pogodbe in se je imel mo�nost pogajati o teh pogojih. Naslednje dolo�be lahko znatno odstopajo od dolo�b, ki se obi�ajno uporabljajo v mad�arski zakonodaji, obe strani pa jih sprejmeta s podpisom pogodbe: Licenca za program; Jamstva; Stro�ki, davki, pla�ilo in preverjanje; Odgovornost in za��ita intelektualne lastnine; Odpoved; Veljavna zakonodaja in geografski obseg; ter Splo�no.
+
+Na �e�kem: Imetnik licence izrecno sprejema dolo�be te pogodbe, ki vklju�ujejo naslednje pomembne komercialne izraze: i) omejitev in zavra�anje odgovornosti za okvare (Garancije); ii) omejitev upravi�enja imetnika licence do od�kodnine (Odgovornost in za��ita intelektualne lastnine); iii) zavezujo�a narava izvoznih in uvoznih predpisov (Veljavna zakonodaja in geografski doseg); iv) kraj�a omejitvena obdobja (Splo�no); v) izklju�itev veljavnosti dolo�b adhezijskih pogodb (Splo�no); in vi) sprejemanje tveganja za spremembo okoli��in (Splo�no).
+
+V Romuniji: Imetnik licence izrecno sprejema naslednje standardne to�ke, ki se lahko v skladu z dolo�bami �lena 1203 romunskega civilnega zakonika �tejejo za "neobi�ajne to�ke": to�ke 2, 4, 5, 8j. Imetnik licence potrjuje, da je bil zadostno obve��en o vseh dolo�bah te pogodbe, vklju�no z zgoraj omenjenimi to�kami, da je te dolo�be ustrezno analiziral in razumel ter da se je imel mo�nost pogajati o pogojih vsake to�ke.
+
+i125-3301-15 (10-2021)
+

@@ -1,0 +1,28 @@
+LICENCIJOS INFORMACIJA
+
+Toliau nurodytos Programos licencijuojamos pagal �ias Licencijos informacijos s�lygas, kurios papildo Programos licencijos s�lygas, d�l kuri� susitar� Klientas ir IBM. Jei Klientas anks�iau n�ra sutik�s su Programai taikomomis licencijos s�lygomis, taikoma Tarptautin� programos licencin� sutartis (i125-3301-15).
+
+Programos pavadinimas (Programos numeris):
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+�ios standartin�s s�lygos taikomos Licenciato Programos naudojimui.
+
+Kei�iamas tre�iosios �alies kodas
+
+Jei PRANE�IM� faile IBM tre�iosios �alies kod� atpa��sta kaip modifikuojam� tre�iosios �alies kod�, IBM leid�ia Licenciatui 1) modifikuoti modifikuojam� tre�iosios �alies kod� ir 2) nukopijuoti Programos modulius, kurie tiesiogiai siejasi su modifikuojamu tre�iosios �alies kodu, su s�lyga, kad tai daroma tik Licenciato atlikt� tokio tre�iosios �alies kodo modifikacij� klaid� �alinimo tikslais. IBM aptarnavimo ir palaikymo �sipareigojimai, jei toki� yra, taikomi tik nemodifikuotai Programai.
+
+�ie matavimo vienetai gali b�ti taikomi Licenciato Programos naudojimui.
+
+Procesoriaus vert�s vienetas (PVU)
+
+Procesoriaus vertes vienetas (PVU) - tai matavimo vienetas, pagal kuri licencijuota �i Programa. Reikaling� PVU teisi� skai�ius pagr�stas procesoriaus technologija (apibr�ta svetain�je "Procesoriaus vert�s vieneto (PVU) licencijavimas, skirtas platinamai programinei �rangai" https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) ir Programai prieinam� procesori� skai�iumi. Licencijuodama pagal PVU, IBM apibr�ia procesori� kaip mikroschemoje esan�i� atskir� procesoriaus �erd�. Pavyzdziui, dvieju serdziu procesoriaus mikroschemoje yra dvi procesoriaus serdys.
+
+Licenciatas gali diegti Program� (jei palaikoma) naudodamas visos talpos licencijavim�, papildomos talpos licencijavim� (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) arba konteinerio licencijavim� (https://www.ibm.com/software/passportadvantage/containerlicenses.html). I�samesn�s informacijos ie�kokite susietose svetain�se.
+
+Vietoj tiesiogiai Programai reikaling� teisi� Licenciatas privalo �sigyti �ios Programos PVV teises, kuri� pakakt� sistemos, kurioje yra Programos valdomi arba apdorojami i�tekliai, procesoriaus �erdims.
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+

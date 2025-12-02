@@ -1,0 +1,113 @@
+.ibm-logo {
+    height: 60%;
+}
+
+@font-face {
+    font-family: "IBMPlexSans-Regular";
+    src: local("IBMPlexSans-Regular"),
+        url(../font/IBMPlexSans-Regular.ttf) format("truetype");
+}
+
+.IBM {
+    --blue-70: #3d70b2;
+    --blue-80: #30588c;
+    --blue-20: #c0e6ff;
+    --blue-50: #5891e2;
+
+    --grey-10: #f4f7fb;
+    --grey-15: #dfe3e6;
+    --grey-20: #c7c7c7;
+    --grey-40: #aeaeae;
+    --grey-50: #959595;
+    --grey-60: #777677;
+    --grey-70: #5a5a5a;
+    --grey-100: #323232;
+
+    --yellow-50: #efc100;
+
+    --orange-20: #ffd791;
+    --orange-40: #ffa573;
+    --orange-50: #ffaf38;
+    --orange-70: #c95000;
+
+    --red-20: #ffd2dd;
+    --red-50: #ff5050;
+    --red-60: #e71d32;
+    --red-70: #ad1625;
+    --red-80: #8c101c;
+
+    --green-50: #5aa700;
+    --green-70: #2d660a;
+    --green-80: #144d14;
+
+    font-family: "IBMPlexSans-Regular" !important;
+
+    --primary_bg: var(--blue-70);
+    --primary_bg_hover: var(--blue-80);
+    --primary_border: var(--white);
+    --primary_border_hover: var(--blue-80);
+    --primary_icon: var(--white);
+    --primary_icon_hover: var(--blue-10);
+    --primary_text: var(--white);
+    --secondary_bg: transparent;
+    --secondary_bg_hover: var(--indigo-10);
+    --secondary_border: var(--blue-70);
+    --secondary_icon: var(--blue-70);
+    --secondary_icon_hover: var(--blue-80);
+    --secondary_text: var(--blue-70);
+    --interactive_bg: transparent;
+    --interactive_bg_hover: var(--indigo-10);
+    --interactive_bg_hover_high: var(--indigo-20);
+    --interactive_border: var(--blue-70);
+    --interactive_icon: var(--blue-70);
+    --interactive_icon_hover: var(--blue-80);
+    --interactive_text: var(--blue-70);
+    --interactive_text_hover: var(--blue-80);
+    --interactive_text_visited: var(--purple-60);
+    --default_bg: var(--white);
+    --default_bg_low: var(--grey-10);
+    --default_bg_high: var(--grey-15);
+    --default_border: var(--grey-80);
+    --default_border_xlow: var(--grey-30);
+    --default_border_low: var(--grey-60);
+    --default_border_high: var(--grey-100);
+    --default_border_xhigh: var(--black);
+    --default_icon: var(--grey-80);
+    --default_icon_low: var(--grey-60);
+    --default_icon_high: var(--grey-100);
+    --default_icon_xhigh: var(--black);
+    --default_text: var(--grey-90);
+    --default_text_low: var(--grey-70);
+    --default_text_high: var(--grey-100);
+    --default_text_xhigh: var(--black);
+    --default_text_inverse: var(--white);
+    --info_bg: var(--blue-10);
+    --info_border: var(--blue-60);
+    --info_icon: var(--blue-60);
+    --info_text: var(--blue-90);
+    --warning_bg: var(--yellow-10);
+    --warning_bg_inverse_hover: var(--yellow-50);
+    --warning_bg_inverse: var(--yellow-40);
+    --warning_border: var(--yellow-50);
+    --warning_icon: var(--yellow-50);
+    --warning_text: var(--yellow-80);
+    --danger_bg: var(--red-10);
+    --danger_bg_hover: var(--red-20);
+    --danger_bg_inverse: var(--red-80);
+    --danger_bg_inverse_hover: var(--red-90);
+    --danger_border: var(--red-80);
+    --danger_icon: var(--red-80);
+    --danger_text: var(--red-90);
+    --success_bg: var(--green-10);
+    --success_border: var(--green-70);
+    --success_icon: var(--green-70);
+    --success_text: var(--green-80);
+    --input_bg: var(--grey-15);
+    --input_border: var(--grey-90);
+    --input_icon: var(--grey-90);
+    --input_text_low: var(--grey-40);
+    --input_text: var(--black);
+    --overlay_bg: rgba(0, 0, 0, 0.4);
+    --disabled_all: 0.5;
+    --default_shadow: rgba(0, 0, 0, 0.2);
+}

@@ -1,13 +1,18 @@
-version: '3.0'
+#/*******************************************************************************
+#* Licensed Materials - Property of HCL
+#* (c) Copyright HCL Technologies Ltd. 2023. All Rights Reserved.
+#
+#* Note to U.S. Government Users Restricted Rights:
+#* Use, duplication or disclosure restricted by GSA ADP Schedule
+#**************************************************************/
 
 services:
-
     config:
-        image: cp.icr.io/cp/ibm-workload-automation-aida-config:10.2.5
+        image: cp.icr.io/cp/aida-config:10.2.5
         logging:
-          options:
-            max-size: "100m"
-            max-file: "3"
+            options:
+                max-size: "100m"
+                max-file: "3"
         container_name: aida-config
         env_file: common.env
         networks:
@@ -17,44 +22,53 @@ services:
             - config
         volumes:
             - $PWD:/docker-deployment
+        deploy:
+            resources:
+              limits:
+                cpus: "1"
+                memory: 200M
 
     keycloak:
         restart: unless-stopped
         logging:
-          options:
-            max-size: "100m"
-            max-file: "3"
+            options:
+                max-size: "250m"
+                max-file: "3"
+        labels:
+        - "version=10.2.1"
         build:
             context: .
-            dockerfile: "Dockerfile-keycloak"   
+            dockerfile: "Dockerfile-keycloak"
             args:
-              - REGISTRY:${REGISTRY}
-              - VERSION:${VERSION}  
+                - REGISTRY:${REGISTRY}
+                - VERSION:${VERSION}
         container_name: aida-keycloak
-        environment:
-            - KEYCLOAK_USER=admin
-            - PROXY_ADDRESS_FORWARDING=true
         env_file: common.env
         networks:
             - aida-net
         expose:
             - "8080"
         volumes:
-            - aida-keycloak-data:/tmp:Z
-        
-    
+            - aida-keycloak-data:/opt/keycloak/data/h2:rw
+        deploy:
+            resources:
+              limits:
+                cpus: "2"
+                memory: 200M    
+
     nginx:
         build:
             context: .
             dockerfile: "Dockerfile-nginx"
+            target: release
             args:
-              - REGISTRY:${REGISTRY}
-              - VERSION:${VERSION}
+                - REGISTRY:${REGISTRY}
+                - VERSION:${VERSION}
         container_name: aida-nginx
         logging:
-          options:
-            max-size: "100m"
-            max-file: "3"
+            options:
+                max-size: "100m"
+                max-file: "3"
         env_file: common.env
         networks:
             - aida-net
@@ -69,24 +83,28 @@ services:
             - predictor
             - redis
             - keycloak
-        depends_on: 
+        depends_on:
             - ui
             - keycloak
         restart: unless-stopped
-
+        deploy:
+            resources:
+              limits:
+                cpus: "2"
+                memory: 2G
 
     ui:
         build:
             context: .
             dockerfile: "Dockerfile-ui"
             args:
-              - REGISTRY:${REGISTRY}
-              - VERSION:${VERSION}
+                - REGISTRY:${REGISTRY}
+                - VERSION:${VERSION}
         container_name: aida-ui
         logging:
-          options:
-            max-size: "100m"
-            max-file: "3"
+            options:
+                max-size: "100m"
+                max-file: "3"
         env_file: common.env
         networks:
             - aida-net
@@ -99,41 +117,52 @@ services:
             - es
             - redis
         restart: unless-stopped
-        
+        deploy:
+            resources:
+              limits:
+                cpus: "2"
+                memory: 2G
 
     exporter:
         build:
             context: .
             dockerfile: "Dockerfile-exporter"
             args:
-              - REGISTRY:${REGISTRY}
-              - VERSION:${VERSION}
+                - REGISTRY:${REGISTRY}
+                - VERSION:${VERSION}
+            target: release
         container_name: aida-exporter
         logging:
-          options:
-            max-size: "100m"
-            max-file: "3"
+            options:
+                max-size: "100m"
+                max-file: "3"
         env_file: common.env
         networks:
             - aida-net
         links:
             - es
-        depends_on: 
+        depends_on:
             - es
         restart: unless-stopped
+        deploy:
+            resources:
+              limits:
+                cpus: "2"
+                memory: 2G
 
     ad:
         build:
             context: .
             dockerfile: "Dockerfile-ad"
+            target: release
             args:
-              - REGISTRY:${REGISTRY}
-              - VERSION:${VERSION}
+                - REGISTRY:${REGISTRY}
+                - VERSION:${VERSION}
         container_name: aida-ad
         logging:
-          options:
-            max-size: "100m"
-            max-file: "3"
+            options:
+                max-size: "100m"
+                max-file: "3"
         env_file: common.env
         networks:
             - aida-net
@@ -142,23 +171,29 @@ services:
         links:
             - es
             - redis
-        depends_on: 
-            - es 
+        depends_on:
+            - es
             - redis
         restart: unless-stopped
+        deploy:
+            resources:
+              limits:
+                cpus: "2"
+                memory: 2G
 
     email:
         build:
             context: .
+            target: release
             dockerfile: "Dockerfile-email"
             args:
-              - REGISTRY:${REGISTRY}
-              - VERSION:${VERSION}
+                - REGISTRY:${REGISTRY}
+                - VERSION:${VERSION}
         container_name: aida-email
         logging:
-          options:
-            max-size: "100m"
-            max-file: "3"
+            options:
+                max-size: "100m"
+                max-file: "3"
         env_file: common.env
         networks:
             - aida-net
@@ -169,19 +204,25 @@ services:
         depends_on:
             - redis
         restart: unless-stopped
+        deploy:
+            resources:
+              limits:
+                cpus: "1"
+                memory: 1G
 
     orchestrator:
         build:
+            dockerfile: Dockerfile-orchestrator
             context: .
-            dockerfile: "Dockerfile-orchestrator"
+            target: release
             args:
-              - REGISTRY:${REGISTRY}
-              - VERSION:${VERSION}
+                - REGISTRY:${REGISTRY}
+                - VERSION:${VERSION}
         container_name: aida-orchestrator
         logging:
-          options:
-            max-size: "100m"
-            max-file: "3"
+            options:
+                max-size: "100m"
+                max-file: "3"
         env_file: common.env
         networks:
             - aida-net
@@ -190,25 +231,32 @@ services:
             - redis
             - predictor
             - ad
-        depends_on: 
+        depends_on:
             - es
             - redis
             - predictor
             - ad
         restart: unless-stopped
+        deploy:
+            resources:
+              limits:
+                cpus: "2"
+                memory: 2G
 
     predictor:
         build:
             context: .
             dockerfile: "Dockerfile-predictor"
+            target: release
             args:
-              - REGISTRY:${REGISTRY}
-              - VERSION:${VERSION}
+                - REGISTRY:${REGISTRY}
+                - VERSION:${VERSION}
         container_name: aida-predictor
         logging:
-          options:
-            max-size: "100m"
-            max-file: "3"
+            options:
+                max-size: "100m"
+                max-file: "3"
+        tty: true
         env_file: common.env
         networks:
             - aida-net
@@ -217,46 +265,76 @@ services:
         links:
             - es
             - redis
-        depends_on: 
+        depends_on:
             - es
             - redis
         restart: unless-stopped
-
-
+        deploy:
+            resources:
+              limits:
+                cpus: "3"
+                memory: 3G
+    
     redis:
         build:
             context: .
             dockerfile: "Dockerfile-redis"
             args:
-              - REGISTRY:${REGISTRY}
-              - VERSION:${VERSION}
+                - REGISTRY:${REGISTRY}
+                - VERSION:${VERSION}
         container_name: aida-redis
         logging:
-          options:
-            max-size: "100m"
-            max-file: "3"
+            options:
+                max-size: "100m"
+                max-file: "3"
         env_file: common.env
         networks:
             - aida-net
         expose:
             - "6379"
         restart: unless-stopped
+        deploy:
+            resources:
+              limits:
+                cpus: "2"
+                memory: 1G
 
     es:
-        image: amazon/opendistro-for-elasticsearch:1.13.3
+        build:
+            context: .
+            dockerfile: "Dockerfile-es"
         container_name: aida-es
         logging:
-          options:
-            max-size: "100m"
-            max-file: "3"
-        env_file: common.env
+            options:
+                max-size: "100m"
+                max-file: "3"
+        #env_file: common.env
+        labels:
+        - "version=10.2.1"
+        environment:
+            - "DISABLE_INSTALL_DEMO_CONFIG=true"
+        ulimits:
+            memlock:
+                soft: -1
+                hard: -1
+            nofile:
+                soft: 65536 # maximum number of open files for the OpenSearch user, set to at least 65536 on modern systems
+                hard: 65536
         networks:
             - aida-net
         expose:
             - "9200"
+            - "9300"
+            - "9600"
         volumes:
-            - aida-es-data:/usr/share/elasticsearch/data/:Z
+            - aida-es-data:/usr/share/opensearch/data
         restart: unless-stopped
+        deploy:
+            resources:
+              limits:
+                cpus: "4"
+                memory: 4G
+
 
 # Local volumes cannot be used for deployment in clusters
 volumes:

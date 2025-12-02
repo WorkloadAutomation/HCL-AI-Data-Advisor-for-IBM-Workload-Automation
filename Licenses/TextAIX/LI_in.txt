@@ -1,0 +1,28 @@
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Program Internasional (i125-3301-15) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+Unit ukuran berikut ini dapat berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Unit Nilai Prosesor (PVU)
+
+Unit Nilai Prosesor (PVU) adalah unit ukuran yang melaluinya Program dapat diberi lisensi. Jumlah kepemilikan PVU yang diperlukan didasarkan pada teknologi prosesor (ditentukan dalam Unit Nilai Prosesor (PVU) yang dilisensikan untuk situs web Perangkat Lunak yang Didistribusikan di https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) dan jumlah prosesor yang disediakan untuk Program. IBM tetap menentukan prosesor, untuk tujuan pemberian lisensi berbasis PVU, sebagai masing-masing inti prosesor pada sebuah chip. Sebagai contoh, chip prosesor dua inti (dual-core) memiliki dua inti prosesor.
+
+Pemegang Lisensi dapat menyebarkan Program (jika didukung) menggunakan pemberian lisensi kapasitas penuh, pemberian lisensi subkapasitas (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), atau pemberian lisensi kontainer (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Lihat situs web yang ditautkan untuk informasi lebih lanjut.
+
+Alih-alih kepemilikan yang diperlukan untuk Program secara langsung, Pemegang Lisensi harus memperoleh kepemilikan PVU untuk Program ini yang memadai untuk mencakup inti prosesor untuk sistem di mana sumber dikelola atau diproses oleh Program yang ada.
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+

@@ -1,0 +1,28 @@
+L�SANS B�LG�LER�
+
+A�a��da listelenen programlar, daha �nce M��teri ve IBM taraf�ndan kabul edilen Program lisans� ko�ullar�na ek olarak a�a��daki Lisans Bilgilerinin kay�t ve ko�ullar� kapsam�nda lisanslan�r. M��teri, Programa ili�kin y�r�rl�kte olan lisans ko�ullar�n� daha �nce kabul etmemi�se, Uluslararas� Program Lisans S�zle�mesi (i125-3301-15) ge�erli olur.
+
+Program Ad� (Program Numaras�):
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+A�a��daki standart ko�ullar, Lisans Alan Taraf�n Program� kullan�m� i�in ge�erlidir.
+
+De�i�tirilebilir ���nc� Ki�i Kodu
+
+IBM'in, varsa, NOTICES dosyas�nda ���nc� ki�i kodunu "De�i�tirilebilir ���nc� Ki�i Kodu" olarak tan�mlad��� �l��de, IBM, Lisans Alan Tarafa 1) De�i�tirilebilir ���nc� Ki�i Kodunu de�i�tirme ve 2) yaln�zca Lisans Alan Taraf�n an�lan ���nc� ki�i kodu �zerinde yapt��� de�i�ikliklerinden kaynaklanan hatalar�n ay�klanmas� amac�yla, De�i�tirilebilir ���nc� Ki�i Kodu ile do�rudan aray�z� olan Program mod�lleri �zerinde tersine m�hendislik ger�ekle�tirme yetkisi verir. Varsa, IBM'in hizmet ve destek y�k�ml�l�kleri yaln�zca de�i�iklik yap�lmam�� Program i�in ge�erlidir.
+
+A�a��daki �l�� birimleri, Lisans Alan Taraf�n Program� kullan�m� i�in ge�erli olabilir.
+
+��lemci De�er Birimi (PVU)
+
+��lemci De�er Birimi (PVU), bu Program�n lisanslanabilece�i bir �l�� birimidir. Gereken ��lemci De�er Birimi (PVU) yetkilerinin say�s� hesaplan�rken, i�lemci teknolojisi (https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html adresindeki Da��n�k Yaz�l�mlar web sitesi i�in ��lemci De�er Birimi (PVU) esas�yla lisanslamada tan�mlan�r) ve Program i�in kullan�ma sunulan i�lemci say�s� esas al�n�r. IBM, ��lemci De�er Birimi esas�nda lisanslaman�n amac� do�rultusunda bir �ip �zerinde yer alan her i�lemci �ekirde�i i�in bir i�lemci tan�mlamaya devam eder. �rne�in, bir �ift �ekirdekli i�lemci �ipinde iki adet i�lemci �ekirde�i bulunur.
+
+Lisans Alan Taraf, Program� (destekleniyorsa), tam kapasite lisanslamas�n�, alt kapasite lisanslamas�n� (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamas�n� (https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek i�in baa�lant�s� verilen web sitelerine bak�n.
+
+Lisans Alan Taraf, bu Program i�in do�rudan edinilmesi gereken yetkilerin yerine, bu Program i�in, Program taraf�ndan y�netilen veya i�lenen kaynaklar�n �zerinde bulundu�u sistemler i�in i�lemci �ekirdeklerini kapsamaya yetecek say�da ��lemci De�er Birimi yetkisi edinmelidir.
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+

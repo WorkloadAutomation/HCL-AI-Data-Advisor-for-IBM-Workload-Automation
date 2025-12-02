@@ -1,0 +1,530 @@
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni�ej s� licencjonowane na podstawie przedstawionych poni�ej warunk�w Informacji licencyjnych, kt�re stanowi� uzupe�nienie warunk�w licencji na Program uzgodnionych uprzednio mi�dzy Klientem a IBM. Je�li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj� warunki licencji Mi�dzynarodowa Umowa Licencyjna na Program (i125-3301-15).
+
+Nazwa Programu (Numer Programu):
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+Poni�sze standardowe warunki maj� zastosowanie do u�ywania Programu przez Licencjobiorc�.
+
+Modyfikowany Kod Os�b Trzecich
+
+Je�li w pliku NOTICES (UWAGI) IBM okre�li kod osoby trzeciej jako "Modyfikowalny Kod Os�b Trzecich", to IBM upowa�nia Licencjobiorc� do 1) modyfikowania Modyfikowalnego Kodu Os�b Trzecich oraz 2) odtwarzania kodu �r�d�owego modu��w Programu, kt�re bezpo�rednio wsp�pracuj� z Modyfikowalnym Kodem Os�b Trzecich, pod warunkiem �e s�u�y to wy��cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorc� w takim kodzie osoby trzeciej. Ewentualne zobowi�zania IBM w zakresie serwisu i wsparcia dotycz� wy��cznie niezmodyfikowanego Programu.
+
+Poni�sze jednostki miary maj� zastosowanie do u�ywania Programu przez Licencjobiorc�.
+
+Procesorowa Jednostka Warto�ci
+
+Procesorowa Jednostka Warto�ci (Processor Value Unit, zwana dalej "PVU") to jednostka miary, wed�ug kt�rej licencjonowany jest Program. Liczba wymaganych uprawnie� PVU zale�y od technologii procesorowej (zdefiniowanej w ramach licencjonowania wed�ug jednostek PVU w serwisie WWW oprogramowania pod adresem https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) oraz od liczby procesor�w udost�pnionych dla Programu. Na potrzeby licencjonowania w oparciu o jednostki PVU, IBM w dalszym ci�gu definiuje jako procesor ka�dy rdze� procesora w uk�adzie scalonym. I tak na przyk�ad procesor dwurdzeniowy traktowany jest jako dwa procesory.
+
+Licencjobiorca mo�e zainstalowa� Program (je�li jest obs�ugiwany) z licencjonowaniem wed�ug pe�nej mocy obliczeniowej, ograniczonej mocy obliczeniowej (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) lub wed�ug kontener�w(https://www.ibm.com/software/passportadvantage/containerlicenses.html). Wi�cej informacji na ten temat mo�na znale�� w serwisach WWW, do kt�rych kieruj� podane odsy�acze.
+
+Zamiast uprawnie� wymaganych bezpo�rednio dla Programu, Licencjobiorca musi naby� uprawnienia PVU dla tego Programu obejmuj�ce rdzenie procesor�w dla system�w, w kt�rych rezyduj� zasoby zarz�dzane lub przetwarzane przez Program.
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+
+Mi�dzynarodowa Umowa Licencyjna na Program
+
+Cz�� 1 - Warunki og�lne
+
+POBIERANIE, INSTALOWANIE, KOPIOWANIE, OTWIERANIE, KLIKANIE PRZYCISKU "AKCEPTUJ�" ORAZ U�YWANIE PROGRAMU W JAKIKOLWIEK INNY SPOS�B OZNACZA AKCEPTACJ� WARUNK�W NINIEJSZEJ UMOWY. ZAAKCEPTOWANIE PRZEZ U�YTKOWNIKA NINIEJSZYCH WARUNK�W W IMIENIU LICENCJOBIORCY JEST R�WNOZNACZNE Z O�WIADCZENIEM, �E U�YTKOWNIK POSIADA PE�NE UPRAWNIENIA DO PODPORZ�DKOWANIA LICENCJOBIORCY NINIEJSZYM WARUNKOM.
+
+JE�LI U�YTKOWNIK NIE WYRA�A ZGODY NA NINIEJSZE WARUNKI LUB NIE MA WYMAGANYCH UPRAWNIE�: i) NIE B�DZIE POBIERA�, INSTALOWA�, KOPIOWA�, OTWIERA� ANI U�YWA� PROGRAMU, ANI TE� KLIKA� PRZYCISKU "AKCEPTUJ�", ORAZ ii) NATYCHMIAST ZWR�CI NIEWYKORZYSTANE NO�NIKI, DOKUMENTACJ� I DOKUMENT PROOF OF ENTITLEMENT PODMIOTOWI, OD KT�REGO NABY� PROGRAM, ABY UZYSKA� ZWROT ZAP�ACONEJ KWOTY. JE�LI PROGRAM ZOSTA� POBRANY, NALE�Y ZNISZCZY� WSZELKIE JEGO KOPIE.
+
+Niniejsza Mi�dzynarodowa Umowa Licencyjna na Program i odpowiednie Dokumenty Transakcyjne (zwane dalej ��cznie "Umow�") tworz� razem kompletn� umow� mi�dzy Licencjobiorc� i IBM dotycz�c� u�ywania Programu. Warunki dla poszczeg�lnych kraj�w zawarte w cz�ci�2 niniejszej Mi�dzynarodowej Umowy Licencyjnej na Program zast�puj� lub modyfikuj� warunki okre�lone w cz�ci�1.
+
+Dokumenty Transakcyjne zawieraj� opis, informacje i warunki dotycz�ce Programu oraz jego autoryzowanego u�ywania. Przyk�adami Dokument�w Transakcyjnych dla Program�w s� informacje licencyjne, specyfikacje programu licencjonowanego, wycena, dokument Proof of Entitlement (PoE) i faktura. W przypadku jakiejkolwiek sprzeczno�ci warunki Dokumentu Transakcyjnego maj� znaczenie rozstrzygaj�ce nad warunkami Mi�dzynarodowej Umowy Licencyjnej na Program.
+
+1. Licencja na Program
+
+a. Program to wykonywalny program komputerowy marki IBM wraz ze zwi�zanymi z nim materia�ami oraz jego pe�nymi i cz�ciowymi kopiami. Szczeg�owy opis Programu znajduje si� w Dokumencie Transakcyjnym dost�pnym pod adresem http://www.ibm.com/software/sla (dla Program�w w ramach Passport Advantage) lub http://www.ibm.com/support/knowledgecenter (dla innych Program�w IBM), w katalogu komend systemowych Programu lub w innym miejscu okre�lonym przez IBM. U�ywanie Program�w przez Licencjobiorc� podlega zasadom u�ywania oprogramowania IBM (dotycz�cym tworzenia kopii zapasowych, tymczasowego u�ywania oraz zatwierdzonego przez IBM �rodowiska chmurowego), dost�pnym pod adresem http://www.ibm.com/softwarepolicies.
+
+b. Egzemplarze Program�w s� chronione prawami autorskimi i udost�pniane na warunkach licencji.
+
+c. Licencjobiorca uzyskuje niewy��czn� licencj� na:
+
+(1) u�ywanie ka�dego egzemplarza Programu zgodnie z warunkami Umowy i liczb� uprawnie� licencyjnych nabytych przez Licencjobiorc� ("Autoryzowane U�ywanie");
+
+(2) sporz�dzanie i instalowanie kopii na potrzeby Autoryzowanego U�ywania;
+
+(3) sporz�dzenie kopii zapasowej.
+
+d. Programy mog� by� u�ywane przez Licencjobiorc�, jego pracownik�w i wykonawc�w. Licencjobiorca nie mo�e wypo�ycza� ani wydzier�awia� Programu, ani te� wykorzystywa� Programu do �wiadczenia jakiejkolwiek osobie trzeciej komercyjnych us�ug informatycznych, us�ug serwerowych lub us�ug udost�pniania z podzia�em czasu. IBM mo�e udziela� dodatkowych praw w zamian za uiszczenie dodatkowych op�at lub na mocy innych warunk�w.
+
+e. Licencja udzielana na Program wymaga, aby Licencjobiorca:
+
+(1) powieli� na ka�dej kopii Programu uwagi dotycz�ce praw autorskich i inne oznaczenia;
+
+(2) zapewni�, �e jakakolwiek osoba korzystaj�ca z Programu i)�robi to jedynie w imieniu Licencjobiorcy, w ramach Autoryzowanego U�ywania Programu przez Licencjobiorc�, oraz ii)�przestrzega warunk�w niniejszej Umowy;
+
+(3) nie deasemblowa�, nie dekompilowa�, nie dokonywa� translacji ani nie odtwarza� kodu �r�d�owego Programu, o ile nie jest to wyra�nie dozwolone przez obowi�zuj�ce prawo bez mo�liwo�ci wy��czenia w ramach umowy;
+
+(4) nie u�ywa� �adnych element�w Programu ani zwi�zanych z nim materia��w obj�tych licencj� w oderwaniu od Programu.
+
+f. Je�li w Dokumencie Transakcyjnym Programu ("Programu G��wnego") okre�lono, �e do Programu G��wnego w��czony jest "Program Wspieraj�cy", to Licencjobiorca mo�e wykorzystywa� Program Wspieraj�cy z zastrze�eniem ogranicze� licencyjnych Programu G��wnego i wy��cznie na potrzeby wsparcia Programu G��wnego.
+
+g. Niniejsza licencja ma zastosowanie do ka�dej kopii Programu wykonanej przez Licencjobiorc�.
+
+h. Ka�da aktualizacja, poprawka lub �ata do Programu podlega warunkom okre�lonym dla Programu, o ile w uaktualnionym Dokumencie Transakcyjnym nie zamieszczono nowych warunk�w. Instaluj�c aktualizacj�, poprawk� lub �at�, Licencjobiorca akceptuje takie nowe warunki. Je�li Program zostanie zast�piony aktualizacj�, Licencjobiorca wyra�a zgod� na natychmiastowe zaprzestanie korzystania z zast�powanej wersji Programu.
+
+i. Je�li z jakiegokolwiek powodu Licencjobiorca nie jest zadowolony z Programu, mo�e rozwi�za� licencj� i uzyska� zwrot kwoty zap�aconej za Program, pod warunkiem zwrotu Programu i dokumentu PoE do IBM lub autoryzowanego Partnera Handlowego IBM w ci�gu 30 dni od daty pierwotnego nabycia Programu. Licencjobiorca skontaktuje si� z podmiotem, od kt�rego naby� pobrany Program, aby uzyska� instrukcje dotycz�ce zwrotu zap�aconej kwoty.
+
+2. Gwarancje
+
+a. IBM gwarantuje, �e Program u�ywany w okre�lonym �rodowisku operacyjnym b�dzie dzia�a� zgodnie z jego specyfikacj�. Okres gwarancyjny dla Programu to 12 miesi�cy od daty nabycia lub pocz�tkowy okres obowi�zywania licencji (je�li jest on kr�tszy ni� 12 miesi�cy), o ile w Dokumencie Transakcyjnym nie okre�lono innego okresu gwarancyjnego.
+
+b. W okresie gwarancyjnym Licencjobiorca b�dzie mie� dost�p do baz danych IBM zawieraj�cych informacje na temat znanych defekt�w Programu, poprawek defekt�w, ogranicze� i mo�liwo�ci obej�cia tych�e defekt�w, w spos�b opisany w podr�czniku IBM dotycz�cym wsparcia, dost�pnym pod adresem http://www.ibm.com/support/pages/node/733923.
+
+c. W przypadku, gdy w Okresie gwarancyjnym Program nie dzia�a zgodnie z gwarancj�, a problemu nie mo�na rozwi�za�, korzystaj�c z informacji dost�pnych w bazach danych IBM, Licencjobiorca ma prawo zwr�ci� Program i odnosz�cy si� do niego dokument PoE firmie IBM lub Partnerowi Handlowemu IBM oraz otrzyma� zwrot zap�aconej kwoty. W�wczas licencja udzielona Licencjobiorcy wygasa.
+
+d. IBM nie gwarantuje nieprzerwanego ani wolnego od b��d�w dzia�ania Programu IBM, jak r�wnie� nie gwarantuje, �e naprawi wszelkie wady ani �e b�dzie w stanie zapobiega� przestojom powodowanym przez osoby trzecie. Wymienione gwarancje stanowi� wy��czne gwarancje ze strony IBM oraz zast�puj� wszelkie inne gwarancje, w tym r�kojmi�, domniemane gwarancje lub warunki zadowalaj�cej jako�ci, przydatno�ci handlowej, nienaruszania praw i przydatno�ci do okre�lonego celu. Gwarancje IBM nie maj� zastosowania w przypadku niew�a�ciwego u�ytkowania, modyfikacji, uszkodzenia niespowodowanego przez IBM lub nieprzestrzegania pisemnych instrukcji dostarczonych przez IBM. Programy inne ni� Programy IBM s� udost�pniane w stanie, w jakim si� znajduj� ("as is"), bez jakichkolwiek gwarancji (r�kojmia r�wnie� jest wy��czona). Osoby trzecie mog� udzieli� Licencjobiorcy w�asnych gwarancji.
+
+e. Dodatkowe wsparcie w okresie gwarancji lub po jego zako�czeniu mo�e by� dost�pne na mocy oddzielnej umowy.
+
+3. Op�aty, podatki, p�atno�ci i weryfikacja
+
+a. Prawo Licencjobiorcy do u�ywania Programu jest uzale�nione od uiszczenia stosownych op�at okre�lonych w umowie, na mocy kt�rej Licencjobiorca naby� uprawnienia licencyjne. Licencjobiorca jest odpowiedzialny za nabycie dodatkowych uprawnie� licencyjnych z g�ry, przed rozszerzeniem zakresu ich u�ycia.
+
+b. Licencjobiorca zobowi�zuje si� ui�ci� wszelkie wymagane op�aty okre�lone dla nabytych uprawnie� oraz op�aty za u�ywanie w zakresie przekraczaj�cym upowa�nienia Licencjobiorcy. Nale�no�ci te nie obejmuj� ewentualnych op�at celnych, podatk�w, op�at egzekucyjnych ani innych podobnych op�at na�o�onych przez jakikolwiek organ administracji publicznej z tytu�u nabycia uprawnie� przez Licencjobiorc�; takie op�aty i podatki b�d� fakturowane odr�bnie. Kwoty te nale�y ui�ci� po otrzymaniu faktury od IBM w ci�gu 30 dni od daty faktury na rachunek okre�lony przez IBM; w przypadku niedotrzymania tego terminu mog� zosta� naliczone odsetki. Licencjobiorca jest odpowiedzialny za prawid�owe nabycie dodatkowych uprawnie� licencyjnych z g�ry, przed rozszerzeniem zakresu ich u�ycia. IBM nie zwraca wcze�niej wniesionych lub nale�nych op�at ani nie wystawia faktur koryguj�cych z tego tytu�u, chyba �e niniejsza Mi�dzynarodowa Umowa Licencyjna na Program, odpowiedni Dokument Transakcyjny lub warunki umowy, na mocy kt�rej Licencjobiorca naby� uprawnienia licencyjne, stanowi� inaczej.
+
+c. Zgodnie z nabytymi uprawnieniami Licencjobiorca zobowi�zuje si�: i)�zap�aci� podatek potr�cany u �r�d�a bezpo�rednio odpowiedniej jednostce administracji publicznej (w przypadkach wymaganych przez prawo); ii)�dostarczy� IBM za�wiadczenie podatkowe po�wiadczaj�ce dokonanie takiej p�atno�ci; iii)�zap�aci� IBM tylko doch�d netto po opodatkowaniu; oraz iv)�w pe�ni wsp�pracowa� z IBM przy poszukiwaniu mo�liwo�ci wy��czenia lub obni�enia wysoko�ci takich podatk�w i niezw�ocznie wype�nia� oraz przedk�ada� wszelkie stosowne dokumenty.
+
+d. Je�li Licencjobiorca importuje, eksportuje lub przekazuje Program, korzysta z niego lub uzyskuje do niego dost�p poza granicami kraju, ponosi odpowiedzialno�� za uiszczenie wszelkich op�at celnych, podatk�w, op�at egzekucyjnych oraz innych podobnych op�at na�o�onych przez odpowiednie organy administracji publicznej. Powy�sze postanowienie nie dotyczy podatk�w naliczanych od dochodu netto IBM.
+
+3.1 Weryfikacja licencji
+
+a. Dla wszystkich Program�w we wszystkich o�rodkach i dla wszystkich �rodowisk Licencjobiorca utworzy, b�dzie utrzymywa� i raz w roku udost�pnia� na ��danie IBM przekazane z 30-dniowym wyprzedzeniem: i)�raport w wymaganym przez IBM formacie, oparty na rekordach, danych wyj�ciowych narz�dzi systemowych i innych informacjach systemowych, oraz ii) dokumentacj� pomocnicz� (zwane ��cznie "Danymi dotycz�cymi Wdro�e�").
+
+b. IBM i jego niezale�ni audytorzy mog� zweryfikowa� - informuj�c o takim zamiarze z odpowiednim wyprzedzeniem - czy Licencjobiorca przestrzega warunk�w niniejszej Umowy we wszystkich o�rodkach i �rodowiskach, w kt�rych Licencjobiorca u�ywa Program�w do jakichkolwiek cel�w. Weryfikacja b�dzie przeprowadzana w spos�b pozwalaj�cy zminimalizowa� zak��cenia w dzia�alno�ci gospodarczej Licencjobiorcy, przy czym mo�e si� ona r�wnie� odbywa� w siedzibie Licencjobiorcy, w standardowych godzinach pracy. IBM zawrze z niezale�nym audytorem pisemn� umow� o zachowaniu poufno�ci. Opr�cz udost�pnienia opisanych powy�ej Danych dotycz�cych Wdro�e� Licencjobiorca dostarczy na ��danie IBM i audytor�w IBM dodatkowe szczeg�owe informacje i Dane dotycz�ce Wdro�e�.
+
+c. Licencjobiorca niezw�ocznie z�o�y w IBM odpowiednie zam�wienia i ui�ci nale�ne op�aty wed�ug aktualnie obowi�zuj�cych stawek z tytu�u: i)�wszelkich wdro�e� dokonanych z przekroczeniem upowa�nie� okre�lonych w rocznym raporcie lub podczas przeprowadzonej weryfikacji; ii)�odpowiednich us�ug subskrypcji i wsparcia dla takich nadmiarowych wdro�e� za kr�tszy z nast�puj�cych okres�w: okres u�ywania takiego nadmiarowego wdro�enia lub dwa lata; iii)�dodatkowych op�at i innych zobowi�za� okre�lonych w trakcie takiej weryfikacji, a w szczeg�lno�ci podatk�w, ce� i innych op�at wymaganych przez prawo.
+
+4. Odpowiedzialno�� i ochrona praw w�asno�ci intelektualnej
+
+a. Bez wzgl�du na podstaw� roszczenia ��czna odpowiedzialno�� IBM z tytu�u wszelkich roszcze� wynikaj�cych z niniejszej Umowy nie przekroczy warto�ci rzeczywistych szk�d bezpo�rednich poniesionych przez Licencjobiorc� do wysoko�ci kwoty op�at (w przypadku op�at okresowych - do sumy op�at za 12 miesi�cy) z tytu�u Programu b�d�cego przedmiotem roszczenia. IBM nie ponosi odpowiedzialno�ci za szkody nadzwyczajne, uboczne, po�rednie lub wynikaj�ce z naruszenia d�br osobistych, szkody, kt�rych nie mo�na by�o przewidzie� przy zawieraniu umowy, a tak�e za utrat� zysk�w, mo�liwo�ci biznesowych i warto�ci, przychod�w, reputacji (goodwill) lub zak�adanych oszcz�dno�ci. Ograniczenie to ma zastosowanie ��cznie do IBM, jego przedsi�biorstw afiliowanych, wykonawc�w i dostawc�w.
+
+b. Powy�szemu ograniczeniu nie podlegaj� nast�puj�ce kwoty: i)�p�atno�ci na rzecz os�b trzecich zwi�zane z roszczeniami z tytu�u naruszenia praw, opisanymi w punkcie 4�c poni�ej; ii)�odszkodowania, kt�re nie mog� zosta� ograniczone na mocy obowi�zuj�cego prawa.
+
+c. Je�li osoba trzecia wniesie przeciwko Licencjobiorcy roszczenie, z kt�rego wynika, �e Program IBM narusza patent lub prawo autorskie tej osoby, w�wczas IBM podejmie si� obrony Licencjobiorcy i zap�aci odszkodowanie, kt�re s�d ostatecznie na�o�y na Licencjobiorc� lub kt�re zostanie ustalone w drodze ugody zatwierdzonej przez IBM. IBM podejmie si� obrony Licencjobiorcy przed roszczeniami z tytu�u naruszenia praw oraz ui�ci zwi�zane z tym p�atno�ci, pod warunkiem �e Licencjobiorca niezw�ocznie: i)�powiadomi pisemnie IBM o takim roszczeniu; ii)�dostarczy IBM ��dane informacje oraz iii)�umo�liwi IBM kontrol� nad obron� i rozstrzygni�ciem sporu, w tym wszelkimi dzia�aniami maj�cymi go za�agodzi�, oraz w uzasadnionym zakresie b�dzie wsp�pracowa� z IBM w zwi�zku z tymi dzia�aniami. Zobowi�zania IBM zwi�zane z obron� przed roszczeniami z tytu�u naruszenia praw oraz uiszczeniem p�atno�ci dotycz�cych tych roszcze� obejmuj� roszczenia zwi�zane z kodem open source, kt�ry zosta� wybrany przez IBM i osadzony w Programie IBM.
+
+d. IBM nie ponosi odpowiedzialno�ci za roszczenia oparte na produktach innych ni� produkty IBM lub elementach niedostarczonych przez IBM ani za �adne naruszenia prawa b�d� praw os�b trzecich spowodowane przez Zawarto��, materia�y, projekty lub specyfikacje Licencjobiorcy b�d� przez u�ywanie nieaktualnej wersji Programu IBM, je�li roszczenia z tytu�u naruszenia praw mo�na by�oby unikn�� przez u�ywanie wersji aktualnej. Zawarto�� obejmuje wszelkie dane, oprogramowanie i informacje, kt�re Licencjobiorca lub jego autoryzowani u�ytkownicy udost�pniaj�, do kt�rych autoryzuj� dost�p lub kt�re wprowadzaj� do Programu.
+
+5. Rozwi�zanie umowy
+
+a. Je�li Licencjobiorca nie b�dzie przestrzega� warunk�w niniejszej Mi�dzynarodowej Umowy Licencyjnej na Program, Dokument�w Transakcyjnych lub um�w nabycia, takich jak Mi�dzynarodowa Umowa Passport Advantage, IBM mo�e rozwi�za� licencj� na u�ywanie Programu przez Licencjobiorc�. Po rozwi�zaniu licencji Licencjobiorca niezw�ocznie zniszczy wszystkie kopie Programu. Wszelkie warunki, kt�re ze wzgl�du na sw�j charakter wykraczaj� poza termin rozwi�zania, pozostaj� w mocy do momentu ich wype�nienia, a tak�e maj� zastosowanie do nast�pc�w prawnych i cesjonariuszy Stron.
+
+6. Obowi�zuj�ce ustawodawstwo i zasi�g geograficzny
+
+a. Obie Strony przyjmuj� jako obowi�zuj�ce w zwi�zku z niniejsz� Umow� prawo kraju, w kt�rym zosta�a zrealizowana transakcja dotycz�ca uprawnie� licencyjnych, bez mo�liwo�ci powo�ywania si� na normy kolizyjne prawa prywatnego mi�dzynarodowego. Prawa i zobowi�zania ka�dej ze Stron obowi�zuj� wy��cznie w kraju, w kt�rym zosta�a zrealizowana transakcja nabycia uprawnie� licencyjnych lub - je�li IBM wyrazi na to zgod� - w kraju, w kt�rym Program jest wykorzystywany w procesie produkcyjnym. Jednocze�nie zastrzega si�, �e wszelkie licencje obowi�zuj� na takich warunkach, na jakich zosta�y udzielone.
+
+b. Ka�da ze Stron jest odpowiedzialna za przestrzeganie: i)�przepis�w i norm odnosz�cych si� do swojej dzia�alno�ci i Zawarto�ci oraz ii)�przepis�w dotycz�cych importu i eksportu oraz przepis�w i norm dotycz�cych sankcji ekonomicznych, w tym przepis�w reguluj�cych handel broni� w Stanach Zjednoczonych i na odpowiednich obszarach jurysdykcji, wprowadzaj�cych zakaz lub ograniczenie importu, eksportu, reeksportu lub transferu produkt�w, technologii, us�ug lub danych bezpo�rednio lub po�rednio do okre�lonych kraj�w, zastosowa� ko�cowych lub u�ytkownik�w.
+
+c. Je�li kt�rekolwiek z postanowie� niniejszej Umowy dotycz�cej Programu zostanie uznane za niewa�ne lub nieskuteczne, pozosta�e postanowienia pozostan� w mocy. Postanowienia niniejszej Umowy pozostaj� bez wp�ywu na wszelkie bezwzgl�dnie obowi�zuj�ce prawa konsument�w, kt�rych nie mo�na wy��czy� lub ograniczy� w ramach umowy. Konwencja ONZ dotycz�ca um�w o Mi�dzynarodowej Sprzeda�y Towar�w (United Nations Convention on Contracts for the International Sale of Goods) nie ma zastosowania do transakcji zawieranych na mocy niniejszej Umowy.
+
+7. Postanowienia og�lne
+
+a. IBM jest niezale�nym wykonawc�, a nie agentem, wsp�lnikiem, partnerem ani powiernikiem Licencjobiorcy. IBM nie podejmuje si� spe�niania �adnych zobowi�za� Licencjobiorcy wynikaj�cych z przepis�w i nie przyjmuje �adnej odpowiedzialno�ci za dzia�alno�� gospodarcz� Licencjobiorcy. Licencjobiorca odpowiada za w�asne u�ywanie Program�w IBM i Program�w innych ni� Programy IBM. IBM jest wy��cznie dostawc� technologii informatycznych. Jakiekolwiek wskaz�wki, zalecenia b�d� porady IBM dotycz�ce u�ywania Programu nie stanowi� porad medycznych, klinicznych, prawnych, ksi�gowych ani innych porad specjalistycznych. Licencjobiorca powinien korzysta� z porad w�asnych specjalist�w.
+
+b. W przypadku Program�w, kt�re IBM dostarcza Licencjobiorcy w formie materialnej, IBM wype�nia swoje obowi�zki w zakresie wysy�ki i dostawy z chwil� dostarczenia takich Program�w do wyznaczonego przez siebie przewo�nika, chyba �e Licencjobiorca uzgodni� z IBM na pi�mie inny tryb post�powania.
+
+c. Licencjobiorca nie mo�e u�ywa� Programu w sytuacjach, w kt�rych jego awaria mo�e prowadzi� do �mierci, powa�nego uszczerbku na zdrowiu, szk�d maj�tkowych lub szk�d w �rodowisku naturalnym.
+
+d. IBM, jego przedsi�biorstwa afiliowane oraz wykonawcy IBM i jego przedsi�biorstw afiliowanych wymagaj� korzystania z biznesowych informacji kontaktowych i okre�lonych informacji o u�ywaniu kont. Takie informacje nie stanowi� Zawarto�ci. Biznesowe informacje kontaktowe s� u�ywane w celach zwi�zanych z komunikacj� oraz zarz�dzaniem transakcjami biznesowymi z Licencjobiorc�. Przyk�adami biznesowych informacji kontaktowych s� imiona i nazwiska, numery telefon�w, adresy pocztowe, adresy e-mail, identyfikatory u�ytkownik�w i numery identyfikacji podatkowej. Informacje o u�ywaniu kont s� wymagane do aktywowania, udost�pniania, wspierania i doskonalenia Program�w, a tak�e administrowania i zarz�dzania nimi. Przyk�adem informacji o u�ywaniu kont s� zg�oszone b��dy i dane cyfrowe gromadzone za pomoc� technologii �ledzenia, takich jak informacje cookie i sygnalizatory WWW, w trakcie u�ywania Program�w. Wi�cej na temat biznesowych informacji kontaktowych i informacji o u�ywaniu kont zawiera O�wiadczenie IBM o Ochronie Prywatno�ci dost�pne pod adresem http://www.ibm.com/privacy. W przypadku, gdy Licencjobiorca udost�pnia IBM informacje, kt�rych przetwarzanie wymaga zgody lub powiadomienia danej osoby, Licencjobiorca powiadomi tak� osob� lub uzyska od niej zgod�.
+
+e. Partnerzy Handlowi IBM, kt�rzy u�ywaj� Program�w lub je udost�pniaj�, s� niezale�ni od IBM i jednostronnie ustalaj� swoje ceny i warunki. IBM nie ponosi odpowiedzialno�ci za ich dzia�ania, zaniechania, o�wiadczenia lub oferty.
+
+f. IBM mo�e oferowa� Programy inne ni� Programy IBM b�d� te� Programy IBM mog� umo�liwia� dost�p do Program�w innych ni� Programy IBM. Takie Programy inne ni� Programy IBM mog� wymaga� akceptacji warunk�w osoby trzeciej okre�lonych w Dokumencie Transakcyjnym lub przedstawionych Licencjodawcy. Korzystanie przez Licencjobiorc� z Program�w innych ni� Programy IBM b�d� tworzenie do nich odsy�aczy oznacza jego zgod� na te warunki. IBM nie jest stron� takich um�w z osobami trzecimi ani nie ponosi odpowiedzialno�ci za takie Programy inne ni� Programy IBM.
+
+g. Licencje na Programy s� udzielane przez International Business Machines Corporation, sp�k� zarejestrowan� w Nowym Jorku (zwan� dalej "IBM Corporation"). Przedsi�biorstwo IBM, od kt�rego Licencjobiorca nabywa uprawnienia ("IBM"), dzia�a jako dystrybutor, dostarcza Programy i odpowiada za egzekwowanie warunk�w niniejszej Umowy. Je�li uprawnienia s� nabywane od Partnera Handlowego IBM, za egzekwowanie warunk�w niniejszej Umowy odpowiada przedsi�biorstwo IBM w kraju nabycia. Niniejsza Umowa nie zapewnia Licencjobiorcy jakichkolwiek praw ani podstaw roszczeniowych wobec IBM Corporation. Licencjobiorca zrzeka si� wszelkich roszcze� i podstaw roszczeniowych wobec IBM Corporation, a w odniesieniu do wszelkich praw, odszkodowa� i zado��uczynie� zwi�zanych z Programami zobowi�zuje si� kontaktowa� si� wy��cznie z IBM.
+
+h. Licencjobiorca nie mo�e udziela� dalszych licencji na Program ani te� dokonywa� cesji lub przeniesienia licencji na Program. Nie dotyczy to sytuacji, w kt�rej prawo nie zezwala na ograniczenie takiej cesji lub przeniesienia, b�d� w kt�rej na tak� cesj� lub przeniesienie wyra�nie zezwala Dokument Transakcyjny lub IBM wyra�a zgod� w inny spos�b. IBM mo�e dokona� cesji swoich praw i obowi�zk�w wynikaj�cych z niniejszej Umowy w przypadku sprzeda�y cz�ci przedsi�biorstwa IBM, kt�ra obejmuje Program. W zwi�zku z cesj� IBM mo�e udost�pnia� niniejsz� Umow� i zwi�zane z ni� dokumenty.
+
+i. Wszelkie powiadomienia w ramach niniejszej Umowy musz� mie� form� pisemn� i by� wysy�ane na adres dzia�alno�ci okre�lony w umowie, na mocy kt�rej Licencjobiorca naby� uprawnienia licencyjne, chyba �e dana Strona wska�e inny adres na pi�mie. Strony wyra�aj� zgod� na u�ywanie drogi elektronicznej i transmisji faksowej jako �rodk�w komunikacji do przesy�ania dokument�w pisemnych opatrzonych podpisem. Ka�da kopia niniejszej Umowy wykonana niezawodn� metod� jest uwa�ana za orygina�. Umowa zast�puje wszelkie dzia�ania, dyskusje lub ustalenia mi�dzy Stronami.
+
+j. Umowa nie ustanawia jakichkolwiek praw b�d� podstaw roszczeniowych dla os�b trzecich. �adna ze Stron nie b�dzie podejmowa� dzia�a� prawnych w zwi�zku z Umow� po up�ywie dw�ch lat od momentu zaistnienia podstawy roszczeniowej. �adna ze Stron nie ponosi odpowiedzialno�ci z tytu�u niewywi�zania si� z jakichkolwiek zobowi�za� o charakterze niefinansowym z powodu zdarze� od niej niezale�nych. Ka�da ze Stron umo�liwi drugiej Stronie w uzasadnionym zakresie wype�nienie zobowi�za� wynikaj�cych z niniejszej Umowy przed wyst�pieniem z roszczeniami dotycz�cymi niewype�nienia takich zobowi�za� przez drug� Stron�.
+
+k. Aby wesprze� procesy dostarczania Program�w IBM oraz Program�w innych ni� Programy IBM, IBM mo�e korzysta� ze swojego personelu i zasob�w w lokalizacjach na ca�ym �wiecie oraz z wykonawc�w zewn�trznych. Z u�ywaniem Program�w przez Licencjobiorc� mo�e si� wi�za� przeniesienie Zawarto�ci, w tym informacji umo�liwiaj�cych identyfikacj� os�b, za granic� w celu zapewnienia wsparcia dla Programu zgodnie z opisem w Podr�czniku IBM dotycz�cym wsparcia dla oprogramowania.
+
+Cz�� 2 - Warunki wymagane dla poszczeg�lnych kraj�w
+
+W przypadku licencji nabytych w wyszczeg�lnionych poni�ej krajach poni�sze warunki zast�puj� lub modyfikuj� warunki niniejszej Mi�dzynarodowej Umowy Licencyjnej na Program. Warunki, kt�rych nie dotycz� te poprawki, nie ulegaj� zmianom i pozostaj� w mocy.
+
+1. OBIE AMERYKI
+
+Paragraf 3. Op�aty, podatki, p�atno�ci i weryfikacja
+
+Pierwsze i drugie zdanie akapitu b zast�puje si� nast�puj�cym tekstem:
+
+Brazylia: Licencjobiorca zobowi�zuje si� ui�ci� wszelkie wymagane op�aty za nabyte uprawnienia, op�aty za u�ywanie w zakresie przekraczaj�cym upowa�nienia, a tak�e wszelkie op�aty celne, podatki, op�aty egzekucyjne lub inne podobne op�aty na�o�one przez jakikolwiek organ administracji publicznej z tytu�u nabycia uprawnie� przez Licencjobiorc�.
+
+W akapicie b:
+
+Meksyk: W trzecim zdaniu usuwa si� s�owa "na rachunek okre�lony przez IBM".
+
+Meksyk: Po trzecim zdaniu dodaje si� nast�puj�ce nowe zdanie:
+
+P�atno�ci b�d� uiszczane przelewem elektronicznym na rachunek okre�lony przez IBM lub w siedzibie IBM pod adresem Alfonso Napoles Gandara 3111, Santa Fe Pe~na Blanca, Alvaro Obregon, Mexico City, 01210.
+
+Na ko�cu akapitu c dodaje si� nast�puj�ce zdanie:
+
+Kanada: W przypadkach, w kt�rych podatki s� oparte na miejscu lub miejscach uzyskiwania korzy�ci z Programu, Licencjobiorca jest zobowi�zany na bie��co powiadamia� IBM o takim miejscu lub miejscach, je�li r�ni� si� one od adresu siedziby Licencjobiorcy podanego w odpowiednim Dokumencie Transakcyjnym.
+
+Na ko�cu akapitu c dodaje si� nast�puj�ce zdanie:
+
+Stany Zjednoczone: Strony uzgadniaj�, �e Licencjobiorcy nie zostan� przekazane �adne sk�adniki maj�tku ruchomego (np. no�niki lub publikacje), je�li: i)�IBM udost�pnia Licencjobiorcy Programy drog� elektroniczn� lub ii)�Licencjobiorca chce uzyska� zwolnienie z podatku od sprzeda�y lub podatku od u�ywania Program�w, kt�re IBM udost�pnia mu drog� elektroniczn�. W przypadkach, w kt�rych podatki s� oparte na miejscu lub miejscach osi�gania korzy�ci z Programu, Licencjobiorca jest zobowi�zany na bie��co zawiadamia� IBM o takim miejscu lub miejscach, je�li r�ni� si� one od adresu siedziby Licencjobiorcy podanego w odpowiednim Dokumencie Transakcyjnym.
+
+Paragraf 4. Odpowiedzialno�� i ochrona praw w�asno�ci intelektualnej
+
+Na ko�cu akapitu a dodaje si� nast�puj�ce zastrze�enie:
+
+Peru: Zgodnie z artyku�em 1328 Kodeksu Cywilnego Peru, te ograniczenia i wy��czenia nie maj� zastosowania w przypadkach umy�lnego wprowadzenia w b��d ("dolo") lub ra��cego niedbalstwa ("culpa inexcusable").
+
+Paragraf 6. Obowi�zuj�ce ustawodawstwo i zasi�g geograficzny
+
+W akapicie a zast�puje si� wy��cznie pierwsze zdanie nast�puj�cym tekstem:
+
+Argentyna: Obie Strony przyjmuj� jako obowi�zuj�ce prawo Argentyny, bez mo�liwo�ci powo�ywania si� na normy kolizyjne prawa prywatnego mi�dzynarodowego. Wszelkie post�powania dotycz�ce praw, obowi�zk�w i zobowi�za� wynikaj�cych z niniejszej Umowy b�d� prowadzone przed S�dem Gospodarczym Zwyczajnym Ciudad Aut�noma de Buenos Aires.
+
+Chile: Obie Strony przyjmuj� jako obowi�zuj�ce prawo Chile, bez mo�liwo�ci powo�ywania si� na normy kolizyjne prawa prywatnego mi�dzynarodowego. Wszelkie sprawy zwi�zane ze sprzeczno�ciami, interpretacj� lub naruszeniem postanowie� niniejszej Umowy, kt�re nie mog� zosta� rozstrzygni�te przez Strony, b�d� podlega� jurysdykcji S�d�w Powszechnych miasta i dystryktu Santiago.
+
+Kolumbia: Obie Strony przyjmuj� jako obowi�zuj�ce prawo Kolumbii, bez mo�liwo�ci powo�ywania si� na normy kolizyjne prawa prywatnego mi�dzynarodowego. Wszelkie prawa, obowi�zki i zobowi�zania podlegaj� jurysdykcji s�dzi�w Republiki Kolumbii.
+
+Ekwador: Obie Strony przyjmuj� jako obowi�zuj�ce prawo Ekwadoru, bez mo�liwo�ci powo�ywania si� na normy kolizyjne prawa prywatnego mi�dzynarodowego. Wszelkie spory wynikaj�ce z niniejszej Umowy lub z ni� zwi�zane b�d� wnoszone do rozstrzygni�cia przez s�dzi�w cywilnych Quito w trybie post�powania ustnego uproszczonego.
+
+Wenezuela: Obie Strony przyjmuj� jako obowi�zuj�ce prawo Wenezueli, bez mo�liwo�ci powo�ywania si� na normy kolizyjne prawa prywatnego mi�dzynarodowego. Strony zgadzaj� si�, �e wszelkie zaistnia�e pomi�dzy nimi spory zwi�zane z niniejsz� Umow� b�d� wnoszone przed s�dy Obszaru Metropolitalnego miasta Caracas.
+
+Peru: Obie Strony przyjmuj� jako obowi�zuj�ce prawo Peru, bez mo�liwo�ci powo�ywania si� na normy kolizyjne prawa prywatnego mi�dzynarodowego. Wszelkie nieporozumienia, kt�re mog� powsta� mi�dzy Stronami w przedmiocie wykonania, interpretacji lub przestrzegania postanowie� niniejszej Umowy, a kt�rych Strony nie s� w stanie bezpo�rednio rozwi�za�, b�d� podlega� jurysdykcji i w�a�ciwo�ci miejscowej S�dzi�w i Trybuna��w okr�gu s�downiczego Cercado de Lima.
+
+Urugwaj: Obie Strony przyjmuj� jako obowi�zuj�ce prawo Urugwaju. Wszelkie nieporozumienia, kt�re mog� powsta� mi�dzy Stronami w przedmiocie wykonania, interpretacji lub przestrzegania postanowie� niniejszej Umowy, a kt�rych Strony nie s� w stanie bezpo�rednio rozwi�za�, b�d� wnoszone do rozstrzygni�cia przez s�dy Montevideo ("Tribunales Ordinarios de Montevideo").
+
+W akapicie a, tylko w pierwszym zdaniu, sformu�owanie "prawo kraju, w kt�rym zosta�a zrealizowana transakcja dotycz�ca uprawnie� licencyjnych", zast�puje si� tekstem:
+
+Anguilla, Antigua i Barbuda, Aruba, Bahamy, Barbados, Bermudy, Bonaire, Brytyjskie Wyspy Dziewicze, Kajmany, Cura�ao, Dominika, Grenada, Gujana, Jamajka, Montserrat, Saba, Saint Eustatius, Saint Kitts i Nevis, Saint Lucia, Saint Maarten, Saint Vincent i Grenadyny, Stany Zjednoczone, Surinam, Tortola, Trynidad i Tobago, Turks i Caicos: prawo stanu Nowy Jork (Stany Zjednoczone).
+
+Kanada: prawo prowincji Ontario oraz obowi�zuj�ce tam prawo federalne Kanady.
+
+W akapicie a, w drugim zdaniu sformu�owanie "w kraju, w kt�rym zosta�a zrealizowana transakcja nabycia uprawnie� licencyjnych" zast�puje si� nast�puj�cym tekstem:
+
+Argentyna: w Argentynie
+
+Chile: w Chile
+
+Kolumbia: w Kolumbii
+
+Ekwador: w Ekwadorze
+
+Meksyk: w Meksyku
+
+Peru: w Peru
+
+Urugwaj: w Urugwaju
+
+Wenezuela: w Wenezueli
+
+Na ko�cu akapitu b dodaje si� nast�puj�ce zdania:
+
+Brazylia: Wszelkie spory wynikaj�ce z niniejszej Umowy lub z ni� zwi�zane, w tym post�powania rozpatrywane w trybie uproszczonym, b�d� podlega� wy��cznej jurysdykcji Forum Miasta S~ao Paulo w stanie S~ao Paulo w Brazylii. Strony nieodwo�alnie zgadzaj� si� na t� konkretn� jurysdykcj� i rezygnuj� z innych, niezale�nie od stopnia ich uprzywilejowania.
+
+Meksyk: Strony zgadzaj� si� podda� wy��cznej jurysdykcji s�d�w miasta Meksyk, kt�re b�d� rozstrzyga� wszelkie spory wynikaj�ce z niniejszej Umowy. Strony nie b�d� si� powo�ywa� na inn� jurysdykcj�, kt�ra mog�aby im odpowiada� ze wzgl�du na bie��c� lub przysz�� siedzib� b�d� z innej przyczyny.
+
+Paragraf 7. Postanowienia og�lne
+
+W akapicie g:
+
+Stany Zjednoczone: nale�y usun�� ostatnie 2 zdania.
+
+W akapicie i, po pierwszym zdaniu dodaje si� nast�puj�ce nowe zdanie:
+
+Meksyk: O ka�dej zmianie adresu nale�y powiadomi� z wyprzedzeniem 10 (dziesi�ciu) dni. W przeciwnym razie powiadomienia wysy�ane na ostatni wskazany adres b�d� powodowa� pe�ne skutki prawne.
+
+W akapicie j:
+
+Brazylia: nale�y usun�� ca�e drugie zdanie brzmi�ce nast�puj�co: "�adna ze Stron nie b�dzie podejmowa� dzia�a� prawnych w zwi�zku z Umow� po up�ywie dw�ch lat od momentu zaistnienia podstawy roszczeniowej".
+
+Do niniejszego paragrafu dodaje si� nast�puj�cy tekst jako nowy akapit l:
+
+Kanada: Obie Strony zgadzaj� si� na sformu�owanie niniejszego dokumentu w j�zyku angielskim. Les parties ont convenu de r�diger le pr�sent document en langue anglaise.
+
+2. AZJA WSCHODNIA
+
+Paragraf 2. Gwarancje
+
+Na ko�cu tego paragrafu dodaje si� nast�puj�cy nowy akapit f:
+
+Australia: Gwarancje te uzupe�niaj� wszelkie prawa wynikaj�ce z ustawy o ochronie konkurencji i konsument�w (Competition and Consumer Act) z 2010�r. i maj� zastosowanie jedynie w zakresie dozwolonym przez t� ustaw�.
+
+Japonia: Odpowiedzialno�� IBM jest ograniczona do zakresu okre�lonego w niniejszym akapicie, paragrafie "Odpowiedzialno�� i ochrona praw w�asno�ci intelektualnej" oraz odpowiednich Dokumentach Transakcyjnych. Jest to jedyne zado��uczynienie przys�uguj�ce Licencjobiorcy w przypadku niedope�nienia przez IBM warunk�w gwarancji okre�lonych w niniejszym paragrafie.
+
+Nowa Zelandia: Gwarancje te uzupe�niaj� wszelkie prawa wynikaj�ce z ustawy o gwarancji konsumenckiej (Consumer Guarantee Act) z 1993 r. lub innych ustaw, kt�rych zgodnie z prawem nie mo�na wy��czy� ani ograniczy�.
+
+Paragraf 3. Op�aty, podatki, p�atno�ci i weryfikacja
+
+W akapicie b trzecie zdanie zast�puje si� nast�puj�cymi dwoma zdaniami:
+
+Filipiny, Hongkong, Indonezja, Korea, Makau, Malezja, Singapur i Wietnam: Kwoty te nale�y ui�ci� po otrzymaniu faktury od IBM, w ci�gu 30 dni od daty jej wystawienia, na rachunek okre�lony przez IBM. Je�li p�atno�� nie wp�ynie w ci�gu 30 dni od daty faktury, IBM mo�e naliczy� od zaleg�ej kwoty odsetki za op�nienie, odpowiednio do liczby dni op�nienia, wed�ug mniejszej z nast�puj�cych stawek: i)�2% za ka�dy 30-dniowy okres b�d� jego cz�� lub ii)�maksymalna kwota dozwolona przez obowi�zuj�ce prawo.
+
+Tajlandia: Kwoty te nale�y ui�ci� po otrzymaniu faktury od IBM, w ci�gu 30 dni od daty jej wystawienia, na rachunek okre�lony przez IBM. Je�li p�atno�� nie wp�ynie w ci�gu 30 dni od daty faktury, IBM mo�e naliczy� od zaleg�ej kwoty odsetki za op�nienie, wed�ug stawki 1,25% miesi�cznie, odpowiednio do liczby dni op�nienia.
+
+W pierwszym zdaniu akapitu c nale�y usun�� s�owo "oraz" przed punktem "(iv)", doda� po nim �rednik i nast�puj�cy nowy punkt "(v)":
+
+Indie: ; oraz (v) sk�ada� prawid�owo sporz�dzone deklaracje podatk�w potr�canych u �r�d�a (TDS) z zachowaniem odpowiednich termin�w. Je�li podatek, op�ata lub inne zobowi�zanie (zwane dalej "Podatkami") nie zostan� pobrane na podstawie dokumentacji o zwolnieniu przed�o�onej przez Licencjobiorc�, a urz�d podatkowy wyda nast�pnie orzeczenie, �e takie Podatki by�y nale�ne, to Licencjobiorca ma obowi�zek ui�ci� kwot� tych Podatk�w wraz z naliczonymi odsetkami, op�atami egzekucyjnymi i/lub karami.
+
+W pierwszym zdaniu akapitu c nale�y usun�� s�owo "oraz" przed podpunktem "(iv)", zast�pi� podpunkt "(iv)" tekstem podanym poni�ej i doda� nast�puj�cy nowy podpunkt "(v)":
+
+Filipiny, Indonezja, Malezja, Singapur, Tajlandia i Wietnam: (iv) w pe�ni wsp�pracowa� z IBM przy poszukiwaniu mo�liwo�ci wy��czenia lub obni�enia wysoko�ci podatku potr�canego u �r�d�a lub innego podatku, kt�rego wy��czenia lub obni�enia ��da Licencjobiorca; oraz (v) niezw�ocznie wype�nia�, przedk�ada� i aktualizowa� wszelkie stosowne dokumenty wymagane w przypadku takiego wy��czenia, obni�enia lub zwolnienia.
+
+Paragraf 4. Odpowiedzialno�� i ochrona praw w�asno�ci intelektualnej
+
+W akapicie a na ko�cu pierwszego zdania nale�y doda� nast�puj�c� tre��:
+
+Australia: (na przyk�ad z tytu�u odpowiedzialno�ci kontraktowej, deliktowej, ustawowej, wynikaj�cej z niedbalstwa albo innej formy odpowiedzialno�ci)
+
+W akapicie a, w drugim zdaniu za s�owem "nadzwyczajne", a przed s�owem "uboczne" nale�y doda� nast�puj�ce sformu�owanie:
+
+Filipiny: (w tym za odszkodowania retorsyjne i nominalne), szkody moralne,
+
+Na ko�cu akapitu a nale�y doda� nast�puj�cy tekst jako nowy akapit (i odpowiednio zmieni� litery pozosta�ych akapit�w):
+
+Australia: W przypadku naruszenia przez IBM warunk�w gwarancji wynikaj�cych z australijskiej ustawy o ochronie konkurencji i konsument�w (Competition and Consumer Act) z 2010 r. odpowiedzialno�� IBM ogranicza si� do naprawy lub wymiany towar�w b�d� dostarczenia towar�w b�d�cych ich odpowiednikami albo pokrycia kosztu wymiany lub naprawy tych towar�w. �adne z tych ogranicze� nie ma zastosowania w przypadku, gdy gwarancja dotyczy prawa sprzeda�y, niezak��conego posiadania lub bezspornego prawa w�asno�ci zgodnie z Zestawieniem 2 ustawy o ochronie konkurencji i konsument�w (Competition and Consumer Act).
+
+Paragraf 5. Rozwi�zanie umowy
+
+Na ko�cu tego paragrafu dodaje si� nast�puj�cy nowy akapit b:
+
+Indonezja: Strony zrzekaj� si� prawa do stosowania artyku�u 1266 indonezyjskiego Kodeksu Cywilnego w zakresie, w jakim postanowienia tego artyku�u wymagaj� orzeczenia s�du w celu rozwi�zania umowy w spos�b skutkuj�cy powstaniem zobowi�za� wzajemnych.
+
+Paragraf 6. Obowi�zuj�ce ustawodawstwo i zasi�g geograficzny
+
+W akapicie a, tylko w pierwszym zdaniu, sformu�owanie "prawo kraju, w kt�rym zosta�a zrealizowana transakcja dotycz�ca uprawnie� licencyjnych", zast�puje si� tekstem:
+
+Kambod�a, Laos: prawo stanu Nowy Jork (Stany Zjednoczone)
+
+Australia: prawo stanu lub terytorium, na terenie kt�rego realizowana jest transakcja
+
+Hongkong: prawo Specjalnego Regionu Administracyjnego Hongkong Chi�skiej Republiki Ludowej
+
+Makau: prawo Specjalnego Regionu Administracyjnego Hongkong Chi�skiej Republiki Ludowej
+
+Korea: prawo Republiki Korea�skiej z zastosowaniem jurysdykcji Centralnego S�du Rejonowego Republiki Korea�skiej w Seulu
+
+Tajwan: prawo Tajwanu
+
+Indie: prawo Indii
+
+W akapicie a, w drugim zdaniu sformu�owanie "w kraju, w kt�rym zosta�a zrealizowana transakcja nabycia uprawnie� licencyjnych lub - je�li IBM wyrazi na to zgod� - w kraju, w kt�rym Program jest wykorzystywany w procesie produkcyjnym" zast�puje si� nast�puj�cym tekstem:
+
+Hongkong: w Specjalnym Regionie Administracyjnym Hongkong Chi�skiej Republiki Ludowej
+
+Makau: w Specjalnym Regionie Administracyjnym Makau Chi�skiej Republiki Ludowej
+
+Tajwan: na Tajwanie
+
+W akapicie b, w pierwszym zdaniu, w punkcie ii), za wyra�eniem "w tym przepis�w reguluj�cych handel broni�" i przed wyra�eniem "w Stanach Zjednoczonych" dodaje si�:
+
+Japonia: obowi�zuj�cych w Japonii oraz
+
+Na ko�cu tego paragrafu dodaje si� nast�puj�cy nowy akapit d:
+
+Filipiny, Kambod�a, Laos i Sri Lanka: Spory b�d� ostatecznie rozstrzygane w drodze arbitra�u w Singapurze zgodnie z Regu�ami Post�powania Arbitra�owego Mi�dzynarodowego Centrum Arbitra�u w Singapurze ("Regu�ami SIAC").
+
+Indie: Spory b�d� ostatecznie rozstrzygane zgodnie z ustaw� o post�powaniu arbitra�owym i rozjemczym z 1996 r. w jej obowi�zuj�cej w danym czasie formie, w j�zyku angielskim, przy czym siedzib� post�powania b�dzie Bangalore w Indiach. W przypadku, gdy kwota sporu nie przekracza 50 mln rupii indyjskich, post�powanie b�dzie prowadzi� jeden arbiter. W przypadku spor�w powy�ej tej kwoty post�powanie b�dzie prowadzi� trzech arbitr�w. W przypadku zast�pienia jednego z arbitr�w post�powanie b�dzie kontynuowane od momentu, w kt�rym zosta�o przerwane na skutek pojawienia si� wakatu.
+
+Indonezja: Spory b�d� ostatecznie rozstrzygane w drodze arbitra�u w D�akarcie (Indonezja), zgodnie z regu�ami Indonezyjskiej Krajowej Rady Arbitra�owej (Badan Arbitrase Nasional Indonesia - BANI) utworzonej w 1977 roku. Orzeczenia arbitra�u b�d� ostateczne i wi���ce dla obu Stron bez mo�liwo�ci zaskar�enia, a ponadto b�d� sporz�dzane w formie pisemnej oraz b�d� zawiera� stwierdzenia fakt�w i wnioski prawne.
+
+Chi�ska Republika Ludowa: Ka�da ze Stron mo�e przekaza� sp�r pod rozstrzygni�cie w drodze arbitra�u przez Chi�sk� Mi�dzynarodow� Komisj� Arbitra�ow� ds. Gospodarki i Handlu Zagranicznego z siedzib� w Pekinie. Strony uzgadniaj�, �e wszelkie spory b�d� rozstrzygane przez trzech arbitr�w.
+
+Wietnam: Spory b�d� ostatecznie rozstrzygane w drodze arbitra�u w Wietnamie, zgodnie z Regu�ami Post�powania Arbitra�owego Wietnamskiego Centrum Arbitra�u Mi�dzynarodowego ("Regu�ami VIAC"). J�zykiem post�powania b�dzie j�zyk angielski. W j�zyku angielskim b�d� r�wnie� sporz�dzane wszelkie dokumenty prezentowane w czasie post�powania.
+
+Paragraf 7. Postanowienia og�lne
+
+W akapicie j, w drugim zdaniu wyra�enie "dw�ch lat" zast�puje si� wyra�eniem:
+
+Indie: trzech lat
+
+Na ko�cu tego paragrafu dodaje si� nast�puj�cy nowy akapit l:
+
+Indonezja: Niniejsza Umowa zosta�a sporz�dzona w j�zyku angielskim i indonezyjskim. W zakresie dozwolonym przepisami prawa, w przypadku jakichkolwiek niezgodno�ci wersja w j�zyku angielskim ma znaczenie rozstrzygaj�ce.
+
+3. EUROPA, BLISKI WSCH�D I AFRYKA
+
+Paragraf 2. Gwarancje
+
+W akapicie d czwarte zdanie zast�puje si� nast�puj�cymi dwoma zdaniami:
+
+Czechy, Estonia i Litwa: Programy inne ni� Programy IBM s� udost�pniane w stanie, w jakim si� znajduj� ("as is"), bez �adnych gwarancji (r�kojmia jest r�wnie� wy��czona) lub odpowiedzialno�ci z tytu�u defekt�w. Strony niniejszym wy��czaj� wszelk� odpowiedzialno�� IBM za defekty inn� ni� uzgodnione tu gwarancje.
+
+Paragraf 3. Op�aty, podatki, p�atno�ci i weryfikacja
+
+W akapicie b na ko�cu trzeciego zdania dodaje si� nast�puj�c� tre��:
+
+W�ochy: , je�li IBM za��da tego pisemnie od Licencjobiorcy.
+
+Ukraina: od zaleg�ej kwoty dla ka�dego dnia op�nienia, pocz�wszy od nast�pnego dnia po dacie p�atno�ci do daty rzeczywistego uiszczenia p�atno�ci, wed�ug stawki procentowej stanowi�cej dwukrotno�� stopy dyskontowej okre�lanej przez Narodowy Bank Ukrainy w okresie op�nienia (paragraf 6 artyku� 232 Kodeksu Handlowego Ukrainy nie ma zastosowania).
+
+W akapicie b trzecie zdanie zast�puje si� nast�puj�cym tekstem:
+
+Francja: Kwoty te staj� si� wymagalne po up�ywie 10 dni od daty faktury i nale�y je ui�ci� na rachunek okre�lony przez IBM, przy czym w razie op�nienia p�atno�ci zostan� naliczone odsetki w wysoko�ci r�wnej najnowszej stopie procentowej opublikowanej przez Europejski Bank Centralny powi�kszonej o 10 punkt�w, a tak�e koszty windykacji w wysoko�ci 40 (czterdziestu) EUR lub - je�li koszty te przekrocz� 40 EUR - odszkodowanie uzupe�niaj�ce uzale�nione od zasadno�ci kwoty roszczenia.
+
+Rosja: Kwoty te nale�y ui�ci� po otrzymaniu faktury, drog� elektroniczn�, w ci�gu 30 dni od daty faktury na rachunek okre�lony przez IBM. Mog� obowi�zywa� odsetki za op�nienie p�atno�ci naliczane wed�ug stawki 24% rocznie za ka�dy dzie� powy�ej 30 dni.
+
+W akapicie b na ko�cu ostatniego zdania dodaje si� nast�puj�c� tre��:
+
+Litwa: , z zastrze�eniem przepis�w prawa
+
+Na ko�cu akapitu b dodaje si�, co nast�puje:
+
+W�ochy: W przypadku nieuiszczenia p�atno�ci lub niepe�nego uiszczenia p�atno�ci, a tak�e w ramach formalnej procedury roszczenia o uznanie lub procesu zainicjowanego potencjalnie przez IBM, na zasadzie odst�pstwa od postanowie� artyku�u 4 rozporz�dzenia Decreto Legislativo nr 231 z 9 pa�dziernika 2002 r. oraz zgodnie z artyku�em 7 tego� rozporz�dzenia, IBM powiadomi Licencjobiorc� na pi�mie, za po�rednictwem listu poleconego z potwierdzeniem odbioru, o nale�nych odsetkach za op�nienie.
+
+Paragraf 4. Odpowiedzialno�� i ochrona praw w�asno�ci intelektualnej
+
+W akapicie a, w pierwszym zdaniu, nale�y wstawi� przed s�owami "kwoty op�at" nast�puj�ce sformu�owanie:
+
+Belgia, Francja, Hiszpania, Luksemburg, Malta, Niemcy, Portugalia, W�ochy: wi�kszej z nast�puj�cej kwot: 500�000 EUR (pi��set tysi�cy euro) lub
+
+Irlandia i Wielka Brytania: 125%
+
+W akapicie a, w pierwszym zdaniu fragment "szk�d bezpo�rednich poniesionych przez Licencjobiorc�" zast�puje si� nast�puj�cym sformu�owaniem:
+
+Hiszpania: i dowiedzionych szk�d poniesionych przez Licencjobiorc� bezpo�rednio na skutek niedotrzymania zobowi�zania przez IBM
+
+W akapicie a nale�y po pierwszym zdaniu wstawi� nast�puj�ce nowe zdanie:
+
+S�owacja: W nawi�zaniu do � 379 Kodeksu Handlowego (ustawa nr 513/1991 Coll. z p�n. zm.) i w odniesieniu do wszelkich warunk�w zwi�zanych z zawieraniem niniejszej Umowy obie Strony o�wiadczaj�, �e ��czna kwota przewidywalnych odszkodowa�, kt�re mog� zosta� naliczone, nie przekroczy kwoty okre�lonej powy�ej i stanowi maksymaln� kwot� odpowiedzialno�ci IBM.
+
+W akapicie a nale�y przed drugim zdaniem wstawi� nast�puj�ce nowe zdanie:
+
+Rosja: IBM nie ponosi odpowiedzialno�ci za utracone korzy�ci.
+
+W akapicie a, w drugim zdaniu nale�y usun�� s�owo:
+
+Irlandia i Wielka Brytania: ekonomiczne
+
+W akapicie a drugie zdanie zast�puje si� nast�puj�cym tekstem:
+
+Belgia, Holandia i Luksemburg: IBM nie ponosi odpowiedzialno�ci za szkody po�rednie, szkody, kt�rych nie mo�na by�o przewidzie� przy zawieraniu umowy, za utrat� zysk�w, potencjalnych transakcji, warto�ci, przychod�w, reputacji (goodwill) i spodziewanych oszcz�dno�ci, za szkody wynikaj�ce z roszcze� wnoszonych przeciwko Licencjobiorcy przez osoby trzecie, a tak�e za utrat� lub uszkodzenie danych.
+
+Francja: IBM nie ponosi odpowiedzialno�ci za szkody zwi�zane z naruszeniem reputacji, szkody po�rednie, utrat� zysk�w, potencjalnych transakcji, warto�ci, przychod�w, reputacji (goodwill) lub spodziewanych oszcz�dno�ci.
+
+Portugalia: IBM nie ponosi odpowiedzialno�ci za szkody po�rednie, w tym utrat� zysk�w.
+
+Hiszpania: IBM nie ponosi odpowiedzialno�ci za szkody zwi�zane z naruszeniem reputacji, utrat� zysk�w, potencjalnych transakcji, warto�ci, przychod�w, reputacji (goodwill) lub spodziewanych oszcz�dno�ci.
+
+Na ko�cu akapitu a dodaje si� nast�puj�c� tre��:
+
+Francja: Warunki Umowy, w tym warunki finansowe, zosta�y opracowane z uwzgl�dnieniem niniejszej klauzuli, kt�ra stanowi integraln� cz�� og�lnej struktury Umowy.
+
+W akapicie b sformu�owanie "ii) odszkodowania, kt�re nie mog� zosta� ograniczone na mocy obowi�zuj�cego prawa" zast�puje si� nast�puj�cym sformu�owaniem:
+
+Niemcy: ii) odszkodowania za uszczerbek na zdrowiu (w��cznie ze �mierci�); iii) odszkodowania z tytu�u strat lub szk�d spowodowanych naruszeniem gwarancji udzielonej przez IBM w zwi�zku z jak�kolwiek transakcj� obj�t� niniejsz� Umow�; iv) odszkodowania za szkody spowodowane umy�lnie lub wskutek ra��cego zaniedbania.
+
+Paragraf 6. Obowi�zuj�ce ustawodawstwo i zasi�g geograficzny
+
+W akapicie a, tylko w pierwszym zdaniu, sformu�owanie "prawo kraju, w kt�rym zosta�a zrealizowana transakcja dotycz�ca uprawnie� licencyjnych", zast�puje si� tekstem:
+
+Albania, Armenia, Azerbejd�an, Bia�oru�, Bo�nia i Hercegowina, Bu�garia, Chorwacja, Czarnog�ra, Gruzja, Kazachstan, Kirgistan, Macedonia P�nocna, Mo�dawia, Rosja, Rumunia, Serbia, Tad�ykistan, Turkmenistan, Ukraina, Uzbekistan: prawo Austrii
+
+Estonia, Litwa, �otwa: prawo Finlandii
+
+Algieria, Andora, Benin, Burkina Faso, Burundi, Czad, Demokratyczna Republika Konga, D�ibuti, Gabon, Gujana Francuska, Gwinea, Gwinea Bissau, Gwinea R�wnikowa, Kamerun, Komory, Liban, Madagaskar, Majotta, Mali, Maroko, Mauretania, Mauritius, Niger, Nowa Kaledonia, Polinezja Francuska, Republika Konga, Republika �rodkowej Afryki, Reunion, Senegal, Seszele, Togo, Tunezja, Vanuatu, Wallis i Futuna, Wybrze�e Ko�ci S�oniowej, Wyspy Zielonego Przyl�dka: prawo Francji
+
+Angola, Arabia Saudyjska, Bahrajn, Botswana, Egipt, Erytrea, Etiopia, Gambia, Ghana, Irak, Jemen, Jordania, Katar, Kenia, Kuwejt, Liberia, Malawi, Malta, Mozambik, Nigeria, Oman, Pakistan, Rwanda, Sierra Leone, Somalia, Tanzania, Uganda, Wyspy �wi�tego Tomasza i Ksi���ca, Zachodni Brzeg Jordanu / strefa Gazy, Zambia, Zimbabwe i Zjednoczone Emiraty Arabskie: prawo Anglii
+
+Liechtenstein: prawo Szwajcarii
+
+Lesotho, Namibia, Republika Po�udniowej Afryki i Suazi: prawo Republiki Po�udniowej Afryki
+
+Wielka Brytania: prawo Anglii
+
+W akapicie a na ko�cu pierwszego zdania dodaje si� nast�puj�c� tre��:
+
+Francja: Strony uzgadniaj�, �e artyku�y 1222 i 1223 francuskiego Kodeksu Cywilnego nie maj� zastosowania.
+
+Na ko�cu akapitu a dodaje si� nast�puj�c� tre��:
+
+Albania, Armenia, Azerbejd�an, Bia�oru�, Bo�nia i Hercegowina, Bu�garia, Chorwacja, Czarnog�ra, Gruzja, Kazachstan, Kirgistan, Kosowo, Macedonia P�nocna, Mo�dawia, Rosja, Rumunia, Serbia, Tad�ykistan, Turkmenistan, Ukraina i Uzbekistan: Wszelkie spory wynikaj�ce z niniejszej Umowy b�d� ostatecznie rozstrzygane w Wiedniu przez Mi�dzynarodowe Centrum Arbitra�u przy Austriackiej Federalnej Izbie Handlowej (Organ Arbitra�owy) zgodnie z Regu�ami Post�powania Arbitra�owego tego Centrum Arbitra�u (tzw. Regu�ami Wiede�skimi), przez trzech bezstronnych arbitr�w wyznaczonych zgodnie z tymi regu�ami, przy czym j�zykiem oficjalnym b�dzie j�zyk angielski. Ka�da ze Stron powo�a jednego arbitra, a obaj powo�ani w ten spos�b arbitrzy wsp�lnie wyznacz� niezale�nego przewodnicz�cego w ci�gu 30 dni. Je�li tak si� nie stanie, przewodnicz�cy zostanie powo�any przez Organ Arbitra�owy zgodnie z Regu�ami Wiede�skimi. Arbitrzy nie b�d� mie� prawa do ustanowienia zabezpieczenia roszcze� w drodze nakazu lub zakazu s�dowego ani do zas�dzenia odszkodowania wy��czonego w ramach niniejszej Umowy b�d� odszkodowania przewy�szaj�cego limity okre�lone w niniejszej Umowie. �adne postanowienie niniejszej Umowy nie ogranicza prawa �adnej ze Stron do wszcz�cia post�powania s�dowego w celu (1)�ustanowienia tymczasowego zabezpieczenia, aby zapobiec znacznemu uszczerbkowi lub naruszeniu postanowie� dotycz�cych zachowania poufno�ci lub praw w�asno�ci intelektualnej, (2)�ustalenia wa�no�ci lub w�asno�ci w odniesieniu do praw autorskich, patent�w lub znak�w towarowych nale��cych do jednej ze Stron niniejszej Umowy lub do powi�zanego z ni� Przedsi�biorstwa lub (3)�przeprowadzenia windykacji zad�u�enia na kwot� nieprzekraczaj�c� 500�000,00�USD.
+
+Estonia, Litwa i �otwa: Wszelkie spory wynikaj�ce z niniejszej Umowy b�d� ostatecznie rozstrzygane w Helsinkach przez Instytut Arbitra�owy przy Fi�skiej Izbie Handlowej (zwany dalej "Organem Arbitra�owym") zgodnie z Regu�ami Post�powania Arbitra�owego Fi�skiej Izby Handlowej (zwanymi dalej "Regu�ami"), przez trzech bezstronnych arbitr�w powo�anych zgodnie ze wspomnianymi Regu�ami, przy czym j�zykiem oficjalnym b�dzie j�zyk angielski. Ka�da ze Stron powo�a jednego arbitra, a obaj powo�ani w ten spos�b arbitrzy wsp�lnie wyznacz� niezale�nego przewodnicz�cego w ci�gu 30 dni. Je�li tak si� nie stanie, przewodnicz�cy zostanie powo�any przez Organ Arbitra�owy zgodnie z Regu�ami. Arbitrzy nie b�d� mie� prawa do ustanowienia zabezpieczenia roszcze� w drodze nakazu lub zakazu s�dowego ani do zas�dzenia odszkodowania wy��czonego w ramach niniejszej Umowy b�d� odszkodowania przewy�szaj�cego limity okre�lone w niniejszej Umowie. �adne postanowienie niniejszej Umowy nie ogranicza prawa �adnej ze Stron do wszcz�cia post�powania s�dowego w celu (1)�ustanowienia tymczasowego zabezpieczenia, aby zapobiec znacznemu uszczerbkowi lub naruszeniu postanowie� dotycz�cych zachowania poufno�ci lub praw w�asno�ci intelektualnej, (2)�ustalenia wa�no�ci lub w�asno�ci w odniesieniu do praw autorskich, patent�w lub znak�w towarowych nale��cych do jednej ze Stron niniejszej Umowy lub do powi�zanego z ni� Przedsi�biorstwa lub (3)�przeprowadzenia windykacji zad�u�enia na kwot� nieprzekraczaj�c� 500�000,00�USD.
+
+Afganistan, Angola, Arabia Saudyjska, Bahrajn, Botswana, Burundi, D�ibuti, Egipt, Erytrea, Etiopia, Gambia, Ghana, Irak, Jemen, Jordania, Katar, Kenia, Kuwejt, Liban, Liberia, Libia, Madagaskar, Malawi, Mozambik, Nigeria, Oman, Pakistan, Rwanda, Sahara Zachodnia, Seszele, Sierra Leone, Somalia, Sudan Po�udniowy, Tanzania, Terytoria Palesty�skie, Uganda, Wyspy �wi�tego Tomasza i Ksi���ca, Republika Zielonego Przyl�dka, Zambia, Zimbabwe oraz Zjednoczone Emiraty Arabskie: Wszelkie spory wynikaj�ce z niniejszej Umowy b�d� ostatecznie rozstrzygane w Londynie przez Mi�dzynarodowy S�d Arbitra�owy w Londynie (zwany dalej "Organem Arbitra�owym") zgodnie z Regu�ami Post�powania Arbitra�owego tego Organu Arbitra�owego (zwanymi dalej "Regu�ami"), przez trzech bezstronnych arbitr�w powo�anych zgodnie ze wspomnianymi Regu�ami, przy czym j�zykiem oficjalnym b�dzie j�zyk angielski. Ka�da ze Stron powo�a jednego arbitra, a obaj powo�ani w ten spos�b arbitrzy wsp�lnie wyznacz� niezale�nego przewodnicz�cego w ci�gu 30 dni. Je�li tak si� nie stanie, przewodnicz�cy zostanie powo�any przez Organ Arbitra�owy zgodnie z Regu�ami. Arbitrzy nie b�d� mie� prawa do ustanowienia zabezpieczenia roszcze� w drodze nakazu lub zakazu s�dowego ani do zas�dzenia odszkodowania wy��czonego w ramach niniejszej Umowy b�d� odszkodowania przewy�szaj�cego limity okre�lone w niniejszej Umowie. �adne postanowienie niniejszej Umowy nie ogranicza prawa �adnej ze Stron do wszcz�cia post�powania s�dowego w celu (1)�ustanowienia tymczasowego zabezpieczenia, aby zapobiec znacznemu uszczerbkowi lub naruszeniu postanowie� dotycz�cych zachowania poufno�ci lub praw w�asno�ci intelektualnej, (2)�ustalenia wa�no�ci lub w�asno�ci w odniesieniu do praw autorskich, patent�w lub znak�w towarowych nale��cych do jednej ze Stron niniejszej Umowy lub do powi�zanego z ni� Przedsi�biorstwa lub (3)�przeprowadzenia windykacji zad�u�enia na kwot� nieprzekraczaj�c� 500�000,00�USD.
+
+Algieria, Benin, Burkina Faso, Czad, Demokratyczna Republika Konga, Gabon, Gujana Francuska, Gwinea, Gwinea Bissau, Gwinea R�wnikowa, Kamerun, Kongo, Mali, Maroko, Mauretania, Mauritius, Niger, Polinezja Francuska, Republika �rodkowoafryka�ska, Senegal, Togo, Tunezja oraz Wybrze�e Ko�ci S�oniowej: Wszelkie spory wynikaj�ce z niniejszej Umowy b�d� ostatecznie rozstrzygane w Pary�u przez Mi�dzynarodowy S�d Arbitra�owy w Pary�u (zwany dalej "Organem Arbitra�owym") zgodnie z Regu�ami Post�powania Arbitra�owego tego Organu Arbitra�owego (zwanymi dalej "Regu�ami"), przez trzech bezstronnych arbitr�w powo�anych zgodnie ze wspomnianymi Regu�ami, przy czym j�zykiem oficjalnym b�dzie j�zyk francuski. Ka�da ze Stron powo�a jednego arbitra, a obaj powo�ani w ten spos�b arbitrzy wsp�lnie wyznacz� niezale�nego przewodnicz�cego w ci�gu 30 dni. Je�li tak si� nie stanie, przewodnicz�cy zostanie powo�any przez Organ Arbitra�owy zgodnie z Regu�ami. Arbitrzy nie b�d� mie� prawa do ustanowienia zabezpieczenia roszcze� w drodze nakazu lub zakazu s�dowego ani do zas�dzenia odszkodowania wy��czonego w ramach niniejszej Umowy b�d� odszkodowania przewy�szaj�cego limity okre�lone w niniejszej Umowie. �adne postanowienie niniejszej Umowy nie ogranicza prawa �adnej ze Stron do wszcz�cia post�powania s�dowego w celu (1)�ustanowienia tymczasowego zabezpieczenia, aby zapobiec znacznemu uszczerbkowi lub naruszeniu postanowie� dotycz�cych zachowania poufno�ci lub praw w�asno�ci intelektualnej, (2)�ustalenia wa�no�ci lub w�asno�ci w odniesieniu do praw autorskich, patent�w lub znak�w towarowych nale��cych do jednej ze Stron niniejszej Umowy lub do powi�zanego z ni� Przedsi�biorstwa lub (3)�przeprowadzenia windykacji zad�u�enia na kwot� nieprzekraczaj�c� 250�000,00�USD.
+
+Lesotho, Namibia, Republika Po�udniowej Afryki i Suazi: Wszelkie spory wynikaj�ce z niniejszej Umowy b�d� ostatecznie rozstrzygane w Johannesburgu przez Fundacj� Arbitra�ow� Afryki Po�udniowej (zwan� dalej "Organem Arbitra�owym") zgodnie z Regu�ami Post�powania Arbitra�owego tej Fundacji (zwanymi dalej "Regu�ami"), przez trzech bezstronnych arbitr�w powo�anych zgodnie ze wspomnianymi Regu�ami, przy czym j�zykiem oficjalnym b�dzie j�zyk angielski. Ka�da ze Stron powo�a jednego arbitra, a obaj powo�ani w ten spos�b arbitrzy wsp�lnie wyznacz� niezale�nego przewodnicz�cego w ci�gu 30 dni. Je�li tak si� nie stanie, przewodnicz�cy zostanie powo�any przez Organ Arbitra�owy zgodnie z Regu�ami. Arbitrzy nie b�d� mie� prawa do ustanowienia zabezpieczenia roszcze� w drodze nakazu lub zakazu s�dowego ani do zas�dzenia odszkodowania wy��czonego w ramach niniejszej Umowy b�d� odszkodowania przewy�szaj�cego limity okre�lone w niniejszej Umowie. �adne postanowienie niniejszej Umowy nie ogranicza prawa �adnej ze Stron do wszcz�cia post�powania s�dowego w celu (1)�ustanowienia tymczasowego zabezpieczenia, aby zapobiec znacznemu uszczerbkowi lub naruszeniu postanowie� dotycz�cych zachowania poufno�ci lub praw w�asno�ci intelektualnej, (2)�ustalenia wa�no�ci lub w�asno�ci w odniesieniu do praw autorskich, patent�w lub znak�w towarowych nale��cych do jednej ze Stron niniejszej Umowy lub do powi�zanego z ni� Przedsi�biorstwa lub (3)�przeprowadzenia windykacji zad�u�enia na kwot� nieprzekraczaj�c� 250�000,00�USD.
+
+Andora, Austria, Cypr, Francja, Grecja, Hiszpania, Izrael, Niemcy, Portugalia, Szwajcaria, Turcja i W�ochy: Wszelkie spory b�d� podlega� wy��cznej jurysdykcji nast�puj�cych s�d�w w�a�ciwych:
+
+Andora: S�du Gospodarczego w Pary�u.
+
+Austria: s�du w Wiedniu (�r�dmie�cie).
+
+Cypr: s�du w�a�ciwego w Nikozji.
+
+Francja: S�du Gospodarczego w Pary�u.
+
+Niemcy: s�d�w w Stuttgarcie.
+
+Grecja: s�du w�a�ciwego w Atenach.
+
+Izrael: s�d�w w Tel Awiwie-Jaffie.
+
+W�ochy: s�d�w w Mediolanie.
+
+Portugalia: s�d�w w Lizbonie.
+
+Hiszpania: s�d�w w Madrycie.
+
+Szwajcaria: s�du gospodarczego kantonu Zurychu.
+
+Turcja: S�d�w Centralnych i Dyrektoriat�w Wykonawczych w Stambule (Caglayan), Republika Turcji.
+
+Holandia: Strony zrzekaj� si� praw przys�uguj�cych im na mocy Sekcji 7.1 ("Koop") oraz klauzuli 7:401 i 402 holenderskiego Kodeksu Cywilnego, a tak�e praw do wywo�ania pe�nego lub cz�ciowego rozwi�zania ("gehele of partiele ontbinding") niniejszej Umowy na mocy paragrafu 6:265 holenderskiego Kodeksu Cywilnego.
+
+Paragraf 7. Postanowienia og�lne
+
+Na ko�cu akapitu d dodaje si� nast�puj�c� tre��:
+
+Hiszpania: IBM b�dzie stosowa� si� do wniosk�w o uzyskanie dost�pu do takich informacji kontaktowych, ich aktualizacj� lub usuni�cie, przesy�anych na nast�puj�cy adres: IBM, c/ Santa Hortensia 26-28, 28002 Madrid, Departamento de Privacidad de Datos.
+
+Na ko�cu akapitu j dodaje si� nast�puj�c� tre��:
+
+Czechy: Zgodnie z paragrafem 1801 Ustawy nr 89/2012 Coll. ("Kodeksu Cywilnego"), paragraf 1799 i paragraf 1800 Kodeksu Cywilnego z p�niejszymi zmianami nie maj� zastosowania do transakcji zawieranych na mocy niniejszej Umowy. Licencjobiorca akceptuje ryzyko zmiany okoliczno�ci podlegaj�cych paragrafowi 1765 Kodeksu Cywilnego.
+
+W akapicie j:
+
+Bu�garia, Chorwacja, Rosja, Serbia i S�owenia: nale�y usun�� drugie zdanie brzmi�ce nast�puj�co: "�adna ze Stron nie b�dzie podejmowa� dzia�a� prawnych w zwi�zku z Umow� po up�ywie dw�ch lat od momentu zaistnienia podstawy roszczeniowej".
+
+W akapicie j na ko�cu drugiego zdania nale�y doda� nast�puj�cy tekst:
+
+Litwa: , z zastrze�eniem przepis�w prawa
+
+W akapicie j nale�y zast�pi� drugie zdanie nast�puj�cym tekstem:
+
+Polska: �adna ze Stron nie b�dzie podejmowa� dzia�a� prawnych w zwi�zku z Umow� po up�ywie trzech lat od momentu zaistnienia podstawy roszczeniowej, z wyj�tkiem roszcze� z tytu�u braku p�atno�ci, kt�re nie b�d� wnoszone po up�ywie dw�ch lat od terminu nale�nej p�atno�ci.
+
+W akapicie j, w drugim zdaniu nale�y zast�pi� s�owo "dw�ch" nast�puj�cym s�owem:
+
+�otwa i Ukraina: trzech
+
+S�owacja: czterech
+
+W akapicie j, na ko�cu trzeciego zdania o tre�ci: "�adna ze Stron nie ponosi odpowiedzialno�ci z tytu�u niewywi�zania si� z jakichkolwiek zobowi�za� o charakterze niefinansowym z powodu zdarze� od niej niezale�nych", dodaje si� nast�puj�cy tekst:
+
+Rosja: , a w szczeg�lno�ci z powodu trz�sienia ziemi, powodzi, po�aru, katastrofy naturalnej, strajku (z wy��czeniem strajk�w pracownik�w Stron), wojny i dzia�a� wojskowych, embarga, blokady, sankcji mi�dzynarodowych lub nak�adanych przez rz�d krajowy, a tak�e dzia�a� w�a�ciwych urz�d�w.
+
+W akapicie j, trzecie zdanie o tre�ci: "�adna ze Stron nie ponosi odpowiedzialno�ci z tytu�u niewywi�zania si� z jakichkolwiek zobowi�za� o charakterze niefinansowym z powodu zdarze� od niej niezale�nych" nale�y zmodyfikowa� w nast�puj�cy spos�b:
+
+Ukraina: �adna ze Stron nie ponosi odpowiedzialno�ci z tytu�u niewywi�zania si� z jakichkolwiek zobowi�za� o charakterze niefinansowym z powodu niezale�nych od niej zdarze� lub zmian uregulowa� prawnych, a w szczeg�lno�ci z powodu obowi�zuj�cych w Stanach Zjednoczonych wymaga� przepis�w dotycz�cych importu, eksportu i sankcji ekonomicznych.
+
+Na ko�cu tego paragrafu dodaje si� nast�puj�cy nowy akapit l:
+
+W�gry: Zawieraj�c niniejsz� Umow�, Licencjobiorca potwierdza, �e zosta� wystarczaj�co poinformowany o wszelkich warunkach niniejszej Umowy i mia� mo�liwo�� ich negocjowania. Postanowienia okre�lone w nast�puj�cych paragrafach: "Licencja na Program"; "Gwarancje"; "Op�aty, podatki, p�atno�ci i weryfikacja"; "Odpowiedzialno�� i ochrona praw w�asno�ci intelektualnej"; "Rozwi�zanie umowy"; "Obowi�zuj�ce ustawodawstwo i zasi�g geograficzny" oraz "Postanowienia og�lne" mog� si� znacznie r�ni� od postanowie� stosowanych zwykle na mocy prawa w�gierskiego, a obie Strony akceptuj� te postanowienia poprzez podpisanie Umowy.
+
+Czechy: Licencjobiorca wyra�nie potwierdza, �e akceptuje postanowienia niniejszej Umowy obejmuj�ce nast�puj�ce istotne warunki handlowe: i)�ograniczenie i wy��czenie odpowiedzialno�ci z tytu�u defekt�w (Gwarancje); ii)�ograniczenie uprawnie� Licencjobiorcy do odszkodowa� (Odpowiedzialno�� i ochrona praw w�asno�ci intelektualnej); iii)�wi���cy charakter przepis�w dotycz�cych eksportu i importu (Obowi�zuj�ce ustawodawstwo i zasi�g geograficzny); iv)�skr�cone okresy ogranicze� (Postanowienia og�lne); v)�wy��czenie stosowania przepis�w w sprawie um�w adhezyjnych (Postanowienia og�lne); vi)�akceptacja ryzyka zmiany okoliczno�ci (Postanowienia og�lne).
+
+Rumunia: Licencjobiorca wyra�nie potwierdza akceptacj� nast�puj�cych klauzul standardowych, kt�re mog� zosta� uznane za "klauzule nietypowe" zgodnie z postanowieniami art. 1203 rumu�skiego Kodeksu Cywilnego (klauzule 2, 4, 5, 8j). Licencjobiorca niniejszym potwierdza, �e zosta� wystarczaj�co poinformowany o wszelkich warunkach niniejszej Umowy, w��czaj�c w to wymienione powy�ej klauzule, odpowiednio je przeanalizowa� i przyj�� do wiadomo�ci oraz mia� sposobno�� negocjacji warunk�w ka�dej z tych klauzul.
+
+i125-3301-15 (10-2021)
+

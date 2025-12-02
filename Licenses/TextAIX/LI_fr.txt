@@ -1,0 +1,28 @@
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Utilisation de Logiciels IBM (i125-3301-15) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM Workload Scheduler AIDA 10.2.3 (Tool)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Code Tiers Modifiable
+
+Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
+
+Les unités de mesure suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Unité de Valeur par Coeur Processeur (PVU)
+
+Le terme "Unité de Valeur par Coeur de Processeur (PVU)" désigne une unité de mesure selon laquelle le Logiciel est concédé sous licence. Le nombre d'Autorisations d'Utilisation pour les Unités de Valeur par Coeur de Processeur requises dépend de la technologie de processeur (déterminée selon le site Web Processor Value Unit (PVU) licensing for Distributed Software à l'adresse https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) ainsi que du nombre de Coeurs de Processeur auxquels le Logiciel peut accéder. Selon IBM, et dans le cadre de la concession de licence selon le nombre de PVU, un processeur désigne chaque Coeur de Processeur résidant sur une puce. Par exemple, une puce processeur à deux Coeurs comporte deux Coeurs de Processeur.
+
+Le Détenteur de la Licence peut déployer le Logiciel (le cas échéant) à l'aide d'une licence sans restriction d'utilisation, d'une licence par Tarification à l'Utilisation de la Capacité de Partition (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ou d'une licence par conteneur (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Pour plus d'informations, voir les sites Web associés.
+
+Au lieu des Autorisations d'Utilisation requises pour le Logiciel directement, le Détenteur de la Licence doit obtenir les Autorisations d'Utilisation du Logiciel couvrant les Coeurs Processeur pour les systèmes sur lesquels résident les ressources gérées ou traitées par le Logiciel.
+
+
+L/N: L-JUWE-FTMQAH
+D/N: L-JUWE-FTMQAH
+P/N: L-JUWE-FTMQAH
+
