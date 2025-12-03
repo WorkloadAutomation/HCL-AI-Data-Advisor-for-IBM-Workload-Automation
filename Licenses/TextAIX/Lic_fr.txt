@@ -3,7 +3,7 @@ INFORMATIONS SUR LA LICENCE
 Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Utilisation de Logiciels IBM (i125-3301-15) s'appliquent.
 
 Nom du Logiciel (Référence du Logiciel) : 
-IBM Workload Scheduler AIDA 10.2.4 (Tool)
+IBM Workload Scheduler AIDA 10.2.6 (Tool)
 
 Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
 
@@ -22,9 +22,9 @@ Le Détenteur de la Licence peut déployer le Logiciel (le cas échéant) à l'a
 Au lieu des Autorisations d'Utilisation requises pour le Logiciel directement, le Détenteur de la Licence doit obtenir les Autorisations d'Utilisation du Logiciel couvrant les Coeurs Processeur pour les systèmes sur lesquels résident les ressources gérées ou traitées par le Logiciel.
 
 
-L/N: L-JUWE-FTMQAH
-D/N: L-JUWE-FTMQAH
-P/N: L-JUWE-FTMQAH
+L/N: L-PNAH-TL6GFM
+D/N: L-PNAH-TL6GFM
+P/N: L-PNAH-TL6GFM
 
 Conditions Internationales d'Utilisation de Logiciels IBM
 

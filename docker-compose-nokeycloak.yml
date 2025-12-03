@@ -3,7 +3,7 @@ version: '3.0'
 services:
 
     config:
-        image: cp.icr.io/cp/ibm-workload-automation-aida-config:10.2.4
+        image: cp.icr.io/cp/ibm-workload-automation-aida-config:10.2.6
         logging:
           options:
             max-size: "100m"

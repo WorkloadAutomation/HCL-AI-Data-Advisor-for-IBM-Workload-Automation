@@ -1,216 +1,216 @@
-Lï¿½SANS Bï¿½LGï¿½LERï¿½
+LÝSANS BÝLGÝLERÝ
 
-Aï¿½aï¿½ï¿½da listelenen programlar, daha ï¿½nce Mï¿½ï¿½teri ve IBM tarafï¿½ndan kabul edilen Program lisansï¿½ koï¿½ullarï¿½na ek olarak aï¿½aï¿½ï¿½daki Lisans Bilgilerinin kayï¿½t ve koï¿½ullarï¿½ kapsamï¿½nda lisanslanï¿½r. Mï¿½ï¿½teri, Programa iliï¿½kin yï¿½rï¿½rlï¿½kte olan lisans koï¿½ullarï¿½nï¿½ daha ï¿½nce kabul etmemiï¿½se, Uluslararasï¿½ Program Lisans Sï¿½zleï¿½mesi (i125-3301-15) geï¿½erli olur.
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Uluslararasý Program Lisans Sözleþmesi (i125-3301-15) geçerli olur.
 
-Program Adï¿½ (Program Numarasï¿½):
-IBM Workload Scheduler AIDA 10.2.4 (Tool)
+Program Adý (Program Numarasý):
+IBM Workload Scheduler AIDA 10.2.6 (Tool)
 
-Aï¿½aï¿½ï¿½daki standart koï¿½ullar, Lisans Alan Tarafï¿½n Programï¿½ kullanï¿½mï¿½ iï¿½in geï¿½erlidir.
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
 
-Deï¿½iï¿½tirilebilir ï¿½ï¿½ï¿½ncï¿½ Kiï¿½i Kodu
+Deðiþtirilebilir Üçüncü Kiþi Kodu
 
-IBM'in, varsa, NOTICES dosyasï¿½nda ï¿½ï¿½ï¿½ncï¿½ kiï¿½i kodunu "Deï¿½iï¿½tirilebilir ï¿½ï¿½ï¿½ncï¿½ Kiï¿½i Kodu" olarak tanï¿½mladï¿½ï¿½ï¿½ ï¿½lï¿½ï¿½de, IBM, Lisans Alan Tarafa 1) Deï¿½iï¿½tirilebilir ï¿½ï¿½ï¿½ncï¿½ Kiï¿½i Kodunu deï¿½iï¿½tirme ve 2) yalnï¿½zca Lisans Alan Tarafï¿½n anï¿½lan ï¿½ï¿½ï¿½ncï¿½ kiï¿½i kodu ï¿½zerinde yaptï¿½ï¿½ï¿½ deï¿½iï¿½ikliklerinden kaynaklanan hatalarï¿½n ayï¿½klanmasï¿½ amacï¿½yla, Deï¿½iï¿½tirilebilir ï¿½ï¿½ï¿½ncï¿½ Kiï¿½i Kodu ile doï¿½rudan arayï¿½zï¿½ olan Program modï¿½lleri ï¿½zerinde tersine mï¿½hendislik gerï¿½ekleï¿½tirme yetkisi verir. Varsa, IBM'in hizmet ve destek yï¿½kï¿½mlï¿½lï¿½kleri yalnï¿½zca deï¿½iï¿½iklik yapï¿½lmamï¿½ï¿½ Program iï¿½in geï¿½erlidir.
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
 
-Aï¿½aï¿½ï¿½daki ï¿½lï¿½ï¿½ birimleri, Lisans Alan Tarafï¿½n Programï¿½ kullanï¿½mï¿½ iï¿½in geï¿½erli olabilir.
+Aþaðýdaki ölçü birimleri, Lisans Alan Tarafýn Programý kullanýmý için geçerli olabilir.
 
-ï¿½ï¿½lemci Deï¿½er Birimi (PVU)
+Ýþlemci Deðer Birimi (PVU)
 
-ï¿½ï¿½lemci Deï¿½er Birimi (PVU), bu Programï¿½n lisanslanabileceï¿½i bir ï¿½lï¿½ï¿½ birimidir. Gereken ï¿½ï¿½lemci Deï¿½er Birimi (PVU) yetkilerinin sayï¿½sï¿½ hesaplanï¿½rken, iï¿½lemci teknolojisi (https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html adresindeki Daï¿½ï¿½nï¿½k Yazï¿½lï¿½mlar web sitesi iï¿½in ï¿½ï¿½lemci Deï¿½er Birimi (PVU) esasï¿½yla lisanslamada tanï¿½mlanï¿½r) ve Program iï¿½in kullanï¿½ma sunulan iï¿½lemci sayï¿½sï¿½ esas alï¿½nï¿½r. IBM, ï¿½ï¿½lemci Deï¿½er Birimi esasï¿½nda lisanslamanï¿½n amacï¿½ doï¿½rultusunda bir ï¿½ip ï¿½zerinde yer alan her iï¿½lemci ï¿½ekirdeï¿½i iï¿½in bir iï¿½lemci tanï¿½mlamaya devam eder. ï¿½rneï¿½in, bir ï¿½ift ï¿½ekirdekli iï¿½lemci ï¿½ipinde iki adet iï¿½lemci ï¿½ekirdeï¿½i bulunur.
+Ýþlemci Deðer Birimi (PVU), bu Programýn lisanslanabileceði bir ölçü birimidir. Gereken Ýþlemci Deðer Birimi (PVU) yetkilerinin sayýsý hesaplanýrken, iþlemci teknolojisi (https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html adresindeki Daðýnýk Yazýlýmlar web sitesi için Ýþlemci Deðer Birimi (PVU) esasýyla lisanslamada tanýmlanýr) ve Program için kullanýma sunulan iþlemci sayýsý esas alýnýr. IBM, Ýþlemci Deðer Birimi esasýnda lisanslamanýn amacý doðrultusunda bir çip üzerinde yer alan her iþlemci çekirdeði için bir iþlemci tanýmlamaya devam eder. Örneðin, bir çift çekirdekli iþlemci çipinde iki adet iþlemci çekirdeði bulunur.
 
-Lisans Alan Taraf, Programï¿½ (destekleniyorsa), tam kapasite lisanslamasï¿½nï¿½, alt kapasite lisanslamasï¿½nï¿½ (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamasï¿½nï¿½ (https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek iï¿½in baaï¿½lantï¿½sï¿½ verilen web sitelerine bakï¿½n.
+Lisans Alan Taraf, Programý (destekleniyorsa), tam kapasite lisanslamasýný, alt kapasite lisanslamasýný (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamasýný (https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek için baaðlantýsý verilen web sitelerine bakýn.
 
-Lisans Alan Taraf, bu Program iï¿½in doï¿½rudan edinilmesi gereken yetkilerin yerine, bu Program iï¿½in, Program tarafï¿½ndan yï¿½netilen veya iï¿½lenen kaynaklarï¿½n ï¿½zerinde bulunduï¿½u sistemler iï¿½in iï¿½lemci ï¿½ekirdeklerini kapsamaya yetecek sayï¿½da ï¿½ï¿½lemci Deï¿½er Birimi yetkisi edinmelidir.
+Lisans Alan Taraf, bu Program için doðrudan edinilmesi gereken yetkilerin yerine, bu Program için, Program tarafýndan yönetilen veya iþlenen kaynaklarýn üzerinde bulunduðu sistemler için iþlemci çekirdeklerini kapsamaya yetecek sayýda Ýþlemci Deðer Birimi yetkisi edinmelidir.
 
 
-L/N: L-JUWE-FTMQAH
-D/N: L-JUWE-FTMQAH
-P/N: L-JUWE-FTMQAH
+L/N: L-PNAH-TL6GFM
+D/N: L-PNAH-TL6GFM
+P/N: L-PNAH-TL6GFM
 
-Uluslararasï¿½ Program Lisans Sï¿½zleï¿½mesi
+Uluslararasý Program Lisans Sözleþmesi
 
-Bï¿½lï¿½m 1 - Genel Koï¿½ullar
+Bölüm 1 - Genel Koþullar
 
-Lï¿½SANS ALAN TARAF, PROGRAMI KARï¿½IDAN Yï¿½KLEYEREK, KURARAK, KOPYALAYARAK, PROGRAMA ERï¿½ï¿½EREK, "KABUL EDï¿½YORUM" Dï¿½ï¿½MESï¿½Nï¿½ TIKLAYARAK YA DA PROGRAMI Dï¿½ï¿½ER HERHANGï¿½ Bï¿½R Bï¿½ï¿½ï¿½MDE KULLANARAK BU Sï¿½ZLEï¿½MENï¿½N KOï¿½ULLARINI KABUL EDER. BU KOï¿½ULLARI Lï¿½SANS ALAN TARAF ADINA KABUL EDï¿½YORSANIZ, BU KOï¿½ULLARI Lï¿½SANS ALAN TARAF ADINA BAï¿½LAYICI OLACAK ï¿½EKï¿½LDE KABUL ETMEK ï¿½ï¿½ï¿½N TAM YETKï¿½YE SAHï¿½P OLDUï¿½UNUZU BEYAN ETMï¿½ï¿½ OLURSUNUZ.
+LÝSANS ALAN TARAF, PROGRAMI KARÞIDAN YÜKLEYEREK, KURARAK, KOPYALAYARAK, PROGRAMA ERÝÞEREK, "KABUL EDÝYORUM" DÜÐMESÝNÝ TIKLAYARAK YA DA PROGRAMI DÝÐER HERHANGÝ BÝR BÝÇÝMDE KULLANARAK BU SÖZLEÞMENÝN KOÞULLARINI KABUL EDER. BU KOÞULLARI LÝSANS ALAN TARAF ADINA KABUL EDÝYORSANIZ, BU KOÞULLARI LÝSANS ALAN TARAF ADINA BAÐLAYICI OLACAK ÞEKÝLDE KABUL ETMEK ÝÇÝN TAM YETKÝYE SAHÝP OLDUÐUNUZU BEYAN ETMÝÞ OLURSUNUZ.
 
-BU KOï¿½ULLARI KABUL ETMï¿½YORSANIZ VEYA YETKï¿½Nï¿½Z YOKSA: i) BU PROGRAMI Yï¿½KLEMEYï¿½Nï¿½Z, KURMAYINIZ, KOPYALAMAYINIZ, PROGRAMA ERï¿½ï¿½MEYï¿½Nï¿½Z, "KABUL EDï¿½YORUM" Dï¿½ï¿½MESï¿½Nï¿½ TIKLAMAYINIZ VEYA PROGRAMI KULLANMAYINIZ VE ii) ï¿½DEDï¿½ï¿½ï¿½Nï¿½Z TUTARI GERï¿½ ALMAK ï¿½ï¿½ï¿½N, KULLANILMAMIï¿½ ORTAMLARI, BELGELERï¿½ VE YETKï¿½ BELGESï¿½Nï¿½ PROGRAMI EDï¿½NDï¿½ï¿½ï¿½Nï¿½Z TARAFA DERHAL ï¿½ADE EDï¿½Nï¿½Z. PROGRAM Yï¿½KLENDï¿½YSE, PROGRAMIN Tï¿½M KOPYALARINI ï¿½MHA EDï¿½Nï¿½Z.
+BU KOÞULLARI KABUL ETMÝYORSANIZ VEYA YETKÝNÝZ YOKSA: i) BU PROGRAMI YÜKLEMEYÝNÝZ, KURMAYINIZ, KOPYALAMAYINIZ, PROGRAMA ERÝÞMEYÝNÝZ, "KABUL EDÝYORUM" DÜÐMESÝNÝ TIKLAMAYINIZ VEYA PROGRAMI KULLANMAYINIZ VE ii) ÖDEDÝÐÝNÝZ TUTARI GERÝ ALMAK ÝÇÝN, KULLANILMAMIÞ ORTAMLARI, BELGELERÝ VE YETKÝ BELGESÝNÝ PROGRAMI EDÝNDÝÐÝNÝZ TARAFA DERHAL ÝADE EDÝNÝZ. PROGRAM YÜKLENDÝYSE, PROGRAMIN TÜM KOPYALARINI ÝMHA EDÝNÝZ.
 
-Bu Uluslararasï¿½ Program Lisans Sï¿½zleï¿½mesi (UPLS) ve geï¿½erli ï¿½ï¿½lem Belgeleri (birlikte "Sï¿½zleï¿½me"), bir Programï¿½n kullanï¿½mï¿½yla ilgili olarak Lisans Alan Taraf ile IBM arasï¿½ndaki sï¿½zleï¿½menin tamamï¿½nï¿½ oluï¿½turur. Bu UPLS'de Bï¿½lï¿½m 2'de yer alan ï¿½lkeye ï¿½zgï¿½ koï¿½ullar, Bï¿½lï¿½m 1'deki koï¿½ullarï¿½n yerine geï¿½er veya onlarï¿½ deï¿½iï¿½tirir.
+Bu Uluslararasý Program Lisans Sözleþmesi (UPLS) ve geçerli Ýþlem Belgeleri (birlikte "Sözleþme"), bir Programýn kullanýmýyla ilgili olarak Lisans Alan Taraf ile IBM arasýndaki sözleþmenin tamamýný oluþturur. Bu UPLS'de Bölüm 2'de yer alan ülkeye özgü koþullar, Bölüm 1'deki koþullarýn yerine geçer veya onlarý deðiþtirir.
 
-ï¿½ï¿½lem Belgelerinde, Programla ve onun yetkili kullanï¿½mï¿½yla ilgili tanï¿½m, bilgi ve koï¿½ullar saï¿½lanï¿½r. Programlara iliï¿½kin ï¿½ï¿½lem Belgelerine ï¿½rnekler arasï¿½nda lisans bilgileri, lisanslï¿½ program belirtimleri, fiyat teklifi, yetki belgesi veya fatura yer alï¿½r. Herhangi bir ï¿½eliï¿½ki olmasï¿½ halinde ï¿½ï¿½lem Belgesi, UPLS'den ï¿½ncelikli olarak uygulanacaktï¿½r.
+Ýþlem Belgelerinde, Programla ve onun yetkili kullanýmýyla ilgili taným, bilgi ve koþullar saðlanýr. Programlara iliþkin Ýþlem Belgelerine örnekler arasýnda lisans bilgileri, lisanslý program belirtimleri, fiyat teklifi, yetki belgesi veya fatura yer alýr. Herhangi bir çeliþki olmasý halinde Ýþlem Belgesi, UPLS'den öncelikli olarak uygulanacaktýr.
 
-1. Program Lisansï¿½
+1. Program Lisansý
 
-a. Bir Program, IBM markalï¿½, ï¿½alï¿½ï¿½tï¿½rï¿½labilir bir bilgisayar programï¿½ ve bununla ilgili malzemelerdir. Program, tam ve kï¿½smi kopyalarï¿½ iï¿½erir. Program ayrï¿½ntï¿½larï¿½ http://www.ibm.com/software/sla (Passport Advantage Programlarï¿½ iï¿½in) veya http://www.ibm.com/support/knowledgecenter (diï¿½er IBM Programlarï¿½ iï¿½in) adresinde, Programï¿½n sistem komut dizininde veya IBM tarafï¿½ndan baï¿½ka ï¿½ekilde belirtilen bir adreste yer alan bir ï¿½ï¿½lem Belgesinde aï¿½ï¿½klanï¿½r. Lisans Alan Tarafï¿½n Programlarï¿½ kullanï¿½mï¿½ iï¿½in http://www.ibm.com/softwarepolicies adresinde yer alan IBM yazï¿½lï¿½m ilkeleri (ï¿½rneï¿½in, yedekleme, geï¿½ici kullanï¿½m ve IBM'in onayladï¿½ï¿½ï¿½ bulut ortamï¿½) geï¿½erlidir.
+a. Bir Program, IBM markalý, çalýþtýrýlabilir bir bilgisayar programý ve bununla ilgili malzemelerdir. Program, tam ve kýsmi kopyalarý içerir. Program ayrýntýlarý http://www.ibm.com/software/sla (Passport Advantage Programlarý için) veya http://www.ibm.com/support/knowledgecenter (diðer IBM Programlarý için) adresinde, Programýn sistem komut dizininde veya IBM tarafýndan baþka þekilde belirtilen bir adreste yer alan bir Ýþlem Belgesinde açýklanýr. Lisans Alan Tarafýn Programlarý kullanýmý için http://www.ibm.com/softwarepolicies adresinde yer alan IBM yazýlým ilkeleri (örneðin, yedekleme, geçici kullaným ve IBM'in onayladýðý bulut ortamý) geçerlidir.
 
-b. Programlarï¿½n kopyalarï¿½ telif hakkï¿½na tabidir ve lisanslanï¿½r.
+b. Programlarýn kopyalarý telif hakkýna tabidir ve lisanslanýr.
 
-c. Lisans Alan Tarafa aï¿½aï¿½ï¿½dakileri yerine getirmek iï¿½in mï¿½nhasï¿½r olmayan bir lisans verilir:
+c. Lisans Alan Tarafa aþaðýdakileri yerine getirmek için münhasýr olmayan bir lisans verilir:
 
-(1) Programï¿½n her bir kopyasï¿½nï¿½n, Sï¿½zleï¿½menin koï¿½ullarï¿½na tabi olarak ve Lisans Alan Tarafï¿½n edindiï¿½i lisans yetkisi sayï¿½sï¿½na kadar olacak ï¿½ekilde kullanï¿½lmasï¿½ ("Yetkili Kullanï¿½m");
+(1) Programýn her bir kopyasýnýn, Sözleþmenin koþullarýna tabi olarak ve Lisans Alan Tarafýn edindiði lisans yetkisi sayýsýna kadar olacak þekilde kullanýlmasý ("Yetkili Kullaným");
 
-(2) Sï¿½z konusu Yetkili Kullanï¿½mï¿½ desteklemek iï¿½in kopyalarï¿½n ï¿½ï¿½karï¿½lmasï¿½ ve kurulmasï¿½; ve
+(2) Söz konusu Yetkili Kullanýmý desteklemek için kopyalarýn çýkarýlmasý ve kurulmasý; ve
 
-(3) Yedek kopyanï¿½n ï¿½ï¿½karï¿½lmasï¿½.
+(3) Yedek kopyanýn çýkarýlmasý.
 
-d. Programlar, Lisans Alan Taraf, onun ï¿½alï¿½ï¿½anlarï¿½ ve yï¿½klenicileri tarafï¿½ndan kullanï¿½labilir. Lisans Alan Taraf, bir Programï¿½ kiraya veremez veya finansal kiralama yapamaz veya herhangi bir ï¿½ï¿½ï¿½ncï¿½ kiï¿½iye ticari BT, barï¿½ndï¿½rma ya da sï¿½re paylaï¿½ï¿½mï¿½ hizmetleri saï¿½layamaz. Ek ï¿½cretler karï¿½ï¿½lï¿½ï¿½ï¿½nda ya da farklï¿½ koï¿½ullar uyarï¿½nca saï¿½lanan ek haklar sï¿½z konusu olabilir.
+d. Programlar, Lisans Alan Taraf, onun çalýþanlarý ve yüklenicileri tarafýndan kullanýlabilir. Lisans Alan Taraf, bir Programý kiraya veremez veya finansal kiralama yapamaz veya herhangi bir üçüncü kiþiye ticari BT, barýndýrma ya da süre paylaþýmý hizmetleri saðlayamaz. Ek ücretler karþýlýðýnda ya da farklý koþullar uyarýnca saðlanan ek haklar söz konusu olabilir.
 
-e. Bir Program iï¿½in verilen lisans, Lisans Alan Tarafï¿½n aï¿½aï¿½ï¿½dakileri yerine getirmesine tabidir:
+e. Bir Program için verilen lisans, Lisans Alan Tarafýn aþaðýdakileri yerine getirmesine tabidir:
 
-(1) Telif hakkï¿½ bildirimlerinin ve diï¿½er iï¿½aretlerin kopyalara eklenmesi;
+(1) Telif hakký bildirimlerinin ve diðer iþaretlerin kopyalara eklenmesi;
 
-(2) Programï¿½ kullanan tï¿½m kiï¿½ilerin i) bunu yalnï¿½zca Lisans Alan Tarafï¿½n Yetkili Kullanï¿½mï¿½ dahilinde Lisans Alan Tarafï¿½n adï¿½na yapmasï¿½; ve ii) bu Sï¿½zleï¿½meye uymasï¿½;
+(2) Programý kullanan tüm kiþilerin i) bunu yalnýzca Lisans Alan Tarafýn Yetkili Kullanýmý dahilinde Lisans Alan Tarafýn adýna yapmasý; ve ii) bu Sözleþmeye uymasý;
 
-(3) Geï¿½erli yasalarï¿½n sï¿½zleï¿½me ile deï¿½iï¿½tirilmesine olanak tanï¿½mayarak aï¿½ï¿½kï¿½a izin verdiï¿½i durumlar dï¿½ï¿½ï¿½nda, Program ï¿½zerinde tersine derleme, tersine dï¿½zenleme, ï¿½eviri veya tersine mï¿½hendislik gerï¿½ekleï¿½tirilmemesi; ve
+(3) Geçerli yasalarýn sözleþme ile deðiþtirilmesine olanak tanýmayarak açýkça izin verdiði durumlar dýþýnda, Program üzerinde tersine derleme, tersine düzenleme, çeviri veya tersine mühendislik gerçekleþtirilmemesi; ve
 
-(4) Program bileï¿½enlerinin veya ilgili lisanslï¿½ malzemelerin Programdan ayrï¿½ olarak kullanï¿½lmamasï¿½.
+(4) Program bileþenlerinin veya ilgili lisanslý malzemelerin Programdan ayrý olarak kullanýlmamasý.
 
-f. Bir Programa ("Asï¿½l Program") iliï¿½kin ï¿½ï¿½lem Belgesinde , Asï¿½l Programla birlikte bir "Destekleyici Programï¿½n" yer aldï¿½ï¿½ï¿½ belirtiliyorsa, Lisans Alan Taraf, Destekleyici Programï¿½ Asï¿½l Programï¿½n lisans sï¿½nï¿½rlamalarï¿½na tabi olarak ve yalnï¿½zca Asï¿½l Programï¿½ desteklemek amacï¿½yla kullanabilir.
+f. Bir Programa ("Asýl Program") iliþkin Ýþlem Belgesinde , Asýl Programla birlikte bir "Destekleyici Programýn" yer aldýðý belirtiliyorsa, Lisans Alan Taraf, Destekleyici Programý Asýl Programýn lisans sýnýrlamalarýna tabi olarak ve yalnýzca Asýl Programý desteklemek amacýyla kullanabilir.
 
-g. Bu lisans, Lisans Alan Tarafï¿½n oluï¿½turduï¿½u her Program kopyasï¿½ iï¿½in geï¿½erlidir.
+g. Bu lisans, Lisans Alan Tarafýn oluþturduðu her Program kopyasý için geçerlidir.
 
-h. Programa iliï¿½kin bir gï¿½ncelleme, dï¿½zeltme veya yama, gï¿½ncellenmiï¿½ bir ï¿½ï¿½lem Belgesinde yeni koï¿½ullar saï¿½lanmadï¿½ï¿½ï¿½ sï¿½rece Programï¿½n tabi olduï¿½u koï¿½ullara tabidir. Lisans Alan Taraf, gï¿½ncelleme, dï¿½zeltme veya yama kurulduï¿½unda bu yeni koï¿½ullarï¿½ kabul etmiï¿½ olur. Lisans Alan Taraf, bir gï¿½ncellemenin Programï¿½n yerini almasï¿½ halinde, gï¿½ncellemeden ï¿½nce kullanï¿½lan Programï¿½n kullanï¿½mï¿½na derhal son vermeyi kabul eder.
+h. Programa iliþkin bir güncelleme, düzeltme veya yama, güncellenmiþ bir Ýþlem Belgesinde yeni koþullar saðlanmadýðý sürece Programýn tabi olduðu koþullara tabidir. Lisans Alan Taraf, güncelleme, düzeltme veya yama kurulduðunda bu yeni koþullarý kabul etmiþ olur. Lisans Alan Taraf, bir güncellemenin Programýn yerini almasý halinde, güncellemeden önce kullanýlan Programýn kullanýmýna derhal son vermeyi kabul eder.
 
-i. Lisans Alan Tarafï¿½n herhangi bir nedenle bir Programdan memnun kalmamasï¿½ halinde, Lisans Alan Taraf, ï¿½denen tutarï¿½ geri almak iï¿½in Programï¿½ ve yetki belgesini sï¿½z konusu Programï¿½n ilk satï¿½n alï¿½ndï¿½ï¿½ï¿½ tarihten sonra 30 gï¿½n iï¿½inde IBM'e veya yetkili IBM ï¿½ï¿½zï¿½m Ortaï¿½ï¿½na iade ederek lisansï¿½ sona erdirebilir. Yï¿½klenen bir Program iï¿½in geri ï¿½deme yï¿½nergeleri alï¿½nmasï¿½ amacï¿½yla Lisans Alan Tarafï¿½n Programï¿½ satï¿½n aldï¿½ï¿½ï¿½ tarafla iletiï¿½im kurulmalï¿½dï¿½r.
+i. Lisans Alan Tarafýn herhangi bir nedenle bir Programdan memnun kalmamasý halinde, Lisans Alan Taraf, ödenen tutarý geri almak için Programý ve yetki belgesini söz konusu Programýn ilk satýn alýndýðý tarihten sonra 30 gün içinde IBM'e veya yetkili IBM Çözüm Ortaðýna iade ederek lisansý sona erdirebilir. Yüklenen bir Program için geri ödeme yönergeleri alýnmasý amacýyla Lisans Alan Tarafýn Programý satýn aldýðý tarafla iletiþim kurulmalýdýr.
 
 2. Garantiler
 
-a. IBM, tanï¿½mlanmï¿½ï¿½ iï¿½letim ortamï¿½nda kullanï¿½ldï¿½ï¿½ï¿½nda bir Programï¿½n IBM'in resmi olarak yayï¿½nlanmï¿½ï¿½ belirtimlerine uygun olacaï¿½ï¿½nï¿½ garanti eder. Bir Program iï¿½in garanti sï¿½resi, bir ï¿½ï¿½lem Belgesinde baï¿½ka bir garanti sï¿½resi belirtilmedikï¿½e, satï¿½n alma tarihinden itibaren 12 aydï¿½r ya da 12 aydan kï¿½sa ise ilk lisans sï¿½resine eï¿½ittir.
+a. IBM, tanýmlanmýþ iþletim ortamýnda kullanýldýðýnda bir Programýn IBM'in resmi olarak yayýnlanmýþ belirtimlerine uygun olacaðýný garanti eder. Bir Program için garanti süresi, bir Ýþlem Belgesinde baþka bir garanti süresi belirtilmedikçe, satýn alma tarihinden itibaren 12 aydýr ya da 12 aydan kýsa ise ilk lisans süresine eþittir.
 
-b. Garanti sï¿½resi boyunca Lisans Alan Taraf, http://www.ibm.com/support/pages/node/733923 adresinde yer alan IBM Destek Rehberinde aï¿½ï¿½klandï¿½ï¿½ï¿½ ï¿½ekilde bilinen Program hatalarï¿½, hata dï¿½zeltmeleri, kï¿½sï¿½tlamalar ve geï¿½ici ï¿½ï¿½zï¿½mlere iliï¿½kin bilgi iï¿½eren IBM veritabanlarï¿½na eriï¿½ime sahip olacaktï¿½r.
+b. Garanti süresi boyunca Lisans Alan Taraf, http://www.ibm.com/support/pages/node/733923 adresinde yer alan IBM Destek Rehberinde açýklandýðý þekilde bilinen Program hatalarý, hata düzeltmeleri, kýsýtlamalar ve geçici çözümlere iliþkin bilgi içeren IBM veritabanlarýna eriþime sahip olacaktýr.
 
-c. Bir Program Garanti Sï¿½resi boyunca garanti edildiï¿½i ï¿½ekilde ï¿½alï¿½ï¿½mï¿½yorsa ve sorun IBM veritabanlarï¿½nda saï¿½lanan bilgilerle ï¿½ï¿½zï¿½lemiyorsa, Lisans Alan Taraf, ï¿½dediï¿½i tutarï¿½ geri almak ï¿½zere Programï¿½ ve yetki belgesini IBM'e veya IBM ï¿½ï¿½zï¿½m Ortaï¿½ï¿½na iade edebilir ve bï¿½ylece Lisans Alan Tarafï¿½n lisansï¿½ sona erdirilir.
+c. Bir Program Garanti Süresi boyunca garanti edildiði þekilde çalýþmýyorsa ve sorun IBM veritabanlarýnda saðlanan bilgilerle çözülemiyorsa, Lisans Alan Taraf, ödediði tutarý geri almak üzere Programý ve yetki belgesini IBM'e veya IBM Çözüm Ortaðýna iade edebilir ve böylece Lisans Alan Tarafýn lisansý sona erdirilir.
 
-d. IBM, bir IBM Programï¿½nï¿½n kesintisiz ya da hatasï¿½z bir ï¿½ekilde ï¿½alï¿½ï¿½acaï¿½ï¿½nï¿½ ya da tï¿½m kusurlarï¿½ gidereceï¿½ini veya ï¿½ï¿½ï¿½ncï¿½ kiï¿½ilerden kaynaklanan aksaklï¿½klarï¿½ ï¿½nleyeceï¿½ini garanti etmez. Bu garantiler, IBM tarafï¿½ndan saï¿½lanan mï¿½nhasï¿½r garantilerdir ve tatmin edici kaliteye, bir ï¿½rï¿½n veya hizmetin ticari satï¿½ï¿½ koï¿½ullarï¿½na, hak ihlali yapï¿½lmayacaï¿½ï¿½na ve belirli bir amaca uygunluï¿½a iliï¿½kin zï¿½mni garanti ya da koï¿½ullar dahil olmak ï¿½zere diï¿½er tï¿½m garantilerin yerine geï¿½er. Hatalï¿½ kullanï¿½m, deï¿½iï¿½iklik, IBM'den kaynaklanmayan hasar veya IBM tarafï¿½ndan saï¿½lanan yazï¿½lï¿½ yï¿½nergelere uyulmamasï¿½ durumunda IBM garantileri geï¿½ersiz olacaktï¿½r. IBM Dï¿½ï¿½ï¿½ Programlar hiï¿½bir garanti verilmeksizin, olduï¿½u gibi saï¿½lanï¿½r. ï¿½ï¿½ï¿½ncï¿½ kiï¿½iler, Lisans Alan Tarafa kendi garantilerini sunabilirler.
+d. IBM, bir IBM Programýnýn kesintisiz ya da hatasýz bir þekilde çalýþacaðýný ya da tüm kusurlarý gidereceðini veya üçüncü kiþilerden kaynaklanan aksaklýklarý önleyeceðini garanti etmez. Bu garantiler, IBM tarafýndan saðlanan münhasýr garantilerdir ve tatmin edici kaliteye, bir ürün veya hizmetin ticari satýþ koþullarýna, hak ihlali yapýlmayacaðýna ve belirli bir amaca uygunluða iliþkin zýmni garanti ya da koþullar dahil olmak üzere diðer tüm garantilerin yerine geçer. Hatalý kullaným, deðiþiklik, IBM'den kaynaklanmayan hasar veya IBM tarafýndan saðlanan yazýlý yönergelere uyulmamasý durumunda IBM garantileri geçersiz olacaktýr. IBM Dýþý Programlar hiçbir garanti verilmeksizin, olduðu gibi saðlanýr. Üçüncü kiþiler, Lisans Alan Tarafa kendi garantilerini sunabilirler.
 
-e. Garanti sï¿½resi boyunca veya sonrasï¿½nda mevcut ek destek hizmeti ayrï¿½ bir sï¿½zleï¿½me kapsamï¿½nda saï¿½lanabilir.
+e. Garanti süresi boyunca veya sonrasýnda mevcut ek destek hizmeti ayrý bir sözleþme kapsamýnda saðlanabilir.
 
-3. ï¿½cretler, Vergiler, ï¿½deme ve Doï¿½rulama
+3. Ücretler, Vergiler, Ödeme ve Doðrulama
 
-a. Lisans Alan Tarafï¿½n bir Programï¿½ kullanma hakkï¿½, kapsamï¿½nda Lisans Alan Tarafï¿½n lisans yetkilerini satï¿½n aldï¿½ï¿½ï¿½ sï¿½zleï¿½mede belirtilen geï¿½erli ï¿½cretlerin Lisans Alan Tarafï¿½a ï¿½denmesi koï¿½uluna baï¿½lï¿½dï¿½r. Lisans Alan Taraf, kendi kullanï¿½mï¿½nï¿½ artï¿½rmadan ï¿½nce ek lisans yetkilerinin satï¿½n alï¿½nmasï¿½ndan sorumludur.
+a. Lisans Alan Tarafýn bir Programý kullanma hakký, kapsamýnda Lisans Alan Tarafýn lisans yetkilerini satýn aldýðý sözleþmede belirtilen geçerli ücretlerin Lisans Alan Tarafça ödenmesi koþuluna baðlýdýr. Lisans Alan Taraf, kendi kullanýmýný artýrmadan önce ek lisans yetkilerinin satýn alýnmasýndan sorumludur.
 
-b. Lisans Alan Taraf, satï¿½n alï¿½nan yetkiler iï¿½in belirtilen geï¿½erli tï¿½m ï¿½cretleri ve yetkileri aï¿½an kullanï¿½mlara iliï¿½kin ï¿½cretleri ï¿½demeyi kabul eder. ï¿½cretlere, Lisans Alan Tarafï¿½n yaptï¿½ï¿½ï¿½ satï¿½n alï¿½mlara herhangi bir resmi kurum tarafï¿½ndan uygulanan herhangi bir gï¿½mrï¿½k vergisi ya da diï¿½er herhangi bir resim, vergi ve benzer harï¿½lar dahil deï¿½ildir. Bunlar, Lisans Alan Tarafï¿½n satï¿½n alï¿½mlarï¿½na iliï¿½kin ï¿½cretlere ek olarak fatura edilecektir. Tutarlar IBM'in faturasï¿½ teslim alï¿½ndï¿½ï¿½ï¿½nda muaccel olur ve fatura tarihini izleyen 30 gï¿½n iï¿½erisinde IBM tarafï¿½ndan belirtilen bir hesaba ï¿½denir ve gecikme faizi uygulanabilir. Lisans Alan Taraf, kendi kullanï¿½mï¿½nï¿½ artï¿½rmadan ï¿½nce ek lisans yetkilerinin doï¿½ru bir ï¿½ekilde satï¿½n alï¿½nmasï¿½ndan sorumludur. IBM, bu UPLS'de, geï¿½erli ï¿½ï¿½lem Belgesinde veya kapsamï¿½nda Lisans Alan Tarafï¿½n lisans yetkilerini satï¿½n aldï¿½ï¿½ï¿½ sï¿½zleï¿½menin koï¿½ullarï¿½nda belirtilenler haricinde, vadesi gelmiï¿½ veya ï¿½denmiï¿½ ï¿½cretler iï¿½in alacak kaydetmez veya geri ï¿½deme yapmaz.
+b. Lisans Alan Taraf, satýn alýnan yetkiler için belirtilen geçerli tüm ücretleri ve yetkileri aþan kullanýmlara iliþkin ücretleri ödemeyi kabul eder. Ücretlere, Lisans Alan Tarafýn yaptýðý satýn alýmlara herhangi bir resmi kurum tarafýndan uygulanan herhangi bir gümrük vergisi ya da diðer herhangi bir resim, vergi ve benzer harçlar dahil deðildir. Bunlar, Lisans Alan Tarafýn satýn alýmlarýna iliþkin ücretlere ek olarak fatura edilecektir. Tutarlar IBM'in faturasý teslim alýndýðýnda muaccel olur ve fatura tarihini izleyen 30 gün içerisinde IBM tarafýndan belirtilen bir hesaba ödenir ve gecikme faizi uygulanabilir. Lisans Alan Taraf, kendi kullanýmýný artýrmadan önce ek lisans yetkilerinin doðru bir þekilde satýn alýnmasýndan sorumludur. IBM, bu UPLS'de, geçerli Ýþlem Belgesinde veya kapsamýnda Lisans Alan Tarafýn lisans yetkilerini satýn aldýðý sözleþmenin koþullarýnda belirtilenler haricinde, vadesi gelmiþ veya ödenmiþ ücretler için alacak kaydetmez veya geri ödeme yapmaz.
 
-c. Satï¿½n alï¿½nan yetkilere dayalï¿½ olarak Lisans Alan Taraf aï¿½aï¿½ï¿½da belirtilenleri kabul eder: i) hukuken zorunlu olmasï¿½ durumunda, stopaj vergisini doï¿½rudan uygun devlet kurumuna ï¿½deyecektir; ii) anï¿½lan ï¿½demenin yapï¿½lmï¿½ï¿½ olduï¿½una iliï¿½kin bir vergi makbuzunu IBM'e ibraz edecektir; iii) IBM'e yalnï¿½zca vergi mahsup edildikten sonraki net tutarï¿½ ï¿½deyecektir; iv) anï¿½lan vergilerden muafiyet ya da indirim alï¿½nmasï¿½nda IBM ile tam iï¿½birliï¿½i yapacak ve ilgili tï¿½m belgeleri en kï¿½sa sï¿½re iï¿½erisinde tamamlayacak ve dosyalayacaktï¿½r.
+c. Satýn alýnan yetkilere dayalý olarak Lisans Alan Taraf aþaðýda belirtilenleri kabul eder: i) hukuken zorunlu olmasý durumunda, stopaj vergisini doðrudan uygun devlet kurumuna ödeyecektir; ii) anýlan ödemenin yapýlmýþ olduðuna iliþkin bir vergi makbuzunu IBM'e ibraz edecektir; iii) IBM'e yalnýzca vergi mahsup edildikten sonraki net tutarý ödeyecektir; iv) anýlan vergilerden muafiyet ya da indirim alýnmasýnda IBM ile tam iþbirliði yapacak ve ilgili tüm belgeleri en kýsa süre içerisinde tamamlayacak ve dosyalayacaktýr.
 
-d. Lisans Alan Tarafï¿½n bir Programï¿½ yurt dï¿½ï¿½ï¿½ndan ithal etmesi, yurt dï¿½ï¿½ï¿½na ihraï¿½ etmesi, aktarmasï¿½, Programa yurt dï¿½ï¿½ï¿½nda eriï¿½mesi veya Programï¿½ yurt dï¿½ï¿½ï¿½nda kullanmasï¿½ halinde, Lisans Alan Taraf, yetkili kurumlarca belirlenen her tï¿½rlï¿½ gï¿½mrï¿½k vergisi, resim, vergi veya benzer harï¿½lardan sorumlu olduï¿½unu ve bunlar iï¿½in yetkili kurumlara ï¿½deme yapacaï¿½ï¿½nï¿½ kabul eder. IBM'in net gelirini esas alan vergiler, bu koï¿½ula dahil deï¿½ildir.
+d. Lisans Alan Tarafýn bir Programý yurt dýþýndan ithal etmesi, yurt dýþýna ihraç etmesi, aktarmasý, Programa yurt dýþýnda eriþmesi veya Programý yurt dýþýnda kullanmasý halinde, Lisans Alan Taraf, yetkili kurumlarca belirlenen her türlü gümrük vergisi, resim, vergi veya benzer harçlardan sorumlu olduðunu ve bunlar için yetkili kurumlara ödeme yapacaðýný kabul eder. IBM'in net gelirini esas alan vergiler, bu koþula dahil deðildir.
 
-3.1 Lisans Doï¿½rulamasï¿½
+3.1 Lisans Doðrulamasý
 
-a. Lisans Alan Taraf, tï¿½m yerlerdeki tï¿½m Programlar iï¿½in ve tï¿½m ortamlar iï¿½in yanda belirtilenleri oluï¿½turacak, saklayacak ve 30 gï¿½n ï¿½nceden bildirimle talebi ï¿½zerine her yï¿½l IBM'e saï¿½layacaktï¿½r: i) kayï¿½tlarï¿½, sistem aracï¿½ ï¿½ï¿½ktï¿½larï¿½nï¿½ ve diï¿½er sistem bilgilerini kullanarak IBM tarafï¿½ndan talep edilen biï¿½imde bir rapor; ve ii) destekleyici belgeler (toplu olarak "Devreye Alma Verileri").
+a. Lisans Alan Taraf, tüm yerlerdeki tüm Programlar için ve tüm ortamlar için yanda belirtilenleri oluþturacak, saklayacak ve 30 gün önceden bildirimle talebi üzerine her yýl IBM'e saðlayacaktýr: i) kayýtlarý, sistem aracý çýktýlarýný ve diðer sistem bilgilerini kullanarak IBM tarafýndan talep edilen biçimde bir rapor; ve ii) destekleyici belgeler (toplu olarak "Devreye Alma Verileri").
 
-b. IBM ve onun baï¿½ï¿½msï¿½z denetï¿½ileri, makul bir sï¿½re ï¿½nceden bildirimde bulunarak, Lisans Alan Tarafï¿½n (herhangi bir amaï¿½la) Programlarï¿½ kullandï¿½ï¿½ï¿½ tï¿½m yerlerde ve tï¿½m ortamlar iï¿½in Lisans Alan Tarafï¿½n bu Sï¿½zleï¿½meye uyumluluï¿½unu doï¿½rulayabilir. Doï¿½rulama iï¿½lemi, Lisans Alan Tarafï¿½n iï¿½ine en az engel olacak ï¿½ekilde yapï¿½lacak olup, normal iï¿½ saatleri iï¿½inde Lisans Alan Tarafï¿½n tesislerinde gerï¿½ekleï¿½tirilebilir. IBM, baï¿½ï¿½msï¿½z denetï¿½iyle yazï¿½lï¿½ bir gizlilik sï¿½zleï¿½mesi yapacaktï¿½r. Lisans Alan Taraf, yukarï¿½da aï¿½ï¿½klanan Devreye Alma Verilerinin saï¿½lanmasï¿½na ek olarak, IBM'e ve onun denetï¿½ilerine talep ï¿½zerine ek doï¿½ru bilgileri ve Devreye Alma Verilerini saï¿½lamayï¿½ kabul eder.
+b. IBM ve onun baðýmsýz denetçileri, makul bir süre önceden bildirimde bulunarak, Lisans Alan Tarafýn (herhangi bir amaçla) Programlarý kullandýðý tüm yerlerde ve tüm ortamlar için Lisans Alan Tarafýn bu Sözleþmeye uyumluluðunu doðrulayabilir. Doðrulama iþlemi, Lisans Alan Tarafýn iþine en az engel olacak þekilde yapýlacak olup, normal iþ saatleri içinde Lisans Alan Tarafýn tesislerinde gerçekleþtirilebilir. IBM, baðýmsýz denetçiyle yazýlý bir gizlilik sözleþmesi yapacaktýr. Lisans Alan Taraf, yukarýda açýklanan Devreye Alma Verilerinin saðlanmasýna ek olarak, IBM'e ve onun denetçilerine talep üzerine ek doðru bilgileri ve Devreye Alma Verilerini saðlamayý kabul eder.
 
-c. Lisans Alan Taraf, yanda belirtilenlerle iliï¿½kili olarak derhal sipariï¿½ verecek ve IBM'in o sï¿½rada geï¿½erli gï¿½ncel fiyatlarï¿½ ï¿½zerinden ï¿½deme yapacaktï¿½r: i) fazla kullanï¿½m sï¿½resi veya iki yï¿½llï¿½k sï¿½reden daha kï¿½sa olanï¿½ iï¿½in sï¿½z konusu fazla devreye alï¿½mlara iliï¿½kin geï¿½erli yazï¿½lï¿½m aboneliï¿½i ve destek hizmetleri; ve iii) vergiler, harï¿½lar ve yasal dï¿½zenleme ï¿½cretleri dahil ancak bunlarla sï¿½nï¿½rlï¿½ olmaksï¿½zï¿½n sï¿½z konusu doï¿½rulamanï¿½n sonucu olarak belirlenen ek ï¿½cretler ve diï¿½er yï¿½kï¿½mlï¿½lï¿½kler.
+c. Lisans Alan Taraf, yanda belirtilenlerle iliþkili olarak derhal sipariþ verecek ve IBM'in o sýrada geçerli güncel fiyatlarý üzerinden ödeme yapacaktýr: i) fazla kullaným süresi veya iki yýllýk süreden daha kýsa olaný için söz konusu fazla devreye alýmlara iliþkin geçerli yazýlým aboneliði ve destek hizmetleri; ve iii) vergiler, harçlar ve yasal düzenleme ücretleri dahil ancak bunlarla sýnýrlý olmaksýzýn söz konusu doðrulamanýn sonucu olarak belirlenen ek ücretler ve diðer yükümlülükler.
 
-4. Sorumluluk ve Fikri Mï¿½lkiyetin Korunmasï¿½
+4. Sorumluluk ve Fikri Mülkiyetin Korunmasý
 
-a. IBM'in bu Sï¿½zleï¿½meyle baï¿½lantï¿½lï¿½ tï¿½m taleplere iliï¿½kin sorumluluï¿½unun tamamï¿½, talebin gerekï¿½esine etki etmeksizin, Lisans Alan Tarafï¿½n talebe konu Program iï¿½in aldï¿½ï¿½ï¿½ yetkiler iï¿½in ï¿½demiï¿½ olduï¿½u tutarï¿½n toplamï¿½nï¿½ (sï¿½rekli ï¿½cretler sï¿½z konusu ise, 12 aylï¿½k ï¿½cretlerin toplamï¿½na kadar olan tutar geï¿½erlidir) aï¿½mamak kaydï¿½yla, Lisans Alan Tarafï¿½n karï¿½ï¿½ karï¿½ï¿½ya kaldï¿½ï¿½ï¿½ herhangi bir gerï¿½ek doï¿½rudan zararlarla sï¿½nï¿½rlï¿½dï¿½r. IBM, ï¿½zel, arï¿½zi, cezai, dolaylï¿½ veya ekonomik netice kabilinden doï¿½an zararlardan, kï¿½r kaybï¿½, iï¿½ kaybï¿½, deï¿½er kaybï¿½, gelir kaybï¿½, itibar veya beklenen tasarruf kaybï¿½ndan sorumlu olmayacaktï¿½r. Bu sï¿½nï¿½rlamalar, IBM, baï¿½lï¿½ kuruluï¿½larï¿½, yï¿½klenicileri ve tedarikï¿½ileri iï¿½in geï¿½erlidir.
+a. IBM'in bu Sözleþmeyle baðlantýlý tüm taleplere iliþkin sorumluluðunun tamamý, talebin gerekçesine etki etmeksizin, Lisans Alan Tarafýn talebe konu Program için aldýðý yetkiler için ödemiþ olduðu tutarýn toplamýný (sürekli ücretler söz konusu ise, 12 aylýk ücretlerin toplamýna kadar olan tutar geçerlidir) aþmamak kaydýyla, Lisans Alan Tarafýn karþý karþýya kaldýðý herhangi bir gerçek doðrudan zararlarla sýnýrlýdýr. IBM, özel, arýzi, cezai, dolaylý veya ekonomik netice kabilinden doðan zararlardan, kâr kaybý, iþ kaybý, deðer kaybý, gelir kaybý, itibar veya beklenen tasarruf kaybýndan sorumlu olmayacaktýr. Bu sýnýrlamalar, IBM, baðlý kuruluþlarý, yüklenicileri ve tedarikçileri için geçerlidir.
 
-b. Aï¿½aï¿½ï¿½daki tutarlar, yukarï¿½da belirtilen sï¿½nï¿½rlamaya tabi olmayacaktï¿½r: i) aï¿½aï¿½ï¿½da 4 c fï¿½krasï¿½nda aï¿½ï¿½klanan ihlal iddialarï¿½yla ilgili ï¿½ï¿½ï¿½ncï¿½ kiï¿½i ï¿½demeleri; ve ii) geï¿½erli yasa uyarï¿½nca sï¿½nï¿½rlanmasï¿½ mï¿½mkï¿½n olmayan zararlar.
+b. Aþaðýdaki tutarlar, yukarýda belirtilen sýnýrlamaya tabi olmayacaktýr: i) aþaðýda 4 c fýkrasýnda açýklanan ihlal iddialarýyla ilgili üçüncü kiþi ödemeleri; ve ii) geçerli yasa uyarýnca sýnýrlanmasý mümkün olmayan zararlar.
 
-c. Bir ï¿½ï¿½ï¿½ncï¿½ kiï¿½inin Lisans Alan Tarafa yï¿½nelik olarak bir IBM Programï¿½nï¿½n bir patenti ya da telif hakkï¿½nï¿½ ihlal ettiï¿½ine iliï¿½kin bir iddia ï¿½ne sï¿½rmesi halinde IBM, Lisans Alan Tarafï¿½ anï¿½lan iddiaya karï¿½ï¿½ savunacak ve bir mahkeme tarafï¿½ndan nihai olarak Lisans Alan Tarafï¿½n ï¿½demesine hï¿½kmedilen ya da IBM tarafï¿½ndan onaylanan bir uzlaï¿½maya dahil olan tutarlarï¿½ ï¿½deyecektir. ï¿½hlal iddialarï¿½yla ilgili olarak IBM'in savunmasï¿½nï¿½ ve ï¿½demeyi almak amacï¿½yla Lisans Alan Tarafï¿½n derhal i) iddia hakkï¿½nda IBM'i yazï¿½lï¿½ olarak bilgilendirmesi; ii) IBM tarafï¿½ndan talep edilen bilgileri saï¿½lamasï¿½ ve iii) tenkis ï¿½abalarï¿½ da dahil olmak ï¿½zere savunmanï¿½n ve uzlaï¿½manï¿½n IBM tarafï¿½ndan kontrol edilmesine izin vermesi ve makul surette iï¿½ birliï¿½i yapmasï¿½ gerekir. IBM'in ihlal iddialarï¿½na iliï¿½kin savunma ve ï¿½deme yï¿½kï¿½mlï¿½lï¿½kleri, IBM'in IBM Programï¿½nda seï¿½tiï¿½i ve bu Programa yerleï¿½tirdiï¿½i bir aï¿½ï¿½k kaynak koduna dayalï¿½ iddialarï¿½ kapsar.
+c. Bir üçüncü kiþinin Lisans Alan Tarafa yönelik olarak bir IBM Programýnýn bir patenti ya da telif hakkýný ihlal ettiðine iliþkin bir iddia öne sürmesi halinde IBM, Lisans Alan Tarafý anýlan iddiaya karþý savunacak ve bir mahkeme tarafýndan nihai olarak Lisans Alan Tarafýn ödemesine hükmedilen ya da IBM tarafýndan onaylanan bir uzlaþmaya dahil olan tutarlarý ödeyecektir. Ýhlal iddialarýyla ilgili olarak IBM'in savunmasýný ve ödemeyi almak amacýyla Lisans Alan Tarafýn derhal i) iddia hakkýnda IBM'i yazýlý olarak bilgilendirmesi; ii) IBM tarafýndan talep edilen bilgileri saðlamasý ve iii) tenkis çabalarý da dahil olmak üzere savunmanýn ve uzlaþmanýn IBM tarafýndan kontrol edilmesine izin vermesi ve makul surette iþ birliði yapmasý gerekir. IBM'in ihlal iddialarýna iliþkin savunma ve ödeme yükümlülükleri, IBM'in IBM Programýnda seçtiði ve bu Programa yerleþtirdiði bir açýk kaynak koduna dayalý iddialarý kapsar.
 
-d. IBM; IBM Dï¿½ï¿½ï¿½ ï¿½rï¿½nlere, IBM tarafï¿½ndan saï¿½lanmamï¿½ï¿½ ï¿½ï¿½elere veya ï¿½ï¿½erikten ya da Lisans Alan Tarafï¿½n malzemeleri, tasarï¿½mlarï¿½ ve belirtimlerinden kaynaklanan herhangi bir hukuka aykï¿½rï¿½lï¿½ï¿½a ya da ï¿½ï¿½ï¿½ncï¿½ kiï¿½i haklarï¿½nï¿½n ihlaline ya da bir IBM Programï¿½nï¿½n en gï¿½ncel versiyonu ya da sï¿½rï¿½mï¿½ kullanï¿½larak telif hakkï¿½ ihlaline iliï¿½kin bir talep engellenebilecekken, sï¿½z konusu programï¿½n gï¿½ncel olmayan bir versiyonu ya da sï¿½rï¿½mï¿½nï¿½n kullanï¿½mï¿½na dayandï¿½rï¿½lan taleplerden sorumlu deï¿½ildir. ï¿½ï¿½erik, Lisans Alan Tarafï¿½n ya da onun yetkili kullanï¿½cï¿½larï¿½nï¿½n saï¿½ladï¿½ï¿½ï¿½, eriï¿½imine yetki verdiï¿½i ya da Programa girdiï¿½i tï¿½m verilerden, yazï¿½lï¿½mlardan ve bilgilerden oluï¿½ur.
+d. IBM; IBM Dýþý Ürünlere, IBM tarafýndan saðlanmamýþ öðelere veya Ýçerikten ya da Lisans Alan Tarafýn malzemeleri, tasarýmlarý ve belirtimlerinden kaynaklanan herhangi bir hukuka aykýrýlýða ya da üçüncü kiþi haklarýnýn ihlaline ya da bir IBM Programýnýn en güncel versiyonu ya da sürümü kullanýlarak telif hakký ihlaline iliþkin bir talep engellenebilecekken, söz konusu programýn güncel olmayan bir versiyonu ya da sürümünün kullanýmýna dayandýrýlan taleplerden sorumlu deðildir. Ýçerik, Lisans Alan Tarafýn ya da onun yetkili kullanýcýlarýnýn saðladýðý, eriþimine yetki verdiði ya da Programa girdiði tüm verilerden, yazýlýmlardan ve bilgilerden oluþur.
 
 5. Sona Erdirme
 
-a. IBM, Lisans Alan Tarafï¿½n UPLS, ï¿½ï¿½lem Belgeleri veya Uluslararasï¿½ Passport Advantage Sï¿½zleï¿½mesi (IPAA) gibi satï¿½n alma sï¿½zleï¿½melerine uymamasï¿½ durumunda, Lisans Alan Tarafï¿½n Programï¿½ kullanmaya yï¿½nelik lisansï¿½nï¿½ sona erdirebilir. Lisans Alan Taraf, lisans sona erdirildikten sonra Programï¿½n tï¿½m kopyalarï¿½nï¿½ derhal imha edecektir. Niteliï¿½i gereï¿½i sona erdirmenin ardï¿½ndan yï¿½rï¿½rlï¿½kte kalacak herhangi bir koï¿½ul, yerine getirilinceye kadar yï¿½rï¿½rlï¿½kte kalacak olup, taraflarï¿½n halefleri ve devralanlarï¿½ iï¿½in de geï¿½erli olacaktï¿½r.
+a. IBM, Lisans Alan Tarafýn UPLS, Ýþlem Belgeleri veya Uluslararasý Passport Advantage Sözleþmesi (IPAA) gibi satýn alma sözleþmelerine uymamasý durumunda, Lisans Alan Tarafýn Programý kullanmaya yönelik lisansýný sona erdirebilir. Lisans Alan Taraf, lisans sona erdirildikten sonra Programýn tüm kopyalarýný derhal imha edecektir. Niteliði gereði sona erdirmenin ardýndan yürürlükte kalacak herhangi bir koþul, yerine getirilinceye kadar yürürlükte kalacak olup, taraflarýn halefleri ve devralanlarý için de geçerli olacaktýr.
 
-6. Uygulanacak Hukuk ve Coï¿½rafi Kapsam
+6. Uygulanacak Hukuk ve Coðrafi Kapsam
 
-a. Her iki taraf da kanunlar ihtilafï¿½ ilkeleri dikkate alï¿½nmaksï¿½zï¿½n, lisans yetkilerine iliï¿½kin iï¿½lemin gerï¿½ekleï¿½tirildiï¿½i ï¿½lkenin yasalarï¿½nï¿½n geï¿½erli olmasï¿½nï¿½ kabul eder. Taraflarï¿½n her birinin haklarï¿½ ve yï¿½kï¿½mlï¿½lï¿½kleri, yalnï¿½zca lisans yetkilerini satï¿½n alma iï¿½leminin gerï¿½ekleï¿½tirildiï¿½i ï¿½lkede ya da IBM'in kabul etmesi durumunda, Programï¿½n ï¿½retim amaï¿½lï¿½ kullanï¿½ldï¿½ï¿½ï¿½ ï¿½lkede geï¿½erlidir, ancak tï¿½m lisanslar yalnï¿½zca ï¿½zel olarak verilmiï¿½ olduï¿½u ï¿½ekilde geï¿½erlidir.
+a. Her iki taraf da kanunlar ihtilafý ilkeleri dikkate alýnmaksýzýn, lisans yetkilerine iliþkin iþlemin gerçekleþtirildiði ülkenin yasalarýnýn geçerli olmasýný kabul eder. Taraflarýn her birinin haklarý ve yükümlülükleri, yalnýzca lisans yetkilerini satýn alma iþleminin gerçekleþtirildiði ülkede ya da IBM'in kabul etmesi durumunda, Programýn üretim amaçlý kullanýldýðý ülkede geçerlidir, ancak tüm lisanslar yalnýzca özel olarak verilmiþ olduðu þekilde geçerlidir.
 
-b. Taraflardan her biri aynï¿½ zamanda yanda belirtilenlere uymaktan da sorumludur: i) kendi iï¿½i ve ï¿½ï¿½eriï¿½i iï¿½in geï¿½erli yasalar ve yasal dï¿½zenlemeler; ve (ii) belirli son kullanï¿½mlara veya son kullanï¿½cï¿½lara veya bunlar iï¿½in ï¿½rï¿½nlerin, teknolojinin, hizmetlerin veya verilerin ithalatï¿½nï¿½, ihracatï¿½nï¿½, yeniden ihracatï¿½nï¿½ veya aktarï¿½lmasï¿½nï¿½ yasaklayan ABD'nin ve geï¿½erli yargï¿½ yetkisi alanlarï¿½nï¿½n savunma ticari kontrol rejimi dahil olmak ï¿½zere ithalat, ihracat ve ekonomik yaptï¿½rï¿½m yasalarï¿½ ve yasal dï¿½zenlemeleri.
+b. Taraflardan her biri ayný zamanda yanda belirtilenlere uymaktan da sorumludur: i) kendi iþi ve Ýçeriði için geçerli yasalar ve yasal düzenlemeler; ve (ii) belirli son kullanýmlara veya son kullanýcýlara veya bunlar için ürünlerin, teknolojinin, hizmetlerin veya verilerin ithalatýný, ihracatýný, yeniden ihracatýný veya aktarýlmasýný yasaklayan ABD'nin ve geçerli yargý yetkisi alanlarýnýn savunma ticari kontrol rejimi dahil olmak üzere ithalat, ihracat ve ekonomik yaptýrým yasalarý ve yasal düzenlemeleri.
 
-c. Bir Program iï¿½in bu Sï¿½zleï¿½menin hï¿½kï¿½mlerinden herhangi birinin geï¿½ersiz ya da uygulanamaz olmasï¿½ halinde, geriye kalan hï¿½kï¿½mler tam olarak geï¿½erli olmaya devam edecek ve yï¿½rï¿½rlï¿½kte kalacaktï¿½r. Bu Sï¿½zleï¿½menin hiï¿½bir hï¿½kmï¿½, tï¿½keticilerin sï¿½zleï¿½me ile sï¿½nï¿½rlandï¿½rï¿½lamayacak veya feragat edilemeyecek nitelikteki yasal haklarï¿½nï¿½ etkilemez. Uluslararasï¿½ Mal Satï¿½ï¿½ï¿½na ï¿½liï¿½kin Sï¿½zleï¿½meler Hakkï¿½nda Birleï¿½miï¿½ Milletler Antlaï¿½masï¿½, bu Sï¿½zleï¿½me kapsamï¿½ndaki iï¿½lemler iï¿½in geï¿½erli olmayacaktï¿½r.
+c. Bir Program için bu Sözleþmenin hükümlerinden herhangi birinin geçersiz ya da uygulanamaz olmasý halinde, geriye kalan hükümler tam olarak geçerli olmaya devam edecek ve yürürlükte kalacaktýr. Bu Sözleþmenin hiçbir hükmü, tüketicilerin sözleþme ile sýnýrlandýrýlamayacak veya feragat edilemeyecek nitelikteki yasal haklarýný etkilemez. Uluslararasý Mal Satýþýna Ýliþkin Sözleþmeler Hakkýnda Birleþmiþ Milletler Antlaþmasý, bu Sözleþme kapsamýndaki iþlemler için geçerli olmayacaktýr.
 
 7. Genel
 
-a. IBM, baï¿½ï¿½msï¿½z bir yï¿½klenici olup Lisans Alan Tarafï¿½n aracï¿½sï¿½, ortak giriï¿½imcisi, ortaï¿½ï¿½ ya da vekili deï¿½ildir ve Lisans Alan Tarafï¿½n herhangi bir yasal yï¿½kï¿½mlï¿½lï¿½ï¿½ï¿½nï¿½ yerine getirmeyi taahhï¿½t etmez. Lisans Alan Tarafï¿½n iï¿½ine veya operasyonlarï¿½na iliï¿½kin herhangi bir sorumluluk ï¿½stlenmez. Lisans Alan Taraf, IBM Programlarï¿½nï¿½ ve IBM Dï¿½ï¿½ï¿½ Programlarï¿½ kullanï¿½mï¿½ndan kendisi sorumludur. IBM, yalnï¿½zca bir bilgi teknolojisi saï¿½layï¿½cï¿½sï¿½ olarak hareket eder. IBM'in bir Programa iliï¿½kin herhangi bir yï¿½nergesi, ï¿½nerilen kullanï¿½mï¿½ veya kï¿½lavuzluï¿½u; tï¿½bbi, klinik, hukuki, muhasebeyle iliï¿½kili ya da baï¿½ka bir lisanslï¿½ profesyonel danï¿½ï¿½manlï¿½k niteliï¿½inde deï¿½ildir. Lisans Alan Taraf, uzman tavsiyesini kendisi almalï¿½dï¿½r.
+a. IBM, baðýmsýz bir yüklenici olup Lisans Alan Tarafýn aracýsý, ortak giriþimcisi, ortaðý ya da vekili deðildir ve Lisans Alan Tarafýn herhangi bir yasal yükümlülüðünü yerine getirmeyi taahhüt etmez. Lisans Alan Tarafýn iþine veya operasyonlarýna iliþkin herhangi bir sorumluluk üstlenmez. Lisans Alan Taraf, IBM Programlarýný ve IBM Dýþý Programlarý kullanýmýndan kendisi sorumludur. IBM, yalnýzca bir bilgi teknolojisi saðlayýcýsý olarak hareket eder. IBM'in bir Programa iliþkin herhangi bir yönergesi, önerilen kullanýmý veya kýlavuzluðu; týbbi, klinik, hukuki, muhasebeyle iliþkili ya da baþka bir lisanslý profesyonel danýþmanlýk niteliðinde deðildir. Lisans Alan Taraf, uzman tavsiyesini kendisi almalýdýr.
 
-b. Aksi Lisans Alan Taraf ve IBM tarafï¿½ndan yazï¿½lï¿½ olarak kabul edilmedikï¿½e, IBM, Lisans Alan Tarafa fiziksel ortam ï¿½zerinde saï¿½ladï¿½ï¿½ï¿½ Programlar iï¿½in sevkiyat ve teslimat yï¿½kï¿½mlï¿½lï¿½klerini sï¿½z konusu Programlarï¿½ IBM tarafï¿½ndan belirlenen taï¿½ï¿½yï¿½cï¿½ya teslim ettiï¿½inde yerine getirmiï¿½ olacaktï¿½r.
+b. Aksi Lisans Alan Taraf ve IBM tarafýndan yazýlý olarak kabul edilmedikçe, IBM, Lisans Alan Tarafa fiziksel ortam üzerinde saðladýðý Programlar için sevkiyat ve teslimat yükümlülüklerini söz konusu Programlarý IBM tarafýndan belirlenen taþýyýcýya teslim ettiðinde yerine getirmiþ olacaktýr.
 
-c. Lisans Alan Taraf, Programda ortaya ï¿½ï¿½kacak bir hatanï¿½n ï¿½lï¿½me, ciddi bedensel yaralanmaya veya malda ya da ï¿½evrede hasara neden olabileceï¿½i durumda Programï¿½ kullanamaz.
+c. Lisans Alan Taraf, Programda ortaya çýkacak bir hatanýn ölüme, ciddi bedensel yaralanmaya veya malda ya da çevrede hasara neden olabileceði durumda Programý kullanamaz.
 
-d. IBM, IBM'in baï¿½lï¿½ kuruluï¿½larï¿½ ve bunlardan herhangi birinin yï¿½klenicileri, iï¿½ iletiï¿½im bilgilerinin ve belirli hesap kullanï¿½mï¿½ bilgilerinin kullanï¿½lmasï¿½nï¿½ zorunlu tutar. Bu bilgi ï¿½ï¿½erik niteliï¿½inde deï¿½ildir. ï¿½ï¿½ iletiï¿½im bilgileri, Lisans Alan Tarafla yapï¿½lan iï¿½ anlaï¿½malarï¿½nï¿½ bildirmek ve yï¿½netmek iï¿½in kullanï¿½lï¿½r. ï¿½ï¿½ iletiï¿½im bilgilerine ï¿½rnekler arasï¿½nda isim, iï¿½ telefonu, adres, e-posta, kullanï¿½cï¿½ kimliï¿½i ve vergi numarasï¿½ yer alï¿½r. Hesap kullanï¿½mï¿½ bilgileri, Programlarï¿½ etkinleï¿½tirmek, saï¿½lamak, yï¿½netmek, desteklemek, idare etmek ve iyileï¿½tirmek iï¿½in kullanï¿½lï¿½r. Hesap kullanï¿½m bilgilerine ï¿½rnekler arasï¿½nda raporlanan hatalar ve Programlarï¿½n kullanï¿½mï¿½ sï¿½rasï¿½nda ï¿½erezler (cookies) ve web iï¿½aretï¿½ileri (beacon) gibi izleme teknolojileri kullanï¿½larak toplanan dijital bilgiler yer alï¿½r. IBM'in iï¿½ iletiï¿½im bilgilerin ive hesap verilerini toplamasï¿½, kullanmasï¿½ ve iï¿½lemesiyle ilgili daha fazla ayrï¿½ntï¿½ya http://www.ibm.com/privacy/ adresinde bulunan IBM Gizlilik Bildiriminden (IBM Privacy Statement) ulaï¿½ï¿½labilir. Sï¿½z konusu iï¿½leme iï¿½in Lisans Alan Tarafï¿½n IBMï¿½e bilgi saï¿½ladï¿½ï¿½ï¿½ ve kiï¿½ilere bildirimde bulunduï¿½u veya kiï¿½ilerden rï¿½za almasï¿½nï¿½n gerektiï¿½i durumlarda, Lisans Alan Taraf kiï¿½ilere bildirimde bulunacak ve sï¿½z konusu rï¿½zayï¿½ alacaktï¿½r.
+d. IBM, IBM'in baðlý kuruluþlarý ve bunlardan herhangi birinin yüklenicileri, iþ iletiþim bilgilerinin ve belirli hesap kullanýmý bilgilerinin kullanýlmasýný zorunlu tutar. Bu bilgi Ýçerik niteliðinde deðildir. Ýþ iletiþim bilgileri, Lisans Alan Tarafla yapýlan iþ anlaþmalarýný bildirmek ve yönetmek için kullanýlýr. Ýþ iletiþim bilgilerine örnekler arasýnda isim, iþ telefonu, adres, e-posta, kullanýcý kimliði ve vergi numarasý yer alýr. Hesap kullanýmý bilgileri, Programlarý etkinleþtirmek, saðlamak, yönetmek, desteklemek, idare etmek ve iyileþtirmek için kullanýlýr. Hesap kullaným bilgilerine örnekler arasýnda raporlanan hatalar ve Programlarýn kullanýmý sýrasýnda çerezler (cookies) ve web iþaretçileri (beacon) gibi izleme teknolojileri kullanýlarak toplanan dijital bilgiler yer alýr. IBM'in iþ iletiþim bilgilerin ive hesap verilerini toplamasý, kullanmasý ve iþlemesiyle ilgili daha fazla ayrýntýya http://www.ibm.com/privacy/ adresinde bulunan IBM Gizlilik Bildiriminden (IBM Privacy Statement) ulaþýlabilir. Söz konusu iþleme için Lisans Alan Tarafýn IBM´e bilgi saðladýðý ve kiþilere bildirimde bulunduðu veya kiþilerden rýza almasýnýn gerektiði durumlarda, Lisans Alan Taraf kiþilere bildirimde bulunacak ve söz konusu rýzayý alacaktýr.
 
-e. ï¿½rï¿½nleri kullanan veya kullanï¿½ma sunan IBM ï¿½ï¿½zï¿½m Ortaklarï¿½, IBM'den baï¿½ï¿½msï¿½zdï¿½r ve fiyatlarï¿½ ile koï¿½ullarï¿½nï¿½ tek taraflï¿½ olarak belirlerler. ï¿½ï¿½zï¿½m Ortaklarï¿½nï¿½n eylemlerinden, ihmallerinden, beyanlarï¿½ndan ya da tekliflerinden IBM sorumlu deï¿½ildir.
+e. Ürünleri kullanan veya kullanýma sunan IBM Çözüm Ortaklarý, IBM'den baðýmsýzdýr ve fiyatlarý ile koþullarýný tek taraflý olarak belirlerler. Çözüm Ortaklarýnýn eylemlerinden, ihmallerinden, beyanlarýndan ya da tekliflerinden IBM sorumlu deðildir.
 
-f. IBM, IBM Dï¿½ï¿½ï¿½ Programlar sunabilir veya bir IBM Programï¿½, IBM Dï¿½ï¿½ï¿½ Programlara eriï¿½imi etkinleï¿½tirebilir. Bu IBM Dï¿½ï¿½ï¿½ Program, ï¿½ï¿½lem Belgesinde belirtilen veya Lisans Alan Tarafa sunulan ï¿½ï¿½ï¿½ncï¿½ kiï¿½i koï¿½ullarï¿½nï¿½n kabul edilmesini zorunlu kï¿½labilir. IBM Dï¿½ï¿½ï¿½ Programlara baï¿½lantï¿½ verilmesi veya bunlarï¿½n kullanï¿½lmasï¿½, Lisans Alan Tarafï¿½n sï¿½z konusu koï¿½ullarï¿½ kabul ettiï¿½i anlamï¿½na gelir. IBM, herhangi bir ï¿½ï¿½ï¿½ncï¿½ kiï¿½i sï¿½zleï¿½mesine taraf olmadï¿½ï¿½ï¿½ gibi IBM Dï¿½ï¿½ï¿½ Programlardan da sorumlu deï¿½ildir.
+f. IBM, IBM Dýþý Programlar sunabilir veya bir IBM Programý, IBM Dýþý Programlara eriþimi etkinleþtirebilir. Bu IBM Dýþý Program, Ýþlem Belgesinde belirtilen veya Lisans Alan Tarafa sunulan üçüncü kiþi koþullarýnýn kabul edilmesini zorunlu kýlabilir. IBM Dýþý Programlara baðlantý verilmesi veya bunlarýn kullanýlmasý, Lisans Alan Tarafýn söz konusu koþullarý kabul ettiði anlamýna gelir. IBM, herhangi bir üçüncü kiþi sözleþmesine taraf olmadýðý gibi IBM Dýþý Programlardan da sorumlu deðildir.
 
-g. Programlar iï¿½in verilen lisanslar, merkezi New York'ta bulunan bir ï¿½irket olan International Business Machines Corporation ("IBM Corporation") tarafï¿½ndan saï¿½lanï¿½r. Lisans Alan Tarafï¿½n yetkileri satï¿½n aldï¿½ï¿½ï¿½ IBM ï¿½irketi ("IBM"), distribï¿½tï¿½r olarak hareket etmekte ve Programlarï¿½ saï¿½lamaktadï¿½r. Ayrï¿½ca bu Sï¿½zleï¿½menin koï¿½ullarï¿½nï¿½n uygulanmasï¿½ndan sorumludur. IBM ï¿½ï¿½zï¿½m Ortaï¿½ï¿½ndan edinilen yetkilerde, bu Sï¿½zleï¿½menin koï¿½ullarï¿½nï¿½n uygulanmasï¿½ndan satï¿½n almanï¿½n yapï¿½ldï¿½ï¿½ï¿½ ï¿½lkeye iliï¿½kin IBM ï¿½irketi sorumludur. IBM Corporation'a karï¿½ï¿½ Lisans Alan Tarafï¿½n lehine bir hak ya da dava aï¿½ma gerekï¿½esi oluï¿½turulmaz. Lisans Alan Taraf, IBM Corporation ï¿½irketine karï¿½ï¿½ olan tï¿½m taleplerinden ve yasal yollara baï¿½vurma gerekï¿½elerinden feragat eder ve Programlara iliï¿½kin tï¿½m haklar ve yasal ï¿½areler iï¿½in mï¿½nhasï¿½ran IBM'e baï¿½vurmayï¿½ kabul eder.
+g. Programlar için verilen lisanslar, merkezi New York'ta bulunan bir þirket olan International Business Machines Corporation ("IBM Corporation") tarafýndan saðlanýr. Lisans Alan Tarafýn yetkileri satýn aldýðý IBM þirketi ("IBM"), distribütör olarak hareket etmekte ve Programlarý saðlamaktadýr. Ayrýca bu Sözleþmenin koþullarýnýn uygulanmasýndan sorumludur. IBM Çözüm Ortaðýndan edinilen yetkilerde, bu Sözleþmenin koþullarýnýn uygulanmasýndan satýn almanýn yapýldýðý ülkeye iliþkin IBM þirketi sorumludur. IBM Corporation'a karþý Lisans Alan Tarafýn lehine bir hak ya da dava açma gerekçesi oluþturulmaz. Lisans Alan Taraf, IBM Corporation þirketine karþý olan tüm taleplerinden ve yasal yollara baþvurma gerekçelerinden feragat eder ve Programlara iliþkin tüm haklar ve yasal çareler için münhasýran IBM'e baþvurmayý kabul eder.
 
-h. Lisans Alan Taraf, herhangi bir Programa iliï¿½kin lisans iï¿½in alt lisans veremez, lisansï¿½ temlik edemez veya devredemez (sï¿½z konusu temlik ve devrin hukuken kï¿½sï¿½tlanmasï¿½nï¿½n mï¿½mkï¿½n olmadï¿½ï¿½ï¿½ veya ï¿½ï¿½lem Belgesinde aï¿½ï¿½kï¿½a izin verildiï¿½i veya IBM tarafï¿½ndan aksi kararlaï¿½tï¿½rï¿½ldï¿½ï¿½ï¿½ durumlar hariï¿½). IBM, bu Sï¿½zleï¿½me kapsamï¿½ndaki haklarï¿½nï¿½ ve yï¿½kï¿½mlï¿½lï¿½klerini IBM'in iï¿½letmesinin Programï¿½ kapsayan bï¿½lï¿½mï¿½nï¿½n satï¿½ï¿½ï¿½ sonucunda devredebilir. IBM, iï¿½bu Sï¿½zleï¿½meyi ve ilgili belgeleri herhangi bir devirle baï¿½lantï¿½lï¿½ olarak paylaï¿½abilir.
+h. Lisans Alan Taraf, herhangi bir Programa iliþkin lisans için alt lisans veremez, lisansý temlik edemez veya devredemez (söz konusu temlik ve devrin hukuken kýsýtlanmasýnýn mümkün olmadýðý veya Ýþlem Belgesinde açýkça izin verildiði veya IBM tarafýndan aksi kararlaþtýrýldýðý durumlar hariç). IBM, bu Sözleþme kapsamýndaki haklarýný ve yükümlülüklerini IBM'in iþletmesinin Programý kapsayan bölümünün satýþý sonucunda devredebilir. IBM, iþbu Sözleþmeyi ve ilgili belgeleri herhangi bir devirle baðlantýlý olarak paylaþabilir.
 
-i. Bu Sï¿½zleï¿½me kapsamï¿½ndaki tï¿½m bildirimler yazï¿½lï¿½ olacaktï¿½r ve taraflardan biri yazï¿½lï¿½ olarak farklï¿½ bir adres bildirmedikï¿½e, Lisans Alan Tarafï¿½n lisans yetkilerini satï¿½n aldï¿½ï¿½ï¿½ sï¿½zleï¿½mede belirtilen iï¿½ adresine gï¿½nderilecektir. Taraflar, elektronik araï¿½lar ve faks kullanï¿½larak gerï¿½ekleï¿½tirilen iletiï¿½imlerin imzalï¿½ belge olarak deï¿½erlendirilmesini kabul ederler. Bu Sï¿½zleï¿½menin gï¿½venilir yï¿½ntemlerle alï¿½nan herhangi bir kopyasï¿½ asï¿½l olarak deï¿½erlendirilecektir. Bu Sï¿½zleï¿½me, taraflar arasï¿½nda gerï¿½ekleï¿½tirilen herhangi bir mï¿½zakerenin, gï¿½rï¿½ï¿½menin ya da beyanï¿½n yerine geï¿½er.
+i. Bu Sözleþme kapsamýndaki tüm bildirimler yazýlý olacaktýr ve taraflardan biri yazýlý olarak farklý bir adres bildirmedikçe, Lisans Alan Tarafýn lisans yetkilerini satýn aldýðý sözleþmede belirtilen iþ adresine gönderilecektir. Taraflar, elektronik araçlar ve faks kullanýlarak gerçekleþtirilen iletiþimlerin imzalý belge olarak deðerlendirilmesini kabul ederler. Bu Sözleþmenin güvenilir yöntemlerle alýnan herhangi bir kopyasý asýl olarak deðerlendirilecektir. Bu Sözleþme, taraflar arasýnda gerçekleþtirilen herhangi bir müzakerenin, görüþmenin ya da beyanýn yerine geçer.
 
-j. Bu Sï¿½zleï¿½me, herhangi bir ï¿½ï¿½ï¿½ncï¿½ kiï¿½i iï¿½in bir hak ya da dava aï¿½ma gerekï¿½esi oluï¿½turmaz. Taraflardan hiï¿½biri, dava gerekï¿½esinin ortaya ï¿½ï¿½kmasï¿½nï¿½n ï¿½zerinden iki yï¿½ldan fazla sï¿½re geï¿½tikten sonra bu Sï¿½zleï¿½meyle baï¿½lantï¿½lï¿½ ya da Sï¿½zleï¿½meden kaynaklanan herhangi bir yasal iï¿½lem baï¿½latmayacaktï¿½r. Taraflardan hiï¿½biri, elinde olmayan nedenlerden ï¿½tï¿½rï¿½ herhangi bir yï¿½kï¿½mlï¿½lï¿½ï¿½ï¿½nï¿½ yerine getirememekten sorumlu tutulamaz. Taraflardan her biri, diï¿½er tarafï¿½n yï¿½kï¿½mlï¿½lï¿½klerini yerine getirmediï¿½ini iddia etmeden ï¿½nce, diï¿½er tarafa Sï¿½zleï¿½meye uymasï¿½ iï¿½in makul fï¿½rsat tanï¿½yacaktï¿½r.
+j. Bu Sözleþme, herhangi bir üçüncü kiþi için bir hak ya da dava açma gerekçesi oluþturmaz. Taraflardan hiçbiri, dava gerekçesinin ortaya çýkmasýnýn üzerinden iki yýldan fazla süre geçtikten sonra bu Sözleþmeyle baðlantýlý ya da Sözleþmeden kaynaklanan herhangi bir yasal iþlem baþlatmayacaktýr. Taraflardan hiçbiri, elinde olmayan nedenlerden ötürü herhangi bir yükümlülüðünü yerine getirememekten sorumlu tutulamaz. Taraflardan her biri, diðer tarafýn yükümlülüklerini yerine getirmediðini iddia etmeden önce, diðer tarafa Sözleþmeye uymasý için makul fýrsat tanýyacaktýr.
 
-k. IBM, Programlarï¿½n teslimini ve Program desteï¿½inin saï¿½lanmasï¿½nï¿½ desteklemek amacï¿½yla, ï¿½ï¿½ï¿½ncï¿½ kiï¿½i yï¿½kleniciler dahil olmak ï¿½zere, dï¿½nya ï¿½apï¿½ndaki lokasyonlarï¿½nda bulunan personeli ve kaynaklarï¿½ kullanabilir. Lisans Alan Tarafï¿½n Programlarï¿½ kullanï¿½mï¿½ sonucunda kiï¿½ileri tanï¿½mlamaya yarayan bilgiler dahil olmak ï¿½zere ï¿½ï¿½erik, IBM Yazï¿½lï¿½m Destek Rehberinde belirtildiï¿½i ï¿½ekilde Program desteï¿½i saï¿½lanmasï¿½ amacï¿½yla yurtdï¿½ï¿½ï¿½na aktarï¿½labilir.
+k. IBM, Programlarýn teslimini ve Program desteðinin saðlanmasýný desteklemek amacýyla, üçüncü kiþi yükleniciler dahil olmak üzere, dünya çapýndaki lokasyonlarýnda bulunan personeli ve kaynaklarý kullanabilir. Lisans Alan Tarafýn Programlarý kullanýmý sonucunda kiþileri tanýmlamaya yarayan bilgiler dahil olmak üzere Ýçerik, IBM Yazýlým Destek Rehberinde belirtildiði þekilde Program desteði saðlanmasý amacýyla yurtdýþýna aktarýlabilir.
 
-Bï¿½lï¿½m 2 - ï¿½lkeye ï¿½zgï¿½ Koï¿½ullar
+Bölüm 2 - Ülkeye Özgü Koþullar
 
-Aï¿½aï¿½ï¿½da belirtilen ï¿½lkelerde satï¿½n alï¿½nan lisanslar iï¿½in aï¿½aï¿½ï¿½da belirtilen koï¿½ullar bu UPLS'de atï¿½fta bulunulan koï¿½ullarï¿½n yerine geï¿½er veya onlarï¿½ deï¿½iï¿½tirir. Bu deï¿½iï¿½ikliklerle deï¿½iï¿½tirilmeyen koï¿½ullar deï¿½iï¿½meksizin tam olarak yï¿½rï¿½rlï¿½kte kalmaya devam eder.
+Aþaðýda belirtilen ülkelerde satýn alýnan lisanslar için aþaðýda belirtilen koþullar bu UPLS'de atýfta bulunulan koþullarýn yerine geçer veya onlarý deðiþtirir. Bu deðiþikliklerle deðiþtirilmeyen koþullar deðiþmeksizin tam olarak yürürlükte kalmaya devam eder.
 
-1. KUZEY VE Gï¿½NEY AMERï¿½KA
+1. KUZEY VE GÜNEY AMERÝKA
 
-Madde 3. ï¿½cretler, Vergiler, ï¿½deme ve Doï¿½rulama
+Madde 3. Ücretler, Vergiler, Ödeme ve Doðrulama
 
-Fï¿½kra b'nin birinci ve ikinci cï¿½mlesini aï¿½aï¿½ï¿½daki ifadeyle deï¿½iï¿½tirin:
+Fýkra b'nin birinci ve ikinci cümlesini aþaðýdaki ifadeyle deðiþtirin:
 
-Brezilya'da: Lisans Alan Taraf, satï¿½n alï¿½nan yetkiler iï¿½in geï¿½erli tï¿½m ï¿½cretleri, yetkileri aï¿½an kullanï¿½mlara iliï¿½kin ï¿½cretleri, kendisinin yetkileri satï¿½n almasï¿½ndan kaynaklanan herhangi bir resmi kurum tarafï¿½ndan uygulanan herhangi bir gï¿½mrï¿½k vergisini ya da diï¿½er herhangi bir resim, vergi veya benzer harï¿½larï¿½ ï¿½demeyi kabul eder.
+Brezilya'da: Lisans Alan Taraf, satýn alýnan yetkiler için geçerli tüm ücretleri, yetkileri aþan kullanýmlara iliþkin ücretleri, kendisinin yetkileri satýn almasýndan kaynaklanan herhangi bir resmi kurum tarafýndan uygulanan herhangi bir gümrük vergisini ya da diðer herhangi bir resim, vergi veya benzer harçlarý ödemeyi kabul eder.
 
-Fï¿½kra b'de:
+Fýkra b'de:
 
-Meksika'da: ï¿½ï¿½ï¿½ncï¿½ cï¿½mlede, "IBM tarafï¿½ndan belirtilen bir hesaba" ifadesini silin.
+Meksika'da: Üçüncü cümlede, "IBM tarafýndan belirtilen bir hesaba" ifadesini silin.
 
-Meksika'da: ï¿½ï¿½ï¿½ncï¿½ cï¿½mleden sonra aï¿½aï¿½ï¿½daki yeni cï¿½mleyi ekleyin:
+Meksika'da: Üçüncü cümleden sonra aþaðýdaki yeni cümleyi ekleyin:
 
-ï¿½demeler, IBM tarafï¿½ndan belirtilen bir hesaba elektronik fon transferi yoluyla veya IBM'in Alfonso Napoles Gandara 3111, Santa Fe Peï¿½a Blanca, Alvaro Obregon, Mexico City, Zip Code 01210 adresindeki yasal adresine yapï¿½lacaktï¿½r.
+Ödemeler, IBM tarafýndan belirtilen bir hesaba elektronik fon transferi yoluyla veya IBM'in Alfonso Napoles Gandara 3111, Santa Fe Peña Blanca, Alvaro Obregon, Mexico City, Zip Code 01210 adresindeki yasal adresine yapýlacaktýr.
 
-Fï¿½kra c'nin sonuna aï¿½aï¿½ï¿½daki cï¿½mleyi ekleyin:
+Fýkra c'nin sonuna aþaðýdaki cümleyi ekleyin:
 
-Kanada'da: Vergiler hesaplanï¿½rken Programdan yararlanï¿½lan lokasyon/lokasyonlar esas alï¿½ndï¿½ï¿½ï¿½nda, Lisans Alan Tarafï¿½n, geï¿½erli ï¿½ï¿½lem Belgesinde belirtilen iï¿½ adresinden farklï¿½ olduï¿½u durumlarda bu lokasyonu/lokasyonlarï¿½ IBM'e bildirme yï¿½kï¿½mlï¿½lï¿½ï¿½ï¿½ devam edecektir.
+Kanada'da: Vergiler hesaplanýrken Programdan yararlanýlan lokasyon/lokasyonlar esas alýndýðýnda, Lisans Alan Tarafýn, geçerli Ýþlem Belgesinde belirtilen iþ adresinden farklý olduðu durumlarda bu lokasyonu/lokasyonlarý IBM'e bildirme yükümlülüðü devam edecektir.
 
-Fï¿½kra c'nin sonuna aï¿½aï¿½ï¿½daki cï¿½mleyi ekleyin:
+Fýkra c'nin sonuna aþaðýdaki cümleyi ekleyin:
 
-ABD'de: Taraflar, ï¿½u durumlarda Lisans Alan Tarafa hiï¿½bir fiziksel kiï¿½isel mï¿½lkiyet (ï¿½rneï¿½in, medya veya yayï¿½nlar) devredilmeyeceï¿½ini kabul ederler: i) IBM'in Lisans Alan Tarafa, Programlarï¿½ elektronik olarak saï¿½lamasï¿½ veya ii) Lisans Alan Tarafï¿½n IBM'in Lisans Alan Tarafa elektronik olarak saï¿½ladï¿½ï¿½ï¿½ Programlar iï¿½in bir satï¿½ï¿½ veya kullanï¿½m vergisi muafiyeti talep etmesi. Vergiler hesaplanï¿½rken Programdan yararlanï¿½lan lokasyon/lokasyonlar esas alï¿½ndï¿½ï¿½ï¿½nda, Lisans Alan Tarafï¿½n, geï¿½erli ï¿½ï¿½lem Belgesinde belirtilen iï¿½ adresinden farklï¿½ olduï¿½u durumlarda bu lokasyonu/lokasyonlarï¿½ IBM'e bildirme yï¿½kï¿½mlï¿½lï¿½ï¿½ï¿½ devam edecektir.
+ABD'de: Taraflar, þu durumlarda Lisans Alan Tarafa hiçbir fiziksel kiþisel mülkiyet (örneðin, medya veya yayýnlar) devredilmeyeceðini kabul ederler: i) IBM'in Lisans Alan Tarafa, Programlarý elektronik olarak saðlamasý veya ii) Lisans Alan Tarafýn IBM'in Lisans Alan Tarafa elektronik olarak saðladýðý Programlar için bir satýþ veya kullaným vergisi muafiyeti talep etmesi. Vergiler hesaplanýrken Programdan yararlanýlan lokasyon/lokasyonlar esas alýndýðýnda, Lisans Alan Tarafýn, geçerli Ýþlem Belgesinde belirtilen iþ adresinden farklý olduðu durumlarda bu lokasyonu/lokasyonlarý IBM'e bildirme yükümlülüðü devam edecektir.
 
-Madde 4. Sorumluluk ve Fikri Mï¿½lkiyetin Korunmasï¿½
+Madde 4. Sorumluluk ve Fikri Mülkiyetin Korunmasý
 
-Fï¿½kra a'nï¿½n sonuna aï¿½aï¿½ï¿½daki sorumluluï¿½un reddi maddesini ekleyin:
+Fýkra a'nýn sonuna aþaðýdaki sorumluluðun reddi maddesini ekleyin:
 
-Peru'da: Peru Medeni Kanunuï¿½nda yer alan 1328 sayï¿½lï¿½ Maddeye uygun olarak, bu kï¿½sï¿½tlamalar ve istisnalar, kasten hukuka aykï¿½rï¿½ hareket ("dolo") ya da aï¿½ï¿½r ihmal ("culpa inexcusable") durumlarï¿½ iï¿½in geï¿½erli olmayacaktï¿½r.
+Peru'da: Peru Medeni Kanunu´nda yer alan 1328 sayýlý Maddeye uygun olarak, bu kýsýtlamalar ve istisnalar, kasten hukuka aykýrý hareket ("dolo") ya da aðýr ihmal ("culpa inexcusable") durumlarý için geçerli olmayacaktýr.
 
-Madde 6. Uygulanacak Hukuk ve Coï¿½rafi Kapsam
+Madde 6. Uygulanacak Hukuk ve Coðrafi Kapsam
 
-Fï¿½kra a'da, ilk cï¿½mleyi aï¿½aï¿½ï¿½daki cï¿½mleyle deï¿½iï¿½tirin:
+Fýkra a'da, ilk cümleyi aþaðýdaki cümleyle deðiþtirin:
 
-Arjantin'de: Taraflarï¿½n her ikisi de kanunlar ihtilafï¿½ prensiplerine bakï¿½lmaksï¿½zï¿½n, bu Sï¿½zleï¿½me iï¿½in Arjantin Cumhuriyeti yasalarï¿½nï¿½n geï¿½erli olacaï¿½ï¿½nï¿½ kabul eder. Bu Sï¿½zleï¿½meden doï¿½an hak, gï¿½rev ve yï¿½kï¿½mlï¿½lï¿½klerle ilgili her tï¿½r iï¿½lem iï¿½in "Ciudad Autï¿½noma de Buenos Aires" ï¿½ehri Olaï¿½an Ticari Mahkemesine baï¿½vurulacaktï¿½r.
+Arjantin'de: Taraflarýn her ikisi de kanunlar ihtilafý prensiplerine bakýlmaksýzýn, bu Sözleþme için Arjantin Cumhuriyeti yasalarýnýn geçerli olacaðýný kabul eder. Bu Sözleþmeden doðan hak, görev ve yükümlülüklerle ilgili her tür iþlem için "Ciudad Autónoma de Buenos Aires" Þehri Olaðan Ticari Mahkemesine baþvurulacaktýr.
 
-ï¿½ili'de: Taraflarï¿½n her ikisi de kanunlar ihtilafï¿½ prensiplerine bakï¿½lmaksï¿½zï¿½n, bu Sï¿½zleï¿½me iï¿½in ï¿½ili yasalarï¿½nï¿½n geï¿½erli olacaï¿½ï¿½nï¿½ kabul eder. ï¿½ï¿½bu Sï¿½zleï¿½meyle ilgili olarak Taraflarca ï¿½ï¿½zï¿½lemeyen herhangi bir ihtilaf, yorum veya ihlal iï¿½in Santiago ï¿½ehrinin ve bï¿½lgesinin Adli Mahkemelerinin yargï¿½ yetkisine baï¿½vurulmalï¿½dï¿½r.
+Þili'de: Taraflarýn her ikisi de kanunlar ihtilafý prensiplerine bakýlmaksýzýn, bu Sözleþme için Þili yasalarýnýn geçerli olacaðýný kabul eder. Ýþbu Sözleþmeyle ilgili olarak Taraflarca çözülemeyen herhangi bir ihtilaf, yorum veya ihlal için Santiago þehrinin ve bölgesinin Adli Mahkemelerinin yargý yetkisine baþvurulmalýdýr.
 
-Kolombiya'da:Taraflarï¿½n her ikisi de kanunlar ihtilafï¿½ prensiplerine bakï¿½lmaksï¿½zï¿½n, bu Sï¿½zleï¿½me iï¿½in Kolombiya Cumhuriyeti yasalarï¿½nï¿½n geï¿½erli olacaï¿½ï¿½nï¿½ kabul eder. Tï¿½m haklar, gï¿½rev ve yï¿½kï¿½mlï¿½lï¿½kler Kolombiya Cumhuriyetinin hakimlerine tabidir.
+Kolombiya'da:Taraflarýn her ikisi de kanunlar ihtilafý prensiplerine bakýlmaksýzýn, bu Sözleþme için Kolombiya Cumhuriyeti yasalarýnýn geçerli olacaðýný kabul eder. Tüm haklar, görev ve yükümlülükler Kolombiya Cumhuriyetinin hakimlerine tabidir.
 
-Ekvador'da: Taraflarï¿½n her ikisi de kanunlar ihtilafï¿½ prensiplerine bakï¿½lmaksï¿½zï¿½n, bu Sï¿½zleï¿½me iï¿½in Ekvador Cumhuriyeti yasalarï¿½nï¿½n geï¿½erli olacaï¿½ï¿½nï¿½ kabul eder. Bu Sï¿½zleï¿½meden doï¿½an veya Sï¿½zleï¿½meyle ilgili herhangi bir ihtilafta, Quito'nun hukuk mahkemesi hakimlerine ve sï¿½zlï¿½ nitelikte seri yargï¿½lama usullerine baï¿½vurulacaktï¿½r.
+Ekvador'da: Taraflarýn her ikisi de kanunlar ihtilafý prensiplerine bakýlmaksýzýn, bu Sözleþme için Ekvador Cumhuriyeti yasalarýnýn geçerli olacaðýný kabul eder. Bu Sözleþmeden doðan veya Sözleþmeyle ilgili herhangi bir ihtilafta, Quito'nun hukuk mahkemesi hakimlerine ve sözlü nitelikte seri yargýlama usullerine baþvurulacaktýr.
 
-Venezuela'da: Taraflarï¿½n her ikisi de kanunlar ihtilafï¿½ prensiplerine bakï¿½lmaksï¿½zï¿½n, bu Sï¿½zleï¿½me iï¿½in Venezuela yasalarï¿½nï¿½n geï¿½erli olacaï¿½ï¿½nï¿½ kabul eder. Taraflar, bu Sï¿½zleï¿½meyle ilgili olarak ortaya ï¿½ï¿½kan herhangi bir ihtilaf iï¿½in Caracas ï¿½ehri Bï¿½yï¿½kï¿½ehir Bï¿½lgesi Mahkemelerine baï¿½vurmayï¿½ kabul eder.
+Venezuela'da: Taraflarýn her ikisi de kanunlar ihtilafý prensiplerine bakýlmaksýzýn, bu Sözleþme için Venezuela yasalarýnýn geçerli olacaðýný kabul eder. Taraflar, bu Sözleþmeyle ilgili olarak ortaya çýkan herhangi bir ihtilaf için Caracas Þehri Büyükþehir Bölgesi Mahkemelerine baþvurmayý kabul eder.
 
-Peru'da: Taraflarï¿½n her ikisi de kanunlar ihtilafï¿½ prensiplerine bakï¿½lmaksï¿½zï¿½n, bu Sï¿½zleï¿½me iï¿½in Peru yasalarï¿½nï¿½n geï¿½erli olacaï¿½ï¿½nï¿½ kabul eder. Taraflar arasï¿½nda, iï¿½bu Sï¿½zleï¿½menin uygulanmasï¿½, yorumlanmasï¿½ veya Sï¿½zleï¿½meye uyulmasï¿½ sï¿½rasï¿½nda doï¿½abilecek ve doï¿½rudan ï¿½ï¿½zï¿½lemeyebilecek herhangi bir uyuï¿½mazlï¿½kla ilgili olarak, 'Cercado de Lima' Yargï¿½ Bï¿½lgesi Hakimlerinin ve Mahkemelerinin Yargï¿½ Yetkisine ve Yetkinliï¿½ine baï¿½vurulacaktï¿½r.
+Peru'da: Taraflarýn her ikisi de kanunlar ihtilafý prensiplerine bakýlmaksýzýn, bu Sözleþme için Peru yasalarýnýn geçerli olacaðýný kabul eder. Taraflar arasýnda, iþbu Sözleþmenin uygulanmasý, yorumlanmasý veya Sözleþmeye uyulmasý sýrasýnda doðabilecek ve doðrudan çözülemeyebilecek herhangi bir uyuþmazlýkla ilgili olarak, 'Cercado de Lima' Yargý Bölgesi Hakimlerinin ve Mahkemelerinin Yargý Yetkisine ve Yetkinliðine baþvurulacaktýr.
 
-Uruguay'da: Taraflarï¿½n her ikisi de Uruguay yasalarï¿½nï¿½n geï¿½erli olacaï¿½ï¿½nï¿½ kabul eder. Taraflar arasï¿½nda, iï¿½bu Sï¿½zleï¿½menin uygulanmasï¿½, yorumlanmasï¿½ veya Sï¿½zleï¿½meye uyulmasï¿½ sï¿½rasï¿½nda doï¿½abilecek ve doï¿½rudan ï¿½ï¿½zï¿½lemeyen herhangi bir uyuï¿½mazlï¿½kla ilgili olarak Montevideo Mahkemelerine (Montevideo Olaï¿½an Mahkemeleri) baï¿½vurulacaktï¿½r.
+Uruguay'da: Taraflarýn her ikisi de Uruguay yasalarýnýn geçerli olacaðýný kabul eder. Taraflar arasýnda, iþbu Sözleþmenin uygulanmasý, yorumlanmasý veya Sözleþmeye uyulmasý sýrasýnda doðabilecek ve doðrudan çözülemeyen herhangi bir uyuþmazlýkla ilgili olarak Montevideo Mahkemelerine (Montevideo Olaðan Mahkemeleri) baþvurulacaktýr.
 
-Fï¿½kra a'da yalnï¿½zca ilk cï¿½mlede "lisans yetkilerine iliï¿½kin iï¿½lemin gerï¿½ekleï¿½tirildiï¿½i ï¿½lkenin" ifadesini aï¿½aï¿½ï¿½daki ifadeyle deï¿½iï¿½tirin:
+Fýkra a'da yalnýzca ilk cümlede "lisans yetkilerine iliþkin iþlemin gerçekleþtirildiði ülkenin" ifadesini aþaðýdaki ifadeyle deðiþtirin:
 
-Amerika Birleï¿½ik Devletleri, Anguilla, Antigua/Barbuda, Aruba, Bahamalar, Barbados, Bermuda, Bonaire, ï¿½ngiliz Virgin Adalarï¿½, Kayman Adalarï¿½, Curacao, Dominica, Grenada, Guyana, Jamaika, Montserrat, Saba, Saint Eustatius, Saint Kitts ve Nevis, Saint Lucia, Saint Maarten, Saint Vincent ve Grenadines, Surinam, Tortola, Trinidad ve Tobago ve Turk ve Caicos'ta: ABD'de New York Eyaleti'nin.
+Amerika Birleþik Devletleri, Anguilla, Antigua/Barbuda, Aruba, Bahamalar, Barbados, Bermuda, Bonaire, Ýngiliz Virgin Adalarý, Kayman Adalarý, Curacao, Dominica, Grenada, Guyana, Jamaika, Montserrat, Saba, Saint Eustatius, Saint Kitts ve Nevis, Saint Lucia, Saint Maarten, Saint Vincent ve Grenadines, Surinam, Tortola, Trinidad ve Tobago ve Turk ve Caicos'ta: ABD'de New York Eyaleti'nin.
 
-Kanada'da: Ontario Eyaleti'nin ve Kanada'nï¿½n burada geï¿½erli federal yasalarï¿½.
+Kanada'da: Ontario Eyaleti'nin ve Kanada'nýn burada geçerli federal yasalarý.
 
-Fï¿½kra a'da ikinci cï¿½mlede "lisans yetkilerini satï¿½n alma iï¿½leminin gerï¿½ekleï¿½tirildiï¿½i ï¿½lkede" ifadesini aï¿½aï¿½ï¿½daki ifadeyle deï¿½iï¿½tirin:
+Fýkra a'da ikinci cümlede "lisans yetkilerini satýn alma iþleminin gerçekleþtirildiði ülkede" ifadesini aþaðýdaki ifadeyle deðiþtirin:
 
 Arjantin'de: Arjantin
 
-ï¿½ili'de: ï¿½ili
+Þili'de: Þili
 
 Kolombiya'da: Kolombiya
 
@@ -224,243 +224,243 @@ Uruguay'da: Uruguay
 
 Venezuela'da: Venezuela
 
-Fï¿½kra b'nin sonuna aï¿½aï¿½ï¿½daki cï¿½mleleri ekleyin:
+Fýkra b'nin sonuna aþaðýdaki cümleleri ekleyin:
 
-Brezilya'da: Seri yargï¿½lama usulleri dahil olmak ï¿½zere, bu Sï¿½zleï¿½meden doï¿½an veya bu Sï¿½zleï¿½meyle ilgili tï¿½m ihtilaflarda, Brezilya, Sï¿½o Paulo Eyaleti, Forum of the City of Sï¿½o Paulo yetkili mahkemesine baï¿½vurulacak ve bu mahkemelerin mï¿½nhasï¿½r yetkisine tabi olunacaktï¿½r ve taraflar, ayrï¿½calï¿½klï¿½ olsa da diï¿½er herhangi birinden feragat ederek bu belirli mahkemeyi geri alï¿½namaz bir ï¿½ekilde kabul ederler.
+Brezilya'da: Seri yargýlama usulleri dahil olmak üzere, bu Sözleþmeden doðan veya bu Sözleþmeyle ilgili tüm ihtilaflarda, Brezilya, São Paulo Eyaleti, Forum of the City of São Paulo yetkili mahkemesine baþvurulacak ve bu mahkemelerin münhasýr yetkisine tabi olunacaktýr ve taraflar, ayrýcalýklý olsa da diðer herhangi birinden feragat ederek bu belirli mahkemeyi geri alýnamaz bir þekilde kabul ederler.
 
-Meksika'da: Taraflar, bu Sï¿½zleï¿½meden doï¿½an tï¿½m ihtilaflarda, Mexico City yetkili mahkemesine baï¿½vurmayï¿½ ve bu mahkemenin mï¿½nhasï¿½ran yetkili olduï¿½unu kabul ederler. Taraflar, mevcut veya gelecekteki ikametleri nedeniyle veya herhangi bir baï¿½ka nedenle kendileri iï¿½in geï¿½erli olabilecek diï¿½er her tï¿½rlï¿½ yargï¿½ yetkisi alanï¿½ndan feragat ederler.
+Meksika'da: Taraflar, bu Sözleþmeden doðan tüm ihtilaflarda, Mexico City yetkili mahkemesine baþvurmayý ve bu mahkemenin münhasýran yetkili olduðunu kabul ederler. Taraflar, mevcut veya gelecekteki ikametleri nedeniyle veya herhangi bir baþka nedenle kendileri için geçerli olabilecek diðer her türlü yargý yetkisi alanýndan feragat ederler.
 
 Madde 7. Genel
 
-Fï¿½kra g'de:
+Fýkra g'de:
 
-ABD'de: son iki cï¿½mleyi silin.
+ABD'de: son iki cümleyi silin.
 
-Fï¿½kra i'de ilk cï¿½mleden sonra aï¿½aï¿½ï¿½daki yeni cï¿½mleyi ekleyin:
+Fýkra i'de ilk cümleden sonra aþaðýdaki yeni cümleyi ekleyin:
 
-Meksika'da: Herhangi bir adres deï¿½iï¿½ikliï¿½i 10 (on) gï¿½n ï¿½nceden bildirilmelidir, aksi takdirde son bildirilen adrese yapï¿½lan bildirimler hukuki olarak geï¿½erli bir bildirimin tï¿½m sonuï¿½larï¿½nï¿½ doï¿½uracaktï¿½r.
+Meksika'da: Herhangi bir adres deðiþikliði 10 (on) gün önceden bildirilmelidir, aksi takdirde son bildirilen adrese yapýlan bildirimler hukuki olarak geçerli bir bildirimin tüm sonuçlarýný doðuracaktýr.
 
-Fï¿½kra j'de:
+Fýkra j'de:
 
-Brezilya'da: ï¿½kinci cï¿½mlenin tamamï¿½nï¿½ silin: "Taraflardan hiï¿½biri, dava gerekï¿½esinin ortaya ï¿½ï¿½kmasï¿½nï¿½n ï¿½zerinden iki yï¿½ldan fazla sï¿½re geï¿½tikten sonra bu Sï¿½zleï¿½meyle baï¿½lantï¿½lï¿½ ya da Sï¿½zleï¿½meden kaynaklanan herhangi bir yasal iï¿½lem baï¿½latmayacaktï¿½r."
+Brezilya'da: Ýkinci cümlenin tamamýný silin: "Taraflardan hiçbiri, dava gerekçesinin ortaya çýkmasýnýn üzerinden iki yýldan fazla süre geçtikten sonra bu Sözleþmeyle baðlantýlý ya da Sözleþmeden kaynaklanan herhangi bir yasal iþlem baþlatmayacaktýr."
 
-Aï¿½aï¿½ï¿½daki ifadeyi bu maddeye yeni l fï¿½krasï¿½ olarak ekleyin:
+Aþaðýdaki ifadeyi bu maddeye yeni l fýkrasý olarak ekleyin:
 
-Kanada'da: ï¿½ki taraf da bu belgeyi ï¿½ngilizce olarak yazmayï¿½ kabul eder. Les parties ont convenu de rï¿½diger le prï¿½sent document en langue anglaise.
+Kanada'da: Ýki taraf da bu belgeyi Ýngilizce olarak yazmayý kabul eder. Les parties ont convenu de rédiger le présent document en langue anglaise.
 
-2. ASYA PASï¿½Fï¿½K
+2. ASYA PASÝFÝK
 
 Madde 2. Garantiler
 
-Aï¿½aï¿½ï¿½daki ifadeyi bu maddenin sonuna yeni f fï¿½krasï¿½ olarak ekleyin:
+Aþaðýdaki ifadeyi bu maddenin sonuna yeni f fýkrasý olarak ekleyin:
 
-Avustralya'da: Bu garantiler, Competition and Consumer Act 2010 (Avustralya Rekabet ve Tï¿½ketici Yasasï¿½ 2010) kapsamï¿½ndaki haklara ek niteliï¿½indedir ve yalnï¿½zca bu yasanï¿½n izin verdiï¿½i ï¿½lï¿½ï¿½ler dahilinde sï¿½nï¿½rlï¿½dï¿½r.
+Avustralya'da: Bu garantiler, Competition and Consumer Act 2010 (Avustralya Rekabet ve Tüketici Yasasý 2010) kapsamýndaki haklara ek niteliðindedir ve yalnýzca bu yasanýn izin verdiði ölçüler dahilinde sýnýrlýdýr.
 
-Japonya'da: IBM'in sorumluluï¿½u bu fï¿½kra ile Sorumluluk ve Fikri Mï¿½lkiyetin Korunmasï¿½ maddesinde, geï¿½erli ï¿½ï¿½lem Belgelerinde belirtilenlerle sï¿½nï¿½rlï¿½ olup, bu maddede belirtilen garantileri karï¿½ï¿½lanmamasï¿½ durumunda Lisans Alan Tarafï¿½n baï¿½vuracaï¿½ï¿½ yegane ï¿½ï¿½zï¿½m yoludur.
+Japonya'da: IBM'in sorumluluðu bu fýkra ile Sorumluluk ve Fikri Mülkiyetin Korunmasý maddesinde, geçerli Ýþlem Belgelerinde belirtilenlerle sýnýrlý olup, bu maddede belirtilen garantileri karþýlanmamasý durumunda Lisans Alan Tarafýn baþvuracaðý yegane çözüm yoludur.
 
-Yeni Zelanda'da: Bu garantiler, Consumer Guarantee Act 1993 (1993 Tï¿½ketici Garantileri Yasasï¿½) veya yasalarca sï¿½nï¿½rlanamayacak diï¿½er yasal dï¿½zenlemeler kapsamï¿½ndaki haklara ek niteliï¿½indedir.
+Yeni Zelanda'da: Bu garantiler, Consumer Guarantee Act 1993 (1993 Tüketici Garantileri Yasasý) veya yasalarca sýnýrlanamayacak diðer yasal düzenlemeler kapsamýndaki haklara ek niteliðindedir.
 
-Madde 3. ï¿½cretler, Vergiler, ï¿½deme ve Doï¿½rulama
+Madde 3. Ücretler, Vergiler, Ödeme ve Doðrulama
 
-Fï¿½kra b'de ï¿½ï¿½ï¿½ncï¿½ cï¿½mleyi aï¿½aï¿½ï¿½daki 2 cï¿½mleyle deï¿½iï¿½tirin:
+Fýkra b'de üçüncü cümleyi aþaðýdaki 2 cümleyle deðiþtirin:
 
-Hong Kong, Endonezya, Kore, Macau, Malezya, Filinpinler, Singapur ve Vietnam'da: Tutarlar IBM'in faturasï¿½ teslim alï¿½ndï¿½ï¿½ï¿½nda muaccel olur ve fatura tarihini takip eden 30 gï¿½n iï¿½erisinde IBM tarafï¿½ndan belirtilen bir hesaba ï¿½denir. ï¿½deme fatura tarihinden sonra 30 gï¿½n iï¿½inde yapï¿½lmazsa, IBM, ï¿½denmemiï¿½ tutara ï¿½demenin geï¿½ yapï¿½ldï¿½ï¿½ï¿½ gï¿½n sayï¿½sï¿½ esas alï¿½narak hesaplanacak ï¿½ekilde i) her 30 gï¿½n veya bunun bir bï¿½lï¿½mï¿½ iï¿½in %2 veya ii) geï¿½erli yasanï¿½n izin verdiï¿½i en yï¿½ksek tutardan daha az olanï¿½ ï¿½zerinden gecikme faizi uygulayabilir.
+Hong Kong, Endonezya, Kore, Macau, Malezya, Filinpinler, Singapur ve Vietnam'da: Tutarlar IBM'in faturasý teslim alýndýðýnda muaccel olur ve fatura tarihini takip eden 30 gün içerisinde IBM tarafýndan belirtilen bir hesaba ödenir. Ödeme fatura tarihinden sonra 30 gün içinde yapýlmazsa, IBM, ödenmemiþ tutara ödemenin geç yapýldýðý gün sayýsý esas alýnarak hesaplanacak þekilde i) her 30 gün veya bunun bir bölümü için %2 veya ii) geçerli yasanýn izin verdiði en yüksek tutardan daha az olaný üzerinden gecikme faizi uygulayabilir.
 
-Tayland'da: Tutarlar IBM'in faturasï¿½ teslim alï¿½ndï¿½ï¿½ï¿½nda muaccel olur ve fatura tarihini takip eden 30 gï¿½n iï¿½erisinde IBM tarafï¿½ndan belirtilen bir hesaba ï¿½denir. ï¿½deme fatura tarihinden sonra 30 gï¿½n iï¿½inde yapï¿½lmazsa, IBM, ï¿½denmemiï¿½ tutara ï¿½demenin geï¿½ yapï¿½ldï¿½ï¿½ï¿½ gï¿½n sayï¿½sï¿½ esas alï¿½narak hesaplanacak ï¿½ekilde ayda %1,25 oranï¿½nda gecikme faizi uygulayabilir.
+Tayland'da: Tutarlar IBM'in faturasý teslim alýndýðýnda muaccel olur ve fatura tarihini takip eden 30 gün içerisinde IBM tarafýndan belirtilen bir hesaba ödenir. Ödeme fatura tarihinden sonra 30 gün içinde yapýlmazsa, IBM, ödenmemiþ tutara ödemenin geç yapýldýðý gün sayýsý esas alýnarak hesaplanacak þekilde ayda %1,25 oranýnda gecikme faizi uygulayabilir.
 
-Fï¿½kra c'nin ilk cï¿½mlesinde "(iv)" ï¿½nï¿½ndeki "ve" sï¿½zcï¿½ï¿½ï¿½nï¿½ kaldï¿½rï¿½n ve noktalï¿½ virgï¿½l ve aï¿½aï¿½ï¿½daki yeni "(v)" bendini ekleyin:
+Fýkra c'nin ilk cümlesinde "(iv)" önündeki "ve" sözcüðünü kaldýrýn ve noktalý virgül ve aþaðýdaki yeni "(v)" bendini ekleyin:
 
-Hindistan'da: ; ve (v) doï¿½ru Stopaj Vergisi beyannamelerini zamanï¿½nda verecektir. Lisans Alan Tarafï¿½n saï¿½ladï¿½ï¿½ï¿½ muafiyet belgelerine dayanï¿½larak herhangi bir vergi, resim, harï¿½ ya da ï¿½cretin ("Vergiler") uygulanmamasï¿½ ve vergi makamï¿½nï¿½n, daha sonra bu Vergilerin uygulanmasï¿½ gerektiï¿½i konusunda hï¿½kï¿½m vermesi durumunda, Lisans Alan Taraf, bu vergilere uygulanan herhangi bir faiz, resim ve/veya cezalar da dahil olmak ï¿½zere sï¿½z konusu Vergileri ï¿½demekle yï¿½kï¿½mlï¿½ olacaktï¿½r.
+Hindistan'da: ; ve (v) doðru Stopaj Vergisi beyannamelerini zamanýnda verecektir. Lisans Alan Tarafýn saðladýðý muafiyet belgelerine dayanýlarak herhangi bir vergi, resim, harç ya da ücretin ("Vergiler") uygulanmamasý ve vergi makamýnýn, daha sonra bu Vergilerin uygulanmasý gerektiði konusunda hüküm vermesi durumunda, Lisans Alan Taraf, bu vergilere uygulanan herhangi bir faiz, resim ve/veya cezalar da dahil olmak üzere söz konusu Vergileri ödemekle yükümlü olacaktýr.
 
-Fï¿½kra c'nin ilk cï¿½mlesinde "(iv)" ï¿½nï¿½ndeki "ve" sï¿½zcï¿½ï¿½ï¿½nï¿½ kaldï¿½rï¿½n, "(iv)" bendini aï¿½aï¿½ï¿½daki ifadeyle deï¿½iï¿½tirin ve yeni (v) bendini ekleyin:
+Fýkra c'nin ilk cümlesinde "(iv)" önündeki "ve" sözcüðünü kaldýrýn, "(iv)" bendini aþaðýdaki ifadeyle deðiþtirin ve yeni (v) bendini ekleyin:
 
-Singapur, Malezya, Filipinler, Tayland, Endonezya ve Vietnam'da: (iv) Lisans Alan Tarafï¿½n muafiyet veya indirim talep ettiï¿½i stopaj veya diï¿½er vergilerden muafiyet ya da indirim alï¿½nmasï¿½nda IBM ile tam iï¿½birliï¿½i yapacak; ve (v) sï¿½z konusu muafiyet, indirim veya feragatler ile ilgili tï¿½m belgeleri en kï¿½sa sï¿½re iï¿½erisinde tamamlayacak, dosyalayacak ve gï¿½ncel olarak muhafaza edecektir.
+Singapur, Malezya, Filipinler, Tayland, Endonezya ve Vietnam'da: (iv) Lisans Alan Tarafýn muafiyet veya indirim talep ettiði stopaj veya diðer vergilerden muafiyet ya da indirim alýnmasýnda IBM ile tam iþbirliði yapacak; ve (v) söz konusu muafiyet, indirim veya feragatler ile ilgili tüm belgeleri en kýsa süre içerisinde tamamlayacak, dosyalayacak ve güncel olarak muhafaza edecektir.
 
-Madde 4. Sorumluluk ve Fikri Mï¿½lkiyetin Korunmasï¿½
+Madde 4. Sorumluluk ve Fikri Mülkiyetin Korunmasý
 
-Fï¿½kra a'da ilk cï¿½mlenin sonuna aï¿½aï¿½ï¿½daki ifadeyi ekleyin:
+Fýkra a'da ilk cümlenin sonuna aþaðýdaki ifadeyi ekleyin:
 
-Avustralya'da: (ï¿½rneï¿½in; ister sï¿½zleï¿½meden, ister haksï¿½z fiilden, ihlalden, mevzuattan veya baï¿½ka bir husustan kaynaklansï¿½n)
+Avustralya'da: (örneðin; ister sözleþmeden, ister haksýz fiilden, ihlalden, mevzuattan veya baþka bir husustan kaynaklansýn)
 
-Fï¿½kra a'da "ï¿½zel" sï¿½zcï¿½ï¿½ï¿½nden sonra ve "arï¿½zi" sï¿½zcï¿½ï¿½ï¿½nden ï¿½nce ikinci cï¿½mlede aï¿½aï¿½ï¿½daki ifadeyi ekleyin:
+Fýkra a'da "özel" sözcüðünden sonra ve "arýzi" sözcüðünden önce ikinci cümlede aþaðýdaki ifadeyi ekleyin:
 
-Filipinler'de: (nominal ve ï¿½rnek teï¿½kil eden zararlar dahil), manevi,
+Filipinler'de: (nominal ve örnek teþkil eden zararlar dahil), manevi,
 
-Fï¿½kra a'nï¿½n sonundan sonra yeni bir fï¿½kra olarak ekleyin (ve fï¿½kra harflerinin dï¿½zgï¿½n olmasï¿½nï¿½ saï¿½layï¿½n):
+Fýkra a'nýn sonundan sonra yeni bir fýkra olarak ekleyin (ve fýkra harflerinin düzgün olmasýný saðlayýn):
 
-Avustralya'da: IBM'in 2010 Rekabet ve Tï¿½ketici Yasasï¿½nca belirtilen bir garantiyi ihlal etmesi durumunda, IBM'in sorumluluï¿½u; ï¿½rï¿½nlerin onarï¿½lmasï¿½ veya deï¿½iï¿½tirilmesi veya eï¿½deï¿½er ï¿½rï¿½nler saï¿½lanmasï¿½yla veya ï¿½rï¿½nleri deï¿½iï¿½tirmenin veya ï¿½rï¿½nlerin onarï¿½mï¿½nï¿½ yaptï¿½rmanï¿½n maliyetinin ï¿½denmesiyle sï¿½nï¿½rlï¿½dï¿½r. Bir garantinin, Rekabet ve Tï¿½ketici Yasasï¿½nï¿½n 2 no.lu planï¿½ kapsamï¿½ndaki bir ï¿½rï¿½ne iliï¿½kin satï¿½ï¿½ hakkï¿½, haklï¿½ zilyetlik veya ï¿½zerinde herhangi bir kï¿½sï¿½tlama olmayan mï¿½lkiyet hakkï¿½ ile ilgiliyse, bu sï¿½nï¿½rlamalarï¿½n hiï¿½biri geï¿½erli deï¿½ildir.
+Avustralya'da: IBM'in 2010 Rekabet ve Tüketici Yasasýnca belirtilen bir garantiyi ihlal etmesi durumunda, IBM'in sorumluluðu; ürünlerin onarýlmasý veya deðiþtirilmesi veya eþdeðer ürünler saðlanmasýyla veya ürünleri deðiþtirmenin veya ürünlerin onarýmýný yaptýrmanýn maliyetinin ödenmesiyle sýnýrlýdýr. Bir garantinin, Rekabet ve Tüketici Yasasýnýn 2 no.lu planý kapsamýndaki bir ürüne iliþkin satýþ hakký, haklý zilyetlik veya üzerinde herhangi bir kýsýtlama olmayan mülkiyet hakký ile ilgiliyse, bu sýnýrlamalarýn hiçbiri geçerli deðildir.
 
 Madde 5. Sona Erdirme
 
-Aï¿½aï¿½ï¿½daki ifadeyi bu maddenin sonuna yeni b fï¿½krasï¿½ olarak ekleyin:
+Aþaðýdaki ifadeyi bu maddenin sonuna yeni b fýkrasý olarak ekleyin:
 
-Endonezya'da: Taraflar, karï¿½ï¿½lï¿½klï¿½ yï¿½kï¿½mlï¿½lï¿½kler oluï¿½turan bir sï¿½zleï¿½menin sona erdirilmesi iï¿½in mahkeme kararï¿½ alï¿½nmasï¿½ gerektiï¿½ine iliï¿½kin Endonezya Medeni Kanunu'nda madde 1266ï¿½nï¿½n hï¿½kï¿½mlerine gï¿½re hï¿½kï¿½mlerinden feragat ederler.
+Endonezya'da: Taraflar, karþýlýklý yükümlülükler oluþturan bir sözleþmenin sona erdirilmesi için mahkeme kararý alýnmasý gerektiðine iliþkin Endonezya Medeni Kanunu'nda madde 1266´nýn hükümlerine göre hükümlerinden feragat ederler.
 
-Madde 6. Uygulanacak Hukuk ve Coï¿½rafi Kapsam
+Madde 6. Uygulanacak Hukuk ve Coðrafi Kapsam
 
-Fï¿½kra a'da yalnï¿½zca ilk cï¿½mlede "lisans yetkileri iï¿½in iï¿½lemin gerï¿½ekleï¿½tirildiï¿½i ï¿½lkenin" ifadesini aï¿½aï¿½ï¿½daki ifadeyle deï¿½iï¿½tirin:
+Fýkra a'da yalnýzca ilk cümlede "lisans yetkileri için iþlemin gerçekleþtirildiði ülkenin" ifadesini aþaðýdaki ifadeyle deðiþtirin:
 
-Kamboï¿½ya, Laos'ta: Amerika Birleï¿½ik Devletleri'nde New York Eyaleti'nin
+Kamboçya, Laos'ta: Amerika Birleþik Devletleri'nde New York Eyaleti'nin
 
-Avustralya'da: ï¿½ï¿½lemin gerï¿½ekleï¿½tirildiï¿½i Eyalet ya da Bï¿½lgenin.
+Avustralya'da: Ýþlemin gerçekleþtirildiði Eyalet ya da Bölgenin.
 
-Hong Kong'ta: ï¿½in Halk Cumhuriyeti'nin Hong Kong ï¿½zel ï¿½dare Bï¿½lgesi'nin
+Hong Kong'ta: Çin Halk Cumhuriyeti'nin Hong Kong Özel Ýdare Bölgesi'nin
 
-Macau'da: ï¿½in Halk Cumhuriyeti'nin Hong Kong ï¿½zel ï¿½dare Bï¿½lgesi'nin
+Macau'da: Çin Halk Cumhuriyeti'nin Hong Kong Özel Ýdare Bölgesi'nin
 
-Kore'de: Kore Cumhuriyeti Seul Merkezi Bï¿½lge Mahkemesine tabi olarak Kore Cumhuriyeti'nin
+Kore'de: Kore Cumhuriyeti Seul Merkezi Bölge Mahkemesine tabi olarak Kore Cumhuriyeti'nin
 
 Tayvan'da: Tayvan
 
 Hindistan'da: Hindistan
 
-Fï¿½kra a'da ikinci cï¿½mlede, "Lisans yetkilerini satï¿½n alma iï¿½leminin gerï¿½ekleï¿½tirildiï¿½i ï¿½lkede veya IBM'in kabul etmesi durumunda, Programï¿½n ï¿½retim amaï¿½lï¿½ olarak kullanï¿½ldï¿½ï¿½ï¿½ ï¿½lkede" ifadesini aï¿½aï¿½ï¿½daki ifadeyle deï¿½iï¿½tirin:
+Fýkra a'da ikinci cümlede, "Lisans yetkilerini satýn alma iþleminin gerçekleþtirildiði ülkede veya IBM'in kabul etmesi durumunda, Programýn üretim amaçlý olarak kullanýldýðý ülkede" ifadesini aþaðýdaki ifadeyle deðiþtirin:
 
-Hong Kong'ta: ï¿½in Halk Cumhuriyeti'nin Hong Kong ï¿½zel ï¿½dare Bï¿½lgesi'nde
+Hong Kong'ta: Çin Halk Cumhuriyeti'nin Hong Kong Özel Ýdare Bölgesi'nde
 
-Macau'da: ï¿½in Halk Cumhuriyeti'nin Macau ï¿½zel ï¿½dare Bï¿½lgesi'nde
+Macau'da: Çin Halk Cumhuriyeti'nin Macau Özel Ýdare Bölgesi'nde
 
 Tayvan'da: Tayvan'da
 
-Fï¿½kra b'de, ii) bendinde ilk cï¿½mlede "rejimi" sï¿½zcï¿½ï¿½ï¿½nden sonra ve "dahil" sï¿½zcï¿½ï¿½ï¿½nden ï¿½nce aï¿½aï¿½ï¿½daki ifadeyi ekleyin:
+Fýkra b'de, ii) bendinde ilk cümlede "rejimi" sözcüðünden sonra ve "dahil" sözcüðünden önce aþaðýdaki ifadeyi ekleyin:
 
-Japonya'da: ve Japonya yasalarï¿½ndakiler
+Japonya'da: ve Japonya yasalarýndakiler
 
-Aï¿½aï¿½ï¿½daki ifadeyi bu maddenin sonuna yeni d fï¿½krasï¿½ olarak ekleyin:
+Aþaðýdaki ifadeyi bu maddenin sonuna yeni d fýkrasý olarak ekleyin:
 
-Kamboï¿½ya, Laos, Filipinler, Sri Lanka'da: ï¿½htilaflar Singapur'da bulunan Singapur Uluslararasï¿½ Tahkim Merkezi'nin Tahkim Kurallarï¿½na ("SIAC Kurallarï¿½") gï¿½re uygulanacak tahkim mahkemesinde nihai olarak karara baï¿½lanacaktï¿½r.
+Kamboçya, Laos, Filipinler, Sri Lanka'da: Ýhtilaflar Singapur'da bulunan Singapur Uluslararasý Tahkim Merkezi'nin Tahkim Kurallarýna ("SIAC Kurallarý") göre uygulanacak tahkim mahkemesinde nihai olarak karara baðlanacaktýr.
 
-Hindistan'da: ï¿½htilaflar, nihai olarak, Hindistan, Bangalore'da ï¿½ngilizce olarak yï¿½rï¿½rlï¿½kte olan, 1996 tarihli Tahkim ve Uzlaï¿½ma Yasasï¿½ uyarï¿½nca ï¿½ï¿½zï¿½me kavuï¿½turulacaktï¿½r. ï¿½htilaflï¿½ tutar, 50 milyon Hindistan Rupisine eï¿½it veya daha dï¿½ï¿½ï¿½kse bir hakem, tutar daha fazla ise ï¿½ï¿½ hakem olacaktï¿½r. Bir hakem deï¿½iï¿½tirildiï¿½inde, dava muamelesi, makamï¿½n boï¿½aldï¿½ï¿½ï¿½ aï¿½amadan itibaren devam edecektir.
+Hindistan'da: Ýhtilaflar, nihai olarak, Hindistan, Bangalore'da Ýngilizce olarak yürürlükte olan, 1996 tarihli Tahkim ve Uzlaþma Yasasý uyarýnca çözüme kavuþturulacaktýr. Ýhtilaflý tutar, 50 milyon Hindistan Rupisine eþit veya daha düþükse bir hakem, tutar daha fazla ise üç hakem olacaktýr. Bir hakem deðiþtirildiðinde, dava muamelesi, makamýn boþaldýðý aþamadan itibaren devam edecektir.
 
-Endonezya'da: ï¿½htilaflar, Endonezya'nï¿½n Jakarta ï¿½ehrinde, 1977 yï¿½lï¿½ndan belirlenen Endonezya Ulusal Tahkim Kurulu (Badan Arbitrase Nasional Indonesia ya da "BANI") kurallarï¿½ uyarï¿½nca gerï¿½ekleï¿½tirilecek tahkim yoluyla nihai olarak karara baï¿½lanacaktï¿½r. Hakem kararï¿½, taraflarï¿½n itiraz hakkï¿½ olmaksï¿½zï¿½n nihai ve baï¿½layï¿½cï¿½dï¿½r ve yazï¿½lï¿½ olmak kaydï¿½yla konuya iliï¿½kin kararï¿½ ve mer'i kanun hï¿½kï¿½mlerinin uygulanmasï¿½yla varï¿½lan sonuï¿½larï¿½ belirtir.
+Endonezya'da: Ýhtilaflar, Endonezya'nýn Jakarta þehrinde, 1977 yýlýndan belirlenen Endonezya Ulusal Tahkim Kurulu (Badan Arbitrase Nasional Indonesia ya da "BANI") kurallarý uyarýnca gerçekleþtirilecek tahkim yoluyla nihai olarak karara baðlanacaktýr. Hakem kararý, taraflarýn itiraz hakký olmaksýzýn nihai ve baðlayýcýdýr ve yazýlý olmak kaydýyla konuya iliþkin kararý ve mer'i kanun hükümlerinin uygulanmasýyla varýlan sonuçlarý belirtir.
 
-ï¿½in Halk Cumhuriyeti'nde: Taraflardan herhangi biri, tahkim gerï¿½ekleï¿½tirilmesi iï¿½in ihtilafï¿½ ï¿½in Halk Cumhuriyeti'nin Pekin ï¿½ehrindeki ï¿½in Uluslararasï¿½ Ekonomik ve Ticari Tahkim Komisyonuna gï¿½nderme hakkï¿½na sahiptir. Taraflar, herhangi bir ihtilafï¿½n ï¿½ï¿½zï¿½lmesi iï¿½in ï¿½ï¿½ hakem kullanï¿½lacaï¿½ï¿½nï¿½ kabul ederler.
+Çin Halk Cumhuriyeti'nde: Taraflardan herhangi biri, tahkim gerçekleþtirilmesi için ihtilafý Çin Halk Cumhuriyeti'nin Pekin þehrindeki Çin Uluslararasý Ekonomik ve Ticari Tahkim Komisyonuna gönderme hakkýna sahiptir. Taraflar, herhangi bir ihtilafýn çözülmesi için üç hakem kullanýlacaðýný kabul ederler.
 
-Vietnam'da: ï¿½htilaflar Vietnam'da bulunan Vietnam Uluslararasï¿½ Tahkim Merkezi'nin Tahkim Kurallarï¿½na ("VIAC Kurallarï¿½") gï¿½re uygulanacak tahkim mahkemesinde nihai olarak karara baï¿½lanacaktï¿½r. Tï¿½m iï¿½lemler ve belgeler ï¿½ngilizce dilinde yï¿½rï¿½tï¿½lecek ve sunulacaktï¿½r.
+Vietnam'da: Ýhtilaflar Vietnam'da bulunan Vietnam Uluslararasý Tahkim Merkezi'nin Tahkim Kurallarýna ("VIAC Kurallarý") göre uygulanacak tahkim mahkemesinde nihai olarak karara baðlanacaktýr. Tüm iþlemler ve belgeler Ýngilizce dilinde yürütülecek ve sunulacaktýr.
 
 Madde 7. Genel
 
-Fï¿½kra j'de ikinci cï¿½mlede "iki yï¿½l" ifadesini aï¿½aï¿½ï¿½daki ifadeyle deï¿½iï¿½tirin:
+Fýkra j'de ikinci cümlede "iki yýl" ifadesini aþaðýdaki ifadeyle deðiþtirin:
 
-Hindistan'da: ï¿½ï¿½ yï¿½l
+Hindistan'da: üç yýl
 
-Aï¿½aï¿½ï¿½daki ifadeyi bu maddenin sonuna yeni l fï¿½krasï¿½ olarak ekleyin:
+Aþaðýdaki ifadeyi bu maddenin sonuna yeni l fýkrasý olarak ekleyin:
 
-Endonezya'da: Bu Sï¿½zleï¿½me, ï¿½ngilizce ve Bahasa Endonezya dilinde akdedilmiï¿½tir. Geï¿½erli yasanï¿½n izin verdiï¿½i ï¿½lï¿½ï¿½de, ï¿½eliï¿½ki olmasï¿½ halinde sï¿½zleï¿½menin ï¿½ngilizce olarak hazï¿½rlanan hali ï¿½ncelikli olarak uygulanacaktï¿½r.
+Endonezya'da: Bu Sözleþme, Ýngilizce ve Bahasa Endonezya dilinde akdedilmiþtir. Geçerli yasanýn izin verdiði ölçüde, çeliþki olmasý halinde sözleþmenin Ýngilizce olarak hazýrlanan hali öncelikli olarak uygulanacaktýr.
 
-3. AVRUPA, ORTA DOï¿½U VE AFRï¿½KA
+3. AVRUPA, ORTA DOÐU VE AFRÝKA
 
 Madde 2. Garantiler
 
-Fï¿½kra d'de, dï¿½rdï¿½ncï¿½ cï¿½mleyi aï¿½aï¿½ï¿½daki iki cï¿½mleyle deï¿½iï¿½tirin:
+Fýkra d'de, dördüncü cümleyi aþaðýdaki iki cümleyle deðiþtirin:
 
-ï¿½ek Cumhuriyeti, Estonya ve Litvanya'da IBM Dï¿½ï¿½ï¿½ Programlar, ayï¿½plar iï¿½in hiï¿½bir tï¿½rde garanti verilmeksizin veya yï¿½kï¿½mlï¿½lï¿½k ï¿½stlenilmeksizin olduï¿½u gibi saï¿½lanï¿½r. Taraflar kararlaï¿½tï¿½rï¿½lan garantiler haricinde ayï¿½plara iliï¿½kin yï¿½kï¿½mlï¿½lï¿½kleri iï¿½bu belgeyle kapsam dï¿½ï¿½ï¿½nda tutmaktadï¿½rlar.
+Çek Cumhuriyeti, Estonya ve Litvanya'da IBM Dýþý Programlar, ayýplar için hiçbir türde garanti verilmeksizin veya yükümlülük üstlenilmeksizin olduðu gibi saðlanýr. Taraflar kararlaþtýrýlan garantiler haricinde ayýplara iliþkin yükümlülükleri iþbu belgeyle kapsam dýþýnda tutmaktadýrlar.
 
-Madde 3. ï¿½cretler, Vergiler, ï¿½deme ve Doï¿½rulama
+Madde 3. Ücretler, Vergiler, Ödeme ve Doðrulama
 
-Fï¿½kra b'de ï¿½ï¿½ï¿½ncï¿½ cï¿½mlenin sonuna aï¿½aï¿½ï¿½daki ifadeyi ekleyin:
+Fýkra b'de üçüncü cümlenin sonuna aþaðýdaki ifadeyi ekleyin:
 
-ï¿½talya'da: IBM, Lisans Alan Tarafa yazï¿½lï¿½ bildirimle istekte bulunursa
+Ýtalya'da: IBM, Lisans Alan Tarafa yazýlý bildirimle istekte bulunursa
 
-Ukrayna'da: , gecikme sï¿½resi boyunca Ukrayna Ulusal Bankasï¿½ (National Bank of Ukraine; NBU) tarafï¿½ndan belirlenen indirim oranï¿½nï¿½n iki katï¿½na denk gelen faiz oranï¿½yla, vade dolum tarihinden sonraki gï¿½nden ï¿½demenin gerï¿½ekleï¿½tiï¿½i tarihe kadar gecikmenin her gï¿½nï¿½ iï¿½in oranlanmï¿½ï¿½ olarak, ï¿½demesi gecikmiï¿½ tutar ï¿½zerinden (Ukrayna Ticari Kanunu'nun 232 numaralï¿½ maddesinin 6. fï¿½krasï¿½ geï¿½erli olmaz).
+Ukrayna'da: , gecikme süresi boyunca Ukrayna Ulusal Bankasý (National Bank of Ukraine; NBU) tarafýndan belirlenen indirim oranýnýn iki katýna denk gelen faiz oranýyla, vade dolum tarihinden sonraki günden ödemenin gerçekleþtiði tarihe kadar gecikmenin her günü için oranlanmýþ olarak, ödemesi gecikmiþ tutar üzerinden (Ukrayna Ticari Kanunu'nun 232 numaralý maddesinin 6. fýkrasý geçerli olmaz).
 
-Fï¿½kra b'de, ï¿½ï¿½ï¿½ncï¿½ cï¿½mleyi aï¿½aï¿½ï¿½daki cï¿½mleyle deï¿½iï¿½tirin:
+Fýkra b'de, üçüncü cümleyi aþaðýdaki cümleyle deðiþtirin:
 
-Fransa'da: Tutarlar fatura tarihinden itibaren 10 gï¿½n iï¿½inde muaccel olur ve IBM tarafï¿½ndan belirtilen bir hesaba ï¿½denir ve kï¿½rk (40) Avro tutarï¿½nda borï¿½ tahsilat maliyetlerine ek olarak veya bu maliyetler kï¿½rk Avro'yu geï¿½iyorsa, talep edilen tutarï¿½n gerekï¿½elendirilmesine baï¿½lï¿½ olarak tamamlayï¿½cï¿½ tazminata ek olarak, Avrupa Merkez Bankasï¿½nï¿½n en son faiz oranï¿½ artï¿½ 10 puana eï¿½it olan gecikme faizleri uygulanï¿½r.
+Fransa'da: Tutarlar fatura tarihinden itibaren 10 gün içinde muaccel olur ve IBM tarafýndan belirtilen bir hesaba ödenir ve kýrk (40) Avro tutarýnda borç tahsilat maliyetlerine ek olarak veya bu maliyetler kýrk Avro'yu geçiyorsa, talep edilen tutarýn gerekçelendirilmesine baðlý olarak tamamlayýcý tazminata ek olarak, Avrupa Merkez Bankasýnýn en son faiz oraný artý 10 puana eþit olan gecikme faizleri uygulanýr.
 
-Rusya'da: Tutarlar fatura teslim alï¿½ndï¿½ï¿½ï¿½nda muaccel olur ve fatura tarihini takip eden 30 gï¿½n iï¿½erisinde IBM tarafï¿½ndan belirtilen bir hesaba elektronik fon transferi yï¿½ntemi ile ï¿½denir. 30 gï¿½nï¿½ aï¿½an her gï¿½n iï¿½in hesaplanacak ï¿½ekilde yï¿½llï¿½k %24 oranï¿½nda gecikme faizi uygulanabilir.
+Rusya'da: Tutarlar fatura teslim alýndýðýnda muaccel olur ve fatura tarihini takip eden 30 gün içerisinde IBM tarafýndan belirtilen bir hesaba elektronik fon transferi yöntemi ile ödenir. 30 günü aþan her gün için hesaplanacak þekilde yýllýk %24 oranýnda gecikme faizi uygulanabilir.
 
-Fï¿½kra b'de son cï¿½mlenin sonuna aï¿½aï¿½ï¿½daki ifadeyi ekleyin:
+Fýkra b'de son cümlenin sonuna aþaðýdaki ifadeyi ekleyin:
 
-Litvanya'da: Yasa aksini gerektirmedikï¿½e
+Litvanya'da: Yasa aksini gerektirmedikçe
 
-Fï¿½kra b'nin sonuna aï¿½aï¿½ï¿½daki ifadeyi ekleyin:
+Fýkra b'nin sonuna aþaðýdaki ifadeyi ekleyin:
 
-ï¿½talya'da: ï¿½deme yapï¿½lmamasï¿½ veya kï¿½smi ï¿½deme yapï¿½lmasï¿½ durumunda ve IBM'in baï¿½latabileceï¿½i resmi bir alacak talebi prosedï¿½rï¿½nï¿½n veya aï¿½abileceï¿½i davanï¿½n ardï¿½ndan, 9 Ekim 2002 tarihli, 231 sayï¿½lï¿½ Kanun Hï¿½kmï¿½nde Kararnamenin, 4. maddesinin deï¿½iï¿½tirilmiï¿½ haliyle ve aynï¿½ Kanun Hï¿½kmï¿½nde Kararnamenin 7. Maddesi uyarï¿½nca IBM, Lisans Alan Tarafï¿½ gecikme faizlerine iliï¿½kin iadeli taahhï¿½tlï¿½ posta yoluyla yazï¿½lï¿½ olarak bilgilendirecektir.
+Ýtalya'da: Ödeme yapýlmamasý veya kýsmi ödeme yapýlmasý durumunda ve IBM'in baþlatabileceði resmi bir alacak talebi prosedürünün veya açabileceði davanýn ardýndan, 9 Ekim 2002 tarihli, 231 sayýlý Kanun Hükmünde Kararnamenin, 4. maddesinin deðiþtirilmiþ haliyle ve ayný Kanun Hükmünde Kararnamenin 7. Maddesi uyarýnca IBM, Lisans Alan Tarafý gecikme faizlerine iliþkin iadeli taahhütlü posta yoluyla yazýlý olarak bilgilendirecektir.
 
-Madde 4. Sorumluluk ve Fikri Mï¿½lkiyetin Korunmasï¿½
+Madde 4. Sorumluluk ve Fikri Mülkiyetin Korunmasý
 
-Fï¿½kra a'da ilk cï¿½mlede "ï¿½denen tutarlar" ifadesinden ï¿½nce aï¿½aï¿½ï¿½daki ifadeyi ekleyin:
+Fýkra a'da ilk cümlede "ödenen tutarlar" ifadesinden önce aþaðýdaki ifadeyi ekleyin:
 
-Belï¿½ika, Fransa, Almanya, ï¿½talya, Lï¿½ksemburg, Malta, Portekiz ve ï¿½spanya'da hangisi daha yï¿½ksek ise) 500.000 avro (beï¿½ yï¿½z bin avro) ya da
+Belçika, Fransa, Almanya, Ýtalya, Lüksemburg, Malta, Portekiz ve Ýspanya'da hangisi daha yüksek ise) 500.000 avro (beþ yüz bin avro) ya da
 
-ï¿½rlanda ve Birleï¿½ik Krallï¿½k'ta: %125'i
+Ýrlanda ve Birleþik Krallýk'ta: %125'i
 
-Fï¿½kra a'da ilk cï¿½mlede "Lisans Alan Tarafï¿½n karï¿½ï¿½ karï¿½ï¿½ya kaldï¿½ï¿½ï¿½ doï¿½rudan zararlarla" ifadesini aï¿½aï¿½ï¿½daki ifadeyle deï¿½iï¿½tirin:
+Fýkra a'da ilk cümlede "Lisans Alan Tarafýn karþý karþýya kaldýðý doðrudan zararlarla" ifadesini aþaðýdaki ifadeyle deðiþtirin:
 
-ï¿½spanya'da: "doï¿½rudan IBM'in kusurundan kaynaklanan, Lisans Alan Tarafï¿½n karï¿½ï¿½ karï¿½ï¿½ya kaldï¿½ï¿½ï¿½ kanï¿½tlanmï¿½ï¿½ zararlarla"
+Ýspanya'da: "doðrudan IBM'in kusurundan kaynaklanan, Lisans Alan Tarafýn karþý karþýya kaldýðý kanýtlanmýþ zararlarla"
 
-Fï¿½kra a'da ilk cï¿½mleden sonra aï¿½aï¿½ï¿½daki yeni cï¿½mleyi ekleyin:
+Fýkra a'da ilk cümleden sonra aþaðýdaki yeni cümleyi ekleyin:
 
-Slovakya'da: Deï¿½iï¿½tirilmiï¿½ ï¿½ekliyle, 513/1991 Coll. sayï¿½lï¿½ Ticaret Yasasï¿½, Bï¿½lï¿½m 379'a atï¿½fta bulunarak, ve Sï¿½zleï¿½menin sonuï¿½landï¿½rï¿½lmasï¿½na iliï¿½kin tï¿½m koï¿½ullarla ilgili olarak, taraflardan her ikisi de tahakkuk edebilecek toplam ï¿½ngï¿½rï¿½lebilir zararï¿½n yukarï¿½daki fï¿½krada belirtilen tutarï¿½ aï¿½mayacaï¿½ï¿½nï¿½ ve bunun, IBM'in yï¿½kï¿½mlï¿½ olduï¿½u en yï¿½ksek tutar olduï¿½unu belirtmektedir.
+Slovakya'da: Deðiþtirilmiþ þekliyle, 513/1991 Coll. sayýlý Ticaret Yasasý, Bölüm 379'a atýfta bulunarak, ve Sözleþmenin sonuçlandýrýlmasýna iliþkin tüm koþullarla ilgili olarak, taraflardan her ikisi de tahakkuk edebilecek toplam öngörülebilir zararýn yukarýdaki fýkrada belirtilen tutarý aþmayacaðýný ve bunun, IBM'in yükümlü olduðu en yüksek tutar olduðunu belirtmektedir.
 
-Fï¿½kra a'da ikinci cï¿½mleden ï¿½nce aï¿½aï¿½ï¿½daki yeni cï¿½mleyi ekleyin:
+Fýkra a'da ikinci cümleden önce aþaðýdaki yeni cümleyi ekleyin:
 
-Rusya'da: IBM, feragat edilmiï¿½ haklardan sorumlu olmayacaktï¿½r.
+Rusya'da: IBM, feragat edilmiþ haklardan sorumlu olmayacaktýr.
 
-Fï¿½kra a'da ikinci cï¿½mlede aï¿½aï¿½ï¿½daki sï¿½zcï¿½ï¿½ï¿½ silin:
+Fýkra a'da ikinci cümlede aþaðýdaki sözcüðü silin:
 
-ï¿½rlanda ve Birleï¿½ik Krallï¿½k'ta: ekonomik
+Ýrlanda ve Birleþik Krallýk'ta: ekonomik
 
-Fï¿½kra a'da, ikinci cï¿½mleyi aï¿½aï¿½ï¿½daki cï¿½mleyle deï¿½iï¿½tirin:
+Fýkra a'da, ikinci cümleyi aþaðýdaki cümleyle deðiþtirin:
 
-Belï¿½ika, Hollanda ve Lï¿½ksemburg'ta: IBM, dolaylï¿½ veya sonuï¿½ta ortaya ï¿½ï¿½kan zararlardan, kï¿½r kaybï¿½, iï¿½ kaybï¿½, deï¿½er kaybï¿½, gelir kaybï¿½, firma deï¿½eri kaybï¿½ndan, itibarï¿½n zarar gï¿½rmesinden veya beklenen tasarruf kaybï¿½ndan, Lisans Alan Tarafa karï¿½ï¿½ herhangi bir ï¿½ï¿½ï¿½ncï¿½ kiï¿½i iddiasï¿½ndan ve veri kaybï¿½ndan (veya hasarï¿½ndan) sorumlu olmayacaktï¿½r.
+Belçika, Hollanda ve Lüksemburg'ta: IBM, dolaylý veya sonuçta ortaya çýkan zararlardan, kâr kaybý, iþ kaybý, deðer kaybý, gelir kaybý, firma deðeri kaybýndan, itibarýn zarar görmesinden veya beklenen tasarruf kaybýndan, Lisans Alan Tarafa karþý herhangi bir üçüncü kiþi iddiasýndan ve veri kaybýndan (veya hasarýndan) sorumlu olmayacaktýr.
 
-Fransa'da: IBM, dolaylï¿½ zararlardan, itibar kaybï¿½, kï¿½r kaybï¿½, iï¿½ kaybï¿½, deï¿½er kaybï¿½, gelir kaybï¿½, firma deï¿½eri kaybï¿½ veya beklenen tasarruf kaybï¿½ndan sorumlu olmayacaktï¿½r.
+Fransa'da: IBM, dolaylý zararlardan, itibar kaybý, kâr kaybý, iþ kaybý, deðer kaybý, gelir kaybý, firma deðeri kaybý veya beklenen tasarruf kaybýndan sorumlu olmayacaktýr.
 
-Portekiz'de: IBM, kï¿½r kaybï¿½ dahil olmak ï¿½zere dolaylï¿½ zararlardan sorumlu olmayacaktï¿½r.
+Portekiz'de: IBM, kâr kaybý dahil olmak üzere dolaylý zararlardan sorumlu olmayacaktýr.
 
-ï¿½spanya'da: IBM, itibarï¿½n zarar gï¿½rmesinden, kï¿½r kaybï¿½, iï¿½ kaybï¿½, deï¿½er kaybï¿½, gelir kaybï¿½, firma deï¿½eri kaybï¿½ veya beklenen tasarruf kaybï¿½ndan sorumlu olmayacaktï¿½r.
+Ýspanya'da: IBM, itibarýn zarar görmesinden, kâr kaybý, iþ kaybý, deðer kaybý, gelir kaybý, firma deðeri kaybý veya beklenen tasarruf kaybýndan sorumlu olmayacaktýr.
 
-Fï¿½kra a'nï¿½n sonuna aï¿½aï¿½ï¿½daki ifadeyi ekleyin:
+Fýkra a'nýn sonuna aþaðýdaki ifadeyi ekleyin:
 
-Fransa'da: Finansal koï¿½ullar dahil Sï¿½zleï¿½menin koï¿½ullarï¿½, Sï¿½zleï¿½menin genel ekonomisinin ayrï¿½lmaz parï¿½asï¿½ olan mevcut madde dikkate alï¿½narak belirlenmiï¿½tir.
+Fransa'da: Finansal koþullar dahil Sözleþmenin koþullarý, Sözleþmenin genel ekonomisinin ayrýlmaz parçasý olan mevcut madde dikkate alýnarak belirlenmiþtir.
 
-Fï¿½kra b'de "ve ii) geï¿½erli yasa uyarï¿½nca sï¿½nï¿½rlanmasï¿½ mï¿½mkï¿½n olmayan zararlar" ifadesini aï¿½aï¿½ï¿½daki ifadeyle deï¿½iï¿½tirin:
+Fýkra b'de "ve ii) geçerli yasa uyarýnca sýnýrlanmasý mümkün olmayan zararlar" ifadesini aþaðýdaki ifadeyle deðiþtirin:
 
-Almanya'da: ; ii) bedensel yaralanmalara (ï¿½lï¿½m dahil) iliï¿½kin zararlar; iii) bu Sï¿½zleï¿½me kapsamï¿½ndaki herhangi bir iï¿½lemle baï¿½lantï¿½lï¿½ olarak IBM'in ï¿½stlendiï¿½i garanti ihlalinden kaynaklanan kayï¿½p veya zararlar; ve (iv) kasti veya bï¿½yï¿½k ihmal sonucunda oluï¿½an kayï¿½p veya zararlar.
+Almanya'da: ; ii) bedensel yaralanmalara (ölüm dahil) iliþkin zararlar; iii) bu Sözleþme kapsamýndaki herhangi bir iþlemle baðlantýlý olarak IBM'in üstlendiði garanti ihlalinden kaynaklanan kayýp veya zararlar; ve (iv) kasti veya büyük ihmal sonucunda oluþan kayýp veya zararlar.
 
-Madde 6. Uygulanacak Hukuk ve Coï¿½rafi Kapsam
+Madde 6. Uygulanacak Hukuk ve Coðrafi Kapsam
 
-Fï¿½kra a'da yalnï¿½zca ilk cï¿½mlede "lisans yetkileri iï¿½in iï¿½lemin gerï¿½ekleï¿½tirildiï¿½i ï¿½lkenin" ifadesini aï¿½aï¿½ï¿½daki ifadeyle deï¿½iï¿½tirin:
+Fýkra a'da yalnýzca ilk cümlede "lisans yetkileri için iþlemin gerçekleþtirildiði ülkenin" ifadesini aþaðýdaki ifadeyle deðiþtirin:
 
-Arnavutluk, Ermenistan, Azerbaycan, Belarus, Bosna Hersek, Bulgaristan, Hï¿½rvatistan, Makedonya Eski Yugoslav Cumhuriyeti, Gï¿½rcistan, Kazakistan, Kï¿½rgï¿½zistan, Moldova, Karadaï¿½, Romanya, Rusya, Sï¿½rbistan, Tacikistan, Tï¿½rkmenistan, Ukrayna ve ï¿½zbekistan'da: Avusturya
+Arnavutluk, Ermenistan, Azerbaycan, Belarus, Bosna Hersek, Bulgaristan, Hýrvatistan, Makedonya Eski Yugoslav Cumhuriyeti, Gürcistan, Kazakistan, Kýrgýzistan, Moldova, Karadað, Romanya, Rusya, Sýrbistan, Tacikistan, Türkmenistan, Ukrayna ve Özbekistan'da: Avusturya
 
 Estonya, Letonya ve Litvanya'da: Finlandiya
 
-Cezayir, Andora, Benin, Burkina Faso, Burundi, Kamerun, Yeï¿½il Burun Adalarï¿½, Orta Afrika Cumhuriyeti, ï¿½ad, Komor Adalarï¿½, Kongo Cumhuriyeti, Cibuti, Demokratik Kongo Cumhuriyeti, Ekvator Ginesi, Fransï¿½z Guyanasï¿½, Fransï¿½z Polinezyasï¿½, Gabon, Gine, Gine Bissau, Fildiï¿½i Sahili, Lï¿½bnan, Madagaskar, Mali, Moritanya, Morityus, Mayotte, Fas, Yeni Kaledonya, Nijer, Reunion, Senegal, Seyï¿½eller, Togo, Tunus, Vanuatu ve Wallis ve Futuna Adalarï¿½'nda: Fransa
+Cezayir, Andora, Benin, Burkina Faso, Burundi, Kamerun, Yeþil Burun Adalarý, Orta Afrika Cumhuriyeti, Çad, Komor Adalarý, Kongo Cumhuriyeti, Cibuti, Demokratik Kongo Cumhuriyeti, Ekvator Ginesi, Fransýz Guyanasý, Fransýz Polinezyasý, Gabon, Gine, Gine Bissau, Fildiþi Sahili, Lübnan, Madagaskar, Mali, Moritanya, Morityus, Mayotte, Fas, Yeni Kaledonya, Nijer, Reunion, Senegal, Seyþeller, Togo, Tunus, Vanuatu ve Wallis ve Futuna Adalarý'nda: Fransa
 
-Angola, Bahreyn, Botsvana, Mï¿½sï¿½r, Eritre, Etiyopya, Gambiya, Gana, Irak, ï¿½rdï¿½n, Kenya, Kuveyt, Liberya, Malavi, Malta, Mozambik, Nijerya, Umman, Pakistan, Katar, Ruanda, Sao Tome ve Principe, Suudi Arabistan, Sierra Leone, Somali, Tanzanya, Uganda, Birleï¿½ik Arap Emirlikleri, Batï¿½ ï¿½eria/Gazze, Yemen, Zambiya ve Zimbabwe'de:ï¿½ngiltere
+Angola, Bahreyn, Botsvana, Mýsýr, Eritre, Etiyopya, Gambiya, Gana, Irak, Ürdün, Kenya, Kuveyt, Liberya, Malavi, Malta, Mozambik, Nijerya, Umman, Pakistan, Katar, Ruanda, Sao Tome ve Principe, Suudi Arabistan, Sierra Leone, Somali, Tanzanya, Uganda, Birleþik Arap Emirlikleri, Batý Þeria/Gazze, Yemen, Zambiya ve Zimbabwe'de:Ýngiltere
 
-Lihtenï¿½tayn'da: ï¿½sviï¿½re
+Lihtenþtayn'da: Ýsviçre
 
-Gï¿½ney Afrika, Namibya, Lesoto ve Svaziland'da: Gï¿½ney Afrika Cumhuriyeti
+Güney Afrika, Namibya, Lesoto ve Svaziland'da: Güney Afrika Cumhuriyeti
 
-Birleï¿½ik Krallï¿½k'ta: ï¿½ngiltere
+Birleþik Krallýk'ta: Ýngiltere
 
-Fï¿½kra a'da ilk cï¿½mlenin sonuna aï¿½aï¿½ï¿½daki ifadeyi ekleyin:
+Fýkra a'da ilk cümlenin sonuna aþaðýdaki ifadeyi ekleyin:
 
-Fransa'da: Taraflar, Fransï¿½z Medeni Kanunu'nun 1222 ve 1223 sayï¿½lï¿½ maddelerinin geï¿½erli olmadï¿½ï¿½ï¿½nï¿½ kabul ederler.
+Fransa'da: Taraflar, Fransýz Medeni Kanunu'nun 1222 ve 1223 sayýlý maddelerinin geçerli olmadýðýný kabul ederler.
 
-Fï¿½kra a'nï¿½n sonuna aï¿½aï¿½ï¿½daki ifadeyi ekleyin:
+Fýkra a'nýn sonuna aþaðýdaki ifadeyi ekleyin:
 
- Arnavutluk, Ermenistan, Azerbaycan, Belarus, Bosna Hersek, Bulgaristan, Hï¿½rvatistan, Makedonya Eski Yugoslav Cumhuriyeti, Gï¿½rcistan, Kazakistan, Kosova, Kï¿½rgï¿½zistan, Moldova, Karadaï¿½, Romanya, Rusya, Sï¿½rbistan, Tacikistan, Tï¿½rkmenistan, Ukrayna ve ï¿½zbekistan'da: Bu Sï¿½zleï¿½meden doï¿½an tï¿½m ihtilaflar, Avusturya'nï¿½n Viyana ï¿½ehrinde Avusturya Federal Ticaret Odasï¿½ Tahkim Merkezi tarafï¿½ndan sï¿½z konusu Arbitral Merkezi'nin Kurallarï¿½ (Viyana Kurallarï¿½) kapsamï¿½nda ve Viyana Kurallarï¿½ uyarï¿½nca gï¿½revlendirilen ï¿½ï¿½ tarafsï¿½z hakem tarafï¿½ndan resmi dil olarak ï¿½ngilizce kullanï¿½larak nihai olarak karara baï¿½lanacaktï¿½r. Taraflardan her biri kendi hakemini aday gï¿½sterecek ve bu kiï¿½iler birlikte 30 gï¿½n iï¿½inde baï¿½ï¿½msï¿½z bir baï¿½kan atayacaklardï¿½r veya baï¿½kan, Viyana Kurallarï¿½ kapsamï¿½nda Tahkim Merkezi tarafï¿½ndan atanacaktï¿½r. Hakemlerin, bu Sï¿½zleï¿½mede hariï¿½ tutulan ve bu Sï¿½zleï¿½mede yer alan sï¿½nï¿½rlamalarï¿½ aï¿½an zararlarï¿½ tazmin etme veya ihtiyati tedbir kararï¿½ verme yetkisi olmayacaktï¿½r. Bu Sï¿½zleï¿½mede yer alan hiï¿½bir ifade, (1) gizlilik hï¿½kï¿½mlerinin ya da fikri mï¿½lkiyet haklarï¿½nï¿½n ihlal edilmesini veya bunlarï¿½n esasï¿½na iliï¿½kin zarar verilmesini ï¿½nlemek amacï¿½yla mahkemenin ara tedbir koymasï¿½, veya (2) taraflardan birinin veya onun Teï¿½ebbï¿½s ï¿½irketinin mï¿½lkiyetinde olan veya olduï¿½u iddia edilen her tï¿½rlï¿½ telif hakkï¿½, patent veya ticari markaya iliï¿½kin geï¿½erlilik veya mï¿½lkiyetin belirlenmesi, veya (3) 500.000,00 ABD dolarï¿½nï¿½n altï¿½nda borï¿½ tahsilatï¿½ iï¿½in taraflardan herhangi birinin adli iï¿½lemlere baï¿½vurmasï¿½nï¿½ ï¿½nlemeyecektir;
+ Arnavutluk, Ermenistan, Azerbaycan, Belarus, Bosna Hersek, Bulgaristan, Hýrvatistan, Makedonya Eski Yugoslav Cumhuriyeti, Gürcistan, Kazakistan, Kosova, Kýrgýzistan, Moldova, Karadað, Romanya, Rusya, Sýrbistan, Tacikistan, Türkmenistan, Ukrayna ve Özbekistan'da: Bu Sözleþmeden doðan tüm ihtilaflar, Avusturya'nýn Viyana þehrinde Avusturya Federal Ticaret Odasý Tahkim Merkezi tarafýndan söz konusu Arbitral Merkezi'nin Kurallarý (Viyana Kurallarý) kapsamýnda ve Viyana Kurallarý uyarýnca görevlendirilen üç tarafsýz hakem tarafýndan resmi dil olarak Ýngilizce kullanýlarak nihai olarak karara baðlanacaktýr. Taraflardan her biri kendi hakemini aday gösterecek ve bu kiþiler birlikte 30 gün içinde baðýmsýz bir baþkan atayacaklardýr veya baþkan, Viyana Kurallarý kapsamýnda Tahkim Merkezi tarafýndan atanacaktýr. Hakemlerin, bu Sözleþmede hariç tutulan ve bu Sözleþmede yer alan sýnýrlamalarý aþan zararlarý tazmin etme veya ihtiyati tedbir kararý verme yetkisi olmayacaktýr. Bu Sözleþmede yer alan hiçbir ifade, (1) gizlilik hükümlerinin ya da fikri mülkiyet haklarýnýn ihlal edilmesini veya bunlarýn esasýna iliþkin zarar verilmesini önlemek amacýyla mahkemenin ara tedbir koymasý, veya (2) taraflardan birinin veya onun Teþebbüs þirketinin mülkiyetinde olan veya olduðu iddia edilen her türlü telif hakký, patent veya ticari markaya iliþkin geçerlilik veya mülkiyetin belirlenmesi, veya (3) 500.000,00 ABD dolarýnýn altýnda borç tahsilatý için taraflardan herhangi birinin adli iþlemlere baþvurmasýný önlemeyecektir;
 
-Estonya, Letonya ve Litvanya'da: Bu Sï¿½zleï¿½meden kaynaklanan tï¿½m ihtilaflar, Finlandiya, Helsinki'de bulunan Finlandiya Ticaret Odasï¿½nï¿½n Tahkim Enstitï¿½sï¿½ (Tahkim Merkezi) tarafï¿½ndan, Finlandiya Ticaret Odasï¿½nï¿½n Tahkim Kurallarï¿½ (Kurallar) kapsamï¿½nda, bu Kuralla uyarï¿½nca gï¿½revlendirilen tarafsï¿½z ï¿½ï¿½ hakem tarafï¿½ndan resmi dil olarak ï¿½ngilizce kullanï¿½larak nihai olarak karara baï¿½lanacaktï¿½r. Taraflardan her biri kendi hakemini aday gï¿½sterecek ve bu kiï¿½iler birlikte 30 gï¿½n iï¿½inde baï¿½ï¿½msï¿½z bir baï¿½kan atayacaklardï¿½r veya baï¿½kan, Kurallar kapsamï¿½nda Tahkim Merkezi tarafï¿½ndan atanacaktï¿½r. Hakemlerin, bu Sï¿½zleï¿½mede hariï¿½ tutulan ve bu Sï¿½zleï¿½mede yer alan sï¿½nï¿½rlamalarï¿½ aï¿½an zararlarï¿½ tazmin etme veya ihtiyati tedbir kararï¿½ verme yetkisi olmayacaktï¿½r. Bu Sï¿½zleï¿½mede yer alan hiï¿½bir ifade, (1) gizlilik hï¿½kï¿½mlerinin ya da fikri mï¿½lkiyet haklarï¿½nï¿½n ihlal edilmesini veya bunlarï¿½n esasï¿½na iliï¿½kin zarar verilmesini ï¿½nlemek amacï¿½yla mahkemenin ara tedbir koymasï¿½, veya (2) taraflardan birinin veya onun Teï¿½ebbï¿½s ï¿½irketinin mï¿½lkiyetinde olan veya olduï¿½u iddia edilen her tï¿½rlï¿½ telif hakkï¿½, patent veya ticari markaya iliï¿½kin geï¿½erlilik veya mï¿½lkiyetin belirlenmesi, veya (3) 500.000,00 ABD dolarï¿½nï¿½n altï¿½nda borï¿½ tahsilatï¿½ iï¿½in taraflardan herhangi birinin adli iï¿½lemlere baï¿½vurmasï¿½nï¿½ ï¿½nlemeyecektir;
+Estonya, Letonya ve Litvanya'da: Bu Sözleþmeden kaynaklanan tüm ihtilaflar, Finlandiya, Helsinki'de bulunan Finlandiya Ticaret Odasýnýn Tahkim Enstitüsü (Tahkim Merkezi) tarafýndan, Finlandiya Ticaret Odasýnýn Tahkim Kurallarý (Kurallar) kapsamýnda, bu Kuralla uyarýnca görevlendirilen tarafsýz üç hakem tarafýndan resmi dil olarak Ýngilizce kullanýlarak nihai olarak karara baðlanacaktýr. Taraflardan her biri kendi hakemini aday gösterecek ve bu kiþiler birlikte 30 gün içinde baðýmsýz bir baþkan atayacaklardýr veya baþkan, Kurallar kapsamýnda Tahkim Merkezi tarafýndan atanacaktýr. Hakemlerin, bu Sözleþmede hariç tutulan ve bu Sözleþmede yer alan sýnýrlamalarý aþan zararlarý tazmin etme veya ihtiyati tedbir kararý verme yetkisi olmayacaktýr. Bu Sözleþmede yer alan hiçbir ifade, (1) gizlilik hükümlerinin ya da fikri mülkiyet haklarýnýn ihlal edilmesini veya bunlarýn esasýna iliþkin zarar verilmesini önlemek amacýyla mahkemenin ara tedbir koymasý, veya (2) taraflardan birinin veya onun Teþebbüs þirketinin mülkiyetinde olan veya olduðu iddia edilen her türlü telif hakký, patent veya ticari markaya iliþkin geçerlilik veya mülkiyetin belirlenmesi, veya (3) 500.000,00 ABD dolarýnýn altýnda borç tahsilatý için taraflardan herhangi birinin adli iþlemlere baþvurmasýný önlemeyecektir;
 
-Afganistan, Angola, Bahreyn, Botsvana, Burundi, Yeï¿½il Burun Cumhuriyeti, Cibuti, Mï¿½sï¿½r, Eritre, Etiyopya, Gambiya, Gana, Irak, ï¿½rdï¿½n, Kenya, Kuveyt, Lï¿½bnan, Liberya, Libya, Madagaskar, Malavi, Mozambik, Nijerya, Umman, Pakistan, Filistin Bï¿½lgesi, Katar, Ruanda, Sao Tome ve Principe, Suudi Arabistan, Seyï¿½eller, Sierra Leone, Somali, Gï¿½ney Sudan, Tanzanya, Uganda, Birleï¿½ik Arap Emirlikleri, Batï¿½ Sahra, Yemen, Zambiya ve Zimbabve'de: Bu Sï¿½zleï¿½meden doï¿½an tï¿½m ihtilaflar Birleï¿½ik Krallï¿½k, Londra Uluslararasï¿½ Tahkim Mahkemesi (LCIA) tarafï¿½ndan kendi tahkim kurallarï¿½ (Kurallar) kapsamï¿½nda ve bu Kurallar uyarï¿½nca gï¿½revlendirilen ï¿½ï¿½ tarafsï¿½z hakem tarafï¿½ndan resmi dil olarak ï¿½ngilizce kullanï¿½larak nihai olarak karara baï¿½lanacaktï¿½r. Taraflardan her biri kendi hakemini aday gï¿½sterecek ve bu kiï¿½iler birlikte 30 gï¿½n iï¿½inde baï¿½ï¿½msï¿½z bir baï¿½kan atayacaklardï¿½r veya baï¿½kan, Kurallar kapsamï¿½nda Tahkim Merkezi tarafï¿½ndan atanacaktï¿½r. Hakemlerin, bu Sï¿½zleï¿½mede hariï¿½ tutulan ve bu Sï¿½zleï¿½mede yer alan sï¿½nï¿½rlamalarï¿½ aï¿½an zararlarï¿½ tazmin etme veya ihtiyati tedbir kararï¿½ verme yetkisi olmayacaktï¿½r. Bu Sï¿½zleï¿½mede yer alan hiï¿½bir ifade, (1) gizlilik hï¿½kï¿½mlerinin ya da fikri mï¿½lkiyet haklarï¿½nï¿½n ihlal edilmesini veya bunlarï¿½n esasï¿½na iliï¿½kin zarar verilmesini ï¿½nlemek amacï¿½yla mahkemenin ara tedbir koymasï¿½, veya (2) taraflardan birinin veya onun Teï¿½ebbï¿½s ï¿½irketinin mï¿½lkiyetinde olan veya olduï¿½u iddia edilen her tï¿½rlï¿½ telif hakkï¿½, patent veya ticari markaya iliï¿½kin geï¿½erlilik veya mï¿½lkiyetin belirlenmesi, veya (3) 500.000,00 ABD dolarï¿½nï¿½n altï¿½nda borï¿½ tahsilatï¿½ iï¿½in taraflardan herhangi birinin adli iï¿½lemlere baï¿½vurmasï¿½nï¿½ ï¿½nlemeyecektir;
+Afganistan, Angola, Bahreyn, Botsvana, Burundi, Yeþil Burun Cumhuriyeti, Cibuti, Mýsýr, Eritre, Etiyopya, Gambiya, Gana, Irak, Ürdün, Kenya, Kuveyt, Lübnan, Liberya, Libya, Madagaskar, Malavi, Mozambik, Nijerya, Umman, Pakistan, Filistin Bölgesi, Katar, Ruanda, Sao Tome ve Principe, Suudi Arabistan, Seyþeller, Sierra Leone, Somali, Güney Sudan, Tanzanya, Uganda, Birleþik Arap Emirlikleri, Batý Sahra, Yemen, Zambiya ve Zimbabve'de: Bu Sözleþmeden doðan tüm ihtilaflar Birleþik Krallýk, Londra Uluslararasý Tahkim Mahkemesi (LCIA) tarafýndan kendi tahkim kurallarý (Kurallar) kapsamýnda ve bu Kurallar uyarýnca görevlendirilen üç tarafsýz hakem tarafýndan resmi dil olarak Ýngilizce kullanýlarak nihai olarak karara baðlanacaktýr. Taraflardan her biri kendi hakemini aday gösterecek ve bu kiþiler birlikte 30 gün içinde baðýmsýz bir baþkan atayacaklardýr veya baþkan, Kurallar kapsamýnda Tahkim Merkezi tarafýndan atanacaktýr. Hakemlerin, bu Sözleþmede hariç tutulan ve bu Sözleþmede yer alan sýnýrlamalarý aþan zararlarý tazmin etme veya ihtiyati tedbir kararý verme yetkisi olmayacaktýr. Bu Sözleþmede yer alan hiçbir ifade, (1) gizlilik hükümlerinin ya da fikri mülkiyet haklarýnýn ihlal edilmesini veya bunlarýn esasýna iliþkin zarar verilmesini önlemek amacýyla mahkemenin ara tedbir koymasý, veya (2) taraflardan birinin veya onun Teþebbüs þirketinin mülkiyetinde olan veya olduðu iddia edilen her türlü telif hakký, patent veya ticari markaya iliþkin geçerlilik veya mülkiyetin belirlenmesi, veya (3) 500.000,00 ABD dolarýnýn altýnda borç tahsilatý için taraflardan herhangi birinin adli iþlemlere baþvurmasýný önlemeyecektir;
 
-Cezayir, Benin, Burkina Faso, Kamerun, Orta Afrika Cumhuriyeti, ï¿½ad, Kongo Cumhuriyeti, Demokratik Kongo Cumhuriyeti, Ekvator Ginesi, Fransï¿½z Guyanasï¿½, Fransï¿½z Polinezyasï¿½, Gabon, Gine, Gine Bissau, Fildiï¿½i Sahili, Mali, Moritanya, Morityus, Fas, Nijer, Senegal, Togo ve Tunus'ta: Bu Sï¿½zleï¿½meden doï¿½an tï¿½m ihtilaflar, Fransa, Paris'teki ICC Uluslararasï¿½ Tahkim Mahkemesi tarafï¿½ndan kendi tahkim kurallarï¿½ (Kurallar) kapsamï¿½nda ve bu Kurallar uyarï¿½nca gï¿½revlendirilen ï¿½ï¿½ tarafsï¿½z hakem tarafï¿½ndan resmi dil olarak Fransï¿½zca kullanï¿½larak nihai olarak karara baï¿½lanacaktï¿½r. Taraflardan her biri kendi hakemini aday gï¿½sterecek ve bu kiï¿½iler birlikte 30 gï¿½n iï¿½inde baï¿½ï¿½msï¿½z bir baï¿½kan atayacaklardï¿½r veya baï¿½kan, Kurallar kapsamï¿½nda Tahkim Merkezi tarafï¿½ndan atanacaktï¿½r. Hakemlerin, bu Sï¿½zleï¿½mede hariï¿½ tutulan ve bu Sï¿½zleï¿½mede yer alan sï¿½nï¿½rlamalarï¿½ aï¿½an zararlarï¿½ tazmin etme veya ihtiyati tedbir kararï¿½ verme yetkisi olmayacaktï¿½r. Bu Sï¿½zleï¿½mede yer alan hiï¿½bir ifade, (1) gizlilik hï¿½kï¿½mlerinin ya da fikri mï¿½lkiyet haklarï¿½nï¿½n ihlal edilmesini veya bunlarï¿½n esasï¿½na iliï¿½kin zarar verilmesini ï¿½nlemek amacï¿½yla mahkemenin ara tedbir koymasï¿½, veya (2) taraflardan birinin veya onun Teï¿½ebbï¿½s ï¿½irketinin mï¿½lkiyetinde olan veya olduï¿½u iddia edilen her tï¿½rlï¿½ telif hakkï¿½, patent veya ticari markaya iliï¿½kin geï¿½erlilik veya mï¿½lkiyetin belirlenmesi, veya (3) 250.000,00 ABD dolarï¿½nï¿½n altï¿½nda borï¿½ tahsilatï¿½ iï¿½in taraflardan herhangi birinin adli iï¿½lemlere baï¿½vurmasï¿½nï¿½ ï¿½nlemeyecektir;
+Cezayir, Benin, Burkina Faso, Kamerun, Orta Afrika Cumhuriyeti, Çad, Kongo Cumhuriyeti, Demokratik Kongo Cumhuriyeti, Ekvator Ginesi, Fransýz Guyanasý, Fransýz Polinezyasý, Gabon, Gine, Gine Bissau, Fildiþi Sahili, Mali, Moritanya, Morityus, Fas, Nijer, Senegal, Togo ve Tunus'ta: Bu Sözleþmeden doðan tüm ihtilaflar, Fransa, Paris'teki ICC Uluslararasý Tahkim Mahkemesi tarafýndan kendi tahkim kurallarý (Kurallar) kapsamýnda ve bu Kurallar uyarýnca görevlendirilen üç tarafsýz hakem tarafýndan resmi dil olarak Fransýzca kullanýlarak nihai olarak karara baðlanacaktýr. Taraflardan her biri kendi hakemini aday gösterecek ve bu kiþiler birlikte 30 gün içinde baðýmsýz bir baþkan atayacaklardýr veya baþkan, Kurallar kapsamýnda Tahkim Merkezi tarafýndan atanacaktýr. Hakemlerin, bu Sözleþmede hariç tutulan ve bu Sözleþmede yer alan sýnýrlamalarý aþan zararlarý tazmin etme veya ihtiyati tedbir kararý verme yetkisi olmayacaktýr. Bu Sözleþmede yer alan hiçbir ifade, (1) gizlilik hükümlerinin ya da fikri mülkiyet haklarýnýn ihlal edilmesini veya bunlarýn esasýna iliþkin zarar verilmesini önlemek amacýyla mahkemenin ara tedbir koymasý, veya (2) taraflardan birinin veya onun Teþebbüs þirketinin mülkiyetinde olan veya olduðu iddia edilen her türlü telif hakký, patent veya ticari markaya iliþkin geçerlilik veya mülkiyetin belirlenmesi, veya (3) 250.000,00 ABD dolarýnýn altýnda borç tahsilatý için taraflardan herhangi birinin adli iþlemlere baþvurmasýný önlemeyecektir;
 
-Gï¿½ney Afrika, Namibya, Lesoto ve Svaziland'da: Bu Sï¿½zleï¿½meden kaynaklanan tï¿½m ihtilaflar, Gï¿½ney Afrika, Johannesburg'ta bulunan Gï¿½ney Afrika Tahkim Kurulu (AFSA) (Tahkim Dairesi) tarafï¿½ndan, AFSA Kurallarï¿½ (Kurallar) kapsamï¿½nda, bu Kurallar uyarï¿½nca gï¿½revlendirilen tarafsï¿½z ï¿½ï¿½ hakem tarafï¿½ndan resmi dil olarak ï¿½ngilizce kullanï¿½larak nihai olarak karara baï¿½lanacaktï¿½r. Taraflardan her biri kendi hakemini aday gï¿½sterecek ve bu kiï¿½iler birlikte 30 gï¿½n iï¿½inde baï¿½ï¿½msï¿½z bir baï¿½kan atayacaklardï¿½r veya baï¿½kan, Kurallar kapsamï¿½nda Tahkim Merkezi tarafï¿½ndan atanacaktï¿½r. Hakemlerin, bu Sï¿½zleï¿½mede hariï¿½ tutulan ve bu Sï¿½zleï¿½mede yer alan sï¿½nï¿½rlamalarï¿½ aï¿½an zararlarï¿½ tazmin etme veya ihtiyati tedbir kararï¿½ verme yetkisi olmayacaktï¿½r. Bu Sï¿½zleï¿½mede yer alan hiï¿½bir ifade, (1) gizlilik hï¿½kï¿½mlerinin ya da fikri mï¿½lkiyet haklarï¿½nï¿½n ihlal edilmesini veya bunlarï¿½n esasï¿½na iliï¿½kin zarar verilmesini ï¿½nlemek amacï¿½yla mahkemenin ara tedbir koymasï¿½, veya (2) taraflardan birinin veya onun Teï¿½ebbï¿½s ï¿½irketinin mï¿½lkiyetinde olan veya olduï¿½u iddia edilen her tï¿½rlï¿½ telif hakkï¿½, patent veya ticari markaya iliï¿½kin geï¿½erlilik veya mï¿½lkiyetin belirlenmesi, veya (3) 250.000,00 ABD dolarï¿½nï¿½n altï¿½nda borï¿½ tahsilatï¿½ iï¿½in taraflardan herhangi birinin adli iï¿½lemlere baï¿½vurmasï¿½nï¿½ ï¿½nlemeyecektir;
+Güney Afrika, Namibya, Lesoto ve Svaziland'da: Bu Sözleþmeden kaynaklanan tüm ihtilaflar, Güney Afrika, Johannesburg'ta bulunan Güney Afrika Tahkim Kurulu (AFSA) (Tahkim Dairesi) tarafýndan, AFSA Kurallarý (Kurallar) kapsamýnda, bu Kurallar uyarýnca görevlendirilen tarafsýz üç hakem tarafýndan resmi dil olarak Ýngilizce kullanýlarak nihai olarak karara baðlanacaktýr. Taraflardan her biri kendi hakemini aday gösterecek ve bu kiþiler birlikte 30 gün içinde baðýmsýz bir baþkan atayacaklardýr veya baþkan, Kurallar kapsamýnda Tahkim Merkezi tarafýndan atanacaktýr. Hakemlerin, bu Sözleþmede hariç tutulan ve bu Sözleþmede yer alan sýnýrlamalarý aþan zararlarý tazmin etme veya ihtiyati tedbir kararý verme yetkisi olmayacaktýr. Bu Sözleþmede yer alan hiçbir ifade, (1) gizlilik hükümlerinin ya da fikri mülkiyet haklarýnýn ihlal edilmesini veya bunlarýn esasýna iliþkin zarar verilmesini önlemek amacýyla mahkemenin ara tedbir koymasý, veya (2) taraflardan birinin veya onun Teþebbüs þirketinin mülkiyetinde olan veya olduðu iddia edilen her türlü telif hakký, patent veya ticari markaya iliþkin geçerlilik veya mülkiyetin belirlenmesi, veya (3) 250.000,00 ABD dolarýnýn altýnda borç tahsilatý için taraflardan herhangi birinin adli iþlemlere baþvurmasýný önlemeyecektir;
 
-Andora, Avusturya, Kï¿½brï¿½s, Fransa, Almanya, Yunanistan, ï¿½srail, ï¿½talya, Portekiz, ï¿½spanya, ï¿½sviï¿½re ve Tï¿½rkiye'de: Tï¿½m ihtilaflar yalnï¿½zca aï¿½aï¿½ï¿½da belirtilen mahkemelerin mï¿½nhasï¿½r yetkisine tabi olacak ve bu mahkemelerde karara baï¿½lanacaktï¿½r.
+Andora, Avusturya, Kýbrýs, Fransa, Almanya, Yunanistan, Ýsrail, Ýtalya, Portekiz, Ýspanya, Ýsviçre ve Türkiye'de: Tüm ihtilaflar yalnýzca aþaðýda belirtilen mahkemelerin münhasýr yetkisine tabi olacak ve bu mahkemelerde karara baðlanacaktýr.
 
 Andora'da: Paris Ticaret Mahkemesi.
 
-Avusturya'da: Avusturya'nï¿½n Viyana ï¿½ehri mahkemesi (ï¿½ehir Merkezi).
+Avusturya'da: Avusturya'nýn Viyana þehri mahkemesi (Þehir Merkezi).
 
-Kï¿½brï¿½s'ta: Lefkoï¿½e yetkili mahkemesi.
+Kýbrýs'ta: Lefkoþe yetkili mahkemesi.
 
 Fransa'da: Paris Ticaret Mahkemesi.
 
@@ -468,63 +468,63 @@ Almanya'da: Stuttgart mahkemeleri.
 
 Yunanistan'da: Atina yetkili mahkemeleri.
 
-ï¿½srail'de: Tel Aviv Yafa mahkemeleri.
+Ýsrail'de: Tel Aviv Yafa mahkemeleri.
 
-ï¿½talya'da: Milano mahkemeleri.
+Ýtalya'da: Milano mahkemeleri.
 
 Portekiz'de: Lizbon mahkemeleri.
 
-ï¿½spanya'da: Madrid mahkemeleri.
+Ýspanya'da: Madrid mahkemeleri.
 
-ï¿½sviï¿½re'de: Zï¿½rih kantonu ticaret mahkemesi.
+Ýsviçre'de: Zürih kantonu ticaret mahkemesi.
 
-Tï¿½rkiye'de: Tï¿½rkiye Cumhuriyeti, ï¿½stanbul Merkez (ï¿½aï¿½layan) Mahkemeleri ve ï¿½stanbul ï¿½cra Daireleri.
+Türkiye'de: Türkiye Cumhuriyeti, Ýstanbul Merkez (Çaðlayan) Mahkemeleri ve Ýstanbul Ýcra Daireleri.
 
-Hollanda'da: Taraflar, Hollanda Medeni Kanununun 7.1 no.lu Baï¿½lï¿½ï¿½ï¿½ ile 7:401 ve 402. maddeleri kapsamï¿½ndaki haklarï¿½ndan ve bu Sï¿½zleï¿½menin, Hollanda Medeni Kanununun 6:265 no.lu maddesi kapsamï¿½nda kï¿½smi veya tam feshine (`gehele of partiele ontbindingï¿½) iliï¿½kin haklarï¿½ndan feragat ederler.
+Hollanda'da: Taraflar, Hollanda Medeni Kanununun 7.1 no.lu Baþlýðý ile 7:401 ve 402. maddeleri kapsamýndaki haklarýndan ve bu Sözleþmenin, Hollanda Medeni Kanununun 6:265 no.lu maddesi kapsamýnda kýsmi veya tam feshine (`gehele of partiele ontbinding´) iliþkin haklarýndan feragat ederler.
 
 Madde 7. Genel
 
-Fï¿½kra d'de fï¿½kranï¿½n sonuna aï¿½aï¿½ï¿½daki ifadeyi ekleyin:
+Fýkra d'de fýkranýn sonuna aþaðýdaki ifadeyi ekleyin:
 
-ï¿½spanya'da: IBM, ï¿½u adrese gï¿½nderilmesi durumunda, iletiï¿½im bilgilerine eriï¿½im, bunlarï¿½ gï¿½ncelleme ya da silme taleplerini karï¿½ï¿½layacaktï¿½r: IBM, c/ Santa Hortensia 26-28, 28002 Madrid, Departamento de Privacidad de Datos".
+Ýspanya'da: IBM, þu adrese gönderilmesi durumunda, iletiþim bilgilerine eriþim, bunlarý güncelleme ya da silme taleplerini karþýlayacaktýr: IBM, c/ Santa Hortensia 26-28, 28002 Madrid, Departamento de Privacidad de Datos".
 
-Fï¿½kra j'de fï¿½kranï¿½n sonuna aï¿½aï¿½ï¿½daki ifadeyi ekleyin:
+Fýkra j'de fýkranýn sonuna aþaðýdaki ifadeyi ekleyin:
 
-ï¿½ek Cumhuriyeti'nde: 89/2012 Coll sayï¿½lï¿½ Kanunda ("Medeni Kanun") Madde 1801 uyarï¿½nca, Medeni Kanunda madde 1799 ve 1800, deï¿½iï¿½tirildikleri haliyle, bu Sï¿½zleï¿½me kapsamï¿½ndaki iï¿½lemler iï¿½in geï¿½erli deï¿½ildir. Lisans Alan Taraf, Medeni Kanunun 1765 numaralï¿½ maddesi kapsamï¿½nda durumlarï¿½n deï¿½iï¿½mesi riskini kabul eder.
+Çek Cumhuriyeti'nde: 89/2012 Coll sayýlý Kanunda ("Medeni Kanun") Madde 1801 uyarýnca, Medeni Kanunda madde 1799 ve 1800, deðiþtirildikleri haliyle, bu Sözleþme kapsamýndaki iþlemler için geçerli deðildir. Lisans Alan Taraf, Medeni Kanunun 1765 numaralý maddesi kapsamýnda durumlarýn deðiþmesi riskini kabul eder.
 
-Fï¿½kra j'de:
+Fýkra j'de:
 
-Bulgaristan, Hï¿½rvatistan, Rusya, Sï¿½rbistan ve Slovenya'da: "Taraflardan hiï¿½biri, dava gerekï¿½esinin ortaya ï¿½ï¿½kmasï¿½nï¿½n ï¿½zerinden iki yï¿½ldan fazla sï¿½re geï¿½tikten sonra Sï¿½zleï¿½meyle baï¿½lantï¿½lï¿½ ya da Sï¿½zleï¿½meden kaynaklanan herhangi bir yasal iï¿½lem baï¿½latmayacaktï¿½r." ï¿½eklindeki ikinci cï¿½mleyi silin.
+Bulgaristan, Hýrvatistan, Rusya, Sýrbistan ve Slovenya'da: "Taraflardan hiçbiri, dava gerekçesinin ortaya çýkmasýnýn üzerinden iki yýldan fazla süre geçtikten sonra Sözleþmeyle baðlantýlý ya da Sözleþmeden kaynaklanan herhangi bir yasal iþlem baþlatmayacaktýr." þeklindeki ikinci cümleyi silin.
 
-Fï¿½kra j'de ikinci cï¿½mlenin sonuna aï¿½aï¿½ï¿½daki ifadeyi ekleyin:
+Fýkra j'de ikinci cümlenin sonuna aþaðýdaki ifadeyi ekleyin:
 
-Litvanya'da: Yasa aksini gerektirmedikï¿½e
+Litvanya'da: Yasa aksini gerektirmedikçe
 
-Fï¿½kra j'de, ikinci cï¿½mleyi aï¿½aï¿½ï¿½daki cï¿½mleyle deï¿½iï¿½tirin:
+Fýkra j'de, ikinci cümleyi aþaðýdaki cümleyle deðiþtirin:
 
-Polonya'da: Taraflardan hiï¿½biri, ï¿½deme yapï¿½lmamasï¿½ hali hariï¿½ olmak ï¿½zere dava gerekï¿½esinin ortaya ï¿½ï¿½kmasï¿½nï¿½n ï¿½zerinden ï¿½ï¿½ yï¿½ldan fazla sï¿½re geï¿½tikten sonra Sï¿½zleï¿½meyle baï¿½lantï¿½lï¿½ ya da Sï¿½zleï¿½meden kaynaklanan herhangi bir yasal iï¿½lem baï¿½latmayacaktï¿½r. ï¿½demenin yapï¿½lmadï¿½ï¿½ï¿½ hallerde, vade tarihinin ï¿½zerinden iki sene geï¿½mesinin ardï¿½ndan yasal iï¿½lem baï¿½latï¿½lamayacaktï¿½r.
+Polonya'da: Taraflardan hiçbiri, ödeme yapýlmamasý hali hariç olmak üzere dava gerekçesinin ortaya çýkmasýnýn üzerinden üç yýldan fazla süre geçtikten sonra Sözleþmeyle baðlantýlý ya da Sözleþmeden kaynaklanan herhangi bir yasal iþlem baþlatmayacaktýr. Ödemenin yapýlmadýðý hallerde, vade tarihinin üzerinden iki sene geçmesinin ardýndan yasal iþlem baþlatýlamayacaktýr.
 
-Fï¿½kra j'de ikinci cï¿½mlede "iki" sï¿½zcï¿½ï¿½ï¿½nï¿½ aï¿½aï¿½ï¿½daki ï¿½ekilde deï¿½iï¿½tirin:
+Fýkra j'de ikinci cümlede "iki" sözcüðünü aþaðýdaki þekilde deðiþtirin:
 
-Letonya ve Ukrayna'da: ï¿½ï¿½
+Letonya ve Ukrayna'da: üç
 
-Slovakya'da: dï¿½rt
+Slovakya'da: dört
 
-Fï¿½kra j'de "Taraflardan hiï¿½biri, elinde olmayan nedenlerden ï¿½tï¿½rï¿½ parasal olmayan herhangi bir yï¿½kï¿½mlï¿½lï¿½ï¿½ï¿½nï¿½ yerine getirememekten sorumlu tutulamaz." ï¿½eklindeki ï¿½ï¿½ï¿½ncï¿½ cï¿½mlenin sonuna aï¿½aï¿½ï¿½daki ifadeyi ekleyin:
+Fýkra j'de "Taraflardan hiçbiri, elinde olmayan nedenlerden ötürü parasal olmayan herhangi bir yükümlülüðünü yerine getirememekten sorumlu tutulamaz." þeklindeki üçüncü cümlenin sonuna aþaðýdaki ifadeyi ekleyin:
 
-Rusya'da: Bunlara deprem, sel, yangï¿½n, doï¿½al afet, grev (taraflarï¿½n ï¿½alï¿½ï¿½anlarï¿½n grevleri hariï¿½), savaï¿½ hali, askeri eylem, ambargo, blokaj, uluslararasï¿½ veya devlet yaptï¿½rï¿½mlarï¿½ ve geï¿½erli hukuk dï¿½zeninin yetkili makamlarï¿½nï¿½n eylemleri dahildir, ancak bunlarla sï¿½nï¿½rlï¿½ deï¿½ildir.
+Rusya'da: Bunlara deprem, sel, yangýn, doðal afet, grev (taraflarýn çalýþanlarýn grevleri hariç), savaþ hali, askeri eylem, ambargo, blokaj, uluslararasý veya devlet yaptýrýmlarý ve geçerli hukuk düzeninin yetkili makamlarýnýn eylemleri dahildir, ancak bunlarla sýnýrlý deðildir.
 
-Fï¿½kra j'de "Taraflardan hiï¿½biri, elinde olmayan nedenlerden ï¿½tï¿½rï¿½ parasal olmayan herhangi bir yï¿½kï¿½mlï¿½lï¿½ï¿½ï¿½nï¿½ yerine getirememekten sorumlu tutulamaz." ï¿½eklindeki ï¿½ï¿½ï¿½ncï¿½ cï¿½mleyi aï¿½aï¿½ï¿½daki ï¿½ekilde deï¿½iï¿½tirin:
+Fýkra j'de "Taraflardan hiçbiri, elinde olmayan nedenlerden ötürü parasal olmayan herhangi bir yükümlülüðünü yerine getirememekten sorumlu tutulamaz." þeklindeki üçüncü cümleyi aþaðýdaki þekilde deðiþtirin:
 
-Ukrayna'da: Taraflardan hiï¿½biri, elinde olmayan nedenlerden veya yasal dï¿½zenleme deï¿½iï¿½ikliklerinden ï¿½tï¿½rï¿½ parasal olmayan herhangi bir yï¿½kï¿½mlï¿½lï¿½ï¿½ï¿½nï¿½ yerine getirememekten sorumlu tutulamaz. Bunlara ABD'nin ithalat, ihracat ve ekonomik yaptï¿½rï¿½m gereksinimleri dahildir, ancak tï¿½mï¿½ bunlarla sï¿½nï¿½rlï¿½ deï¿½ildir.
+Ukrayna'da: Taraflardan hiçbiri, elinde olmayan nedenlerden veya yasal düzenleme deðiþikliklerinden ötürü parasal olmayan herhangi bir yükümlülüðünü yerine getirememekten sorumlu tutulamaz. Bunlara ABD'nin ithalat, ihracat ve ekonomik yaptýrým gereksinimleri dahildir, ancak tümü bunlarla sýnýrlý deðildir.
 
-Aï¿½aï¿½ï¿½daki ifadeyi bu maddenin sonuna yeni l fï¿½krasï¿½ olarak ekleyin:
+Aþaðýdaki ifadeyi bu maddenin sonuna yeni l fýkrasý olarak ekleyin:
 
-Macaristan'da: Lisans Alan Taraf bu Sï¿½zleï¿½meyi imzalayarak, Lisans Alan Tarafï¿½n bu Sï¿½zleï¿½menin tï¿½m hï¿½kï¿½mleri konusunda yeterli bilgiye sahip olduï¿½unu ve bu koï¿½ullar konusunda mï¿½zakere yapma fï¿½rsatï¿½ elde ettiï¿½ini teyit eder. ï¿½u hï¿½kï¿½mler, Macaristan yasalarï¿½nca genel olarak uygulanan hï¿½kï¿½mlerden ï¿½nemli ï¿½lï¿½ï¿½de farklï¿½lï¿½k gï¿½sterebilir ve taraflardan her ikisi de Sï¿½zleï¿½meyi imzalayarak bu hï¿½kï¿½mleri kabul etmiï¿½ olur: Program Lisansï¿½; Garantiler; ï¿½cretler, Vergiler, ï¿½deme ve Doï¿½rulama; Sorumluluk ve Fikri Mï¿½lkiyetin Korunmasï¿½; Sona Erdirme; Uygulanacak Hukuk ve Coï¿½rafi Kapsam; Genel.
+Macaristan'da: Lisans Alan Taraf bu Sözleþmeyi imzalayarak, Lisans Alan Tarafýn bu Sözleþmenin tüm hükümleri konusunda yeterli bilgiye sahip olduðunu ve bu koþullar konusunda müzakere yapma fýrsatý elde ettiðini teyit eder. Þu hükümler, Macaristan yasalarýnca genel olarak uygulanan hükümlerden önemli ölçüde farklýlýk gösterebilir ve taraflardan her ikisi de Sözleþmeyi imzalayarak bu hükümleri kabul etmiþ olur: Program Lisansý; Garantiler; Ücretler, Vergiler, Ödeme ve Doðrulama; Sorumluluk ve Fikri Mülkiyetin Korunmasý; Sona Erdirme; Uygulanacak Hukuk ve Coðrafi Kapsam; Genel.
 
-ï¿½ek Cumhuriyeti'nde: Lisans Alan Taraf, aï¿½aï¿½ï¿½da belirtilen ï¿½nemli ticari koï¿½ullarï¿½ iï¿½eren iï¿½bu sï¿½zleï¿½menin koï¿½ullarï¿½nï¿½ aï¿½ï¿½kï¿½a kabul eder: (i) Ayï¿½plara yï¿½nelik sorumluluï¿½un sï¿½nï¿½rlanmasï¿½ ve sorumluluï¿½un reddi (Garantiler); (ii) Lisans Alan Tarafï¿½n zararlar iï¿½in yetki sï¿½nï¿½rlamasï¿½ (Sorumluluk ve Fikri Mï¿½lkiyetin Korunmasï¿½); (iii) ï¿½hracat ve ithalat yasal dï¿½zenlemelerinin baï¿½layï¿½cï¿½ niteliï¿½i (Uygulanacak Hukuk ve Coï¿½rafi Kapsam); (iv) daha kï¿½sa sï¿½nï¿½rlama sï¿½releri (Genel); (v) katï¿½lmalï¿½ sï¿½zleï¿½melerdeki hï¿½kï¿½mlerin uygulanabilirliï¿½inin hariï¿½ tutulmasï¿½ (Genel); ve (vi) koï¿½ullarï¿½n deï¿½iï¿½mesi riskinin kabul edilmesi (Genel).
+Çek Cumhuriyeti'nde: Lisans Alan Taraf, aþaðýda belirtilen önemli ticari koþullarý içeren iþbu sözleþmenin koþullarýný açýkça kabul eder: (i) Ayýplara yönelik sorumluluðun sýnýrlanmasý ve sorumluluðun reddi (Garantiler); (ii) Lisans Alan Tarafýn zararlar için yetki sýnýrlamasý (Sorumluluk ve Fikri Mülkiyetin Korunmasý); (iii) Ýhracat ve ithalat yasal düzenlemelerinin baðlayýcý niteliði (Uygulanacak Hukuk ve Coðrafi Kapsam); (iv) daha kýsa sýnýrlama süreleri (Genel); (v) katýlmalý sözleþmelerdeki hükümlerin uygulanabilirliðinin hariç tutulmasý (Genel); ve (vi) koþullarýn deðiþmesi riskinin kabul edilmesi (Genel).
 
-Romanya'da: Lisans Alan Taraf, Romanya Medeni Kanunu'nda madde 1203, 2, 4, 5 ve 8j numaralï¿½ fï¿½kralarï¿½nï¿½n hï¿½kï¿½mlerine gï¿½re "olaï¿½andï¿½ï¿½ï¿½ hï¿½kï¿½mler" olarak addedilecek aï¿½aï¿½ï¿½daki standart maddeleri aï¿½ï¿½kï¿½a kabul eder. Lisans Alan Taraf, iï¿½bu belgeyle, yukarï¿½da belirtilen maddeler dahil olmak ï¿½zere, bu Sï¿½zleï¿½menin tï¿½m hï¿½kï¿½mleri konusunda yeterli bilgiye sahip olduï¿½unu, sï¿½z konusu hï¿½kï¿½mleri doï¿½ru ï¿½ekilde analiz edip anladï¿½ï¿½ï¿½nï¿½ ve her maddenin koï¿½ullarï¿½ konusunda mï¿½zakere yapma fï¿½rsatï¿½ elde ettiï¿½ini teyit eder.
+Romanya'da: Lisans Alan Taraf, Romanya Medeni Kanunu'nda madde 1203, 2, 4, 5 ve 8j numaralý fýkralarýnýn hükümlerine göre "olaðandýþý hükümler" olarak addedilecek aþaðýdaki standart maddeleri açýkça kabul eder. Lisans Alan Taraf, iþbu belgeyle, yukarýda belirtilen maddeler dahil olmak üzere, bu Sözleþmenin tüm hükümleri konusunda yeterli bilgiye sahip olduðunu, söz konusu hükümleri doðru þekilde analiz edip anladýðýný ve her maddenin koþullarý konusunda müzakere yapma fýrsatý elde ettiðini teyit eder.
 
 i125-3301-15 (10-2021)
 

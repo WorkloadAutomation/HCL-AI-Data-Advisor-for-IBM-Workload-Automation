@@ -3,7 +3,7 @@ LIZENZINFORMATION
 Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für Programmpakete (i125-3301-15).
 
 Programmname (Programmnummer):
-IBM Workload Scheduler AIDA 10.2.4 (Tool)
+IBM Workload Scheduler AIDA 10.2.6 (Tool)
 
 Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
 
@@ -22,9 +22,9 @@ Der Lizenznehmer kann das Programm (sofern unterstützt) mit Full-Capacity-Lizen
 Anstatt der Berechtigungen, die direkt für das Programm erforderlich sind, muss der Lizenznehmer PVU-Berechtigungen für das Programm erwerben, die die Prozessorkerne für die Systeme, auf denen sich die von dem Programm verwalteten oder verarbeiteten Ressourcen befinden, hinreichend abdecken.
 
 
-L/N: L-JUWE-FTMQAH
-D/N: L-JUWE-FTMQAH
-P/N: L-JUWE-FTMQAH
+L/N: L-PNAH-TL6GFM
+D/N: L-PNAH-TL6GFM
+P/N: L-PNAH-TL6GFM
 
 Internationale Nutzungsbedingungen für Programmpakete
 

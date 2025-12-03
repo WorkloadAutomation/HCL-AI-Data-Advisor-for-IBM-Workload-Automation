@@ -1,28 +1,28 @@
 LICENCIJOS INFORMACIJA
 
-Toliau nurodytos Programos licencijuojamos pagal ï¿½ias Licencijos informacijos sï¿½lygas, kurios papildo Programos licencijos sï¿½lygas, dï¿½l kuriï¿½ susitarï¿½ Klientas ir IBM. Jei Klientas anksï¿½iau nï¿½ra sutikï¿½s su Programai taikomomis licencijos sï¿½lygomis, taikoma Tarptautinï¿½ programos licencinï¿½ sutartis (i125-3301-15).
+Toliau nurodytos Programos licencijuojamos pagal ðias Licencijos informacijos sàlygas, kurios papildo Programos licencijos sàlygas, dël kuriø susitarë Klientas ir IBM. Jei Klientas anksèiau nëra sutikæs su Programai taikomomis licencijos sàlygomis, taikoma Tarptautinë programos licencinë sutartis (i125-3301-15).
 
 Programos pavadinimas (Programos numeris):
-IBM Workload Scheduler AIDA 10.2.4 (Tool)
+IBM Workload Scheduler AIDA 10.2.6 (Tool)
 
-ï¿½ios standartinï¿½s sï¿½lygos taikomos Licenciato Programos naudojimui.
+Ðios standartinës sàlygos taikomos Licenciato Programos naudojimui.
 
-Keiï¿½iamas treï¿½iosios ï¿½alies kodas
+Keièiamas treèiosios ðalies kodas
 
-Jei PRANEï¿½IMï¿½ faile IBM treï¿½iosios ï¿½alies kodï¿½ atpaï¿½ï¿½sta kaip modifikuojamï¿½ treï¿½iosios ï¿½alies kodï¿½, IBM leidï¿½ia Licenciatui 1) modifikuoti modifikuojamï¿½ treï¿½iosios ï¿½alies kodï¿½ ir 2) nukopijuoti Programos modulius, kurie tiesiogiai siejasi su modifikuojamu treï¿½iosios ï¿½alies kodu, su sï¿½lyga, kad tai daroma tik Licenciato atliktï¿½ tokio treï¿½iosios ï¿½alies kodo modifikacijï¿½ klaidï¿½ ï¿½alinimo tikslais. IBM aptarnavimo ir palaikymo ï¿½sipareigojimai, jei tokiï¿½ yra, taikomi tik nemodifikuotai Programai.
+Jei PRANEÐIMØ faile IBM treèiosios ðalies kodà atpaþásta kaip modifikuojamà treèiosios ðalies kodà, IBM leidþia Licenciatui 1) modifikuoti modifikuojamà treèiosios ðalies kodà ir 2) nukopijuoti Programos modulius, kurie tiesiogiai siejasi su modifikuojamu treèiosios ðalies kodu, su sàlyga, kad tai daroma tik Licenciato atliktø tokio treèiosios ðalies kodo modifikacijø klaidø ðalinimo tikslais. IBM aptarnavimo ir palaikymo ásipareigojimai, jei tokiø yra, taikomi tik nemodifikuotai Programai.
 
-ï¿½ie matavimo vienetai gali bï¿½ti taikomi Licenciato Programos naudojimui.
+Ðie matavimo vienetai gali bûti taikomi Licenciato Programos naudojimui.
 
-Procesoriaus vertï¿½s vienetas (PVU)
+Procesoriaus vertës vienetas (PVU)
 
-Procesoriaus vertes vienetas (PVU) - tai matavimo vienetas, pagal kuri licencijuota ï¿½i Programa. Reikalingï¿½ PVU teisiï¿½ skaiï¿½ius pagrï¿½stas procesoriaus technologija (apibrï¿½ï¿½ta svetainï¿½je ï¿½Procesoriaus vertï¿½s vieneto (PVU) licencijavimas, skirtas platinamai programinei ï¿½rangaiï¿½ https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) ir Programai prieinamï¿½ procesoriï¿½ skaiï¿½iumi. Licencijuodama pagal PVU, IBM apibrï¿½ï¿½ia procesoriï¿½ kaip mikroschemoje esanï¿½iï¿½ atskirï¿½ procesoriaus ï¿½erdï¿½. Pavyzdziui, dvieju serdziu procesoriaus mikroschemoje yra dvi procesoriaus serdys.
+Procesoriaus vertes vienetas (PVU) - tai matavimo vienetas, pagal kuri licencijuota ði Programa. Reikalingø PVU teisiø skaièius pagrástas procesoriaus technologija (apibrëþta svetainëje ¥Procesoriaus vertës vieneto (PVU) licencijavimas, skirtas platinamai programinei árangai´ https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) ir Programai prieinamø procesoriø skaièiumi. Licencijuodama pagal PVU, IBM apibrëþia procesoriø kaip mikroschemoje esanèià atskirà procesoriaus ðerdá. Pavyzdziui, dvieju serdziu procesoriaus mikroschemoje yra dvi procesoriaus serdys.
 
-Licenciatas gali diegti Programï¿½ (jei palaikoma) naudodamas visos talpos licencijavimï¿½, papildomos talpos licencijavimï¿½ (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) arba konteinerio licencijavimï¿½ (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Iï¿½samesnï¿½s informacijos ieï¿½kokite susietose svetainï¿½se.
+Licenciatas gali diegti Programà (jei palaikoma) naudodamas visos talpos licencijavimà, papildomos talpos licencijavimà (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) arba konteinerio licencijavimà (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Iðsamesnës informacijos ieðkokite susietose svetainëse.
 
-Vietoj tiesiogiai Programai reikalingï¿½ teisiï¿½ Licenciatas privalo ï¿½sigyti ï¿½ios Programos PVV teises, kuriï¿½ pakaktï¿½ sistemos, kurioje yra Programos valdomi arba apdorojami iï¿½tekliai, procesoriaus ï¿½erdims.
+Vietoj tiesiogiai Programai reikalingø teisiø Licenciatas privalo ásigyti ðios Programos PVV teises, kuriø pakaktø sistemos, kurioje yra Programos valdomi arba apdorojami iðtekliai, procesoriaus ðerdims.
 
 
-L/N: L-JUWE-FTMQAH
-D/N: L-JUWE-FTMQAH
-P/N: L-JUWE-FTMQAH
+L/N: L-PNAH-TL6GFM
+D/N: L-PNAH-TL6GFM
+P/N: L-PNAH-TL6GFM
 

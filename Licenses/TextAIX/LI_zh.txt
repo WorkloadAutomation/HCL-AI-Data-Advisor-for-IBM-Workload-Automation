@@ -1,28 +1,28 @@
-ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢
+Ðí¿ÉÐÅÏ¢
 
-ï¿½ï¿½ï¿½ï¿½ï¿½Ð³ï¿½ï¿½ï¿½ï¿½ï¿½Ð©ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½ï¿½Ã¿Í»ï¿½ï¿½ï¿½ IBM ï¿½ï¿½ï¿½ï¿½Í¬ï¿½ï¿½Ä³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É¡ï¿½ï¿½ï¿½ï¿½ï¿½Í»ï¿½ï¿½ï¿½ï¿½ï¿½Î´Í¬ï¿½ï¿½Ô±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð§ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½î£¬ï¿½ï¿½Ã´ ï¿½ï¿½ï¿½Ê³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð­ï¿½ï¿½ (i125-3301-15) ï¿½ï¿½ï¿½Ã¡ï¿½
+ÏÂÃæÁÐ³öµÄÕâÐ©³ÌÐò°´ÕÕÒÔÏÂÐí¿ÉÐÅÏ¢Ìõ¿îºÍÌõ¼þÒÔ¼°»ñµÃ¿Í»§Óë IBM ÊÂÏÈÍ¬ÒâµÄ³ÌÐòÐí¿ÉÌõ¿îÊÚÓèÐí¿É¡£Èç¹û¿Í»§ÊÂÏÈÎ´Í¬Òâ¶Ô±¾³ÌÐòÉúÐ§µÄÐí¿ÉÌõ¿î£¬ÄÇÃ´ ¹ú¼Ê³ÌÐòÐí¿ÉÐ­Òé (i125-3301-15) ÊÊÓÃ¡£
 
-ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½
-IBM Workload Scheduler AIDA 10.2.4 (Tool)
+³ÌÐòÃû³Æ (³ÌÐòºÅ)£º
+IBM Workload Scheduler AIDA 10.2.6 (Tool)
 
-ï¿½ï¿½ï¿½Â±ï¿½×¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú±ï¿½ï¿½ï¿½ï¿½É·ï¿½ï¿½Ô±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¹ï¿½Ã¡ï¿½
+ÒÔÏÂ±ê×¼Ìõ¿îÊÊÓÃÓÚ±»Ðí¿É·½¶Ô±¾³ÌÐòµÄÊ¹ÓÃ¡£
 
-ï¿½ï¿½ï¿½Þ¸ÄµÄµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+¿ÉÐÞ¸ÄµÄµÚÈý·½´úÂë
 
-ï¿½ï¿½Ä³ï¿½Ö³Ì¶ï¿½ï¿½Ï£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"ï¿½Ð£ï¿½IBM ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¶Îª"ï¿½ï¿½ï¿½Þ¸Äµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"ï¿½ï¿½ï¿½ï¿½Ã´ IBM ï¿½ï¿½È¨ï¿½ï¿½ï¿½ï¿½ï¿½É·ï¿½ 1) ï¿½Þ¸Ä¿ï¿½ï¿½Þ¸Äµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë£¬ï¿½Ô¼ï¿½ 2) ï¿½ï¿½Ö±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¸Äµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë»¥ï¿½ï¿½ï¿½Ä³ï¿½ï¿½ï¿½Ä£ï¿½ï¿½ï¿½ï¿½Ð·ï¿½ï¿½ò¹¤³ï¿½ï¿½ï¿½Æ£ï¿½Ç°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¿ï¿½Ä½ï¿½Îªï¿½Ëµï¿½ï¿½Ô±ï¿½ï¿½ï¿½ï¿½É·ï¿½ï¿½Ô´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¸Ä¡ï¿½ IBM ï¿½Ä·ï¿½ï¿½ï¿½ï¿½Ö§ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î´ï¿½ï¿½ï¿½Þ¸ÄµÄ³ï¿½ï¿½ï¿½
+ÔÚÄ³ÖÖ³Ì¶ÈÉÏ£¬Èç¹ûÔÚ"µÚÈý·½ÉùÃ÷"ÖÐ£¬IBM ½«µÚÈý·½´úÂë±êÊ¶Îª"¿ÉÐÞ¸ÄµÚÈý·½´úÂë"£¬ÄÇÃ´ IBM ÊÚÈ¨±»Ðí¿É·½ 1) ÐÞ¸Ä¿ÉÐÞ¸ÄµÚÈý·½´úÂë£¬ÒÔ¼° 2) ¶ÔÖ±½ÓÓë¿ÉÐÞ¸ÄµÚÈý·½´úÂë»¥¶¯µÄ³ÌÐòÄ£¿é½øÐÐ·´Ïò¹¤³ÌÉè¼Æ£¬Ç°ÌáÊÇÆäÄ¿µÄ½öÎªÁËµ÷ÊÔ±»Ðí¿É·½¶Ô´ËÀàµÚÈý·½´úÂëµÄÐÞ¸Ä¡£ IBM µÄ·þÎñºÍÖ§³ÖÒåÎñ£¨ÈçÓÐ£©½öÊÊÓÃÓÚÎ´¾­ÐÞ¸ÄµÄ³ÌÐò¡£
 
-ï¿½ï¿½ï¿½Â¼ï¿½ï¿½ï¿½ï¿½ï¿½Î»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú±ï¿½ï¿½ï¿½ï¿½É·ï¿½ï¿½Ô±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¹ï¿½Ã¡ï¿½
+ÒÔÏÂ¼ÆÁ¿µ¥Î»¿ÉÄÜÊÊÓÃÓÚ±»Ðí¿É·½¶Ô±¾³ÌÐòµÄÊ¹ÓÃ¡£
 
-ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Öµï¿½ï¿½Ôª (PVU)
+´¦ÀíÆ÷¼ÛÖµµ¥Ôª (PVU)
 
-ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Öµï¿½ï¿½Ôªï¿½ï¿½(PVU) ï¿½Ç»ï¿½È¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¹ï¿½ÃµÄ¼ï¿½ï¿½ï¿½ï¿½ï¿½Î»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ PVU È¨ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½å£¨ï¿½ï¿½ï¿½ï¿½ï¿½Ú·Ö²ï¿½Ê½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Õ¾ï¿½Ä´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Öµï¿½ï¿½Ôª (PVU) ï¿½ï¿½ï¿½ï¿½ï¿½Ð¶ï¿½ï¿½å£º https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.htmlï¿½ï¿½ï¿½Ô¼ï¿½Îªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½á¹©ï¿½Ä´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½IBM ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú»ï¿½È¡ï¿½ï¿½ï¿½ï¿½ PVU ï¿½ï¿½ï¿½ÉµÄ¡ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Îªï¿½ï¿½Ò»ï¿½ï¿½Ð¾Æ¬ï¿½Ïµï¿½Ã¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¡ï¿½ï¿½ï¿½ï¿½ç£¬Ë«ï¿½Ë´ï¿½ï¿½ï¿½ï¿½ï¿½Ð¾Æ¬Óµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë¡ï¿½
+¡°´¦ÀíÆ÷¼ÛÖµµ¥Ôª¡±(PVU) ÊÇ»ñÈ¡±¾³ÌÐòÐí¿ÉËùÊ¹ÓÃµÄ¼ÆÁ¿µ¥Î»¡£±ØÐèµÄ PVU È¨ÀûµÄÊýÁ¿»ùÓÚ´¦ÀíÆ÷¼¼Êõ¶¨Òå£¨°´ÕÕÔÚ·Ö²¼Ê½Èí¼þÍøÕ¾µÄ´¦ÀíÆ÷¼ÛÖµµ¥Ôª (PVU) Ðí¿ÉÖÐ¶¨Òå£º https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html£©ÒÔ¼°Îª±¾³ÌÐòÌá¹©µÄ´¦ÀíÆ÷µÄÊýÁ¿¡£IBM ¼ÌÐø½«ÓÃÓÚ»ñÈ¡»ùÓÚ PVU Ðí¿ÉµÄ¡°Ò»¸ö´¦ÀíÆ÷¡±¶¨ÒåÎªÔÚÒ»¸öÐ¾Æ¬ÉÏµÄÃ¿¸ö´¦ÀíÆ÷ºËÐÄ¡£ÀýÈç£¬Ë«ºË´¦ÀíÆ÷Ð¾Æ¬ÓµÓÐÁ½¸ö´¦ÀíÆ÷ºË¡£
 
-ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë¿ï¿½ï¿½ï¿½Ê¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÉºÍ´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ï¿½ï¿½×°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (https://www.ibm.com/software/passportadvantage/containerlicenses.html) ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö§ï¿½Ö£ï¿½ï¿½ï¿½ï¿½Ð¹Ø¸ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢ï¿½ï¿½ï¿½ï¿½Î¼ï¿½ï¿½ï¿½ï¿½Óµï¿½ï¿½ï¿½Õ¾ï¿½ï¿½
+±»Ðí¿ÉÈË¿ÉÒÔÊ¹ÓÃÂúÈÝÁ¿Ðí¿ÉºÍ´ÎÈÝÁ¿Ðí¿É (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) »ò¼¯×°ÏäÐí¿É (https://www.ibm.com/software/passportadvantage/containerlicenses.html) À´²¿Êð³ÌÐò£¨Èç¹ûÖ§³Ö£©¡£ÓÐ¹Ø¸ü¶àÐÅÏ¢£¬Çë²Î¼ûÁ´½ÓµÄÍøÕ¾¡£
 
-ï¿½ï¿½ï¿½ï¿½ï¿½É·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Îªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¡ï¿½ï¿½ï¿½Ô¸ï¿½ï¿½Ç±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô´ï¿½ï¿½ï¿½ï¿½ÏµÍ³ï¿½Ä´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ëµï¿½ PVU È¨ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö±ï¿½Ó»ï¿½È¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¨ï¿½ï¿½ï¿½ï¿½
+±»Ðí¿É·½»¹±ØÐëÎª±¾³ÌÐò»ñÈ¡×ãÒÔ¸²¸Ç±¾³ÌÐò¹ÜÀí»ò´¦ÀíµÄ×ÊÔ´ËùÔÚÏµÍ³µÄ´¦ÀíÆ÷ºËµÄ PVU È¨Àû£¬¶ø²»ÊÇÖ±½Ó»ñÈ¡±¾³ÌÐòËùÐèµÄÈ¨Àû¡£
 
 
-L/N: L-JUWE-FTMQAH
-D/N: L-JUWE-FTMQAH
-P/N: L-JUWE-FTMQAH
+L/N: L-PNAH-TL6GFM
+D/N: L-PNAH-TL6GFM
+P/N: L-PNAH-TL6GFM
 

@@ -8,7 +8,7 @@
 
 services:
     config:
-        image: cp.icr.io/cp/aida-config:10.2.4
+        image: wa-registry.prod.hclpnp.com/wa-aida/aida-ibm/aida-config:10.2.6
         logging:
             options:
                 max-size: "100m"
@@ -32,7 +32,7 @@ services:
         restart: unless-stopped
         logging:
             options:
-                max-size: "100m"
+                max-size: "250m"
                 max-file: "3"
         labels:
         - "version=10.2.1"
@@ -74,15 +74,6 @@ services:
             - aida-net
         ports:
             - "9432:9432"
-        links:
-            - ui
-            - exporter
-            - ad
-            - email
-            - orchestrator
-            - predictor
-            - redis
-            - keycloak
         depends_on:
             - ui
             - keycloak
@@ -110,9 +101,6 @@ services:
             - aida-net
         expose:
             - "9000"
-        links:
-            - es
-            - redis
         depends_on:
             - es
             - redis
@@ -139,8 +127,6 @@ services:
         env_file: common.env
         networks:
             - aida-net
-        links:
-            - es
         depends_on:
             - es
         restart: unless-stopped
@@ -168,9 +154,6 @@ services:
             - aida-net
         expose:
             - "5000"
-        links:
-            - es
-            - redis
         depends_on:
             - es
             - redis
@@ -199,8 +182,6 @@ services:
             - aida-net
         expose:
             - "5000"
-        links:
-            - redis
         depends_on:
             - redis
         restart: unless-stopped
@@ -226,11 +207,6 @@ services:
         env_file: common.env
         networks:
             - aida-net
-        links:
-            - es
-            - redis
-            - predictor
-            - ad
         depends_on:
             - es
             - redis
@@ -262,9 +238,6 @@ services:
             - aida-net
         expose:
             - "5000"
-        links:
-            - es
-            - redis
         depends_on:
             - es
             - redis

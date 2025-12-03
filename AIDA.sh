@@ -36,49 +36,57 @@ usage() {
     echo "  --debug               Enables debug mode"
 }
 
-# Use "docker compose" if "docker-compose" doesn't exist.
-if ! type docker-compose >& /dev/null; then 
-    docker-compose() {
-        docker compose "$@"
-    }
-fi
+detect_container_runtime() {
+  if command -v podman &> /dev/null; then
+    CONTAINER_RUNTIME="podman"
+    echo "Info" "Detected Podman engine"
+  elif command -v docker &> /dev/null; then
+    CONTAINER_RUNTIME="docker"
+    echo "Info" "Detected Docker engine"
+  else
+    echo "Info" "Neither docker nor podman is installed. Please install one of them."
+    exit 1
+  fi
+}
+
+detect_container_runtime
 
 load() {
-    for f in ../aida-*.t*; do cat $f | docker load; done
+    for f in ../aida-*.t*; do cat $f | $CONTAINER_RUNTIME load; done
 }
 
 start() {
-    docker compose -f $yml start
+    $CONTAINER_RUNTIME compose -f $yml start
 }
 
 stop() {
-    docker compose -f $yml stop
+    $CONTAINER_RUNTIME compose -f $yml stop
 }
 
 restart() {
-    docker compose -f $yml restart
+    $CONTAINER_RUNTIME compose -f $yml restart
 }
 
 down() {
-    docker compose -f $yml down
+    $CONTAINER_RUNTIME compose -f $yml down
 }
 
 down_volumes() {
-    docker compose -f $yml down --volumes
+    $CONTAINER_RUNTIME compose -f $yml down --volumes
 }
 
 build() {
-	docker compose -f $yml build --build-arg REGISTRY='cp.icr.io/cp/' --build-arg VERSION=10.2.4
-    docker compose -f $yml up --no-start
+	$CONTAINER_RUNTIME compose -f $yml build --build-arg REGISTRY='wa-registry.prod.hclpnp.com/wa-aida/aida-ibm/' --build-arg VERSION=10.2.6
+    $CONTAINER_RUNTIME compose -f $yml up --no-start
 }
 
 build_start() {
-	docker compose -f $yml build --build-arg REGISTRY='cp.icr.io/cp/' --build-arg VERSION=10.2.4 $1
-    docker compose -f $yml up -d $1
+	$CONTAINER_RUNTIME compose -f $yml build --build-arg REGISTRY='wa-registry.prod.hclpnp.com/wa-aida/aida-ibm/' --build-arg VERSION=10.2.6 $1
+    $CONTAINER_RUNTIME compose -f $yml up -d $1
 }
 
 up() {
-    docker compose -f $yml up -d
+    $CONTAINER_RUNTIME compose -f $yml up -d
 }
 
 first_start() {
@@ -112,14 +120,14 @@ first_start() {
 }
 
 start_config() {
-    if ! docker image inspect "cp.icr.io/cp/aida-config:10.2.4" >&/dev/null; then
+    if ! $CONTAINER_RUNTIME image inspect "wa-registry.prod.hclpnp.com/wa-aida/aida-ibm/aida-config:10.2.6" >&/dev/null; then
         echo "Loading configuration container image..."
-        for f in ../aida-*.t*; do cat $f | docker load; done
+        for f in ../aida-*.t*; do cat $f | $CONTAINER_RUNTIME load; done
     fi
 
     echo "Starting configuration container..."
 
-    docker compose --profile config -f $yml up -d config
+    $CONTAINER_RUNTIME compose --profile config -f $yml up -d config
 
     if [ $? -ne 0 ]; then
         echo ""
@@ -147,19 +155,19 @@ start_opensearch() {
 add_credentials() {
     start_opensearch
     
-    docker compose --profile config exec config /config.sh add_credentials
+    $CONTAINER_RUNTIME compose --profile config exec config /config.sh add_credentials
 }
 
 update_credentials() {
     start_opensearch
 
-    docker compose --profile config exec config /config.sh update_credentials
+    $CONTAINER_RUNTIME compose --profile config exec config /config.sh update_credentials
 }
 
 delete_credentials() {
     start_opensearch
 
-    docker compose --profile config exec config /config.sh delete_credentials    
+    $CONTAINER_RUNTIME compose --profile config exec config /config.sh delete_credentials    
 }
 
 set_custom_port() {
@@ -174,8 +182,17 @@ set_custom_port() {
             continue
         fi
 
-        # Check if the port is already used.
-        if timeout 1 bash -c "</dev/tcp/host.docker.internal/${port}" &> /dev/null; then
+                # Check if the port is already used.
+        if command -v podman &> /dev/null; then
+            # Podman is installed, use its host path
+            host_path="host.containers.internal"
+        else
+            # Assuming Docker is the fallback
+            host_path="host.docker.internal"
+        fi
+
+        # Now use the determined host_path in your command
+        if timeout 1 bash -c "</dev/tcp/${host_path}/${port}" &> /dev/null; then
             read -p "Port is used by another process, please choose another one: " port
             OK=1
             continue
@@ -194,11 +211,11 @@ set_custom_port() {
     fi
     sed -Ezi "s,hostname-port=[0-9]+,hostname-port=${port},g" ./keycloak/keycloak.conf
 
-    docker cp ./keycloak/keycloak.conf aida-keycloak:/opt/keycloak/conf/keycloak.conf
+    $CONTAINER_RUNTIME cp ./keycloak/keycloak.conf aida-keycloak:/opt/keycloak/conf/keycloak.conf
     up
 
-    docker cp ./nginx/default.conf aida-nginx:/etc/nginx/conf.d/default.conf.template
-    docker restart aida-nginx
+    $CONTAINER_RUNTIME cp ./nginx/default.conf aida-nginx:/etc/nginx/conf.d/default.conf.template
+    $CONTAINER_RUNTIME restart aida-nginx
     echo ""
 }
 
@@ -248,7 +265,7 @@ get_machine_address(){
 cleanup() {
     echo "Removing configuration container..."
 
-    docker compose -f $yml rm -svf "config"
+    $CONTAINER_RUNTIME compose -f $yml rm -svf "config"
 
     if [ $? -ne 0 ]; then
         echo ""
@@ -280,10 +297,10 @@ dump_log(){
     LOG_DIR="docker_logs"
     mkdir -p $LOG_DIR
 
-    echo "Searching for Aida Docker Containers"
+    echo "Searching for Aida Containers"
     set -f
     IFS=" "
-    CONTAINERS=$(docker ps -a | grep -oh "aida-\w*" | tr '\n' ' ')
+    CONTAINERS=$($CONTAINER_RUNTIME ps -a | grep -oh "aida-\w*" | tr '\n' ' ')
     CONTAINERS_CLEAN=()
 
     for container in $CONTAINERS;do
@@ -302,11 +319,11 @@ dump_log(){
     for container in $CONTAINERS_CLEAN;do
         if [[ "$container" != *"nginx"* ]] && [[ "$container" != *"hcl"* ]]
         then
-            docker logs $container >> "$LOG_DIR/$container.log" 2>&1
+            $CONTAINER_RUNTIME logs $container >> "$LOG_DIR/$container.log" 2>&1
         fi
     done
 
-    docker cp aida-nginx:/var/log/nginx $LOG_DIR/
+    $CONTAINER_RUNTIME cp aida-nginx:/var/log/nginx $LOG_DIR/
 }
 
 # Parse options
