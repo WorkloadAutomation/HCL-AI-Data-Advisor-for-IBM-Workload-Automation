@@ -68,12 +68,12 @@ down_volumes() {
 }
 
 build() {
-	docker compose -f $yml build --build-arg REGISTRY='cp.icr.io/cp/' --build-arg VERSION=10.2.5
+	docker compose -f $yml build --build-arg REGISTRY='cp.icr.io/cp/' --build-arg VERSION=10.2.4
     docker compose -f $yml up --no-start
 }
 
 build_start() {
-	docker compose -f $yml build --build-arg REGISTRY='cp.icr.io/cp/' --build-arg VERSION=10.2.5 $1
+	docker compose -f $yml build --build-arg REGISTRY='cp.icr.io/cp/' --build-arg VERSION=10.2.4 $1
     docker compose -f $yml up -d $1
 }
 
@@ -112,7 +112,7 @@ first_start() {
 }
 
 start_config() {
-    if ! docker image inspect "cp.icr.io/cp/aida-config:10.2.5" >&/dev/null; then
+    if ! docker image inspect "cp.icr.io/cp/aida-config:10.2.4" >&/dev/null; then
         echo "Loading configuration container image..."
         for f in ../aida-*.t*; do cat $f | docker load; done
     fi
