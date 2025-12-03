@@ -1,15 +1,9 @@
-#/*******************************************************************************
-#* Licensed Materials - Property of HCL
-#* (c) Copyright HCL Technologies Ltd. 2023. All Rights Reserved.
-#
-#* Note to U.S. Government Users Restricted Rights:
-#* Use, duplication or disclosure restricted by GSA ADP Schedule
-#**************************************************************/
-version: "2.3"
+version: '2.3'
 
 services:
+
     config:
-        image: ${REGISTRY}/aida-config:${VERSION}
+        image: cp.icr.io/cp/ibm-workload-automation-aida-config:10.2.5
         container_name: aida-config
         env_file: common.env
         networks:
@@ -24,10 +18,10 @@ services:
         restart: unless-stopped
         build:
             context: .
-            dockerfile: "Dockerfile-keycloak"
+            dockerfile: "Dockerfile-keycloak" 
             args:
-                - REGISTRY:${REGISTRY}
-                - VERSION:${VERSION}
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}    
         container_name: aida-keycloak
         environment:
             - KEYCLOAK_USER=admin
@@ -39,14 +33,15 @@ services:
             - "8080"
         volumes:
             - aida-keycloak-data:/tmp:Z
-
+        
+    
     nginx:
         build:
             context: .
             dockerfile: "Dockerfile-nginx"
             args:
-                - REGISTRY:${REGISTRY}
-                - VERSION:${VERSION}
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
         container_name: aida-nginx
         env_file: common.env
         networks:
@@ -61,18 +56,19 @@ services:
             - predictor
             - redis
             - keycloak
-        depends_on:
+        depends_on: 
             - ui
             - keycloak
         restart: unless-stopped
+
 
     ui:
         build:
             context: .
             dockerfile: "Dockerfile-ui"
             args:
-                - REGISTRY:${REGISTRY}
-                - VERSION:${VERSION}
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
         container_name: aida-ui
         env_file: common.env
         networks:
@@ -86,14 +82,15 @@ services:
             - es
             - redis
         restart: unless-stopped
+        
 
     ad:
         build:
             context: .
             dockerfile: "Dockerfile-ad"
             args:
-                - REGISTRY:${REGISTRY}
-                - VERSION:${VERSION}
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
         container_name: aida-ad
         env_file: common.env
         networks:
@@ -103,8 +100,8 @@ services:
         links:
             - es
             - redis
-        depends_on:
-            - es
+        depends_on: 
+            - es 
             - redis
         restart: unless-stopped
 
@@ -113,8 +110,8 @@ services:
             context: .
             dockerfile: "Dockerfile-email"
             args:
-                - REGISTRY:${REGISTRY}
-                - VERSION:${VERSION}
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
         container_name: aida-email
         env_file: common.env
         networks:
@@ -132,8 +129,8 @@ services:
             context: .
             dockerfile: "Dockerfile-orchestrator"
             args:
-                - REGISTRY:${REGISTRY}
-                - VERSION:${VERSION}
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
         container_name: aida-orchestrator
         env_file: common.env
         networks:
@@ -143,7 +140,7 @@ services:
             - redis
             - predictor
             - ad
-        depends_on:
+        depends_on: 
             - es
             - redis
             - predictor
@@ -155,8 +152,8 @@ services:
             context: .
             dockerfile: "Dockerfile-predictor"
             args:
-                - REGISTRY:${REGISTRY}
-                - VERSION:${VERSION}
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
         container_name: aida-predictor
         env_file: common.env
         networks:
@@ -166,18 +163,19 @@ services:
         links:
             - es
             - redis
-        depends_on:
+        depends_on: 
             - es
             - redis
         restart: unless-stopped
+
 
     redis:
         build:
             context: .
             dockerfile: "Dockerfile-redis"
             args:
-                - REGISTRY:${REGISTRY}
-                - VERSION:${VERSION}
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
         container_name: aida-redis
         env_file: common.env
         networks:
@@ -191,8 +189,8 @@ services:
             context: .
             dockerfile: "Dockerfile-es"
             args:
-                - REGISTRY:${REGISTRY}
-                - VERSION:${VERSION}
+              - REGISTRY:${REGISTRY}
+              - VERSION:${VERSION}
         container_name: aida-es
         env_file: common.env
         networks:

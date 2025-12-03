@@ -16,12 +16,15 @@ COPY ./redis/redis.key .
 COPY ./redis/ca.pem .
 
 FROM base AS dev
+USER 0
 RUN pip install debugpy
-
+USER default:users
 CMD python -m debugpy --listen 0.0.0.0:5678 -m gunicorn -b 0.0.0.0:5000 -k gthread --reload -t 0 'server:app'
 
 FROM base AS debug
+USER 0
 RUN pip install debugpy
+USER default:users
 CMD python -m debugpy --wait-for-client --listen 0.0.0.0:5678 -m gunicorn -b 0.0.0.0:5000 -k gthread --reload -t 0 'server:app'
 
 FROM base AS release

@@ -1,23 +1,23 @@
 PODATKI O LICENCIRANJU
 
-Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za program (i125-3301-15).
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloï¿½b in pogojev licenï¿½ne informacije, ki veljajo poleg pogojev licence za program, s katerimi naroï¿½nik in IBM predhodno soglaï¿½ata. ï¿½e naroï¿½nik predhodno ne soglaï¿½a s pogoji, ki veljajo za program, velja Mednarodna licenï¿½na pogodba za program (i125-3301-15).
 
-Ime programa (©tevilka programa):
-IBM Workload Scheduler AIDA 10.2.3 (Tool)
+Ime programa (ï¿½tevilka programa):
+IBM Workload Scheduler AIDA 10.2.5 (Tool)
 
 Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
 
 Spremenljiva koda drugega ponudnika
 
-Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+ï¿½e v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni inï¿½eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence takï¿½ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, ï¿½e obstajajo, veljajo samo za nespremenjen program.
 
 Za uporabo programa s strani imetnika licence morda veljajo naslednje merske enote.
 
 Enota vrednosti procesorja (PVU)
 
-Enota vrednosti procesorja (PVU) je merska enota, na podlagi katere je lahko licenciran program. ©tevilo potrebnih pooblastil PVU temelji na tehnologiji procesorjev (opredeljeni znotraj licenciranja na podlagi enote vrednosti procesorja (PVU) za porazdeljeno programsko opremo na spletnem mestu https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) in ¹tevilu procesorjev, ki so na voljo za program. Za namen licenciranja, ki temelji na PVU-jih, definira IBM kot procesor vsako procesorsko jedro na èipu. Tako ima na primer procesorski èip z dvema jedroma dve procesorski jedri.
+Enota vrednosti procesorja (PVU) je merska enota, na podlagi katere je lahko licenciran program. ï¿½tevilo potrebnih pooblastil PVU temelji na tehnologiji procesorjev (opredeljeni znotraj licenciranja na podlagi enote vrednosti procesorja (PVU) za porazdeljeno programsko opremo na spletnem mestu https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) in ï¿½tevilu procesorjev, ki so na voljo za program. Za namen licenciranja, ki temelji na PVU-jih, definira IBM kot procesor vsako procesorsko jedro na ï¿½ipu. Tako ima na primer procesorski ï¿½ip z dvema jedroma dve procesorski jedri.
 
-Imetnik licence lahko razmesti program (èe je podprt) z licenciranjem celotne kapacitete, licenciranjem podkapacitete (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ali licenciranjem vsebnika (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Za dodatne informacije glejte povezana spletna mesta.
+Imetnik licence lahko razmesti program (ï¿½e je podprt) z licenciranjem celotne kapacitete, licenciranjem podkapacitete (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ali licenciranjem vsebnika (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Za dodatne informacije glejte povezana spletna mesta.
 
 Namesto pooblastil, ki so neposredno potrebna za program, mora pridobiti imetnik licence pooblastila PVU za ta program, ki zadostujejo za pokritje procesorskih jeder za sisteme, v katerih se nahajajo viri, ki jih upravlja ali obdela program.
 

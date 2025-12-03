@@ -1,25 +1,25 @@
-LÝSANS BÝLGÝLERÝ
+Lï¿½SANS Bï¿½LGï¿½LERï¿½
 
-Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Uluslararasý Program Lisans Sözleþmesi (i125-3301-15) geçerli olur.
+Aï¿½aï¿½ï¿½da listelenen programlar, daha ï¿½nce Mï¿½ï¿½teri ve IBM tarafï¿½ndan kabul edilen Program lisansï¿½ koï¿½ullarï¿½na ek olarak aï¿½aï¿½ï¿½daki Lisans Bilgilerinin kayï¿½t ve koï¿½ullarï¿½ kapsamï¿½nda lisanslanï¿½r. Mï¿½ï¿½teri, Programa iliï¿½kin yï¿½rï¿½rlï¿½kte olan lisans koï¿½ullarï¿½nï¿½ daha ï¿½nce kabul etmemiï¿½se, Uluslararasï¿½ Program Lisans Sï¿½zleï¿½mesi (i125-3301-15) geï¿½erli olur.
 
-Program Adý (Program Numarasý):
-IBM Workload Scheduler AIDA 10.2.3 (Tool)
+Program Adï¿½ (Program Numarasï¿½):
+IBM Workload Scheduler AIDA 10.2.5 (Tool)
 
-Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+Aï¿½aï¿½ï¿½daki standart koï¿½ullar, Lisans Alan Tarafï¿½n Programï¿½ kullanï¿½mï¿½ iï¿½in geï¿½erlidir.
 
-Deðiþtirilebilir Üçüncü Kiþi Kodu
+Deï¿½iï¿½tirilebilir ï¿½ï¿½ï¿½ncï¿½ Kiï¿½i Kodu
 
-IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+IBM'in, varsa, NOTICES dosyasï¿½nda ï¿½ï¿½ï¿½ncï¿½ kiï¿½i kodunu "Deï¿½iï¿½tirilebilir ï¿½ï¿½ï¿½ncï¿½ Kiï¿½i Kodu" olarak tanï¿½mladï¿½ï¿½ï¿½ ï¿½lï¿½ï¿½de, IBM, Lisans Alan Tarafa 1) Deï¿½iï¿½tirilebilir ï¿½ï¿½ï¿½ncï¿½ Kiï¿½i Kodunu deï¿½iï¿½tirme ve 2) yalnï¿½zca Lisans Alan Tarafï¿½n anï¿½lan ï¿½ï¿½ï¿½ncï¿½ kiï¿½i kodu ï¿½zerinde yaptï¿½ï¿½ï¿½ deï¿½iï¿½ikliklerinden kaynaklanan hatalarï¿½n ayï¿½klanmasï¿½ amacï¿½yla, Deï¿½iï¿½tirilebilir ï¿½ï¿½ï¿½ncï¿½ Kiï¿½i Kodu ile doï¿½rudan arayï¿½zï¿½ olan Program modï¿½lleri ï¿½zerinde tersine mï¿½hendislik gerï¿½ekleï¿½tirme yetkisi verir. Varsa, IBM'in hizmet ve destek yï¿½kï¿½mlï¿½lï¿½kleri yalnï¿½zca deï¿½iï¿½iklik yapï¿½lmamï¿½ï¿½ Program iï¿½in geï¿½erlidir.
 
-Aþaðýdaki ölçü birimleri, Lisans Alan Tarafýn Programý kullanýmý için geçerli olabilir.
+Aï¿½aï¿½ï¿½daki ï¿½lï¿½ï¿½ birimleri, Lisans Alan Tarafï¿½n Programï¿½ kullanï¿½mï¿½ iï¿½in geï¿½erli olabilir.
 
-Ýþlemci Deðer Birimi (PVU)
+ï¿½ï¿½lemci Deï¿½er Birimi (PVU)
 
-Ýþlemci Deðer Birimi (PVU), bu Programýn lisanslanabileceði bir ölçü birimidir. Gereken Ýþlemci Deðer Birimi (PVU) yetkilerinin sayýsý hesaplanýrken, iþlemci teknolojisi (https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html adresindeki Daðýnýk Yazýlýmlar web sitesi için Ýþlemci Deðer Birimi (PVU) esasýyla lisanslamada tanýmlanýr) ve Program için kullanýma sunulan iþlemci sayýsý esas alýnýr. IBM, Ýþlemci Deðer Birimi esasýnda lisanslamanýn amacý doðrultusunda bir çip üzerinde yer alan her iþlemci çekirdeði için bir iþlemci tanýmlamaya devam eder. Örneðin, bir çift çekirdekli iþlemci çipinde iki adet iþlemci çekirdeði bulunur.
+ï¿½ï¿½lemci Deï¿½er Birimi (PVU), bu Programï¿½n lisanslanabileceï¿½i bir ï¿½lï¿½ï¿½ birimidir. Gereken ï¿½ï¿½lemci Deï¿½er Birimi (PVU) yetkilerinin sayï¿½sï¿½ hesaplanï¿½rken, iï¿½lemci teknolojisi (https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html adresindeki Daï¿½ï¿½nï¿½k Yazï¿½lï¿½mlar web sitesi iï¿½in ï¿½ï¿½lemci Deï¿½er Birimi (PVU) esasï¿½yla lisanslamada tanï¿½mlanï¿½r) ve Program iï¿½in kullanï¿½ma sunulan iï¿½lemci sayï¿½sï¿½ esas alï¿½nï¿½r. IBM, ï¿½ï¿½lemci Deï¿½er Birimi esasï¿½nda lisanslamanï¿½n amacï¿½ doï¿½rultusunda bir ï¿½ip ï¿½zerinde yer alan her iï¿½lemci ï¿½ekirdeï¿½i iï¿½in bir iï¿½lemci tanï¿½mlamaya devam eder. ï¿½rneï¿½in, bir ï¿½ift ï¿½ekirdekli iï¿½lemci ï¿½ipinde iki adet iï¿½lemci ï¿½ekirdeï¿½i bulunur.
 
-Lisans Alan Taraf, Programý (destekleniyorsa), tam kapasite lisanslamasýný, alt kapasite lisanslamasýný (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamasýný (https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek için baaðlantýsý verilen web sitelerine bakýn.
+Lisans Alan Taraf, Programï¿½ (destekleniyorsa), tam kapasite lisanslamasï¿½nï¿½, alt kapasite lisanslamasï¿½nï¿½ (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamasï¿½nï¿½ (https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek iï¿½in baaï¿½lantï¿½sï¿½ verilen web sitelerine bakï¿½n.
 
-Lisans Alan Taraf, bu Program için doðrudan edinilmesi gereken yetkilerin yerine, bu Program için, Program tarafýndan yönetilen veya iþlenen kaynaklarýn üzerinde bulunduðu sistemler için iþlemci çekirdeklerini kapsamaya yetecek sayýda Ýþlemci Deðer Birimi yetkisi edinmelidir.
+Lisans Alan Taraf, bu Program iï¿½in doï¿½rudan edinilmesi gereken yetkilerin yerine, bu Program iï¿½in, Program tarafï¿½ndan yï¿½netilen veya iï¿½lenen kaynaklarï¿½n ï¿½zerinde bulunduï¿½u sistemler iï¿½in iï¿½lemci ï¿½ekirdeklerini kapsamaya yetecek sayï¿½da ï¿½ï¿½lemci Deï¿½er Birimi yetkisi edinmelidir.
 
 
 L/N: L-JUWE-FTMQAH

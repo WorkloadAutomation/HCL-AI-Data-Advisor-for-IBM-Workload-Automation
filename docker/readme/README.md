@@ -11,7 +11,7 @@
   -  [Accessing the container images](#accessing-the-container-images)
   -  [AIDA structure](#aida-structure)
   -  [AIDA Installation](#aida-installation) 
-  -  [Managing Workload Automation server credentials](#managing-workload-automation-server-credentials)
+  -  [Managing OpenMetrics server credentials](#managing-openmetrics-server-credentials)
   -  [Updating AIDA installation](#updating-aida-installation)
   -  [Uninstalling AIDA](#uninstalling-aida)
   -  [AIDA.sh script](#aida.sh-script)
@@ -19,16 +19,17 @@
   -  [Troubleshooting](#troubleshooting)
 
 ## Introduction
-**AI Data Advisor (AIDA)** is a new component of HCL Workload Automation V10.1, based on Artificial Intelligence and Machine Learning techniques. It enables fast and simplified data-driven decision making for an intelligent workload management. By analyzing workload historical data and metrics gathered by HCL Workload Automation and predicting their future patterns, AIDA identifies anomalies in KPIs trend (such as the jobs in plan by status and the jobs in plan by workstation) and sends immediate alerts to prevent problems and delays. Alerts show up on the Workload Dashboard and can be notified via email.
+**AI Data Advisor (AIDA)** is a new component of IBM Workload Automation V10.1, based on Artificial Intelligence and Machine Learning techniques. It enables fast and simplified data-driven decision making for an intelligent workload management. By analyzing workload historical data and metrics gathered by IBM Workload Automation and predicting their future patterns, AIDA identifies anomalies in KPIs trend (such as the jobs in plan by status and the jobs in plan by workstation) and sends immediate alerts to prevent problems and delays. Alerts show up on the Workload Dashboard and can be notified via email.
 
-For more information about AIDA, see [AIDA User's Guide](https://help.hcltechsw.com/workloadautomation/v101/common/src_ai/awsaimst_welcome.html).
+For more information about AIDA, see AIDA User's Guide in the [IBM Workload Automation documentation](https://www.ibm.com/docs/en/workload-automation/10.1.0).
 
+For information about IBM Workload Automation exposed metrics, see "Monitoring with Prometheus" in the [IBM Workload Automation documentation](https://www.ibm.com/docs/en/workload-automation/10.1.0) User's Guide.  
+
+For information about IBM Workload Automation for Z exposed metrics, see "Exposing metrics to monitor your workload" in the [IBM Z Workload Scheduler documentation](https://www.ibm.com/docs/en/workload-automation/10.1.0) Managing the Workload manual.    
 
 ## Prerequisites
 
- -  HCL Workload Automation V10.1 exposed metrics.
-    - For information about HCL Workload Automation exposed metrics, see [Exposing metrics to monitor your workload](https://help.hcltechsw.com/workloadautomation/v101/distr/src_ref/awsrgmonprom.html).  
-    - For information about HCL Workload Automation for Z exposed metrics, see [Exposing metrics to monitor your workload](https://help.hcltechsw.com/workloadautomation/v101/zos/src_man/eqqr1metricsmonitoring.html).  
+ -  IBM Workload Automation V101 exposed metrics.
 
  -  Docker Compose 1.28 or later.
 
@@ -41,7 +42,7 @@ For more information about AIDA, see [AIDA User's Guide](https://help.hcltechsw.
     - Mozilla Firefox 61.0.1 or higher 
     - Microsoft Edge 79 or higher
 
- -  External container image for Elasticsearch (OpenSearch 2.3.0).
+ -  External container image for Elasticsearch (Open Distro for Elasticsearch V1.3.3).
 
  -  External container image for Keycloak (JBoss Keycloak V17.0.0). Optional, if you want to access AIDA UI from outside the Dynamic Workload Console.
  
@@ -68,34 +69,34 @@ Linux intel based 64-bit, and Linux on Z.
 ## Accessing the container images
  You can access AIDA docker file and container images from the Entitled Registry:
 
- -  Contact your HCL sales representative for the login details required to access the Entitled Registry.
+ -  Contact your IBM sales representative for the login details required to access the Entitled Registry.
     
  -  Execute the following command to log in into the Entitled Registry:
     
     ```
-     docker login -u <your_username> -p <your_entitled_key> hclcr.io
+     docker login -u <your_username> -p <your_entitled_key> : cp.icr.io
     
     ```
 The images are as follows:
  
- - ``hclcr.io/wa/aida-ad:10.1.0.00`` 
- - ``hclcr.io/wa/aida-exporter:10.1.0.00``
- - ``hclcr.io/wa/aida-email:10.1.0.00``
- - ``hclcr.io/wa/aida-nginx:10.1.0.00``
- - ``hclcr.io/wa/aida-orchestrator:10.1.0.00``
- - ``hclcr.io/wa/aida-predictor:10.1.0.00``
- - ``hclcr.io/wa/aida-redis:10.1.0.00``
- - ``hclcr.io/wa/aida-ui:10.1.0.00``
+ - ``cp.icr.io/cp/ibm-workload-automation-aida-ad:10.2.5`` 
+ - ``cp.icr.io/cp/ibm-workload-automation-aida-exporter:10.2.5``
+ - ``cp.icr.io/cp/ibm-workload-automation-aida-email:10.2.5``
+ - ``cp.icr.io/cp/ibm-workload-automation-aida-nginx:10.2.5``
+ - ``cp.icr.io/cp/ibm-workload-automation-aida-orchestrator:10.2.5``
+ - ``cp.icr.io/cp/ibm-workload-automation-aida-predictor:10.2.5``
+ - ``cp.icr.io/cp/ibm-workload-automation-aida-redis:10.2.5``
+ - ``cp.icr.io/cp/ibm-workload-automation-aida-ui:10.2.5``
  
 
  
   
-### From HCL Flexera
+### From IBM Fix Central
 
-If you are accessing the images from HCL Flexera source repository, run the following steps:
+If you are accessing the images from IBM Fix Central source repository, run the following steps:
 1. Untar the package locally.
 2. From the [docker_deployment_dir] load all the docker images into your environment by running the following commands:
-
+ 
 	For linux:
  
 	 ``./AIDA.sh load``
@@ -108,9 +109,6 @@ If you are accessing the images from HCL Flexera source repository, run the foll
 	
 	``tar -xvzf aida-images.tgz``
 	``for f in ./aida-images/aida-*.tar*; do cat $f | docker load; done``
-	
-
-	 
 
 ## AIDA structure
 AIDA package includes the following containers: 
@@ -135,12 +133,12 @@ Also, AIDA uses:
 ## AIDA installation 
 To install AIDA, run the following procedure: 
 
- 1. Accept the product license by setting the LICENSE parameter to **accept** in the common.env file located in the [docker_deployment_dir] directory.
+ 1. Accept the product license by setting the LICENSE parameter to "**accept**" in the common.env file located in the [docker_deployment_dir] directory.
  2. To use custom SSL certificates for AIDA, in the <install_path>/nginx/cert folder replace aida.crt e aida.key with your own files (do not change the default names).
  3. Verify that the `DWC_PUBLIC_KEY` parameter in the common.env file is set to the DWC public key of the Liberty SSL certificates.
 
 	If you are using custom certificates for the DWC, replace the `DWC_PUBLIC_KEY` value accordingly.
- 4. In the common.env file, set the ``OPENSSL_PASSWORD``  parameter. This parameter will be used to generate an encryption key to hide the HCL Workload Automation engine credentials. (According to ISO, passwords must be encrypted inside the database) .
+ 4. In the common.env file, set the ``OPENSSL_PASSWORD``  parameter. This parameter will be used to generate an encryption key to hide the IBM Workload Automation engine credentials.
  5. If you want to customize the installation parameters, edit the common.env file. For details, see  [Configuration variables](#configuration-variables).
  6. Optionally, from [docker_deployment_dir], run the command
  
@@ -158,7 +156,7 @@ To install AIDA, run the following procedure:
      ``./AIDA.sh add-credentials``    
 	
      This command starts a guided configuration of the server. 
-	 For details, see [Managing Workload Automation server credentials](#managing-workload-automation-server-credentials).
+	 For details, see [Managing OpenMetrics server credentials](#managing-openmetrics-server-credentials).
     
 9. If Keycloak is included in your AIDA deployment, you can connect AIDA user interface at the following link
  
@@ -169,9 +167,9 @@ To install AIDA, run the following procedure:
 
    **Note**: The **common.env** environment file contains all the environment variables. For details, see  [Configuration variables](#configuration-variables).   
 
-## Managing Workload Automation server credentials
-You can manage the credentials needed to connect to a WorkloadAutomation server using  AIDA.sh script. 
-With a single AIDA instance you can monitor hybrid environments with a mix of HCL Workload Automation for distributed and z/OS systems.
+## Managing OpenMetrics server credentials
+You can manage the credentials needed to connect to an Openmetrics server (such as IBM Workload Automation engine) using  AIDA.sh script. 
+With a single AIDA instance you can monitor hybrid environments with a mix of IBM Workload Automation for distributed and z/OS systems.
 
 **Limitations:**
 With AIDA.sh script you can add, update, and delete credentials. You cannot list credentials since this function is not currently available.
@@ -182,10 +180,10 @@ To **add new credentials**, run the following steps:
 	 ``./AIDA.sh add-credentials``. 
 	
 	 A guided configuration procedure will start. 
- 2. Follow the guided procedure and answer the prompts to add your credentials, specify the engine type (if HCL Workload Automation for distributed systems or HCL Workload Automation for Z) and, for HCL Workload Automation for Z only, also the engine name.
+ 2. Follow the guided procedure and answer the prompts to add your credentials, specify the engine type (if IBM Workload Automation for distributed systems or IBM Z Workload Scheduler) and, for IBM Z Workload Scheduler only, also the engine name.
 
-**Note:** If you are connecting HCL Workload Automation for distributed systems, you must use the Engine credentials.
-If you are connecting HCL Workload Automation for Z, you must use the Dynamic Workload Console credentials instead.
+**Note:** If you are connecting IBM Workload Automation for distributed systems as an OpenMetric server, you must use the Engine credentials.
+If you are connecting IBM Z Workload Scheduler as an OpenMetric server, you must use the Dynamic Workload Console credentials instead.
 
 To **update existing credentials**, run the following steps:
  1. From [docker_deployment_dir], run the following command   
@@ -193,7 +191,7 @@ To **update existing credentials**, run the following steps:
 	 ``./AIDA.sh update-credentials``. 
 	
 	 A guided configuration procedure will start.
- 2. Follow the guided procedure and answer the prompts to add your credentials,   specify the engine type (if HCL Workload Automation for distributed systems or HCL Workload Automation for Z) and, for HCL Workload Automation for Z only, also the engine name.
+ 2. Follow the guided procedure and answer the prompts to add your credentials, specify the engine type (if IBM Workload Automation for distributed systems or IBM Z Workload Scheduler) and, for IBM Z Workload Scheduler only, also the engine name.
 
 
 To **delete existing credentials**, run the following steps:
@@ -264,7 +262,7 @@ For the command usage, run
 
 ``down-volumes``  Removes  AIDA's containers and volumes
 
-``add-credentials`` Lets  you  add  credentials to connect to a Workload Automation server
+``add-credentials`` Lets  you  add  credentials to connect to an OpenMetric server (such as the IBM Workload Automation engine)
 
 ``update-credentials`` Lets  you update previously  added  credentials
 
@@ -272,15 +270,16 @@ For the command usage, run
 
 ``set-custom-port`` Sets a custom port to access AIDA (default value is 9432)
 
+``set-shards`` Sets the number of shards for Elasticsearch (default value is 1)
 
  
 ## Configuration variables
 This section lists the configuration variables in the common.env file.
 
 ### Common
-``LICENSE=notaccepted`` - before starting AIDA deployment, change into **accept** to accept the product license.
+``LICENSE=notaccepted`` - before starting AIDA deployment, chance into "accept" to accept the product license.
 
-``LOG_LEVEL=INFO`` - logging level. Possible values are: DEBUG, INFO, ERROR, WARNING, CRITICAL.
+``LOG_LEVEL=INFO`` - logging level
 
 ``ESCONFIG=["https://admin:admin@aida-es:9200"]`` - comma separated list of elasticsearch hosts
 
@@ -290,7 +289,9 @@ This section lists the configuration variables in the common.env file.
 
 ``REDIS_PSWD=foobared`` - aida-redis password
 
-``OPENSSL_PASSWORD=`` - mandatory - this password will be used to generate an encryption key to hide the Workload Automation server credentials. (According to ISO, passwords must be encrypted inside the database).
+``DEFAULT_SHARD_COUNT=1`` - number of shards for elasticsearch
+
+``OPENSSL_PASSWORD=`` - mandatory - this password will be used to generate an encryption key to hide the OpenMetrics server (such as the IBM Workload Automation engine) credentials.
  
 ### aida-ad
 ``AIDA_UI_URL: "https://aida-ip:9432/"`` - aida UI url 

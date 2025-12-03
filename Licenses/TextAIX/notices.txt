@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM Workload Scheduler AIDA 10.2.3
+IBM Workload Scheduler AIDA 10.2.5
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -29,7 +29,7 @@ limitation URLs or references to any third party websites.
 Notices & Information
 ---------------------
 ---------------------------------
-AI Data Advisor (AIDA) - 10.2.3.0
+AI Data Advisor (AIDA) - 10.2.5.0
 ---------------------------------
 
 ======
@@ -44,6 +44,7 @@ Note: missing copyright references are marked with (*)
 LICENSES
 ========
 Licensed under Apache 2.0
+License terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/33d9d890-c154-40db-862e-f0dfa5646ca3
 License terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/33d9d890-c154-40db-862e-f0dfa5646ca3
 
 License Text Under Appendix
@@ -369,6 +370,8 @@ Copyright 2 out of 2
 --------------------
 Copyrighted under Copyright 2014 TJ Holowaychuk <tj@vision-media.ca>
 Copyright terms can be found at: https://github.com/visionmedia/bytes.js/tree/3.1.2
+Copyrighted under Copyright 2014 TJ Holowaychuk <tj@vision-media.ca>
+Copyright terms can be found at: https://github.com/visionmedia/bytes.js/tree/3.1.2
 
 
 ***************************************************
@@ -379,6 +382,7 @@ LICENSES
 ========
 Licensed under MIT
 License terms can be found at: https://github.com/ljharb/call-bind?tab=MIT-1-ov-file#readme
+License terms can be found at: https://github.com/ljharb/call-bind?tab=MIT-1-ov-file#readme
 
 License Text Under Appendix
 
@@ -388,6 +392,7 @@ License Text Under Appendix
 COPYRIGHTS
 ==========
 Copyrighted under Copyright 2020 Jordan Harband
+Copyright terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/2ea67ec5-c0f3-4e30-b20c-e79803077fc5
 Copyright terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/2ea67ec5-c0f3-4e30-b20c-e79803077fc5
 
 
@@ -1200,6 +1205,8 @@ COPYRIGHTS
 --------------------
 Copyright 1 out of 2
 --------------------
+Copyrighted under Copyright 2015-2022 Douglas Christopher Wilson doug@somethingdoug.com
+Copyright terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/8dd6c16c-8daa-453d-ad54-d435fb6772b5
 Copyrighted under Copyright 2015-2022 Douglas Christopher Wilson doug@somethingdoug.com
 Copyright terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/8dd6c16c-8daa-453d-ad54-d435fb6772b5
 
@@ -2040,6 +2047,7 @@ License Text Under Appendix
 COPYRIGHTS
 ==========
 Copyrighted under Copyright Jordan Harband and contributors
+Copyright terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/be1aa4d5-56d0-45ab-80c1-3fd8c5955691
 Copyright terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/be1aa4d5-56d0-45ab-80c1-3fd8c5955691
 
 

@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM Workload Scheduler AIDA 10.2.3
+IBM Workload Scheduler AIDA 10.2.5
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -29,7 +29,7 @@ limitation URLs or references to any third party websites.
 Notices & Information
 ---------------------
 ---------------------------------
-AI Data Advisor (AIDA) - 10.2.3.0
+AI Data Advisor (AIDA) - 10.2.5.0
 ---------------------------------
 
 ======
@@ -44,6 +44,7 @@ Note: missing copyright references are marked with (*)
 LICENSES
 ========
 Licensed under Apache 2.0
+License terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/33d9d890-c154-40db-862e-f0dfa5646ca3
 License terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/33d9d890-c154-40db-862e-f0dfa5646ca3
 
 License Text Under Appendix
@@ -133,7 +134,19 @@ License Text Under Appendix
 ==========
 COPYRIGHTS
 ==========
-(*) The copyright for this library is unknown
+--------------------
+Copyright 1 out of 2
+--------------------
+Copyrighted under Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
+Copyright terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/7a841ae2-ebe3-4491-b349-ffa6064f3d6f
+
+
+--------------------
+Copyright 2 out of 2
+--------------------
+Copyrighted under Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
+Copyright terms can be found at: https://github.com/chalk/ansi-styles/blob/v6.2.1/license
+
 
 *********************************************************************
 5. Library: APScheduler-3.7.0-py2.py3-none-any.whl Product: Solutions
@@ -369,6 +382,8 @@ Copyright 2 out of 2
 --------------------
 Copyrighted under Copyright 2014 TJ Holowaychuk <tj@vision-media.ca>
 Copyright terms can be found at: https://github.com/visionmedia/bytes.js/tree/3.1.2
+Copyrighted under Copyright 2014 TJ Holowaychuk <tj@vision-media.ca>
+Copyright terms can be found at: https://github.com/visionmedia/bytes.js/tree/3.1.2
 
 
 ***************************************************
@@ -379,6 +394,7 @@ LICENSES
 ========
 Licensed under MIT
 License terms can be found at: https://github.com/ljharb/call-bind?tab=MIT-1-ov-file#readme
+License terms can be found at: https://github.com/ljharb/call-bind?tab=MIT-1-ov-file#readme
 
 License Text Under Appendix
 
@@ -388,6 +404,7 @@ License Text Under Appendix
 COPYRIGHTS
 ==========
 Copyrighted under Copyright 2020 Jordan Harband
+Copyright terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/2ea67ec5-c0f3-4e30-b20c-e79803077fc5
 Copyright terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/2ea67ec5-c0f3-4e30-b20c-e79803077fc5
 
 
@@ -1202,6 +1219,8 @@ Copyright 1 out of 2
 --------------------
 Copyrighted under Copyright 2015-2022 Douglas Christopher Wilson doug@somethingdoug.com
 Copyright terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/8dd6c16c-8daa-453d-ad54-d435fb6772b5
+Copyrighted under Copyright 2015-2022 Douglas Christopher Wilson doug@somethingdoug.com
+Copyright terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/8dd6c16c-8daa-453d-ad54-d435fb6772b5
 
 
 --------------------
@@ -1332,6 +1351,95 @@ COPYRIGHTS
 ==========
 Copyrighted under Copyright 2016 Douglas Christopher Wilson
 Copyright terms can be found at: https://github.com/pillarjs/encodeurl/blob/v1.0.2/LICENSE
+
+
+
+
+****************************************************
+340. Library: engine.io-6.5.4.tgz Product: Solutions
+****************************************************
+========
+LICENSES
+========
+Licensed under MIT
+License terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/099c6c49-11cd-44a8-9e50-6e6bf1f1bd9e
+
+License Text Under Appendix
+
+
+
+==========
+COPYRIGHTS
+==========
+--------------------
+Copyright 1 out of 3
+--------------------
+Copyrighted under Copyright Passing in requests
+Copyright terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/b4d88f2c-327b-4136-872a-166177ea6e99
+
+
+--------------------
+Copyright 2 out of 3
+--------------------
+Copyrighted under Copyright 2014 Guillermo Rauch <guillermo@learnboost.com>
+Copyright terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/b4d88f2c-327b-4136-872a-166177ea6e99
+
+
+--------------------
+Copyright 3 out of 3
+--------------------
+Copyrighted under Copyright 2014 Guillermo Rauch <guillermo@learnboost.com>
+Copyright terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/099c6c49-11cd-44a8-9e50-6e6bf1f1bd9e
+
+
+***********************************************************
+341. Library: engine.io-client-6.5.3.tgz Product: Solutions
+***********************************************************
+========
+LICENSES
+========
+Licensed under MIT
+License terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/945b60e9-9782-480d-be58-90ed17fd0968
+
+License Text Under Appendix
+
+
+
+==========
+COPYRIGHTS
+==========
+--------------------
+Copyright 1 out of 2
+--------------------
+Copyrighted under Copyright 2014-2015 Automattic <dev@cloudup.com>
+Copyright terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/945b60e9-9782-480d-be58-90ed17fd0968
+
+
+--------------------
+Copyright 2 out of 2
+--------------------
+Copyrighted under Copyright 2014 Automattic, Inc
+Copyright terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/335f0663-a480-4d92-ae89-5665d68fdaad
+
+
+***********************************************************
+342. Library: engine.io-parser-5.2.2.tgz Product: Solutions
+***********************************************************
+========
+LICENSES
+========
+Licensed under MIT
+License terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/4636d1c0-699f-48a8-90fe-3588f6013007
+
+License Text Under Appendix
+
+
+
+==========
+COPYRIGHTS
+==========
+Copyrighted under Copyright 2016 Guillermo Rauch (@rauchg)
+Copyright terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/4636d1c0-699f-48a8-90fe-3588f6013007
 
 
 
@@ -2040,6 +2148,7 @@ License Text Under Appendix
 COPYRIGHTS
 ==========
 Copyrighted under Copyright Jordan Harband and contributors
+Copyright terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/be1aa4d5-56d0-45ab-80c1-3fd8c5955691
 Copyright terms can be found at: https://index.whitesourcesoftware.com/gri/app/reader/resource/content/asString/be1aa4d5-56d0-45ab-80c1-3fd8c5955691
 
 

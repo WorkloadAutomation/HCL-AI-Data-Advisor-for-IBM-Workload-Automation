@@ -203,9 +203,9 @@
             </#if>
             </div>
             <div>
-                <p style="margin-bottom:-0.9rem; margin-top:0.6rem"> Version 10.2.3 </p>
+                <p style="margin-bottom:-0.9rem; margin-top:0.6rem"> Version 10.2.5 </p>
                 <br>
-                <p style="margin-bottom:0.2rem"> © Copyright HCL Technologies Limited 2024 </p>
+                <p style="margin-bottom:0.2rem"> © Copyright HCL Technologies Limited 2025 </p>
             </div>
         </div>
         </div>

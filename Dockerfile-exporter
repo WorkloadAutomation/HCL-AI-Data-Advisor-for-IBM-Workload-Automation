@@ -13,14 +13,15 @@ FROM ${REGISTRY}aida-exporter:${VERSION} AS base
 WORKDIR /usr/src/app
 
 FROM base AS dev
+USER 0
 RUN pip install debugpy
-
+USER default:users
 CMD python -m debugpy  --listen 0.0.0.0:5678 exporter.py
 
 FROM base AS debug
-
+USER 0
 RUN pip install debugpy
-
+USER default:users
 CMD python -m debugpy --wait-for-client --listen 0.0.0.0:5678 exporter.py
 
 FROM base AS release

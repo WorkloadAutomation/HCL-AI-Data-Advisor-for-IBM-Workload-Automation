@@ -566,7 +566,7 @@
     "enabled" : true,
     "alwaysDisplayInConsole" : false,
     "clientAuthenticatorType" : "client-secret",
-    "redirectUris" : [ "*" ],
+    "redirectUris" : [ "/*" ],
     "webOrigins" : [ "*" ],
     "notBefore" : 0,
     "bearerOnly" : false,
@@ -1174,7 +1174,7 @@
     "strictTransportSecurity" : "max-age=31536000; includeSubDomains"
   },
   "smtpServer" : { },
-  "loginTheme" : "keycloakTemplate_HCL",
+  "loginTheme" : "keycloakTemplate_IBM",
   "eventsEnabled" : false,
   "eventsListeners" : [ "jboss-logging" ],
   "enabledEventTypes" : [ ],

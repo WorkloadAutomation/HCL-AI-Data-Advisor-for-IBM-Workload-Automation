@@ -5,11 +5,10 @@
 #* Note to U.S. Government Users Restricted Rights:
 #* Use, duplication or disclosure restricted by GSA ADP Schedule
 #**************************************************************/
-version: "3.0"
 
 services:
     config:
-        image: hclcr.io/wa/workload-automation/hcl-aida-config:10.2.3
+        image: cp.icr.io/cp/aida-config:10.2.5
         logging:
             options:
                 max-size: "100m"
@@ -33,10 +32,10 @@ services:
         restart: unless-stopped
         logging:
             options:
-                max-size: "100m"
+                max-size: "250m"
                 max-file: "3"
         labels:
-        - "version=10.2.3"
+        - "version=10.2.1"
         build:
             context: .
             dockerfile: "Dockerfile-keycloak"
@@ -311,7 +310,7 @@ services:
                 max-file: "3"
         #env_file: common.env
         labels:
-        - "version=10.2.3"
+        - "version=10.2.1"
         environment:
             - "DISABLE_INSTALL_DEMO_CONFIG=true"
         ulimits:
