@@ -54,7 +54,7 @@ services:
             resources:
               limits:
                 cpus: "2"
-                memory: 200M    
+                memory: 1G    
 
     nginx:
         build:
