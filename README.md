@@ -29,7 +29,8 @@ For more information about AIDA, see AIDA User's Guide in the [IBM Workload Auto
     - For information about IBM Workload Automation exposed metrics, see "Exposing metrics to monitor your workload" in the [IBM Workload Automation documentation](https://www.ibm.com/docs/en/workload-automation/10.2.6?topic=scheduler-exposing-metrics-monitor-your-workload).  
     - For information about IBM Z Workload Automation exposed metrics, see "Exposing metrics to monitor your workload" in the [IBM Z Workload Scheduler documentation](https://www.ibm.com/docs/en/workload-automation/10.2.6) Managing the Workload manual.    
 
- -  Docker Compose 1.28 or later.
+ -  Docker Compose v2.40.2
+ -  Podman version 5.4.0 (rhel 9)
 
  -  Docker from version 20.10+ to version 24.0+.
 
