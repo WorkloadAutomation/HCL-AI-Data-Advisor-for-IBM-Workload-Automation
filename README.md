@@ -20,14 +20,14 @@
 ## Introduction
 **AI Data Advisor (AIDA)** is a component of IBM Workload Automation since V10.1, based on Artificial Intelligence and Machine Learning techniques. It enables fast and simplified data-driven decision making for an intelligent workload management. By analyzing workload historical data and metrics gathered by IBM Workload Automation and predicting their future patterns, AIDA identifies anomalies in KPIs trend (such as the jobs in plan by status and the jobs in plan by workstation) and sends immediate alerts to prevent problems and delays. Alerts show up on the Workload Dashboard and can be notified via email.
 
-For more information about AIDA, see AIDA User's Guide in the [IBM Workload Automation documentation](https://www.ibm.com/docs/en/workload-automation/10.2.6?topic=ai-data-advisor-aida-users-guide).
+For more information about AIDA, see AIDA User's Guide in the [IBM Workload Automation documentation](https://www.ibm.com/docs/en/workload-automation/10.2.7?topic=ai-data-advisor-aida-users-guide).
 
 
 ## Prerequisites
 
  -  IBM Workload Automation V10.1 or higher exposed metrics.
-    - For information about IBM Workload Automation exposed metrics, see "Exposing metrics to monitor your workload" in the [IBM Workload Automation documentation](https://www.ibm.com/docs/en/workload-automation/10.2.6?topic=scheduler-exposing-metrics-monitor-your-workload).  
-    - For information about IBM Z Workload Automation exposed metrics, see "Exposing metrics to monitor your workload" in the [IBM Z Workload Scheduler documentation](https://www.ibm.com/docs/en/workload-automation/10.2.6) Managing the Workload manual.    
+    - For information about IBM Workload Automation exposed metrics, see "Exposing metrics to monitor your workload" in the [IBM Workload Automation documentation](https://www.ibm.com/docs/en/workload-automation/10.2.7?topic=scheduler-exposing-metrics-monitor-your-workload).  
+    - For information about IBM Z Workload Automation exposed metrics, see "Exposing metrics to monitor your workload" in the [IBM Z Workload Scheduler documentation](https://www.ibm.com/docs/en/workload-automation/10.2.7) Managing the Workload manual.    
 
  -  Docker Compose v2.40.2
  -  Podman version 5.4.0 (rhel 9)
@@ -41,13 +41,13 @@ For more information about AIDA, see AIDA User's Guide in the [IBM Workload Auto
     - Mozilla Firefox 61.0.1 or higher 
     - Microsoft Edge 79 or higher
 
- -  External container image for OpenSearch 2.3.0 (an Elasticsearch based technology).
+ -  External container image for OpenSearch 2.19.5.
 
- -  External container image for Keycloak V22.0.0 (only for IBM Workload Automation users). Optional, if you want to access AIDA UI from outside the Dynamic Workload Console. IBM Z Workload Automation users can only access AIDA UI from the alert widget in the Workload Dashboard of the Dynamic Workload Console.
+ -  External container image for Keycloak V22.0.5 (only for IBM Workload Automation users). Optional, if you want to access AIDA UI from outside the Dynamic Workload Console. IBM Z Workload Automation users can only access AIDA UI from the alert widget in the Workload Dashboard of the Dynamic Workload Console.
 
- - **OpenSearch (an Elasticsearch based technology)** - To store and analyze data.
+ - **OpenSearch** - To store and analyze data.
  
- -  Before starting AIDA installation, verify that `vm.max_map_count` parameter for Elasticsearch is at minimum 262144 on the host machine (not inside the container). 
+ -  Before starting AIDA installation, verify that `vm.max_map_count` parameter for Opensearch is at minimum 262144 on the host machine (not inside the container). 
  
     -  To get the current value, run the command: `sysctl vm.max_map_count`  
 	
@@ -80,15 +80,15 @@ Linux intel based 64-bit, and Linux on Z.
     ```
 The images are as follows:
  
- - ``cp.icr.io/cp/aida-ad:10.2.6`` 
- - ``cp.icr.io/cp/aida-exporter:10.2.6``
- - ``cp.icr.io/cp/aida-email:10.2.6``
- - ``cp.icr.io/cp/aida-nginx:10.2.6``
- - ``cp.icr.io/cp/aida-orchestrator:10.2.6``
- - ``cp.icr.io/cp/aida-predictor:10.2.6``
- - ``cp.icr.io/cp/aida-redis:10.2.6``
- - ``cp.icr.io/cp/aida-config:10.2.6``
- - ``cp.icr.io/cp/aida-ui:10.2.6``
+ - ``cp.icr.io/cp/aida-ad:10.2.7`` 
+ - ``cp.icr.io/cp/aida-exporter:10.2.7``
+ - ``cp.icr.io/cp/aida-email:10.2.7``
+ - ``cp.icr.io/cp/aida-nginx:10.2.7``
+ - ``cp.icr.io/cp/aida-orchestrator:10.2.7``
+ - ``cp.icr.io/cp/aida-predictor:10.2.7``
+ - ``cp.icr.io/cp/aida-redis:10.2.7``
+ - ``cp.icr.io/cp/aida-config:10.2.7``
+ - ``cp.icr.io/cp/aida-ui:10.2.7``
  
 
 **Note:** Before starting the installation, define the container runtime (Docker or Podman) by setting the CONTAINER_RUNTIME environment variable. The installation script uses this variable to execute the appropriate commands.
@@ -131,7 +131,7 @@ Also, AIDA uses:
  - **Keycloak** - To manage security and user access, for IBM Workload Automation only (not for IBM Z Workload Automation). Keycloak is optional: if used, it enables the creation of AIDA administrators who can access AIDA UI from outside the Dynamic Workload Console. Otherwise,  AIDA can only be accessed from the alert widget in the Workload Dashboard of the Dynamic Workload Console. 
    Note: For IBM Z Workload Automation, AIDA can only be accessed from the alert widget.
 
- - **OpenSearch (an Elasticsearch based technology)** - To store and analyze data.
+ - **OpenSearch** - To store and analyze data.
 
  
 ## AIDA installation 
@@ -209,7 +209,7 @@ To **delete existing credentials**, run the following steps:
 
 ## Updating AIDA installation
 
-If you are using AIDA V10.1 or V10.2.0.0 with Keycloak V17.0.0 and want to update your AIDA installation to V10.2.6,  you must first migrate your previous Keycloak V17.0.0 data to Keycloak V22.0.0.
+If you are using AIDA V10.1 or V10.2.0.0 with Keycloak V17.0.0 and want to update your AIDA installation to V10.2.7,  you must first migrate your previous Keycloak V17.0.0 data to Keycloak V22.0.5.
 Run the following procedure.  
 
  1. Download data from Keycloak V17.0.0 to a file named `aida-realm.json` by running the following commands: 
@@ -219,11 +219,11 @@ Run the following procedure.
  2. Save the file ``aida-realm.json`` to a disk drive.
  3. Remove the data volume from Keycloak V17.0.0 by running the following commands:
     ``./AIDA.sh down; docker run --rm -it --entrypoint /bin/sh -v docker-deployment_aida-keycloak-data:/keycloak docker-deployment_keycloak -c 'mkdir keycloak/old_backup_data; mv keycloak/* keycloak/old_backup_data'``
- 4. Download AIDA V10.2.6 images from the source repository.
+ 4. Download AIDA V10.2.7 images from the source repository.
  5. Copy the file ``aida-realm.json`` to the ``keycloak/`` folder in the [docker_deployment_dir]. 
  6. From [docker_deployment_dir],run the following command:
     ``sed -i 's+"loginTheme" : "custom"+"loginTheme" : "keycloakTemplate_IBM"+g' ./keycloak/aida-realm.json``
- 7. Complete AIDA V10.2.6 installation by running the following commands: 
+ 7. Complete AIDA V10.2.7 installation by running the following commands: 
     ``./AIDA.sh load``
     ``./AIDA.sh build-start``
     
@@ -301,7 +301,11 @@ For the command usage, run
 |DEFAULT_REPLICA_COUNT | The default number of OpenSearch replicas |N | N |0  |
 |OPENSSL_PASSWORD | This password will be used to generate an encryption key to hide the Workload Automation server credentials. (According to ISO, passwords must be encrypted inside the database) | Y |  | |
 |WEB_CONCURRENCY | Number of workers of the web server (trading). The more they are, the more there is parallelism (and the more RAM is consumed). Suggested value: [(2 x <number_of_cores>) + 1] |N  | Y| 2  |
-
+| ANOMALY_USE_TOLERANCE | Enables tolerance-based evaluation when detecting anomalies. When set to true, prediction bounds are adjusted using the configured tolerance values before determining anomalous datapoints. | N | Y |false |
+| ANOMALY_FIXED_TOLERANCE | Fixed absolute tolerance applied to the upper and lower prediction bounds. When tolerance is enabled, AIDA applies the higher value between ANOMALY_FIXED_TOLERANCE and ANOMALY_PERCENTAGE_TOLERANCE. This parameter is used only when ANOMALY_USE_TOLERANCE is set to true. | N | Y |0.5 |
+| ANOMALY_PERCENTAGE_TOLERANCE | Percentage-based tolerance applied to the prediction range (for example, 0.01 represents 1%). This parameter is used only when ANOMALY_USE_TOLERANCE is set to true. | N | Y | 0.01 |
+| ALERT_ANOMALOUS_POINTS_REQUIRED | Global number of anomalous datapoints required to trigger an alert. If not specified, the value defined in each alert definition (trigger.value) is used. | N | Y |
+| ALERT_ANOMALY_RANGE_MINUTES | Global time window, in minutes, used to evaluate anomalous datapoints for alert generation. If not specified, the value defined in each alert definition (trigger.timeFrame) is used. | N | Y |
 
 - ### AIDA parameters
 The following tables list the configurable parameters of each service in the common.env file and their default values:
@@ -340,7 +344,7 @@ The following tables list the configurable parameters of each service in the com
 |PROPHET_URL|aida-predictor connection url |N  |N |  "http://aida-predictor:5000"|
 |ALERT_URL | aida-ad connection url |N |N | "http://aida-ad:5000" |
 |PROPHET_ORCHESTRATOR | interval in minutes between two subsequent predictions, and between two subsequent alert detections  | N |Y | {"schedule":1440},{"schedule_alert":15} |
-|DAYS_OF_PREDICTION |How many days to predict in the future|N   |Y  |1 |
+|DAYS_OF_PREDICTION |How many days to predict in the future|N   |Y  |2 |
 
 
 ### [aida-ui parameters](#aida-ui-parameters)
@@ -386,7 +390,7 @@ The following tables list the configurable parameters of each service in the com
 
 ## Troubleshooting
 
- 1. If the Elasticsearch container fails to get up, verify the ``vm.max_map_count`` parameter is at minimum 262144 on the host machine (not inside the container). 
+ 1. If the Opensearch container fails to get up, verify the ``vm.max_map_count`` parameter is at minimum 262144 on the host machine (not inside the container). 
  
 	To get the current value, run the command: ``sysctl  vm.max_map_count``.
 
