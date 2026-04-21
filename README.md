@@ -293,7 +293,7 @@ For the command usage, run
 | **Parameter** | **Description** | **Mandatory** | **Customizable** | **Default value** |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------- | -------------------------------- |
 |LOG_LEVEL_INFO |Log level in AIDA. It can be DEBUG, INFO, ERROR, WARNING, CRITICAL | N | Y |"INFO"  |
-|ESCONFIG|The Elasticsearch host|N  | N | ["https://admin:admin@aida-es:9200"]
+|OSCONFIG|The Opensearch host|N  | N | ["https://admin:admin@aida-es:9200"]
 |REDIS_HOST|aida-redis host name |N  |N |"aida-redis" |
 |REDIS_PSWD|aida-redis password  |N  |N  |"foobared" |
 |REDIS_PORT|aida-redis port |N  |N |6379 |
